@@ -1,0 +1,203 @@
+Cluster 18:
+
+Job Title: Principal UX Researcher, Futures Company A3s, Devices Design Group
+Job Description: We are seeking an exceptional Principal UX Researcher to join our Futures Company A3s research team responsible for establishing foundational insights on human needs, motivations, and trends to inform mid-to-long term strategic planning. This role will report to the Head of Futures Company A3s, and will partner closely with peer Product Line, Research Science, and Design System research teams. If you are passionate about using research to inform early strategic decision making, enjoy collaborating closely with diverse and highly skilled researchers, designers, product managers, and engineers, and like your efforts to translate into real world impact, we want you on our team. This role is based in the Device Design Group’s Seattle location.
+
+Key job responsibilities
+
+ Build and sustain a program for collecting, synthesizing, and communicating foundational insights on human needs, motivations, and sociocultural trends, to inform mid-to-long term planning efforts of DDG and its product line partners.
+ Partner deeply with the DDG Design Futures team to inform and shape mid-to-long term (2-5 year) concept development and experience roadmaps.
+ Help leadership determine the right research questions to ask, creating long-term research roadmaps that align to and inform business strategy and goals.
+ Synthesize primary and secondary data to perform quick and thorough analyses leading to focused, insightful, and actionable findings.
+ Define, invent, and execute research methods appropriate to the questions at hand, including but not limited to ethnographic and survey techniques.
+ Translate insights into operational criteria aligned to business goals.
+ Advance the development of insight-based knowledge management systems to drive organizational decision-making and prioritization of investments.
+ Persuade decision makers at all levels of the organization to take aligned action on research findings – inspire them and help them internalize opportunities to delight customers and differentiate our offerings.
+
+About The Team
+
+The DDG UXR team is comprised of more than two dozen highly capable and collaborative ethnographers, psychologists, and research scientists. With the support of a dedicated research operations team, we execute and synthesize human research that provides the business with a deep understanding of the motivations, behaviors, needs, and capabilities of current and potential customers. We reveal insights that clarify opportunities and inspire innovation, and translate these insights into operational outcomes. We then partner to iteratively design and test solutions until outcomes are achieved or hypotheses are proven wrong.
+
+Basic Qualifications
+
+ 10+ years of experience in the field of UX research with a focus on early, generative research that informs long term business strategy, ideally in the digital products and services industry.
+ Strong portfolio that illustrates how your research has informed strategic decision-making.
+ Ability to independently drive multiple concurrent projects in an agile environment.
+ Working knowledge of a full range of UX research methods, with deep expertise in early-phase qual methods, and the proven ability to execute the right methodology to get the needed result.
+ Excellent written communication, presentation, and interpersonal skills; the ability to communicate complex concepts clearly and persuasively across different audiences and varying levels of the organization.
+ Passion for understanding and applying the latest learnings and innovations in social and behavioral science, research methods, and UX design.
+ Strategic, business-building approach to research with a proven capacity for translating data into bottom-line impact.
+ Broad knowledge of qualitative research methodologies and the proven ability to execute the right methodology to get the needed result.
+ MS in Anthropology, Psychology, Sociology, or a related field.
+
+Preferred Qualifications
+
+ Ability to handle highest complexity and ambiguity, defining crisp, cogent strategy for net-new product development, whether from many diverse inputs, or with no input at all.
+ Experience systematically weaving research insights into ideation and design sprint processes.
+ Deep understanding of human motivations, capabilities, and limitations, and their implication for product design.
+ Understanding of the product design process and how research is appropriately integrated at each phase.
+ Experience with embedded systems and multi-modal device interaction (e.g., touch, voice, and mediated control).
+
+#################################################
+
+Job Title: Research Scientist, AI-Mediated Reality and Interaction Research 
+Job Description: Company Q1 Research’s " AI-Mediated Reality and Interaction " team is looking for a research scientist. Our team's mission is to re-imagine digital interactions with artificial intelligence (AI), both human-to-human and human-to-computer, using new ideas in AI, neural rendering, graphics, generative modeling, large language models, human behavior understanding and digital human creation. That research impacts many Company Q1 products, including, Maxine, Omniverse, XR and beyond. We need a highly creative, independent and self-starting research scientist to help us invent that future. Come join a diverse research group that collaboratively works on hard and meaningful interdisciplinary problems with passion, drive and curiosity; that consistently publishes at top venues in computer vision, artificial intelligence and graphics; and that values real impact on Company Q1 products and the industry at large.
+
+What You’ll Be Doing
+
+Propose, research, prototype and test innovative research ideas.
+Publish at top conferences and patent research ideas.
+Collaborate with other research team members, external researchers and mentor interns.
+Create working interactive demonstrations to showcase your research ideas.
+Participate in technology transfer with engineers around Company Q1 as ideas "graduate" from research to product.
+
+What We Need To See
+
+Ph.D. in Computer Science/Electrical Engineering or equivalent research experience.
+Outstanding research track record.
+Proficiency in theory and practice of AI and computer vision algorithms.
+Experience with 3D graphics development.
+Strong programming skills in Python, C++, CUDA (is a plus)
+Proficiency with distributed deep learning training frameworks, e.g., PyTorch.
+Excellent communications skills.
+
+Company Q1 is widely considered to be one of the technology world’s most desirable employers. We have some of the most resourceful and dedicated people in the world working for us. Are you creative and autonomous? Do you love the challenge of exploring and creating the techniques that will define our future products? If so, we want to hear from you!
+
+The base salary range is 160,000 USD - 253,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and benefits .  Company Q1 accepts applications on an ongoing basis. 
+
+#################################################
+
+Job Title: Principal Research Scientist (f/m/d) - AI for Power Systems
+Job Description: 
+A Snapshot of Your Day 
+
+As the principal AI research scientist in our Grid Technologies AI Lab, you’ll lead cutting edge research that makes our vision of an autonomous power grid possible. In this role, you’ll combine your experience in cutting-edge AI research for power systems with our next generation hardware and global power system expertise and data to push the envelope of what is possible in the power system of the future. In the morning, you meet with thermal engineers about the physics of a transformer you will model. In the afternoon, you and your team run model training experiments on cutting edge hardware, logging your research results. Later, you meet with domain experts again to get more information that you can use to improve the model.
+
+Passionate about the environment and climate change? Ready to be part of the future of the energy transition? The Company I1 Energy Grid Technologies AI Lab is pioneering next generation AI tools for driving the energy transition.
+
+Our team is looking for innovative, enthusiastic, and versatile data, digital, and AI professionals that will drive us forward on this exciting venture.
+
+How You’ll Make An Impact
+
+Craft research questions that push the boundaries of what’s possible with AI in power systems.
+Conduct cutting-edge research in physics-informed AI, Graph Neural Networks, and Large Foundation Models for application to power grid tasks
+Develop and implement novel algorithms, techniques, and models using state-of-the-art approaches such as fine-tuning methods, federated learning, and knowledge distillation.
+Collaborate with the research team, as well as external partners, to enhance our research capabilities and drive innovation.
+Publish research findings in top-tier conferences and journals such as NeurIPS, ICML, and ACL, and present at industry events to showcase our advancements and maintain our position as an industry leader.
+Provide technical guidance and mentorship to junior researchers and engineers, fostering a culture of collaboration and continuous learning.
+Stay up-to-date on industry trends, competitor activities, and emerging technologies to ensure our research remains relevant and cutting-edge.
+
+
+What You Bring
+
+Master’s Degree or PhD (preferred) in Computer Science, Artificial Intelligence, Simulation Science, or a related field.
+Experience in AI research, with a focus on novel AI techniques for power systems.
+Strong track record of published research and conference presentations in relevant fields, particularly at top-tier conferences such as NeurIPS, ICML, and ACL and other top scientific conferences.
+Proficient in Python, TensorFlow, PyTorch, and other relevant machine learning frameworks.
+Experience optimizing machine learning workflows to run on GPUs.
+Strong problem-solving skills, curiosity, and resilience: hard research challenges excited you to dive in.
+Strong communication and collaboration skills, with experience mentoring and guiding junior team members.
+
+
+About The Team
+
+Our Grid Technology division enables a reliable, sustainable, and digital grid. The power grid is the backbone of the energy transition. Company I1 Energy offers a leading portfolio and solutions in HVDC transmission, grid stabilization and storage, high voltage switchgears and transformers, and digital grid technology.
+
+#################################################
+
+Job Title: Research Scientist, Fundamental LLM Research for Knowledge, Reasoning, and Agents
+Job Description: Company Q1 is seeking a Research Scientist in the fields of NLP and deep learning research to contribute to our LLM Research team. We are committed to groundbreaking research that not only pushes the boundaries of knowledge but also makes a significant impact in practical applications. We are particularly interested in exploring methods for alternative language model or multimodal architectures, alternative knowledge distillation and data synthesis methods, alternative scaling laws, information-theoretic approaches, test-time inference algorithms, enhancing factuality, reasoning, long-context, or agentic capabilities of language or multimodal models, and AI safety.
+
+What You’ll Be Doing
+
+As a Research Scientist, your role will encompass the following responsibilities:
+
+Research and propose alternative model architectures that enhance the performance and efficiency of language or multimodal models.
+Investigate novel methods for knowledge distillation and data synthesis for language or multimodal models
+Explore novel methods for test-time inference algorithms
+Analyze multiple novel methods for enhancing factuality, reasoning, long-context, or agentic capabilities of language or multimodal models.
+ Research: Undertake research, design, and implementation of novel methods aimed at enhancing the capability of large and small language models.
+ Publication: Contribute to the academic community by publishing original research findings in reputable conferences and journals.
+ Collaboration: Collaborate closely with fellow team members, as well as interdisciplinary teams within the company, to foster a collaborative research environment.
+Mentorship: Provide mentorship and guidance to interns and students within the research team.
+ Technology Transfer: Collaborate with product groups within the university to facilitate the transfer of research technology into practical applications.
+
+What We Need To See
+
+ Completing or recently completed a PhD in CS or equivalent research experiences in research labs with strong publication records at top-tier conferences.
+ A strong foundation in the theory and practice of NLP and deep learning.
+ Proficiency in all aspects of large language models from training to alignment to inference to evaluation is expected.
+ Alternatively, proficiency in all aspects of large multimodal models or diffusion models is expected.
+ A track record of outstanding research achievements and contributions.
+ Excellent communication skills to effectively convey research findings and collaborate with peers.
+
+Company Q1 is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you!
+
+#################################################
+
+Job Title: Sr. Research Program Manager, Video/Audio AI Research
+Job Description: Changing the world through digital experiences is what Company O2’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+Come join us to help invent the future of video creation! Generative AI is reducing the gap between idea and produced video. This will help creators from professional filmmakers to social video creators. Technical barriers will be lifted. Mundane tasks will be eliminated. People will have all the creative control they desire to tell their stories. This is the future we aim to create. As an established leader in video production, combined with next-generation cutting-edge research, Company O2 is well-positioned to lead the next wave of innovation.
+
+In this role, you will work closely with the Company O2 Research organization that invents this technology and help align with product teams like Premiere Pro, applied ML teams, Design, and more teams across the company. You will coordinate, manage, and closely supervise a portfolio of research projects, shepherding them to successful adoption by Company O2’s products. To be successful at this role, you need to be able to connect the dots, see the big picture, and make sure that all stakeholders are aligned. If you are a problem solver, passionate about the next generation of technology in this space, and can figure out how to make things happen, this could be the role for you!
+
+What You Will Do
+
+Oversee, manage, and maintain engagements between Research, Product, Applied ML, and Design organizations, from strategy to tactical execution. 
+In collaboration with product and research leadership, drive the establishment of a joint innovation strategy, objectives, key results, and success metrics. 
+Manage a portfolio of research projects and their associated resource allocations, diving deeper into those requiring additional technical project management, so that the desired outcomes are achieved. 
+Implement and manage a cadence of Product/Research reviews, including strategic priorities reviews, and tactical execution reviews of progress against objectives. 
+Establish and influence the adoption of a research project portfolio prioritization framework and implement processes and tools to support it. 
+Establish feedback and metrics systems to assess the value of Research technologies to Product end users, and to assess the Product team satisfaction with the Research partnership. 
+Leverage in-depth technical knowledge and problem-solving skills to understand issues, identify their root causes, determine alternative solutions, evaluate them, make recommendations and execute on them. 
+Ensure the efficient running of the organization through ongoing improvements to all areas of the research org, from strategy and operations to customer management and communication. 
+Act as a point of contact between the Research org leader and employees/stakeholders, to review requests, and determine and assign the appropriate actions. 
+
+What You Will Need to Succeed
+
+A bachelor’s degree or equivalent experience in computer science or related technical field is desired. 
+Significant prior experience in customer-facing roles, project/program management, product management, and working in a technology or research organization. 
+Experience in expertly managing a portfolio of projects (10 or more). 
+Exceptional ability to work at both the strategic and tactical levels, and to deliver desired outcomes despite obstacles. 
+Experience defining, implementing, and optimally executing high-visibility initiatives in a dynamic environment. 
+Passion for problem solving and ability to think through problems creatively and systematically, and to identify and evaluate alternative solutions. 
+Ability to influence executives, senior leaders, and decision makers, and to gain alignment without direct authority, leveraging data and storytelling. 
+Outstanding interpersonal, verbal, and written communication and presentation skills, resulting in effective and timely information sharing. 
+Expert ability to translate highly technical jargon into language that a non-technical audience can understand and work with. 
+High degree of curiosity, flexibility, perseverance, teamwork, and self-motivation. 
+Expertise in a variety of productivity tools (e.g., Company B1 Excel, SharePoint, Wiki, Jira, etc). 
+
+#################################################
+
+Job Title: Senior Research Scientist
+Job Description: Company Q1 Research’s AI Climate and Weather Simulation Team is seeking a senior research scientist. Our mission is to re-imagine technology across the Earth System Modeling stack using new ideas in AI on applied topics such as generative data assimilation, hybrid climate simulation, full model emulation of climate model components, regional-to-global high-resolution weather prediction, and dynamical downscaling. We are hunting for a proven, creative, and independent senior researcher with exceptional technical skills and outstanding publication or invention record, to help us invent that future. Come join a diverse research group that collaboratively works on hard and meaningful interdisciplinary problems with passion, drive and curiosity; that consistently publishes at top venues in climate science and artificial intelligence; and that values real impact on Company Q1 products and the world of academic and government climate prediction at large.
+
+What You’ll Be Doing
+
+Propose, research, prototype and test innovative research ideas.
+Publish groundbreaking work at top conferences and journals.
+Collaborate with other research team members, internal product teams, external researchers and mentor interns.
+Make good use of top-of-the-line Company Q1 GPUs at scale for cutting edge research at the intersection of AI and climate science.
+Help lead technology transfer with engineers around Company Q1 as ideas graduate from research to product.
+
+What We Need To See
+
+Ph.D. in the geophysical sciences, computer science, applied math/statistics, or related fields (or equivalent experience).
+At least 4 years of research experience in deep learning, computer vision, generative AI, or related fields.
+Outstanding research portfolio including multiple first-author publications in reputable conferences or journals that make good use of AI.
+Proficiency with distributed deep learning training frameworks, e.g., PyTorch. Bonus for CUDA.
+Strong software engineering skills and experience in scaling algorithms for high computational loads.
+Experience developing in a changing software environment and ability to drive research projects end-to-end -- including the messy parts
+Excellent communication skills.
+Preferred: Synergistic expertise in climate domain science, nonlinear physics, and familiarity with associated synthetic and observational datasets and physical simulation systems.
+
+Company Q1 is widely considered to be one of the technology world’s most desirable employers. We have some of the most resourceful and dedicated people in the world working for us. Are you creative and autonomous? Do you love the challenge of exploring and creating the AI techniques that will define the future of weather and climate simulation? Are you a forward-thinker intrigued by a diverse set of AI algorithms and the opportunity to learn alongside Company Q1 Research experts in generative AI for other domains? Ready to make a lasting impact in climate science? Apply now and be part of our growing team!
+
+#################################################
+
+

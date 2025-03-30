@@ -1,0 +1,477 @@
+Cluster 10:
+
+Job Title: Senior Circuit Design Engineer
+Job Description: Company Q1 has been redefining computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—with amazing people with a dynamic workforce! Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an Company Q1N, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join our diverse team and see how you can make a lasting impact on the world!
+
+What You'll Be Doing
+
+Participate in cutting edge Processor design in deep submicron technologies.
+Work as part of a global circuits team to design the state of the art in silicon monitors and many innovative custom macros.
+Apply circuit techniques to improve the power, performance and area utilization of the various communication link designs used in next generation GPUs.
+Be a mentor/technical lead for junior team members.
+
+What We Need To See
+
+BSEE (or equivalent experience) with 5 years' experience in circuit design or MS preferred in Electrical, Computer Engineering with 3 years’ experience with circuit design.
+Good understanding of deep submicron process issues and circuit design is required.
+Experience in Spice simulation and analysis.
+Understanding of timing closure, interconnect design, and custom circuits are required.
+Understanding of Place and Route design tools and datapath Tiling techniques is required.
+Hands on experience in design and analysis of low power circuits, e.g. power gating, decaps, multi-vt is required.
+Understanding of Design-for-test (DFT) and logic design is a plus.
+Proficiency in scripting language, such as, Perl, Tcl, Make and automation methods/algorithms a certain plus.
+Prior leadership experience a certain plus.
+
+With competitive salaries and a generous benefits package, Company Q1 is widely considered to be one of the technology world’s most desirable employers. We welcome you join our team with some of the most hard-working people in the world working together to promote rapid growth. Are you passionate about becoming a part of a best-in-class team supporting the latest in GPU and AI technology?
+
+#################################################
+
+Job Title: Sr. Engineering Manager, AI Inference Platform
+Job Description: We're looking for an extraordinary AI infrastructure authority to lead the development of our AI Inference Platform! You will lead the architecture, design, development, and testing of the platform. The primary goal of this team is to enable the Firefly Product Team to easily run and deploy ML capabilities used by Company O2 client applications. 
+
+In addition to the Firefly Team, Company O2 Research and other App Teams will deploy thousands of models on this platform. Models will come from a variety of lifecycle stages (early research, development, productization, optimization, etc.) 
+
+We’re a close-knit team dedicated to creating a dynamic platform that will offer ML model serving at scale, with high-cost efficiency and on a wide variety of hardware platforms, across multiple clouds. If you enjoy having many different exciting tasks where it’s easy to draw a line from your efforts to real accomplishments, come talk to us! 
+
+What You'll Do 
+
+Partner with Applied Research and Firefly App Integrations team to understand their needs and goals. Use this knowledge to drive the development and evolution of the AI Inference Platform. 
+
+Identify and implement standard processes and open-source or public cloud solutions to increase the efficiency and scalability of the platform. 
+
+Ensure inference service enhances GPU utilization, scales models independently and optimizes COGs. 
+
+Drive the engineering aspects of the AI Inference Platform - evolving the platform as needed. 
+
+Work closely with other teams across Company O2 that need short-term training and inference. 
+
+Impact the organization through contributions to technical direction and strategic decisions. 
+
+What You’ll Need to Succeed 
+
+A proven understanding of AI/ML, including ML frameworks, public cloud and commercial AI/ML solutions - familiarity with Pytorch, SageMaker, HuggingFace is required. 
+
+Experience building and scaling distributed systems, and experience with containerization and orchestration technologies (Kubernetes, EKS). 
+
+Strong communication and collaboration skills - building strong relationships with internal customers and external partners. 
+
+A track record of attracting top talent and leading high-performance teams to deliver results in a fast-paced dynamic environment of AI infrastructure. 
+
+Demonstration of strong analytical and problem-solving skills, with the ability to think strategically and make data-driven decisions. 
+
+A passion for staying up to date with the latest trends and technologies in AI/ML - in the cloud and on device - experience with ONNX, Company Q1's TensorRT, Company O3 Triton, Company O8 AITemplates, CoreML, WinML is a plus. 
+
+A Bachelor's or Master's degree in Computer Science, Electrical Engineering, a related field, or confirmed equivalent experience. 
+
+ 
+
+#################################################
+
+Job Title: Senior Deep Learning Engineer
+Job Description: We are looking for senior engineers who are mindful of performance analysis and optimization to help us squeeze every last clock cycle out of Deep Learning training, inference and Company Q1 AI Services. We are working across all layers of the hardware/software stack, from GPU architecture to Deep Learning Framework, to achieve peak performance. This role offers an opportunity to directly impact the hardware and software roadmap in a fast-growing company that leads the AI revolution.
+
+Join the team building software used by the entire world. Work with world class software engineers to implement blazingly fast SOTA deep learning models that help understanding the end-to-end performance of Company Q1’s DL software and hardware stack. Work on most powerful, enterprise-grade GPU clusters capable of hundreds of Peta FLOPS and on unreleased hardware before anyone in the world. Are you ready for this challenge?
+
+What You’ll Be Doing
+
+ Implement deep learning models from multiple data domains (CV, NLP/LLMs, ASR, TTS, RecSys and others) in multiple DL frameworks (PyT, JAX, TF2, DGL and others) 
+ Implement and test new SW features (Graph Compilation, reduced precision training) that use the most recent HW functionalities. 
+ Analyze, profile, and optimize deep learning workloads on state-of-the-art hardware and software platforms. 
+ Collaborate with researchers and engineers across Company Q1, providing guidance on improving the design, usability and performance of workloads. 
+ Lead best-practices for building, testing, and releasing DL software 
+
+What We Need To See
+
+ 3+ years of experience in DL model implementation and SW Development 
+ BSc, MS or PhD degree in Computer Science, Computer Architecture or related technical field 
+ Excellent Python programming skills, extensive knowledge of at least one DL Framework (PyTorch, TensorFlow, JAX, MxNet) 
+ Strong problem solving and analytical skills 
+ Algorithms and DL fundamentals 
+
+Ways To Stand Out From The Crowd
+
+ Experience in performance measurements and profiling 
+ Experience with containerization technologies such as Docker 
+ GPU programming experience (CUDA or OpenCL) is a plus but not required. 
+ Solid understanding of Linux environments 
+ Knowledge and love for DevOps/MLOps practices for Deep Learning-based product’s development. 
+
+Company Q1 is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and forward-thinking people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+#################################################
+
+Job Title: Senior Deep Learning Engineer, LLM Accuracy Evaluation
+Job Description: We are seeking senior engineers to pioneer new methodologies for accurately assessing the performance of ground-breaking deep learning models, including LLMs, RAG, agents, and vision models. You will collaborate across the organization to bring the latest ﬂagship models from our community and partners—such as Gemma and Llama-3—to life as optimized Company Q1 Inference Microservices (NIM). This role offers an outstanding opportunity to craft the future of AI at a fast-growing company at the forefront of the AI revolution. Join our team of world-class software engineers and partners to deliver the most advanced models with lightning-fast inference. You'll work on the most powerful, enterprise-grade GPU clusters capable of hundreds of PetaFLOPS and gain early access to unreleased hardware, making a direct impact on Company Q1's roadmap and the broader AI landscape!
+
+What You’ll Be Doing
+
+Collaborate closely with our partners and the open-source community to deliver their ﬂagship models as highly optimized Company Q1 Inference Microservices (NIM).
+Research and develop innovative deep learning methodologies to accurately evaluate new model families across diverse domains.
+Analyze, inﬂuence, and enhance AI/DL libraries, frameworks, and APIs, ensuring consistency with the best engineering practices.
+Research, prototype, and build robust tools and infrastructure pipelines to support our ground-breaking AI initiatives.
+
+What We Need To See
+
+BS, MS, or PhD in Computer Science, AI, Applied Math, or a related ﬁeld, or equivalent experience, with 5+ years of industry experience.
+3+ years of hands-on experience in AI for natural language processing (NLP) and large language models (LLMs).
+Strong problem-solving, debugging, performance analysis, test design, and documentation skills.
+Solid mathematical foundations and expertise in AI/DL algorithms.
+Excellent written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.
+
+Ways To Stand Out From The Crowd
+
+Experience in accuracy evaluation of LLMs (OpenLLM Leaderboard or HELM).
+Hands-on experience with inference and deployment environments like TensorRT, ONNX, or Triton.
+Passion for DevOps/MLOps practices in deep learning product development.
+Experience running large-scale workloads in high-performance computing (HPC) clusters.
+Strong understanding of Linux environments and containerization technologies like Docker.
+
+#################################################
+
+Job Title: Senior High-Performance AI Training Engineer
+Job Description: We are now looking for a Senior High-Performance AI Training Engineer:
+
+Company Q1 is seeking senior engineers who are obsessed with performance analysis and optimization to help us squeeze every last clock cycle out of AI training, the workload driving the design and construction of the largest and most powerful compute systems in the world. This role offers the opportunity to directly impact the hardware and software roadmap in a fast-growing technology company that leads the AI revolution.
+
+What You Will Be Doing
+
+Understand, analyze, profile, and optimize AI training workloads on innovative hardware and software platforms.
+Understand the big picture of training performance on GPUs, prioritizing and then solving problems across all state-of-the-art neural networks.
+Implement production-quality software in multiple layers of Company Q1's deep learning platform stack, from drivers to DL frameworks.
+Build and support Company Q1 submissions to the MLPerf Training benchmark suite.
+Implement key DL training workloads in Company Q1's proprietary processor and system simulators to enable future architecture studies.
+Build tools to automate workload analysis, workload optimization, and other critical workflows.
+
+What We Need To See
+
+PhD in CS, EE or CSEE and 5+ years; or MS (or equivalent experience) and 8+ years of relevant meaningful work experience.
+Strong background in deep learning and neural networks, in particular training.
+Strong background in computer architecture and familiarity with the fundamentals of GPU architecture.
+Proven experience analyzing and tuning application performance, as well as experience with processor and system-level performance modelling.
+Programming skills in C++, Python, and CUDA.
+
+GPU computing is the most productive and pervasive platform for deep learning and AI. It begins with the most advanced GPUs and the systems and software we build on top of them. We integrate and optimize every deep learning framework. We work with the major systems companies and every major cloud service provider to make GPUs available in data centers and in the cloud. We craft computers and software to bring AI to edge devices, such as self-driving cars and autonomous robots. AI has the potential to spur a wave of social progress unmatched since the industrial revolution.
+
+Widely considered to be one of tech's most desirable employers, Company Q1 offers highly competitive salaries and a comprehensive benefits package. Additionally, this opportunity offers you the ability to collaborate with some of the most forward-thinking and hard-working people in the world, shaping the future of AI in a creative and autonomous work environment that encourages innovation. If you are willing to work across all layers of the hardware/software stack - from GPU architecture to the application code - to achieve peak performance, we want to hear from you!
+
+#################################################
+
+Job Title: AI Research Engineer, Model Scaling, Self-Driving
+Job Description: What To Expect
+At Company L4, you will have access to unparalleled resources that set us apart from other companies in the AI industry. You will have access to the largest self-driving dataset in the world, providing a unique, and perhaps the only, environment to investigate scaling laws for sequential decision-making problems. Company L4 also offers one of the highest GPU resources per engineer in the industry, giving you a significantly larger computational budget compared to typical AI research environments.
+
+These unique resources enable you to conduct experiments and scaling analyses at a level unmatched by any other company, allowing you to grow as a researcher by tackling challenges that others simply cannot offer. By working at Company L4, you’ll have the opportunity to push the boundaries of AI and autonomous driving technology while advancing your skills in an environment that truly values innovation and cutting-edge research.
+
+What You'll Do
+
+Perform scaling law analyses on model size, data size, data mixture, training compute, and other critical parameters to optimize our AI models using the largest self-driving dataset in the world
+Develop and implement novel architectures and algorithms to effectively scale large End-to-End (E2E) self-driving models
+Create and maintain infrastructure for efficient, large-scale distributed training of E2E models, resolving compute and memory bottlenecks for training and inference
+Evaluate and enhance model performance, with a focus on increasing miles driven without human intervention
+Work closely with cross-functional teams to deploy AI models in production, ensuring they meet stringent performance and reliability standards
+Contribute to the development of tools and frameworks that improve the scalability and efficiency of model training and deployment processes
+
+
+What You'll Bring
+
+Proven experience in scaling and optimizing large AI models, with a strong understanding of infrastructure challenges and solutions
+Proficiency in Python and a deep understanding of software engineering best practices
+In-depth knowledge of deep learning fundamentals, including optimization techniques, loss functions, and neural network architectures
+Experience with deep learning frameworks such as PyTorch, TensorFlow, or JAX
+Strong expertise in distributed computing and parallel processing techniques
+Demonstrated ability to work collaboratively in a cross-functional team environment
+Strong problem-solving skills and the ability to troubleshoot complex system-level issues
+
+#################################################
+
+Job Title: Software Engineer, Model Scaling
+Job Description: 
+What To Expect
+As a Software Engineer on Company L4’s Autopilot AI team, you will play a crucial role in optimizing and scaling our neural network training infrastructure. You will join a specialized team of machine learning experts and have access to one of the world’s largest model training clusters. Your primary focus will be to design, implement, and maintain high-performance applications for neural network training, evaluation, and data processing pipelines. Additionally, you will build supporting applications for profiling and debugging, and work on optimizing training and evaluation code to maximize efficiency and minimize resource usage.
+
+What You'll Do
+
+Design and Implement Large-Scale Data Pipelines: Build and maintain robust data processing pipelines that handle petabytes of autonomous vehicle data, including images, videos, and auto-generated labels, ensuring scalability and reliability 
+Optimize Neural Network Training Processes: Support neural network training by optimizing code and data formats for faster data loading, orchestrating auto-labeling jobs, and debugging bottlenecks to enhance overall training efficiency 
+Enhance System Performance: Develop and implement automation, monitoring, and optimization tools to improve the efficiency of system performance, including resource utilization, parallelism, and data I/O 
+Collaborate with Machine Learning Researchers: Work closely with researchers to understand and execute their data and infrastructure requirements, providing solutions that facilitate rapid experimentation and production-scale model deployment 
+Develop Evaluation Tools and Dashboards: Create and maintain evaluation metrics, tools, visualizations, and dashboards to support the development and refinement of neural networks 
+Implement Low-Level Integrations: Write efficient, low-level code that integrates with high-level training frameworks to enhance performance across various hardware platforms, including Dojo, Company L4’s supercomputer 
+Stay Updated with ML Advancements: Keep abreast of the latest advancements and technologies in machine learning engineering to continually improve Company L4’s AI infrastructure 
+
+
+What You'll Bring
+
+Strong Software Engineering Skills: Extensive experience with Python and software engineering best practices, including code optimization and system-level programming 
+Experience with Deep Learning Frameworks: Proficiency in one or more deep learning frameworks, such as PyTorch or TensorFlow, with hands-on experience in optimizing model training processes 
+Data Manipulation and Analysis Expertise: Proficiency with data manipulation tools, including Jupyter notebooks, numpy, scipy, matplotlib, and scikit-learn, and experience handling large-scale data processing 
+System Optimization and Debugging: Demonstrated experience in profiling and optimizing CPU/GPU code and debugging complex system-level software to ensure high performance and reliability 
+Distributed Systems Experience: Proven track record of building and managing large-scale distributed systems, particularly in AI/ML workflows, with a deep understanding of parallel computing, resource utilization, and data handling 
+Knowledge of Storage and Data Formats: Strong understanding of underlying storage mechanisms and experience designing and optimizing data formats for machine learning workflows 
+Familiarity with High-Performance Networking: Experience with high-performance networking technologies, such as Infiniband, RDMA, and NCCL, is a plus 
+Passion for AI and Machine Learning: A deep understanding of machine learning concepts and a passion for staying current with the latest advancements in AI research and engineering 
+
+#################################################
+
+Job Title: Senior GPU Optimization Engineer
+Job Description: We are hiring for a highly strategic and visible role to apply GPU optimization skills towards improving the training efficiency and performance of these models. This is an opportunity to reach millions of creatives, helping them reinvent the way they work.
+
+What you will be working on:  
+
+Interfacing with model architecture teams to co-design with hardware in mind 
+Write efficient kernels for forward and backward passes in CUDA, Cutlass / CuTe, Triton  
+Write optimized custom layers using PyTorch 
+Leverage FP8 to accelerate training and inference 
+Optimize model efficiency for Hopper/Blackwell GPU architectures 
+Write high quality, product level code that is easy to maintain and test while following standard development methodologies 
+What you will need to succeed:  
+
+B.S., M.S, or Ph.D. in Computer Science, Computer Engineering or a related area and 5+ years related experience
+Proficiency in Linux, Docker 
+Understanding of modern transformer-based model architectures 
+Expert in Python and PyTorch 
+Understanding of distributed training fundamentals
+Experience in C++ with an emphasis on Python integration 
+Expert in CUDA, Triton 
+Experience with Cutlass / CuTe 
+Expert in profiling – Nsight, Kineto, etc. 
+
+#################################################
+
+Job Title: Senior Drug Discovery AI Engineer
+Job Description: Company Q1 has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an Company Q1N, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We are now looking for Senior Deep Learning Engineer - Drug Discovery AI. Company Q1 has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s an outstanding legacy of innovation that’s motivated by extraordinary technology—and outstanding people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent! As an Company Q1N, employees are immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world!
+
+What You Will Be Doing
+
+Maintain and improve Company Q1's BioNemo and related software
+Scale up testing of framework software for deep learning model development
+Responsibility for major software features
+Productize a wide range AI algorithms implementations, including large language models and geometric deep learning algorithms
+Collaborate with applied research, AI infrastructure, and full stack software teams
+
+What We Need To See
+
+8+ years of relevant experience
+BS or MS in a quantitative field such as Statistics, Physics, Computer Science, Mathematics, or a equivalent experience
+Strong experience with python
+Excellent pytorch skills
+Good understanding of deep learning concepts
+Recognized for technical leadership contributions, capable of self-direction, and willingness to learn from and guide others
+
+Ways To Stand Out From The Crowd
+
+Experience implementing large language models and geometric deep learning models
+Knowledge of implementing model parallelism techniques for large scale models
+Outstanding communication skills
+
+#################################################
+
+Job Title: Principal Data Scientist - Cloud Gaming and AI
+Job Description: 
+Join the Company Q1 GeForce NOW cloud team that allows users to play high-quality PC games on various devices, without the need for a dedicated gaming PC or console. Company Q1's GeForce NOW service is built on top of our GPU technology, including our proprietary GPU architectures and software optimizations allowing efficient and high-quality experience even at high resolutions and fps and at industry leading low latencies.
+
+Our team is building the Analytics solutions that encompass processing, visualization, analysis, anomaly detection, root cause and predictive modeling for both qualitative and quantitative data from millions of our end users. Our active projects include analysis for cloud gaming experience including streaming and launch experience, actionable cluster detection, effective personalized diagnostic recommendations, Chatbots, Retention analysis, outreach campaigns and constraint-optimized capacity management. You will wield the power of data and AI to help deliver a globally best-in-class cloud computing/streaming performance and experience. Our technology stack relies on industry standard components and tools (Python, R, Pandas, Jupyter-Lab, Spark, SQL, Company K4, MLFlow, Delta Lake, Grafana, Kibana, Kubeflow, Elyra, Kubernetes, Company E5, CI/CD, MLOps, Kafka, SQS, Kubernetes)
+
+What You'll Be Doing
+
+Provide Technical Leadership to the team of Data Scientists and Engineers working on global deployment at scale of GPU cloud computing platforms for Gaming, VR and AI applications.
+Work with Leadership and Stakeholders to understand top level requirements, build a tech roadmap, design solutions and guide the team to deliver results.
+Acquire and apply proven experience of the product and platform to lead the design, implementation, and deployment of AI/ML based solutions for generating actionable insights and real-time prescriptive analytic pipelines to drive optimal outcomes for production services.
+Build and Deploy real time and scalable solutions for real time User Diagnostics, LLM Chatbot, dynamic Suspicious Activity Detection, User feedback-based clustering and alerting.
+Improve productivity of the org by wrangling petabytes of data using statistical/AI/ML/LLM models to provide actionable and real time insights to Engineering and Business.
+Leverage pioneering Forecasting models and Constraint Optimization solvers to improve capacity management and deliver server efficiency and end-user latency.
+Leverage innovative ML/AI predictive models with explainability for User Retention/Churn and designing outreach campaigns.
+
+What We Need To See
+
+Master’s/PhD or equivalent experience in Data Science, Statistics, Mathematics, Physics, Operations Research or related quantitative field
+ 10+ years of proven experience in Statistics/ML/AI and 15+ years of software experience for large scale and reliable production deployments. 
+Hands-on expertise in programming languages like Python, SQL, Java and modeling frameworks like Scikit-learn, Pytorch, and TensorFlow for large projects.
+Experience with common tools for data storage and processing (e.g. Spark, Pandas, Delta Lake) including drilling into problems of running large-scale software in a big network.
+Excellent verbal and written communication skills to convey rich data insights to non-Technical and Technical Stakeholders.
+An outstanding track record of successful past projects, as a lead, related to the research and application of data science at scale.
+Experience of User Retention Modeling, LLMs, Time Series Forecasting or Operations Research is a plus.
+
+Are you a Data Scientist passionate and highly motivated about solving challenging problems that matter to our customers? If so, you may be a flawless fit for Company Q1!
+
+#################################################
+
+Job Title: MLOps Engineer
+Job Description: We’re seeking a talented AI/ML/MLOps Engineer to build transformative AI models and deploy robust, scalable machine learning pipelines that enhance player experiences and drive retention. You will:
+
+Develop and deploy AI models that generate new data from images, video, and text.
+Build predictive systems to analyze player behavior and identify reasons for churn.
+Create dynamic, scalable solutions to adapt game elements in real time, boosting engagement and loyalty.
+Design and manage MLOps pipelines to streamline the training, deployment, monitoring, and retraining of AI models.
+Leverage advanced computer vision techniques (e.g., object detection, image classification, segmentation) to analyze and generate actionable insights.
+Collaborate across teams to integrate your work into impactful features and establish scalable infrastructure that supports future AI initiatives.
+
+
+YOUR SKILLS AND EXPERIENCE
+
+You should bring:
+
+A strong foundation in core data science disciplines, with a focus on managing and optimizing MLOps workflows.
+Experience deploying and maintaining machine learning models in production environments using tools like Docker, Kubernetes, or Airflow.
+Hands-on expertise with RNNs/CNNs, large language models (LLMs), and GPU/CUDA programming.
+Proficiency in Python, TensorFlow, and PyTorch, with a focus on scalability and efficiency.
+A creative mindset for designing AI systems that drive engagement and loyalty while encouraging microtransactions.
+Familiarity with monitoring tools like MLflow or Seldon to ensure model reliability and performance in production.
+
+#################################################
+
+Job Title: MLOps Engineer - Company K3 Certified Machine Learning
+Job Description: Job Description
+
+We're seeking an experienced MLOps Engineer to lead the operationalization of our Machine Learning workloads. 
+As a key team member, you'll be responsible for designing, building, and maintaining infrastructure required for efficient development, deployment, and monitoring of machine learning workloads. 
+Your close collaboration with data scientists will ensure that our models are reliable, scalable, and performing optimally. 
+This role requires expertise in automating ML workflows, enhancing model reproducibility, and ensuring continuous integration and delivery.
+
+Responsibilities
+
+Architect for scalable, cost-efficient, reliable and secure ML solution.
+Design, implement and deploy ML solutions in Company K3.
+Select and justify appropriate ML technology within Company K3 and Identify appropriate Company K3 services to implement ML solutions.
+Design, build, and maintain infrastructure required for efficient development, deployment, and monitoring of machine learning models.
+Implement CI/CD pipelines for machine learning applications to ensure smooth development and deployment processes.
+Collaborate with data scientists to understand and implement requirements for model serving, versioning, and reproducibility.
+Monitor and optimize model performance in production, identifying and resolving issues proactively to ensure optimal results.
+Automate repetitive tasks to improve efficiency and reduce the risk of human error in MLOps workflows.
+Maintain documentation and provide training to team members on MLOps best practices, ensuring knowledge sharing and collaboration within the team.
+Stay updated with the latest developments in MLOps tools, technologies, and methodologies to remain current and effective in your role.
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+3+ years of experience in MLOps, DevOps, or related fields.
+Strong programming skills in Python, GoLang with experience in other languages such as Java, C++, or Scala being a plus.
+Experience with ML frameworks such as TensorFlow, PyTorch, and/or scikit-learn.
+Proficiency with CI/CD tools such as Github Actions.
+Hands-on experience with Company K3.
+Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+Knowledge of infrastructure-as-code tools such as Company K3 CDK and Cloudformation.
+Strong understanding of machine learning lifecycle, including data preprocessing, model training, evaluation, and deployment.
+Excellent problem-solving skills and the ability to work independently as well as part of a team.
+Strong communication skills and the ability to explain complex technical concepts to non-technical stakeholders.
+
+Preferred Qualifications
+
+Company K3 Certified Machine Learning - Specialty
+Experience with feature stores, model registries, and monitoring tools such as MLflow, Tecton, or Seldon.
+Familiarity with data engineering tools such as Company K3 EMR, Glue and Apache Spark.
+Knowledge of security best practices for machine learning systems.
+Experience with A/B testing and model performance monitoring.
+
+#################################################
+
+Job Title: AIOps LLMOps Engineer
+Job Description: As an AI/LLM Ops Engineer, you will be responsible for ensuring the smooth operation and deployment of custom large language models (LLMs) across our platform. You will have a deep understanding of LLM infrastructure, from fine-tuning and inference pipelines to model training and optimization. This is a rare and highly sought-after role where you will bring cutting-edge research to life in production environments, empowering the next wave of enterprise AI capabilities.
+
+Responsibilities
+
+- Lead the development and optimization of LLM inference and deployment pipelines.
+- Fine-tune and adapt LLMs for specific use cases, ensuring high accuracy and performance.
+- Collaborate with researchers to train models from scratch or on large datasets.
+- Implement and optimize end-to-end systems for LLMOps, from model selection to serving architectures.
+- Monitor and troubleshoot model performance, latency, and scaling issues in production.
+- Stay updated with the latest advancements in LLM infrastructure, applying state-of-the-art techniques to keep Wand's AI models at the forefront of industry standards.
+- Work closely with cross-functional teams, including platform engineers and researchers, to deploy models seamlessly.
+
+Key Qualifications
+
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+- 4+ years of experience in building and deploying large-scale machine learning models, focus on LLMs more recently is a bonus.
+- Extensive experience with fine-tuning and training custom / open-source language models
+- Deep understanding of LLM infrastructure and MLOps best practices to support fast and efficient deployment, inference, fine tuning, quantization etc.
+- Expertise and experience with frameworks like TensorFlow, PyTorch, and Hugging Face.
+- Experience with cloud providers (Company T2 Cloud, Company K3, Azure) and containerized environments (Kubernetes, Docker).
+- Prior work with research teams in a 0-100 environment
+
+Preferred Experience
+
+- Prior experience with large language model research and implementation.
+- Expertise in developing LLM-serving architectures and low-latency inference systems.
+- Strong understanding of distributed training and inference of LLMs.
+
+Personal Characteristics
+
+Strong individual contributor with the ability to work independently. Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+Excellent communication and interpersonal skills.
+Continuous drive for improvement and innovation.
+Obsession with customer experience
+
+#################################################
+
+Job Title: GenAI ML MLOps Engineering Lead
+Job Description: About The Role:
+
+We are seeking a Lead/Associate Director of ML & MLOps Engineering - GenAI to join our ML team within the Data Science COE at Company M8 focusing on building Generative AI solutions.
+
+You will lead the engineering activities for building production grade generative AI solutions, play a pivotal role in implementing our machine learning engineering operations to ensure the seamless deployment, monitoring, and management of our machine learning models and data pipelines.
+
+The Team:
+
+You will be work closely in a world class AI ML team comprised of experts in AI ML modeling, ML & LLMOps engineers, data science and data engineering teams. You will contribute to engineering and developing solutions for ML operations and be a critical part of leading S&P’s AI-driven transformation to drive value internally and for our customers.
+
+S&P is a leader in automation and AI/ML to transform risk management. This role is a unique opportunity for ML/MLOps engineers to grow into the next step in their career journey.
+
+Responsibilities And Impact:
+
+Lead ML Engineering to architect, build and deploy production grade GenAI services and solutions.
+Work on large-scale stateful and stateless distributed systems, including infrastructure, data ingestion platforms, SQL and no-SQL databases, microservices, orchestration services and more.
+Lead MLOps/LLMOps platform development & automated pipelines focusing on deploying, monitoring and maintaining models in production environments; with model governance, cost and performance optimization.
+Collaborate with cross-functional teams to integrate machine learning models into production systems.
+Create and manage Documentation and knowledge base, including development best practices, MLOps/LLMOps processes and procedures.
+Work closely with members of technology teams in the development, and implementation of Enterprise AI platform.
+
+#################################################
+
+Job Title: Senior Cryptography Software Developer
+Job Description: Company P4 (TII) is a publicly funded research institute, based in Abu Dhabi, United Arab Emirates. It is home to a diverse community of leading scientists, engineers, mathematicians, and researchers from across the globe, transforming problems and roadblocks into pioneering research and technology prototypes that help move society ahead.
+
+
+
+Cryptography Research Center
+
+
+
+Responsibilities
+
+
+
+Design, implement, and analyse cryptographic solutions.
+Write constant-time, memory safe, and optimized code for cryptographic libraries in multiple architectures.
+Review and evaluate code quality of other contributors.
+Work with continuous integration environments and automated tests.
+Write automated security validation of code following best practices and a diverse range of tools available.
+Collaborate with research papers targeting high ranked conferences.
+
+
+Requirements
+
+
+
+Low level programming proficiency with 5+ years in C/C++.
+Able to read/write and debug optimized code in assembly.
+Experience with SIMD instructions and writing optimized code for x86 and Arm (SSE, AVX2, NEON, SVE).
+Skilled with Company E5/Company E5-CI work environments as well as good/clean git practices.
+Strong background or experience with cryptographic implementations.
+Strong understanding of side channel attacks or preferably proficiency with exploiting side channel leaks.
+Good knowledge of C standards such as Misra, able to write reliable and portable code.
+Experienced with quality gate tools such as cppcheck, clang-tidy, gcov and others.
+Desirable, but not necessary, proficiency with programming for embedded devices such as Arm Cortex-M4.
+
+
+Qualifications
+
+
+
+MSc, PhD degree in related field is a plus but not mandatory
+Computer Science, Math or similar degrees.
+
+#################################################
+
+

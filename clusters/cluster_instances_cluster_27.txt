@@ -1,0 +1,141 @@
+Cluster 27:
+
+Job Title: RPA Developer 
+Job Description: 
+As an Application Developer, you will lead Company X7 into the future by translating system requirements into the design and development of customized systems in an agile environment. The success of Company X7 is in your hands as you transform vital business needs into code and drive innovation. Your work will power Company X7 and its clients globally, collaborating and integrating code into enterprise systems. You will have access to the latest education, tools and technology, and a limitless career path with the world’s technology leader. Come to Company X7 and make a global impact!
+
+Your Role and Responsibilities
+
+Position Overview
+
+
+Seeking skilled Blue Prism Technical Support personnel to manage and provide ongoing support for unattended bots within our clients RPA environment. The ideal candidate will have deep technical expertise in Blue Prism and hands-on experience in bot maintenance, troubleshooting, and optimization. This role requires a proactive approach to monitoring, maintaining, and improving the performance and reliability of RPA solutions to ensure smooth business operations with a clear understanding of incident and problem management process.
+
+
+Key Responsibilities
+
+
+Bot Monitoring & Maintenance: (monitor unattended Blue Prism bots for performance and uptime, Manage bot schedules, triggers, and queues, ensuring smooth operations of automation workflows, Perform routine checks and preventive maintenance to ensure bots are functioning optimally)
+Troubleshooting & Incident Management: (Identify, analyze, and resolve technical issues related to bot failures or performance degradation. Provide timely support for incidents and escalate critical issues to appropriate teams when necessary. Troubleshoot connectivity, integration, and system-related issues between bots and applications.) Follow the incident management process, ITIL and audit requirements.
+Bot Development & Enhancements: (Collaborate with RPA developers to improve or enhance bots based on business requirements or performance gaps. Deploy bot updates or improvements, ensuring minimal downtime and seamless integration with existing processes and change management process for the client, Maintain proper documentation for bot updates, troubleshooting steps, and fixes)
+Support & Collaboration: (Provide guidance and technical support for business users for unattended bots. Work closely with IT, business teams, and other stakeholders to ensure that the RPA solution aligns with business objectives and requirements. Assist in training end-users on bot usage, troubleshooting common issues, and best practices)
+Performance Monitoring & Reporting: (Generate reports on bot performance, execution outcomes, and exception handling for management review. Continuously analyze bot logs to identify trends, potential risks, and opportunities for optimization.)
+
+
+Required Technical and Professional Expertise
+
+Key Qualifications
+
+
+Proven experience with Blue Prism RPA tool, including development and/or support of unattended bots.
+Solid understanding of RPA infrastructure, architecture, and best practices.
+Experience in troubleshooting Blue Prism processes, bot scheduling, and system integration issues.
+Familiarity with automation processes across different business functions.
+Strong knowledge of related technologies such as SQL, .NET, and basic scripting languages (VBA, PowerShell, etc.) is a plus.
+Ability to analyze and interpret logs to debug errors and optimize performance.
+Exposure to quality and audits is a plus
+
+
+Soft Skills
+
+
+Excellent problem-solving abilities and attention to detail.
+Strong communication skills to liaise with business users, IT teams, and management.
+Ability to work both independently and in a collaborative environment across Geo’s
+Willingness to work under pressure and meet tight deadlines.
+
+
+Preferred Technical And Professional Expertise
+
+
+Blue Prism Developer/Professional certification.
+
+#################################################
+
+Job Title: Senior Associate, Robotic Process Automation (RPA) Developer
+Job Description: Company A8 Partners (Company A8) is a business advisory, interim management and investment banking firm intensely focused on the middle market. Our blue chip team leverages bulge bracket experience in consulting, operations, finance, accounting, investment banking and investing to provide unmatched transactional, operational, financial and strategic perspectives to middle market stakeholders. The Company A8 cross-functional platform is uniquely architected to offer fully integrated capabilities and solutions that identify value capture, mitigate risk and positively impact outcomes at every stage of the ever-changing middle market business lifecycle. 
+
+ The Senior Associate, RPA Development at Company A8 represents a unique opportunity for a highly motivated professional to assume a wide range of responsibilities to make a significant impact in a fast-paced, entrepreneurial environment. This individual should have a proven track record of owning and executing a variety of quality, methodical solutions that enhance business efficiency. The Senior Associate, RPA Development will contribute technical knowledge and solutions to a full range of internal and client-related projects, impacting firm strategic development. The Senior Associate, RPA Development should have strong programming skills, a good understanding of business processes and expertise in RPA tools and technologies. They should also be prepared to work within a small, collaborative team environment to manage discrete work streams.
+
+
+ Responsibilities
+ Collaborate with internal stakeholders and clients to provide expert insight and identify opportunities for process automation and improvement
+ Identify opportunities for automation by analyzing current workflows and design RPA requirement-based solutions
+ Develop and configure automation workflows using the Company B1 Power Platform
+ Write, test, troubleshoot and debug automation scripts
+ Perform end-to-end testing in different environments
+ Monitor and maintain automated workflows to ensure smooth operation
+ Create user guides and operational manuals for the automated processes
+ Report on the RPA solution performance and impact
+ Provide ongoing support for RPA bots to handle any business process issues or changes
+ Work with other departments to ensure RPA solutions integrate smoothly with existing systems
+ Seek opportunities to improve and optimize automated processes
+ Stay updated with the latest trends and advancements in RPA technology and methodologies
+ Support change management throughout the design and implementation process
+ Manage continuous improvement of user-experience and data integrity
+ Share and manage best practices as well as lead internal trainings where required
+ Support firm development efforts as needed
+ Contribute to creating a high-performing and inclusive culture
+ 
+
+ Qualifications
+ Bachelor’s degree from a top undergraduate program
+ Located in or willing to relocate to Chicago, Dallas, Los Angeles or New York
+ Three plus years of experience designing, developing and implementing software robots or “bots” to automate repetitive tasks and processes
+ Invested in a team-based culture motivated to collaborate in office four days per week and willing to work at client sites as needed
+ Formal training or certification in Power Apps / Power Automate platform
+ Proficient in all aspects of software development lifecycle
+ In-depth knowledge of the financial services industry and associated IT systems
+ Strong understanding of data modeling, integration and customization within Power Apps
+ Ability to translate business requirements to technical solutions
+ Ability to successfully work in a small, collaborative team environment
+ High degree of maturity with a proven ability to interact with senior executives, middle managers and line workers
+ Effectively communicates analysis through Company B1 Word, Excel, Outlook and PowerPoint including high-quality messaging, structure and formatting
+ Eagerness to be responsive at all times
+ Proven track-record of success in high pressure, time-constrained environments
+ Excellent written and verbal communication skills including strong e-mail etiquette
+ Top-tier organizational skills and attention to detail
+ Self-starter and entrepreneurial spirit
+ 
+
+
+#################################################
+
+Job Title: RPA Developer
+Job Description: The primary job responsibility of the RPA (Robotic Process Engineering) Developer will be automating reporting needs for both internal and external customers, providing routine maintenance and support for existing RPA bots, meeting with internal stakeholders to gather requirements for projects, and developing solutions to automate complex business needs. Additionally, the RPA developer will assist with the seamless integration of Company B1 Power Automate with other Company B1 products, including Power Bi, Outlook, Company B1 SQL Server, and SharePoint.
+
+Where you will have an impact
+
+Design, develop and deploy solutions per the requirements of external and internal clients utilizing Company B1 Power Automate in both cloud and on-premises configurations 
+Participate in requirements elaboration and solution design sessions with business stakeholders and product managers to drive better end user experiences and resilient applications. 
+Maintain and provide support to existing RPA infastructure, servers, and bots 
+Perform configuration and tests for RPA projects 
+Documents all RPA flows and supervise the security of all areas 
+Coordinate with various departments to identify RPA use cases and gather requirements for new initiatives. 
+Provide support to the IT department in the integration of Power Automate with other Company B1 software, including Power Bi, Outlook, Company B1 SQL Server, and SharePoint. 
+Implement RPA development and testing 
+Create Report specifications and test documents 
+Work with BI Team and other teams on solution designs, business warehouse strategy, and end-to-end testing 
+Utilize advanced troubleshooting techniques to complete complex assignments or to solve difficult problems 
+Produce comprehensive documentation for all solutions developed 
+On-call availability as required 
+Other duties as assigned 
+
+What’s necessary to do the job?
+
+Bachelor’s degree in computer science, Computer Engineering, Information Systems, Business, or related field or equivalent relevant experience 
+Minimum 3 years of experience as a developer or analyst 
+Minimum 3 years of experience using RPA tools and minimum 1 year using MS Power Automate 
+Strong Hands-on experience in SQL programming and Power Bi 
+Experience in performance tuning, identifying and resolving performance bottlenecks at various levels. 
+Experience troubleshooting clusters for runtime application issues and performing root cause analysis. 
+Experience in reporting toolsets, job scheduling, publishing, and distribution of reports. 
+Experience working with business leaders to identify key performance metrics and developing associated reporting requirements. 
+Company B1 Power Automate RPA Developer Associate Certification is preferred. 
+Additional Company B1 certifications in Power Bi, SQL, Company E9, and Power Platform are preferred. 
+Experience in managed health care environment (vision) is preferred. 
+Experience navigating health care HIPAA requirements is preferred. 
+
+#################################################
+
+

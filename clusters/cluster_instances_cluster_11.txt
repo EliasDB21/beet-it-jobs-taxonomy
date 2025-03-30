@@ -1,0 +1,456 @@
+Cluster 11:
+
+Job Title: UI/UX Designer
+Job Description: Company I2 is looking for an experienced and talented UI/UX Designer to join their internal digital product design team to create unique, user-centric products and experiences for their portfolio of HPC, Simulation, Data Analytics, and innovation-driven products. Ideally you would have experience working with agile teams including product managers, designers, and developers. You will also have familiarity with traditionally UX-oriented tasks and will use user data and research to inform your design decisions. Your primary responsibilities will revolve around crafting beautiful and polished UI to hand-off to product teams to produce commercially deployed software solutions.  
+
+What You Will Need: 
+
+Basics:
+
+1-3 years experience working as a Visual, UI, UX, or Product Designer.
+Bachelors in Graphic Design or related degree and education level
+Portfolio showing critical thinking, ability to solve problems using user research, creativity, strong attention to detail, and strong command of design fundamentals. 
+Systems-thinking capable with ability to organize and create design systems and apply them to digital products, experiences, and ecosystems.
+Experience using the following tools: Figma, Sketch, Photoshop, Illustrator, After Effects, or similar.
+
+Preferred:
+Basic understanding of front-end languages: HTML, CSS, Javascript, etc. (no coding required)
+Experience working in agile/scrum development process
+Data Analytics, Business Intelligence, AI, ML, or similar domain expertise
+Experience designing for Web-native and SaSS applications.  
+Low and high-fidelity click-through prototypes  
+
+What We Offer: 
+Competitive Salary
+Comprehensive Benefit Package
+Outstanding Work/Life Balance
+Company C3 Time
+Employee Stock Purchase Program
+401(k) with matching contributions
+Unlimited vacation and Unlimited sick days
+Paid holidays
+Paid Time Off for Community Service
+Collaborative environment
+Charitable Matching Program  
+
+#################################################
+
+Job Title: UI/UX Designer
+Job Description: Responsibilities
+
+Content and Web Design generation at a visual level (landing pages, animated banners).
+Web layout (responsive) as well as front-end of web platforms.
+Visualization of creative concepts.
+Responsible for translating the concept of each assigned product into incredible digital products that are simple, convenient, and intuitive.
+Building user flows, site maps, prototypes, and wireframes focusing on the purpose of the software.
+Researching user needs (ethnographic studies, interviews, surveys, focus groups) and applying best practices in interaction design and information architecture.
+Analyzing what the user's problem is and how to translate that into a simple and intuitive product architecture.
+Conducting and evaluating usability tests with both qualitative and quantitative methodology to solve potential problems.
+Designing responsive interfaces for desktop and mobile.
+Optimizing the website (UX designer) or the mobile web (UX mobile) to facilitate a good user experience, creating intuitive interfaces.
+Staying permanently updated on industry trends in creative and design (Web and Normal), UI, and UX to ensure the implementation of the most innovative practices in the agency before the competition.
+ 
+
+Qualifications
+
+Bachelor's Degree in Graphic Design (focused on Web Design), Digital Animation
+An advanced level of English is required for the position as you will have constant communication with managers and coworkers in all the Americas region.
+Proficiency in WordPress tools Responsive Web Design.
+Proficiency in Company O2 Creative Cloud (InDesign, Photoshop, After Effects, Illustrator)
+Expertise in qualitative and quantitative research methods and designs, as well as heat maps.
+
+#################################################
+
+Job Title: UI/UX Design Manager
+Job Description: AutoZone's Experience Design (UI/UX) Manager drives best-in-class, user-centered experience and design for cross-platforms, multi-devices by supporting key product team partners managing a team of designers providing competitive analysis and design research, product architecture, conceptual mockups, and prototypes, and delivering high-fidelity, production-ready comps.
+
+The Experience Design (UI/UX) Manager will:
+
+Aim to pursue knowledge of best practices in the changing landscape of the digital retail space
+Seek evidence in problem statements and engineer solutions for functional, usable, and accessible products that bring purpose and value to the business and our customers
+Strategically & tactically drive design innovation and growth at AutoZone by supporting internal initiatives, coaching & mentoring team members, and influencing design through peer reviews and critiques
+The Experience Design (UI/UX) Manager will strive to be ever curious about our customer's interaction with our product, to be lean and nimble focused on outcomes and optimal output, always have a team attitude, and be respectful as we fight for our users.
+
+RESPONSIBILITIES:
+
+Work collaboratively with leadership, product, research, and tech leads to prioritize the overall design needs in a fast-paced Agile environment
+Review and participate in user research insights, both qualitative and quantitative, from the research and analytics teams and seek improvements for our customers with project partners
+Take ownership of projects, design work, and maintain availability to help and support designers to ensure the proper understanding of the design before, during, and after handoff
+Review competitive analysis and best practices with designers to provide insight into the consumer market, trends, and our customer needs as it applies to specific projects
+Effectively manage your team's time to ensure deadlines are met on time and within budget
+Leverage and govern the AutoZone Design System to guide functional and responsive UI components
+Seek feedback; lead and participate in peer design reviews and critiques to influence the direction of design deliverables for various projects and campaigns
+Help to define essential user journeys/experiences and functional requirements with a product team from a design perspective
+Presenting design work back to business stakeholders and advise on experience design best practices
+Work with digital agencies to support projects & activities to ensure experience design-related deliverables meet our quality standards and adhere to our brand guidelines
+Mentor and/or manage other designers. Provide guidance, support, and assess performance regularly and develop actions plans that support professional development and career progression as per AutoZone's career development framework
+
+#################################################
+
+Job Title: Sr UI/UX Designer
+Job Description:  We’re committed to delivering value and convenience to our members, helping them save every day on everything they need for their family and home. BJ’s Wholesale Club offers a collaborative, team-oriented environment where all team members can learn, grow, and excel.
+We are looking for a passionate Sr. UX/UI Designer who is experienced in both UX and visual design. The Sr. UX/UI Designer will help design and create innovative and results-driven experiences for our members. You will work closely with our Product and Engineering divisions to lead the future of BJs.com – bringing a cohesive design and experience and helping incorporate significant features to help drive our business further.
+
+Major Tasks, Responsibilities, and Key Accountabilities
+Design and build complex user-centered designs, including wireframes, mockups, and prototypes using Figma
+Partner and collaborate with product managers, UX designers, and cross-functional business partners on projects to align to our strategic roadmap
+Demonstrates strong knowledge of the business and the variety of issues that could impact user and business outcomes; leveraging this knowledge to help define business problems and solutions
+Efficiently balances and manages complex user, business, and technical requirements to make sound information architecture design decisions
+Write functional requirement documents and specifications for acceptance criteria and interaction design
+Stay up to date on emerging technologies, design processes, and usability best practices
+Expertly identifies user testing opportunities and conducts all aspects of complex usability testing independently, determining which tests are appropriate for the given situation to attain answers quickly and succinctly
+Thoughtfully synthesizes user testing findings and insights to inform design decisions and share back with core team and stakeholders
+Displays expert knowledge in visual design, maintaining graphic standards and branding, while recognizing when there is a need for new interaction design patterns
+Assist product team with UAT testing and QA
+
+Qualifications
+Minimum of Bachelor’s Degree in Design, or equivalent combination of education and experience, with a portfolio of relevant work
+Experience in retail eCommerce
+Experience designing for responsive sites and mobile apps
+Proficient in Figma
+Experience building for and conducting different types of user testing studies
+Experience assisting developers with UAT testing and QA
+Excellent communication skills, with the ability to clearly articulate designs and user journeys to product and business stakeholders
+Ability to partner and collaborate with product and developers to implement new ideas that improve and enhance the member journey
+
+Expectations
+5+ years of professional experience with portfolio demo
+Work as part of a truly cross-functional, agile development team
+Show initiative and drive topics to resolution with a high level of quality, speed, reliability, and efficiency
+Actively drive business requirements and enhancements
+Research trends for CX and UX and be current with product design and interaction design
+A senior experienced person who is motivated to take ownership of projects and drive tasks to completion
+Ability to adapt quickly to changing technologies, frameworks, etc.
+Ability to explain technical problems and understand stakeholders’ requirements
+Ability and willingness to work as part of a self-organizing team
+Excellent communication and presentation skills at all hierarchy levels
+
+#################################################
+
+Job Title: UX Researcher, AI Experiences
+Job Description: As part of a group that supports product design across a wide range of enterprise applications, including content supply chain, finance, data, and SaaS tools, you will play a crucial role in shaping impactful user experiences. The ideal candidate will have a strong ability to navigate through ambiguity, turn assumptions into actionable insights, and work with diverse teams to translate user needs into effective strategies. If you thrive in environments where requirements are fluid and enjoy making a direct impact on the user experience, we want to hear from you!
+
+Responsibilities
+
+Conduct UX research and present insights, linking them to actionable steps that directly influence experience strategy.
+Conduct usability tests and present findings to ensure user-friendliness and drive adoption.
+Produce key documentation, including user flows, personas, slides, etc., to inform the interaction design process.
+Qualifications
+
+Bachelor's degree in UX Research or a related field.
+5+ years of relevant user research experience working on digital experiences, with a proven track record of generating actionable insights that resulted in measurable product improvements.
+Professional experience translating user needs into AI strategies.
+Expertise in a broad range of research methodologies, both qualitative and quantitative, across various stages of product development (pre- and post-product launch).
+Ability to collaborate closely with cross-functional teams, driving alignment around user needs and integrating peers into the research process.
+Experience planning and leading cross-functional activities such as design sprints or similar exercises.
+Excellent communication skills (written, verbal, listening, interpersonal) and the ability to effectively present to executive audiences.
+Additional Details
+
+The base range for this contract position is $48 - $58/per hour, depending on experience.
+
+Our pay ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hires of this position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Qualified applicants with arrest or conviction records will be considered
+
+#################################################
+
+Job Title: Experience Designer, Enterprise AI Experiences
+Job Description: Company O2 Design is seeking an Experience Designer to help build next-generation enterprise experiences that use powerful advancements in artificial intelligence and machine learning.
+
+We are looking for a highly skilled and versatile designer who thinks holistically while caring about details. One with experience developing groundbreaking design solutions for sophisticated and innovative technologies. Ability to articulate the thinking and rationale behind your design decisions, with backing from research.
+
+We are seeking a designer who is curious, articulate, and forward-thinking. Someone who can push the boundaries of design, technology and user experience, as driven by an enthusiasm for the role of AI/ML in enterprise tools and a love of systems thinking. Someone who is able to think across experiences and collaborate with teams and individuals with a diverse group of backgrounds and abilities.
+
+This is an opportunity to help craft the future of enterprise technology at a company that has consistently set the industry standard and empowered creatives for over 30 years.
+
+The role
+
+Work with a multidisciplinary team to conceptualize and develop design solutions to connect audiences with AI/ML functionality that will delight and inspire. 
+Help make shared AI/ML components and assets accessible to design teams across the company from prototyping through product integration. 
+Keep up with the constantly evolving field of design for AI/ML, consistently bringing new ideas for consideration. 
+Align visual language and interaction mechanisms with underlying technologies. 
+Design, build and test interactive prototypes to facilitate iterative designs within this emerging medium. 
+Work collaboratively with product managers, designers, engineers and researchers from across Company O2. 
+Be the voice of the user, balancing user requirements, client objectives, and reality. 
+
+What you'll bring to the team 
+
+A degree or equivalent experience in a design-related field (HCI, interaction, visual), or comparable work experience. 
+Ability to grasp the essence of complex design problems and translate them to practical design solutions. 
+Enduring curiosity with a track record of shipping outstanding designs. 
+Proven fundamental visual and interaction design principles. 
+Ability to communicate a design strategy that meet user needs, product requirements, and business objectives. 
+Ability to accept and integrate feedback from leadership in a rapid iterative design process and effectively produce highly polished and professional finished experiences. 
+Strong interpersonal, written and oral communication skills. 
+Keen interest in being involved with the creative spirit of the Design team and the company. 
+A deep love of design and a passion for enabling creatives through ground breaking technologies. 
+
+Nice-to-haves:
+
+Experience designing for AI experiences
+Experience designing UX for an Enterprise company
+
+#################################################
+
+Job Title: UX Designer
+Job Description: We’re looking for an experienced UX Designer & Researcher to support our customers and join our passionate team of high-impact problem solvers.
+
+About the role:
+
+This is an exciting opportunity for a User Experience (UX) Designer & Researcher with extensive experience in usability testing, wireframing, and user research. You will be responsible for enhancing user-centered design for AI/ML tools and applications by conducting research, developing wireframes, and analyzing user behavior. Typical duties include facilitating usability testing, designing user interfaces, gathering user requirements, and collaborating with technical teams to improve overall user experience. This position is contingent upon contract award.
+
+What we are looking for:
+
+7-10 years of experience with a Bachelor’s degree, or 5+ years of experience with a Master’s degree in UX design, human-computer interaction, or a related field.
+Hands-on experience conducting usability testing, preparing test plans, and analyzing test data.
+Proficiency in creating wireframes, prototypes, and task flows to document information design concepts.
+Strong communication skills with the ability to present findings and interact with end users.
+Prior experience conducting user interviews and contextual inquiries.
+Experience with user tracking and analytics tools such as Matomo.
+Ability to visualize user metrics using Qlik and/or Tableau.
+Familiarity with Agile methodologies and iterative development.
+Highly preferred: UX-related certification (e.g., Certified Usability Analyst - CUA).
+
+Clearance Requirements:
+
+Ability to obtain and maintain TS security clearance
+
+#################################################
+
+Job Title: Senior Interface / UI Designer
+Job Description: Our users have leveraged our platform to solve problems in a myriad of verticals - from grading crops to optimizing manufacturing to identifying diseases from MRI scans. Company Q2 levels the playing field for teams and companies in most industries to start AI-driven revolutions of their own.
+
+
+
+You 🎨
+
+
+
+We are seeking a Senior UI Designer who excels at crafting intuitive and elegant user interfaces for data-intensive applications and workflows with high user interaction. You'll be working closely with cross-functional teams to transform complex requirements into delightful, user-centric designs.
+
+
+
+Requirements ⚒
+
+
+
+4+ years of experience in UI Design, with a focus on Data-Dense Interfaces and applications with high user interaction.
+Expert proficiency with Figma (experience with other design tools like Sketch or Company O2 XD is a plus).
+Strong skills in Information Hierarchy, Typography, and Color Theory.
+Ability to create Interactive Prototypes and Micro-Interactions.
+Experience designing for Complex Dashboards, Workflows, and Enterprise-Level Software.
+Familiarity with Front-End Technologies (ReactJS/Tailwind/CSS3) to communicate effectively with engineers.
+A strong portfolio showcasing data-heavy UI designs and detailed interaction work.
+Exceptional attention to detail and a commitment to crafting beautiful, elegant products.
+
+
+Bonus Points 💼
+
+Strong experience with design for AI/ML Platforms, Developer Platforms, or Exchange Platforms
+Knowledge of accessibility standards and best practices.
+Experience working with Design Tokens and creating scalable design systems.
+
+
+[Important] - Please include a link to your portfolio, which could be hosted on platforms such as Behance, Dribbble, or personal blogs, in your resume or application.
+
+#################################################
+
+Job Title: Senior UX/UI Designer – Web & Mobile
+Job Description: The work you do here will positively impact lives around the world. We stand by our promise: Opportunity Made Possible. In addition to competitive compensation and benefits, we invite you to join us in expanding your skills and helping to reshape the future of work.
+
+At Company R2, we assist organizations in building exceptional global teams in days, not months—streamlining the hiring, onboarding, and management process to unlock growth potential for all.
+
+About The Position
+
+We are seeking a talented and versatile Senior UX/UI Designer to join our dynamic team. In this role, you will work on creating user experiences and interfaces for both web and mobile applications, ensuring a seamless and optimized experience across both platforms. You will focus on designing AI-native applications that deliver intuitive, visually appealing designs while collaborating closely with product managers, engineers, and developers to integrate cutting-edge AI features. Additionally, you will contribute to the creation and refinement of a unified design language/system that maintains consistency across all products and platforms.
+
+Key Responsibilities
+
+Lead the design process for both web and mobile applications, ensuring a consistent and cohesive user experience across devices.
+Create wireframes, UI designs, and interactive prototypes for both web and mobile applications that align with the product’s vision and business goals.
+Contribute to and help refine a design language/system to ensure a unified visual and interaction design across all platforms and products.
+Collaborate with AI and development teams to ensure seamless integration of AI-driven features into the user experience across platforms.
+Design responsive and adaptive user interfaces that are optimized for different screen sizes and form factors, including web browsers, tablets, and smartphones.
+Conduct user research, usability testing, and analyze user feedback to iterate and improve designs for both web and mobile.
+Focus on designing user interactions that are smooth and intuitive, particularly around how AI features enhance user workflows.
+Stay up to date on design trends, web and mobile platform guidelines, and industry standards.
+Work closely with developers to ensure accurate implementation of design vision on both web and mobile platforms.
+
+Qualifications
+
+Proven experience as a UX/UI Designer with a portfolio demonstrating strong design skills for both web and mobile applications.
+Experience designing AI-driven or data-driven features, with an emphasis on seamless user interaction.
+In-depth knowledge of design principles, usability, interaction design, and platform-specific guidelines for both iOS, Android, and web applications.
+Familiarity with responsive and adaptive design principles, ensuring compatibility across various screen sizes and devices.
+Experience in contributing to and refining design systems to ensure consistency across products.
+Strong collaboration and communication skills, with the ability to work effectively with cross-functional teams.
+Experience in conducting user research and usability testing to inform design decisions.
+
+Preferences
+
+Experience working on AI-driven apps or similar projects.
+Familiarity with both iOS and Android mobile development processes.
+Experience designing for industries such as HR, healthcare, education, or other sectors utilizing AI functionalities.
+
+#################################################
+
+Job Title: Senior UX Manager, Youtube Create
+Job Description: Minimum qualifications:
+
+Bachelor's degree in Design, Human-Computer Interaction, Computer Science, a related field, or equivalent practical experience.
+8 years of experience in product design or UX.
+3 years of experience leading design projects and managing people or teams.
+
+Preferred qualifications:
+
+Master's degree in Design, Human-Computer Interaction, Computer Science, a related field, or equivalent practical experience.
+5 years of experience working in a complex, cross-functional organization.
+3 years of work experience working with executive leaders.
+Knowledge of design systems and their contemporary trends/usage with experience in designing across a range of products/services.
+About the job
+
+At Company T2, we follow a simple but vital premise: "Focus on the user and all else will follow." Company T2’s UX leaders help define and drive the future of Company T2 design. They create and clarify product strategy, conceptualize UX ecosystems in ways that mitigate complexity, and inspire teams to push the boundaries of what’s possible. They possess a clear vision of the future of user experience and have the courage to pursue forward-thinking design.
+
+Company T2 User Experience (UX) is made up of multi-disciplinary teams of UX Designers, Researchers, Writers, Content Strategists, Program Managers, and Engineers: we care deeply about the people who use our products. You are a thoughtful team leader, manager, systems-level design thinker, and visionary - with strong instincts and outstanding intuition informed by user needs and insights. You'll be responsible for guiding the careers of your team members, working closely with each of them to help them realize their full potential.
+
+UX Design Managers are fierce advocates for the people who use our products as well as the members of their teams. They have a practiced eye for effective design, and are committed to creating elegantly simple user experiences from otherwise complex workflows.
+
+In this role, you’ll take the time to understand not just the execution side of UX, but also the business aspects of the products we build. You’ll collaborate with leaders of other UX, Engineering, and Product Management teams to create innovative experiences across all of Company T2’s products, leveraging your passion for brand, craft, and design quality.
+
+At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.
+
+Responsibilities
+
+Influence stakeholders across functions to gain support for design strategies.  
+Drive the development of innovative design solutions to user, product, and business problems. 
+Drive a holistic design process, design system, or design language across teams or products. 
+Deliver improvements in design based on UX testing and stakeholder input and provide guidance and expertise to effectively engage stakeholders on product design to achieve product goals. 
+Drive project priorities in alignment with larger project goals, and coordinate allocation of resources within the design project and guide team members to develop individual OKRs. 
+
+#################################################
+
+Job Title: UX Designer
+Job Description: Company U2 is seeking UX Designer . to join us on the journey of delivering the building blocks for a world class healthcare digital platform. You're experienced with data-based driven design practices and contributing to multi-product design systems, building end-to-end visual flows and detailed visual specs. you enjoy working with multi-disciplinary teams all the way from product managers to architects and engineers, you thrive in the face of ambiguity, seeing it not as a barrier, but as an opportunity for innovation and learning, the Candidate will be responsible to
+
+Quickly yet thoroughly create process flows, wireframes, and visual design mockups as needed to effectively conceptualize and communicate detailed interaction behaviors.
+Work closely with cross-functional teams to provide a bridge between design aesthetics and functional usability, contributing to the overall performance and user satisfaction of the digital platform.
+Assess and optimize the performance of new and existing features by applying UCD principles.
+Contribute to user interface design and development best practices and standards.
+Excellent communication, presentation, interpersonal and analytical skills including the ability to communicate complex, interactive design concepts clearly and persuasively across different audiences and varying levels of the organization.
+ 
+
+Required Qualifications:
+
+ 
+
+Candidate must be located within commuting distance of Phoenix, AZ or be willing to relocate to the area. This position may require travel in the US.
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+At least 2 years of experience in Information Technology.
+Experience in designing end-to-end enterprise-scale cloud software or services.
+Experience working with and contributing to comprehensive design systems.
+Fluency in best practices for web-based information architecture and design, as well as strong knowledge of usability principles and techniques
+Proficiency in modern component-based design tools such as Figma and the Company O2 Creative suite.
+A strong online portfolio demonstrating past work experience and relevant, user-centered design solutions is required.
+Proven track record of creatively solving hard problems, driving complex design issues across multidisciplinary groups such as engineering, product management, and research; and shipping relevant experiences within deadlines.
+Experience in balancing user goals, business requirements and technical constraints to deliver delightful and meaningful product experiences.
+All applicants authorized to work in the United States are encouraged to apply.
+
+
+Preferred Qualification
+
+
+
+ 
+
+Ability to work effectively in a team setting including synthesizing abstract ideas into concrete design implications.
+Experience with Digital Portfolio is preferred.
+Experience with Interaction Design is good to have.
+Experience with Mobile Apps is preferred.
+Be excited about collaborating and communicating closely with teams and other stakeholders via a distributed model, to regularly deliver design solutions for approval.
+Be passionate about resolving user pain points through great design.
+Be open to receiving feedback and constructive criticism.
+Be passionate about all things UX and other areas of design and innovation. Research and showcase knowledge in the industry’s latest trends and technologies.
+Some experience in healthcare industry (desirable).
+
+#################################################
+
+Job Title: Senior Interaction Designer (AI)
+Job Description: We are looking for talented designers and creative technologists to join our group and bring new energy to our process. You should be ready to help at all stages of product design, from identifying unmet and latent needs, discovering new design opportunities, designing new product concepts to applying technology creatively to solve real user problems and create radically new experiences that re-imagine the way we interact with products.
+
+Company V2 Design Innovation Center is one of the leading overseas design studios in Company V2. Our mission is to understand people and lifestyles to deliver meaningful experiences, through beautiful yet functional design, enabled by innovative cutting-edge technologies.
+
+The studio is working on various advanced product experiences which can shape the future of Company V2 Businesses, working with various internal teams through experience-driven approach. Our work appears on smartphones, tablets, computers, televisions, wearables, and other devices we can’t describe yet. See some of our work at http://design.samsung.com/global/contents/sdic/
+
+Position Summary
+
+Interaction Designer is responsible for creating beautiful, functional and desirable interfaces and services across a wide array of technologies. You will need to understand how people use products, systems, or services to craft the desired user experience. Ability to understand all the touchpoints and be capable of using research insights to build customer-centric solutions that define working principles for UX, products, services, and technologies.
+
+We are interested in passionate and self-motivated individuals who are comfortable in a highly fluid environment. You will bring drive, smarts, and curiosity; we will provide the environment for you to thrive and grow.
+
+Position Responsibilities
+
+Conceptualize, visualize and develop ideas for products and take them from germinal to shippable
+Wireframing, conceptualizing, rapid prototyping, user-testing, interaction design, and visual design
+Collaboration! Work on products and features in close collaboration with other Designers and Engineers
+Crafting experiences that accomplish appropriately set goals, successfully
+Building ideas that turn complex and confusing into simple and understandable
+Developing various fidelity prototypes for iterative design throughout the project
+Knowing how to ask the right questions based on learning objectives and conducting user testing alone and/or with peers
+Extending beyond expectations to push ideas forward
+Travel International and Domestic and work overtime when needed
+
+Required Skills
+
+Bachelor’s Degree or Master’s Degree preferred in Design, HCI, Product Management, Engineering, or equivalent combination of education, training, and experience
+5+ years of UX Design with Project Management/Leadership, User experience/Interaction
+Understand user behaviors and interactions of products and services and create compelling product solutions based on their behaviors
+Strong HCI (human-computer interaction) skills and strong user research appetite
+Strong understanding of design thinking, design principles, and experience design methodologies and their applications
+Design hypothesis development, prototyping & testing, sketching & visualizing bold ideas and user scenarios
+Identify new opportunities and business value for UX innovation and differentiation with technology enablers
+Pitching and communicating the UX/UI concept to stakeholders
+Documentation creation: Scenarios, Wireframes, Visual Design, low & high-fidelity mockups, and prototypes
+Time management skills, attention to detail, and ability to think and act strategically and proactively
+Be clear, concise, have transparent communication style, willing to take action, and open to starting a project, idea, concept from scratch
+
+#################################################
+
+Job Title: Interaction Designer
+Job Description: About the Role:
+
+We are seeking a highly skilled and passionate Interaction Designer to join our growing product design team. In this role, you will be responsible for crafting intuitive and delightful user experiences for our innovative line of small-screen wearables and mobile applications (iOS and Android). Our products focus on use in sports and in outdoor settings, and so should you.
+
+You will collaborate closely with product managers, engineers, and other designers to translate user needs and business goals into seamless and engaging interactions. Your expertise in interaction design principles, combined with a deep understanding of human-computer interaction, will be crucial in creating products that are both user-friendly and captivating.
+
+
+
+Responsibilities:
+
+Conduct user research and competitive analysis to inform design decisions.
+Develop and iterate on user flows, wireframes, and interactive prototypes.
+Create and present design solutions, effectively communicating your rationale and design thinking.
+Collaborate with engineers to ensure smooth implementation and address technical constraints.
+Stay abreast of the latest trends and technologies in interaction design and wearable technology.
+Contribute to the overall design system and ensure consistency across all products.
+Participate in design critiques and provide constructive feedback to fellow designers.
+Champion user-centric design principles throughout the product development process.
+Qualifications:
+
+5+ years of professional experience as an Interaction Designer.
+Experience in sports or outdoor vertical markets strongly desired.
+Proven experience designing for small-screen devices (wearables, smartwatches, etc.).
+Strong portfolio demonstrating a high level of interaction design skills, including user flows, wireframes, and interactive prototypes.
+Experience designing for iOS and Android mobile applications.
+Proficiency in industry-standard design tools (e.g., Figma, Sketch, Company O2 XD).
+Excellent communication, presentation, and collaboration skills.
+A strong understanding of user-centered design principles and methodologies.
+Passion for sports and/or the outdoors, with active participation in at least one sport at the amateur level.
+Bonus Points:
+
+Experience with wearable operating systems.
+Experience with data visualization and information architecture.
+Experience with motion design and micro-interactions.
+
+
+
+#################################################
+
+

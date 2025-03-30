@@ -1,0 +1,707 @@
+Cluster 3:
+
+Job Title: Azure DevOps Engineer 
+Job Description: We are currently seeking a skilled Azure DevOps Engineer to join our technology-driven team. This key role will involve you in designing, building, and deploying cloud-based applications on the Azure platform. As part of our team, you'll have the opportunity to work with the latest technologies, contribute to significant projects, and collaborate with talented professionals. If you're passionate about leveraging Azure to streamline processes and capitalize on efficiencies, this is the perfect opportunity for you. Join us, and let's engineer the future of our digital landscape together.
+
+Req,#625409737
+
+Responsibilities
+
+
+Hands-on work with advanced Terraform and Azure DevOps pipeline solutions across multiple subscriptions and environments
+Seek opportunities to optimize activities in the data platforms, support activities, and processes, as well as implement mechanisms to automate/streamline activities (e.g., automating administrative activities, infrastructure, application deployments, etc.)
+Communicate with multiple stakeholders
+Utilize knowledge of Azure data solutions (such as Data Lake Storage, Company K4, ADF, and Synapse Analytics) to work on data workload performance improvements, monitoring, issues troubleshooting, and prevention
+Responsible for collaborating with the Architecture teams to ensure all aspects of the platform architecture and design standards complement the support model
+Works with the SRE team on the support of the platform
+
+
+Requirements
+
+
+5+ years of experience in DevOps with an enterprise-level cloud environment
+5+ years of experience with Azure Cloud Services
+Advanced knowledge of PowerShell scripting and its application within the Azure framework
+In-depth understanding of Azure PowerShell modules and commands
+Ability to create, modify, and manage Azure resources through PowerShell
+Advanced skills in automating and orchestrating Azure deployments through PowerShell
+In-depth knowledge of Azure Cloud Services and their various deployment models
+Experience with managing and scaling Azure Container Instances and Kubernetes Services
+Intimate familiarity with managing and configuring Azure Functions for serverless computing
+In-depth understanding of Terraform’s lifecycle, provisioners, data sources, and advanced techniques (e.g., dynamic blocks, count, for each)
+Experience managing large-scale, multi-cloud, or multi-region projects using Terraform
+Familiarity with Terraform Cloud or Enterprise for team-based infrastructure management
+In-office 2-3 days/week
+
+#################################################
+
+Job Title: SAP S/4HANA Data Design Analyst – Environmental, Social & Governance
+Job Description: 
+We are one purpose-led global organisation. The enablers and innovators, ensuring that we can fulfil our mission to push the boundaries of science and discover and develop life-changing medicines. We take pride in working close to the cause, opening the locks to save lives, ultimately making a massive difference to the outside world.
+
+Company M4 (AZ) is in a period of strong growth and our employees have a united purpose to make a difference to patients around the world who need both our medicines and the ongoing developments from our science. In this journey AZ must continue to work across borders and with partners and new colleagues in a fast and seamless way. The ambition, size and complexity of the organisation, coupled with the opportunities afforded by new technology, has led the Board to approve a large-scale transformation of the IT landscape by the replacement of current ERP (Enterprise Resource Planning) systems with one global solution.
+
+Our current technology is used by more than 20,000 employees daily, is foundational to all AZ entities and is central to most core business processes. This programme provides the opportunity for real transformation and to shape the way of working globally for many years to come.
+
+This programme requires the best. Whether it be the technical skills, business understanding or change leadership, we want to ensure we have the strongest team deployed throughout. The programme seeks to deliver a world class change programme that leaves all employees with a fuller understanding of their role in the end-to-end nature of our global company. This programme will provide AZ with a competitive edge, to the benefits of its employees and patients.
+
+The role
+
+Join us as a SAP S/4HANA Data Design Analyst in our Environmental, Social & Governance (ESG) team. This role is pivotal in supporting the implementation of several new ESG modules in SAP, including Sustainability Footprint Manager (SFM) and Sustainability Control Tower (SCT). You will be responsible for coordinating business data requirements, providing best practice data design proposals, defining and documenting relevant S/4 Enterprise Data Standards, and ensuring that existing SAP data is ready to migrate to S/4 HANA.
+
+Accountabilities:
+
+As a SAP S/4HANA Data Design Analyst, you will define and document relevant S/4HANA target state business data standards. You will apply your data and process expertise to support ESG related S/4 process design. You will also be involved in supporting the change journey from current to future state data design. Your role will also involve leading the prioritisation of data delivery related to ESG and reporting on progress to ESG Data Design Lead and other relevant stakeholders.
+
+Essential Skills/Experience:
+
+
+ Familiarity with SAP or S/4 HANA data sets and data constructs (ideally Supply Chain and/ or Procurement data).
+ Familiarity with key ESG concepts and common areas of application.
+ Demonstrable knowledge of how business data requirements support process execution and analytics.
+ Demonstrable experience of delivering business outcomes in a global, matrix organisation.
+ Demonstrated ability to work independently and in a diverse, global team, within and across functions.
+
+
+Desired Skills/Experience:
+
+
+ Experience of ESG data sets.
+ Understanding of ESG modules in SAP.
+ Experience in Data Governance.
+ Experience in measuring, managing and improving Data Quality.
+ S/4 HANA implementation experience.
+
+
+When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That's why we work, on average, a minimum of three days per week from the office. But that doesn't mean we're not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.
+
+#################################################
+
+Job Title: Technical Architect
+Job Description: There's no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal.We are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations.Recognizing each person’s unique contribution to our collective success, we embrace inclusion and diversity, committed to creating a respectful and socially responsible environment.People. Technology. Innovation. All-around it.Are you GRiTTY enough to be part of our journey? Take the first step by applying now and let’s create our future together. 🌟Job DescriptionThis position would be working in dynamic environments with large European Organizations in a Pan European context with distributed European teamsMust-Have
+5+ years of experience in IT architecture within a medium to large IT environment
+Proven expertise in designing, deploying, and managing Company B1 On-Premises Data Gateway solutions
+Experience in Power BI, PowerApps, and Azure Data Analytics Services integration
+Strong knowledge of data source connections (SQL Server, Company A1, SharePoint, MySQL)
+Proficiency with Windows Server administration
+Scripting skills with PowerShell or Python
+Would Be Great If You Have
+Experience with Qlik Sense administration
+Knowledge of Jenkins, Ansible, and Git
+Familiarity with Azure Synapse or Company B1 Company E9
+Proficiency in additional European languages
+What’s In It For You
+Continuous Training and Certifications
+GRiT Prizes: GRiT Baby Gift, GRiT Birthday Prize, GRiT Recommendation Prize
+Exclusive Partnerships/Discounts: (Gym, Health, Well-being, Lifestyle, Financial, etc…)
+Unique Events
+Welcoming Office (Fruit, Coffee, Pool Table, etc.)
+Competitive Compensation
+Pay for Performance
+
+#################################################
+
+Job Title: Senior Spark Engineer | Trainer/Code Reviewer For LLM Data Training 
+Job Description: Experienced engineers are needed for AI Model Training in Coding Practices with expertise in Apache Spark. This crucial role is tailored for a Developer with the ability and enthusiasm to integrate advanced coding knowledge into the development of state-of-the-art AI models.
+
+
+
+The Role: Combining Coding Expertise with AI Innovation
+
+In this role, you will play a crucial role in guaranteeing the quality and efficiency of our AI training processes, ultimately contributing to the success of our projects. Your key responsibilities will encompass:
+
+- Quality Control: Maintaining the Service Level Agreement (SLA) standards required by our customer contracts.
+
+- Error and Hallucination Detection: Identifying inaccuracies or hallucinations in LLM responses based on reference documents.
+
+- Spot Checking and QA: Conducting quality assessments of the LLM Data Training project items generated by other Engineers, including but not limited to reviewing the code quality, optimizing, or general responses about engineering processes and procedures in Apache Spark.
+
+
+
+Your Profile: Apache Spark Engineer with a Vision for AI
+
+
+
+We are looking for a professional who exhibits:
+
+- 5+ years of experience with Apache Spark
+
+- SQL + Python experience is mandatory
+
+- Scala/Java is preferred
+
+- Minimum B2 level of English language proficiency
+
+- Analytical Excellence
+
+- Attention to Detail: Commitment to precision and thoroughness in the training process.
+
+- Ability to produce high-quality work with minimal or no supervision.
+
+- Prior LLM experience preferred
+
+#################################################
+
+Job Title: Technical Data Manager, Data Curation, Self-Driving
+Job Description: What To Expect
+The Data Curation team is responsible for building datasets that the neural networks will consume to help solve important Full-Self-Driving (FSD) problems. This includes creating a plan to collect thousands of examples of fleet data, building instructions & training materials for the collection team, auditing the data, working with AI Engineers to train our networks, and developing evaluations to confirm if the problem is resolved or not. This role has a considerable impact on Company L4's overall progress toward a Self-Driving future, as high-volume, high-quality data is the foundation of successful AI.
+
+What You'll Do
+
+Build large, clean, diverse and aligned datasets to improve various self-driving tasks
+Design methods to collect data from engineering resources and the customer fleet
+Create training materials to teach Data Collection teams how to procure specific data
+Train up to hundreds of personnel on the methods/procedures that you designed
+Develop auditing and filtering methods to verify data is high quality
+Coordinate development and testing of evaluations to verify behavioral improvements to the task you are tackling
+Maintain tight feedback loop with Data Collection, AI Engineering and Test teams to ensure new datasets actually improve Self-Driving
+Write data queries to mine data from the fleet (Python, JSON-C) and analytics telemetry to measure performance & progress of improving various self-driving tasks
+Conduct in-vehicle testing to support engineering development
+Generate reports that communicate top issues, release blockers, progress and next steps for various projects
+
+
+What You'll Bring
+
+Bachelor's Degree in Computer Science, Engineering, Physics, or Math, or proof of exceptional skills in related field
+Ability to thrive in a rapidly changing environment with high ambiguity; self-starter mentality
+Familiarity with Python, Pandas, NumPy, SQL, Git, Grafana, & ElasticSearch
+Understanding of machine learning and self-driving fundamentals
+Excellent work ethic, communication, attention to detail and collaboration skills
+
+
+#################################################
+
+Job Title: Senior AI Taxonomy Engineer
+Job Description: 
+About The Job
+
+Company G6's Global Engineering Team is looking for an AI taxonomy engineer to join the newly-formed InstructLab and Granite team. This role offers an exciting opportunity to contribute to the foundation of our AI projects by ensuring well-structured and meaningful data organization. A successful candidate will play a crucial role in enhancing the efficiency and effectiveness of our AI models through robust taxonomy management.
+
+As a taxonomy engineer, you will be responsible for developing, maintaining, and optimizing classification systems that support our AI models and data organization efforts. In this role, you will be responsible for reviewing and categorizing incoming data, issues, or tasks and prioritizing these items based on urgency, importance, and relevance. Effective taxonomy engineers will collaborate closely with data scientists, machine learning engineers, and domain experts to align taxonomies with project requirements, and to understand the effectiveness of taxonomies in supporting AI model performance.
+
+This is a fast moving area, so the ideal candidate will have a collaborative mindset and work effectively in cross-functional teams in an open organization where contributions are valued and expected from all levels. As this is a fast-moving area of opportunity for Company G6, the ability to communicate productively and effectively with team members, stakeholders, and Company G6 leadership is critical. Strong organizational skills are imperative for success in this role.
+
+This position reports directly to the Manager of Software Engineering for InstructLab. This position must have the ability to partner collaboratively in our Boston, MA office at least 3 days per week.
+
+What You'll Do
+
+Evaluate and optimize triaging processes and documentation over time, ensuring the team’s processes are efficient and up-to-date.
+Triage pull requests (PRs) and route tasks to appropriate team members or departments; identify trends in incoming data.
+Develop and code software programs, algorithms, and automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources.
+Ensure consistency and accuracy in data labeling and categorization, continuously updating and refining taxonomies as new categories or concepts emerge.
+Help maintain data quality by filtering out low-quality or unsuitable inputs; as needed, escalate actions in response to sensitive or inappropriate content.
+Create and maintain documentation for taxonomy changes, usage guidelines, and best practices; monitor repository cleanliness and take action to maintain order (e.g., close dated PRs and irrelevant issues). 
+Maintain documentation regarding triage and taxonomy status, as well as skills and knowledge contribution process enhancements.
+Monitor and analyze the effectiveness of taxonomies in supporting AI model performance.
+Support public and community engagement through maintenance of community triage communications channels (i.e., slack, community calls).
+Support customers in curating and utilizing Company G6 taxonomies; advise customers on establishing - and debugging - custom taxonomies.
+
+What You'll Bring
+
+Bachelor's degree in computer science or equivalent
+Experience with large-scale data management
+Strong self-motivation and organizational skills
+Ability to think systematically and identify patterns
+Adaptability to evolving technologies and methodologies
+Demonstrates ability to context switch between multiple concurrent projects
+Excellent written and verbal communication skills
+Positive attitude and willingness to share ideas openly
+Ability to maintain strict confidentiality when in contact with confidential or sensitive customer information in accordance with Company G6 policies and applicable privacy laws
+
+Bonus Qualifications
+
+Bachelor's degree in Computer Science, Information Science, or a related field
+Understanding of classification systems, metadata standards, and controlled vocabularies
+Familiarity with Python scripting
+Familiarity with AI and machine learning concepts and their data requirements
+Familiarity with participating in an agile development team
+Experience working within an open source community
+
+#################################################
+
+Job Title: Data Visualization Consultant
+Job Description: Responsibilities 
+
+Company I3 is seeking an experienced data analysis and visualization consultant professional to join our growing and dynamic Learning & Development (L&D) consulting team. The specialist will be responsible for supporting clients and assisting all aspects of design and development of learning and development products as it relates to adult learning and training.
+
+In this role, the candidate is expected to perform work independently but will collaborate closely with a mixed matrix team. Company I3 is seeking a creative thinker who is detail-oriented, project focused, and has the proven expertise to make learning meaningful and engaging for students.
+
+Responsibilities
+
+Ability to collect, clean, analyze, visualize, and report data across multiple designated platforms and tools (e.g., PeopleSoft, Blackboard, Company B1, Tableau, etc.) to convey metrics and information on training outcomes and program performance that leads to recommendations for business decisions and development of organizational strategies.
+
+ Required Qualifications 
+
+ Top Secret Clearance(with ability to obtain SCI with CI poly). 
+ A bachelor’s degree in statistics, economics, information systems, computer science, data science, or related field from an accredited (i.e., regional, national, or institutional) academic institution. 
+ Proficiency in SQL and Python. 
+ 3 or more years of experience providing expertise in data collection, analysis, and visualizations. 
+ Strong proficiency to manage and manipulate dates in Excel and Tableau and develop/maintain data visualizations, reports, briefings, dashboards, and discussion points that convey information useful for decision making by various stakeholder groups. 
+ Possesses ability to analyze assessment data and conduct descriptive and inferential analysis to develop detailed reports, delivered through documents, dashboards, and raw data sets to inform stakeholders of course effectiveness. 
+ Ability to work across organizational teams to develop and run queries, reports, and scripts using data to justify recommendations and inform decision making by leadership. 
+ Ability to brief senior leadership on data visualization findings and recommendations. 
+
+ Desired Qualifications 
+
+ A master’s degree in statistics, economics, information systems, computer science, data science, or related field from an accredited (i.e., regional, national, or institutional) academic institution. 
+ Professional experience in higher education or an adult learning institution. 
+ Familiarization in Kirkpatrick evaluation model.
+
+#################################################
+
+Job Title: Technology Company A3s Analyst, Accelerated Computing 
+Job Description: 
+Want to join a fun, creative company at the forefront of outstanding technologies? Company Q1 is developing groundbreaking solutions in the world’s most impactful areas, including artificial intelligence, machine learning, visualization, and data center scale computing. We are looking for a technology insights analyst to join our Company Q1 Accelerated Computing Product Management team to help build the next generation of high performance processing solutions that can be deployed securely at scale and meet the needs of the most sophisticated hyperscaler and supercomputing customers.
+
+Company Q1 GPUs have been an innovator and a leader in the world of AI, simulation and visualization - making the impossible possible! As part of the team, you will be working in this fast-paced and dynamic field with some of the smartest engineers, researchers and scientists. The job requires you to be a self starter, a problem-solver with business insight and a demeanor to challenge status-quo in a diverse cross-functional team.
+
+We seek a passionate and detail-oriented professional to attend industry conferences and events and document essential facts that will enhance the organization’s knowledge base. If you thrive in fast-paced environments, enjoy learning, and love organizing information, this role is for you!
+
+What You'll Be Doing
+
+Capture key insights, facts, and discussions from key conferences, seminars, and events you proactively identify.
+Listen actively to speakers and take clear, concise notes in real time to ensure accurate documentation of important points.
+Drive and coordinate team collaboration to gather, share, and analyze information.
+Structure and organize notes according to predefined guidelines for clarity and accessibility.
+Ensure that summaries are delivered promptly following the conclusion of each event.
+Regularly update and maintain spreadsheets and other archival files to ensure accuracy and completeness of information.
+Quickly grasp new concepts and analyze their relevance to existing data, integrating them into current knowledge framework efficiently.
+Work closely with team members across the company to facilitate effective information flow and alignment across the organization.
+
+What We Need To See
+
+Bachelor’s Degree or equivalent experience in Information Management, Data Management, Business, or other related fields.
+5+ years of experience in a role involving real-time assimilation and analysis of data from real-world events and knowledge management.
+Curiosity and enthusiasm for attending industry events and learning about industry developments.
+Interest in continuously expanding industry knowledge and staying current with events and news.
+Passion for organizing data and structuring information in a clear, accessible format.
+Proficiency in distilling complex information into concise summaries for others to understand.
+Advanced analytical skills with the ability to synthesize information quickly.
+Excellent written and verbal communication skills.
+Thriving in fast-paced environments with real-time attention to detail and active listening.
+Strong collaboration skills and a team-oriented approach.
+Demonstrable capability to be independent within three to six months of starting this position.
+
+Ways To Stand Out From The Crowd
+
+Background in the Semiconductor or Software industries
+Knowledge in Electrical Engineering or GPU technology
+Curiosity for participating in technology conferences and engaging in pioneering technology
+Experience in technical writing
+
+#################################################
+
+Job Title: AI Safety Data Scientist, Trust and Safety
+Job Description: 
+Minimum qualifications:
+
+Bachelor's degree or equivalent practical experience.
+1 year of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.
+1 year of experience managing projects and defining project scope, goals, and deliverables.
+
+Preferred qualifications:
+
+Master's degree in a quantitative discipline.
+2 years of experience in a data analysis or data science setting.
+Experience with one or more of the following languages: SQL, R, Python, or C++.
+Experience in abuse and fraud disciplines, focused on web security, harmful content moderation, and threat analysis.
+Experience applying machine learning techniques to datasets.
+Excellent problem-solving and critical thinking skills with attention to detail in an ever-changing environment.
+
+About The Job
+
+Trust & Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Company T2 products like Search, Maps, Gmail, and Company T2 Ads. On this team, you're a big-picture thinker and strategic team-player with a passion for doing what’s right. You work globally and cross-functionally with Company T2 engineers and product managers to identify and fight abuse and fraud cases at Company T2 speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Company T2 and ensuring the highest levels of user safety.
+
+The AI Safety Protections team safeguards Generative AI experiences across Company T2 products for all users, including enterprise clients. By developing and deploying safety classifiers, both server-side and on-device, the team ensures the distribution of safe and policy-compliant content.
+
+At Company T2 we work hard to earn our users’ trust every day. Trust & Safety is Company T2’s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Company T2 to deliver bold solutions in abuse areas such as malware, spam and account hijacking. A diverse team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Company T2’s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.
+
+Responsibilities
+
+Develop scalable safety solutions for AI products across Company T2 by leveraging advanced machine learning and AI techniques.
+Apply statistical and data science methods to examine Company T2's protection measures, uncover potential shortcomings, and develop insights for continuous security enhancement.
+Drive business outcomes by crafting compelling data stories for a variety of stakeholders, including senior leadership.
+Develop automated data pipelines and self-service dashboards to provide timely insights at scale.
+Work with sensitive content/situations and may be exposed to graphic, controversial, or upsetting topics/content.
+
+#################################################
+
+Job Title: Sr Operations Research Analyst
+Job Description: As a Senior Operations Research Analyst, you will be a leading member of the Company R6 Fleet team. In this role, you will be analyzing data, building reports, managing inputs for our optimization model, and making decisions that affect the Company R6 rental fleet and other business segments. The goal of the Fleet Department is to minimize the cost of fleet while ensuring we have the right car in the right place at the right time to maximize the demand captured. You are encouraged to look for options that reduce cost, improve utilization, fulfill additional rental demand and increase car sales opportunities.
+
+
+
+Starting salary is $60K; commensurate with experience.
+
+
+
+Responsibilities
+
+We are looking for analysts who enjoy both business analytics and data science. In the Fleet department you will be working on a variety of tasks which include:
+
+Understand underlying connection between different aspects of the optimization model to better control model results.
+Translate fleet optimization model recommendations into business implications and monetary impacts.
+Write queries in SQL, R, or Python for pulling, cleaning and inputting data.
+Build automation tools for reporting and individual responsibilities to help improve fleet processes.
+Create concise and insightful data visualizations in Tableau.
+Collect, categorize, maintain, and analyze data using a range of quantitative techniques.
+Perform detailed analysis of key business metrics and provide actionable insights.
+Partner with other departments to model, design, and build reporting using Tableau, Excel, Company K4, S3, Athena, etc.
+Develop insights from complex unstructured data and maintain data integrity to ensure information is sent in a timely manner.
+Lead data support to peers as well as broader team stakeholders.
+Ensure consistency and clarity in processes so data flow stays up-to-date and on-schedule.
+
+
+Experience and Qualifications
+
+Education:
+
+Bachelor’s degree REQUIRED and 3+ years of relevant experience
+2+ years of relevant experience and a master’s degree. Preferred in the following disciplines:
+Industrial Engineering, Operations Research, Decision Sciences, Mathematics, Actuarial Sciences, Statistics, Business Analytics, Computer Sciences, Software Engineering
+
+
+
+
+Professional Experience:
+
+2+ years of work experience in data analytics and/or data sciences in a business or advanced academic setting.
+Extensive experience with scripting languages such as SQL, Python, R, SAS.
+Proven ability using data to drive changes, improvements and optimization in an operational environment.
+Competency in identifying data sources and manipulating and extracting data for dashboards, visualization, or reports.
+Experience with optimization models or other data science models.
+Proficiency using Tableau, Power BI or other data visualization tools.
+Well-versed in Company B1 Office applications (i.e. Excel, Outlook, Teams, etc.)
+Knowledge of Company K3, S3, Company K4, Gurobi, Athena.
+Familiarity with linear programming is a plus.
+Exposure to supply chain topics in a professional setting is a plus.
+Experience in car rental or fleet management is a plus.
+
+
+Additional Qualifications:
+
+Passion for mathematical reasoning and answering difficult questions with data
+Strong ability to clearly and succinctly communicate complex concepts to various audiences in written and verbal form
+Organized, detail-oriented, ambitious
+Willingness to work in a fast-paced environment to meet plan and reporting deadlines
+Ability to lead tasks with minimal guidance
+Innovative thinking skills
+
+
+
+
+#################################################
+
+Job Title: Climate Scientist
+Job Description: 
+Description
+
+Strong communities don’t just happen—they’re built. They’re creatively imagined, collaboratively planned, and readied to face tomorrow with optimism. We’re driving the future of Community Development. Our experts lead their fields, collaborating on projects that are as technically challenging as they are impactful, creative, and fulfilling. We’re a place where you can apply your passion—and find endless opportunities to help make communities more equitable, resilient, and livable.
+
+Your Opportunity
+
+The Company S6 Community Development group is seeking an energetic and ambitious Climate Scientist for a full-time position. As a Climate Scientist within our Community Development business line, you will have the opportunity to be a part of Company S6’s growing national resilience practice. Your experience supporting development of resilient and forward-looking programs, policies, and plans will compliment Company S6’s multi-disciplinary technical expertise and national resilience team to build communities that thrive in the wake of shocks or stresses. We help communities understand, communicate, and reduce their current and future hazard risks and vulnerabilities, including the impacts of climate change.
+
+In this role, with your strong understanding of climate science, climate adaptation and mitigation practices, and risk and vulnerability assessments, you will lead tasks, teams, and projects for adaptation planning, climate action plans, risk assessments, hazard mitigation planning, and related support to provide exceptional deliverables, achieve client satisfaction, and maintain profitability for the projects we execute. In addition, you will collaborate with our national resilience leaders.
+
+Hybrid and/or remote work options possible. Candidate must have the ability to report to a Company S6 office location.
+
+Your Key Responsibilities
+
+Serve as a climate science subject matter expert, performing meteorological and climate data analysis, including regional climate profiling guiding teams on the use of climate data and tools for assessing natural hazard risk.
+Lead delivery of community resilience planning efforts including, but not limited to: hazard mitigation planning, climate adaptation planning, climate risk assessments, disaster resilience and recovery, and climate action plans.
+Utilize GIS skills for map development, risk analysis, and geodatabase design.
+Prepare comprehensive plans, reports, presentations, and functional tools to meet project needs.
+Provide quality reviews and technical reviews on project deliverables prepared by junior team members.
+Identify, develop, and maintain public and private client relationships and play a key role in winning and delivering new projects.
+Prepare and contribute to winning proposals: define and manage project and/or task objectives, scope, schedule, budget, contracts, subcontracts, and multi-disciplinary project teams to ensure client and project team satisfaction in alignment with Company S6’s PM Frameworks and maintain compliance with ISO 9001 certification.
+Facilitate effective stakeholder outreach and engagement such as development of public presentations, roundtable discussions, and community engagement.
+
+Qualifications
+
+Your Capabilities and Credentials
+
+Proven track record for developing climate risk assessments and adaptation plans a must.
+Demonstrated success as a self-starting “doer/seller”, who can quickly collaborate and engage with colleagues, across the US and across disciplines, to contribute to a growing national practice with limited supervisory support.
+Proficiency in climate model output analysis, familiarity with working with large datasets, and climate data analysis; data interpretation is a must.
+Proficient in ArcGIS and MS Office applications including Word, Excel, PowerPoint, Outlook email and calendar functions.
+Proven and demonstrated high quality technical writing skills.
+Excellent leadership, communication, organizational and collaboration skills including effective management of simultaneous projects and tasks.
+Additional proficiency in Hazus-MH or related risk assessment tools a plus.
+Certification from the American Meteorological Society (AMS) or CC-P, AICP, CFM, ENV SP, PMP, or related a plus.
+Passionate about mission-driven community resilience with the eagerness to work in a time-sensitive, fast-paced team environment!
+
+Education And Experience
+
+Bachelor’s degree or graduate education in meteorology, atmospheric or environmental science, environmental management, urban planning, GIS, environmental engineering, or related field.
+Minimum of 5 years of relevant experience including work and/or graduate-level education or higher.
+
+#################################################
+
+Job Title: Principal Software Engineer
+Job Description: 
+Company B1 is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.
+
+Company B1’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Company B1 Company E9, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.
+
+Within Azure Data, the databases team builds and maintains Company B1's operational Database systems. We store and manage data in a structured way to enable multitude of applications across various industries. We are on a journey to enable developer friendly, mission-critical, AI enabled operational Databases across relational, non-relational and OSS offerings. Azure Cosmos DB is Company B1’s next generation globally distributed, elastic scale, multi-model cloud database service - designed to enable developers to build planet scale applications. Azure Cosmos DB allows you to elastically scale both throughput and storage across any number of geographical regions with tunable consistency while providing blazing fast read/write performance backed by enterprise grade SLAs. 
+
+One of the unique features of Azure Cosmos DB is its multi-model APIs which allows users to develop new/migrate existing applications using popular open-source (OSS) APIs such as MongoDB, giving it a unique edge. As one of the fastest-growing Azure services, Cosmos DB Mongo API team is looking for a passionate and technically strong engineer to help design, implement and deliver for our next generation single tenant vCore MongoDB Gateway.
+
+We do not just value differences or different perspectives. We seek them out and invite them in so we can tap into the collective power of everyone in the company. As a result, our customers are better served.
+
+Responsibilities
+
+As a Principal Software Engineer on the team, responsibilities include:
+
+Design and implement end-to-end CosmosDB MongoDB API gateway service
+Collaborate with partner teams and management both upstream and downstream dependencies
+Assume ownership in building highly performant and scalable gateway service
+Proactively improve service telemetry revealing gaps in all areas ranging from availability to serviceability
+
+Embody our culture and values
+
+Qualifications
+
+Required/Minimum Qualifications
+
+Bachelor's Degree in Computer Science, or related technical discipline AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience.
+2+ years of RUST programming experience.
+Other Requirements
+
+Ability to meet Company B1, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+
+Company B1 Cloud Background Check:
+This position will be required to pass the Company B1 Cloud background check upon hire/transfer and every two years thereafter.
+Preferred/Additional Qualifications
+
+Bachelor's Degree in Computer Science or related technical field AND 10+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR Master's Degree in Computer Science or related technical field AND 8+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience.
+Experience with life cycle of service development, deployment and servicing.
+Experience with existing open-source api stack like MongoDB is a huge plus.
+5+ years technical experience working with large-scale cloud or distributed systems. 
+Management Information Systems (MIS), or other industry or product specific Engineering Certifications.
+6+ years of RUST programming expertise in scalability improvements.
+
+#################################################
+
+Job Title: Spark Developer
+Job Description: Company U2 is seeking a Spark and Scala Developer  . In this role, y ou will enable digital transformation for our clients in a global delivery model, research on technologies independently, recommend appropriate solutions and contribute to technology-specific best practices and standards. Y ou will be responsible to interface with key stakeholders and apply your technical proficiency across different stages of the Software Development Life Cycle. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+
+Required Qualifications
+
+ Candidate must be located within commuting distance of Irving, TX or be willing to relocate to the areas. 
+ Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education. 
+ All applicants authorized to work in the United States are encouraged to apply 
+ At least 4 years of experience with Information Technology. 
+ Strong understanding of distributed computing principles and big data technologies 
+ At least 2 years of e xperience working with Apache Spark, Scala, Spark SQL and Starburst 
+ Knowledge of data serialization formats such as Parquet, Avro, or ORC 
+ Familiarity with data processing and transformation techniques 
+
+ Preferred Qualifications: 
+
+ Experience with data lakes, data warehouses, and ETL processes 
+ Good understanding of Agile software development frameworks 
+ Experience in Banking domain 
+ Strong communication and Analytical skills 
+ Ability to work in teams in a diverse, multi-stakeholder environment comprising of Business and Technology teams 
+ Experience and desire to work in a global delivery environment 
+
+#################################################
+
+Job Title: Big Data Consultant
+Job Description: We are seeking a talented and experienced Big Data Developer with expertise in Spark and Scala to join our team. If you have a passion for working with large-scale data systems, enjoy writing clean and functional code, and thrive in an agile environment, we'd love to hear from you!
+
+Required Qualifications:
+
+Experience: Minimum 2 years working with Spark and Scala.
+Code Practices: Strong understanding of clean code principles, software design patterns, functional programming, and TDD.
+Big Data Expertise: Hands-on experience with Spark, Hadoop, and Hive. Knowledge of Azure Company K4 is a plus.
+Agile Development: Familiarity with agile methodologies and DevOps practices.
+Data Integration: Proven experience managing high data volumes and working with data integration tools.
+Toolset: Proficiency in Git, GitHub, Jenkins, Sonar, Nexus, and Jira.
+Databases: Experience with various database structures, including PostgreSQL, SQL, and Hive.
+Language: Proficient in English (B2+ level).
+Preferred Qualifications:
+
+CI/CD Tools: Experience with Jenkins and GitHub Actions.
+Orchestration: Familiarity with Control-M and Airflow.
+Scripting: Proficient in Bash and Python.
+SDLC: Knowledge of software development life cycles (e.g., HP ALM).
+Cybersecurity & Quality: Basics of cybersecurity and tools like Sonar and Fortify.
+Cloud Computing: Understanding of Docker, Kubernetes, S3, Azure, and Company K3.
+
+#################################################
+
+Job Title: Trust and Safety Incident Operations Manager
+Job Description: At Company Q8, we're creating a new era of home care. If making an impact and the chance to do good inspires you, join us. Imagine what we’ll build together.
+
+Company Q8 by the Numbers
+
+Available nationwide in every U.S. county
+Over 85 million projects started on Company Q8
+More than 11 million 5-star reviews and counting
+Pros earn billions on our platform
+1000+ employees 
+$3.2 billion valuation (June, 2021) 
+
+About The Trust & Safety Team
+
+We are a high-performing and thoughtful team that diligently solves urgent and severe concerns for our users while simultaneously protecting the Company Q8 brand. Our goal is to collaborate and coordinate efficiently on escalated reports from customers and pros to ensure a safe and high-quality experience. We work closely with our cross-functional teams to focus on ways to improve the customer experience and enhance the Company Q8 vision.
+
+About The Role
+
+As a Trust and Safety Manager, you will support your team as partners to our customers and pros. Your goal is to fully understand the trust and safety process and policies and assist your team members in effectively handling these concerns. You will need to be prepared to handle challenging situations that require sound judgment, resilience, and discretion.
+
+As a people leader, you will impact and guide team strategy while supporting your team. You will strongly focus on caring for your team members while also focusing on the end user. You’ll work collaboratively with multiple teams across Company Q8.
+
+Responsibilities
+
+Trust and Safety Incident Management: Support the team to efficiently assess and address trust and safety concerns via phone and email, focusing on assisting users while mitigating organizational risk. Oversee matters with potential financial and legal implications.
+Customer Support Mindset: Identify issues, trends, and common problems facing our users; while maintaining knowledge of the Company Q8 platform to assist customers in resolving their concerns. Triage escalated concerns and collaborate on sensitive issues. Escalate issues to other departments and leaders when necessary.
+Operational Excellence: Oversee the payment and distribution of the Company Q8 Guarantee to consumers. Self-prioritize tasks and activities to align with departmental goals, ensuring timely completion.
+Strategic Mindset: Assist in the execution of OKR’s and KPI’s
+High Levels of Initiative and Accountability: Showcase flexibility to take on a wide range of projects with ownership.
+Leadership: Grow, develop, and manage a high-performing team.
+Collaboration: Build and maintain interdepartmental relationships.
+
+What You’ll Need
+
+If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone excited to join the team.
+
+Relevant Experience and Education: 2-4 years relevant experience demonstrating leadership in Trust and Safety and/OR Customer Support required. High school diploma or equivalent required.
+Communication Skills: Advanced proficiency in spoken and written English and bonus points if you are fluent in Spanish. Proven competence in engaging diverse audiences, including customers, internal teams, and cross-functional partners.
+Problem-Solving and Adaptability: Exceptional problem-solving and strategic thinking skills, with the ability to work independently and adapt to shifting priorities.
+Collaboration and Resilience: Strong collaboration skills, self-motivated, resilient, and adaptable. Strong sense of urgency and ownership.
+Program Management: Experience perpetuating structures, systems, and processes that build toward efficiency and high-quality user experience.
+
+Bonus points if you have
+
+Spanish speaking (bilingual)
+
+#################################################
+
+Job Title: Senior Fraud Engineer ML/AI
+Job Description: We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+As a Computer Scientist on the Fraud Team, you will be responsible for spearheading the development and execution of an innovative Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) strategy to combat various fraudulent activities, including bot attacks, Account Takeover (ATO) incidents, phishing schemes, theft, and product misuse.What You’ll Do:You will apply your expertise in computational analysis to design sophisticated algorithms that identify patterns of fraud and abuse effectively. This role involves researching the latest advancements in AI and ML to maintain the robustness of our fraud detection systems. Your work will contribute to the development of real-time solutions that protect our users and ensure the integrity of our platform. Collaborating closely with other data scientists, security experts, and software engineers, you will help shape a secure digital environment. This position is a unique opportunity to utilize cutting-edge technology to confront online fraudulent activity.What You Need to Succeed:
+
+Bachelors in Computer Science, Data Science, or a related field; Masters preferred. 
+7-10 years of Data Science experience
+A minimum of 3 years of experience in developing AI, ML, DL, and NLP algorithms, with a particular focus on fraud detection and prevention. 
+Proven track record of successful implementation of AI-based strategies to combat online fraud and abuse. 
+Deep understanding of online fraud activity, including bots, ATOs, phishing, theft, and misuse. 
+Proficiency in programming languages such as Python, R, Java, or similar. 
+Strong problem-solving skills and ability to think critically and innovatively. 
+Excellent communication and teamwork skills for effective cross-functional collaboration. 
+Ability to stay updated with the latest research and trends in AI, ML, DL, NLP, and cybersecurity. 
+Experience with big data technologies and tools, such as Company K4, Hadoop, Spark, etc., is a plus. 
+
+#################################################
+
+Job Title: Fraud Prevention Strategy Data Analyst, Credit Cards 
+Job Description: 
+Are you looking for a friendly, fast-paced workplace with an emphasis on helping customers and empowering team members? Company D9 is a thriving leader in the financial services industry, and our team members are the foundation of our success. Snap knows that happy, empowered, and engaged team members are essential to innovation and business success- and our approach is working. Come join us!
+
+Job Description
+
+Company Overview: 
+
+Seen is a financial technology company working with partners to provide innovative financial products to customers who otherwise do not have access to mainstream financial products. Seen is committed to financial inclusion, delivering exceptional value and customer satisfaction to its customers.
+
+Position Overview: 
+
+As a Fraud Prevention Strategy Data Analyst, you will be responsible for identifying and investigating fraudulent transactions, primarily focusing on credit card-related activities. You will work closely with various departments, including operations, finance, and customer service, to develop and implement strategies to detect and prevent fraud. Your insights will play a critical role in shaping our risk management practices and maintaining the security of our payment systems.
+
+Responsibilities:
+
+Monitor and analyze credit card transactions to detect potential fraud patterns.
+Investigate suspicious activities and identify fraudulent behaviors using advanced analytics tools.
+Develop fraud prevention strategies and recommend risk mitigation practices.
+Collaborate with cross-functional teams to implement fraud detection systems and improve operational processes.
+Stay up to date with emerging fraud trends, regulations, and industry best practices.
+Prepare detailed reports on fraud cases and present actionable insights to management.
+Work with payment processors, banks, and card networks to resolve fraud-related issues.
+Assist in creating policies and procedures to enhance fraud detection and prevention capabilities.
+Train and support internal teams on fraud prevention techniques and risk awareness.
+
+Requirements: 
+
+Bachelor’s degree in finance, economics, computer science, or a related field (or equivalent work experience).
+Excellent analytical and problem-solving skills with the ability to work under pressure.
+Attention to detail and strong investigative instincts.
+Proficiency in Excel, Python, SQL, or similar data analysis tools is a plus.
+Strong communication and presentation skills.
+
+Preferred Skills:
+
+Master degree in quantitative fields
+3+ years of experience working with fraud and risk data.
+Experience working in a financial institution, fintech, or e-commerce environment.
+Certification in fraud examination (CFE) or risk management (FRM) is a plus.
+Experience working with machine learning or artificial intelligence for fraud detection is an advantage.
+Familiarity with transaction monitoring systems, fraud management platforms, and data analytics tools.
+Strong knowledge of credit card processing, chargebacks, and fraud schemes.
+
+#################################################
+
+Job Title: Cybersecurity Specialist SME 
+Job Description: Responsibilities
+
+Company I3 is seeking a cleared and experienced Cybersecurity Specialist SME to support an Intelligence Community (IC) organization in the fast-growing National Security Sector in Bethesda, Maryland.
+
+Responsibilities Include
+
+ Develop, collect, analyze, and report cybersecurity data to respond to customer requirements and inform senior executive actions. 
+ Respond to congressional inquiries on cybersecurity issues. 
+ Draft data analysis reporting and collaborate with the cybersecurity team for inclusion into annual Company Z4MA reporting, as well as other reports and briefs supporting customer requirements. 
+ Develop assessment criteria (metrics, measures, key performance indicators) through critical evaluation and interpretation of IC policies, standards, strategies, and initiatives. 
+ Integrate data from internal and external organizations to enhance cybersecurity situational awareness. 
+ Coordinate and collaborate with database managers to validate operations to ensure successful migration for historical data. 
+ Participate and coordinate with internal and external cybersecurity teams to meet customer requirements for governance, policy, standards, and strategic planning. 
+ Analyze and evaluate existing and emerging technologies to recommend strategies to support and enhance mission requirements and data collection. 
+ Draft technical documentation (i.e., user manuals, standard operating procedures (SOPs), metrics, and measurement data dictionaries, etc.) to support job functions. 
+ Author and review policy and directives for the federal government. 
+ Experience with Zero Trust Architecture (ZTA), documentation including strategy development, roadmaps, presentations, and other technical and non-technical documentation. 
+
+Required Qualifications
+
+ Active TS/SCI with Counterintelligence (CI) Polygraph security clearance. 
+ Bachelor's degree and 12 to 15 years of prior relevant experience; additional experience may be considered in lieu of degree. 
+ Recent IC agency experience, within the last 3 years. 
+ Demonstrated experience with the management, operational, and technical aspects of IT Security in a complex enterprise environment. Additional experience in cyber risk management and assessments will be considered. 
+ Detail-oriented, ability to consistently provide high-quality products that are concise, thorough, and accurate. 
+ Ability to adapt in response to shifts in customer priorities. 
+ Excellent written and oral communication skills. 
+
+Desired Qualifications
+
+ CISSP certification or similar certificate preferred. 
+
+#################################################
+
+Job Title: Climate Change Analyst
+Job Description: As a Climate Change Analyst, you will play a pivotal role in advancing our client’s commitment to sustainability and ESG practices. Your primary responsibilities will involve extensive research and data analytics to facilitate a deep understanding of the latest developments in climate change knowledge and theory. You will be at the forefront of developing strategies and policies related to the bank’s impact on climate change.
+
+Job Responsibilities
+Research and Analysis: Stay updated on emerging trends, regulations, and advancements in climate change mitigation and adaptation strategies. Analyse scientific reports, policy documents, and industry publications to provide valuable insights to the Sustainability and ESG team.
+Data Analytics: Collect, analyse, and interpret data related to the bank’s carbon footprint, greenhouse gas emissions, and other climate-related metrics. Use data-driven approaches to identify areas for improvement and guide decision-making processes. Perform automated processing using Python or other appropriate technologies.
+Policy Development: Collaborate with the team to develop and implement climate change policies and initiatives. Assist in setting targets and KPIs related to carbon reduction and sustainability goals.
+Stakeholder Engagement: Engage with internal and external stakeholders, including regulators, industry associations, and sustainability experts, to ensure alignment with best practices in climate change management.
+Reporting: Contribute to the preparation of sustainability and ESG reports, ensuring accurate and transparent disclosure of climate-related information to stakeholders, including investors and the public.
+Education and Training: Support internal capacity-building efforts by providing training and knowledge sharing on climate change topics to bank employees.
+Qualifications
+Bachelor’s degree in environmental science, sustainability, climate change, computer science, or related field. Advanced degrees and relevant certifications are a plus.
+Proven experience in climate change analysis, sustainability, or ESG roles, preferably within the financial sector.
+Strong analytical skills and proficiency in data analytics tools.
+Excellent communication skills with the ability to convey complex climate-related concepts to diverse audiences.
+Familiarity with international climate agreements and reporting frameworks such as TCFD (Task Force on Climate-related Financial Disclosures).
+Passion for sustainability and a commitment to driving positive change.
+ 
+
+#################################################
+
+

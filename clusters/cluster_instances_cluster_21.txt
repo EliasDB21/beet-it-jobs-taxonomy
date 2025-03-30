@@ -1,0 +1,406 @@
+Cluster 21:
+
+Job Title: Strategic Account Technology Specialist 
+Job Description: Responsibilities
+
+You orchestrate global teams to gather information, collaborate on performance markers, and identify potential risks in customer accounts.
+You partner with customers and partners to provide innovative solutions and integrate Company B1 technology into their business.
+You leverage a strong knowledge of Company B1's product landscape, solutions, and strategy to address customer's needs. You act as the voice of the customer (VOC) and internal advocate across all levels of the organization.
+You provide analysis of overall customer needs for one of the largest and most complex accounts and advise on gaps that would benefit from Company B1 solutions. You lead customer business transformations through digital transformation for assigned accounts.
+You partner with line-of-business leaders and senior executives within a large-scale, high-impact, very complex customer organization to articulate how complex Company B1 technology/services will meet future business needs better than the competition. 
+You contribute to the creation of stakeholder maps for your account, determine and orchestrate a coverage plan, and build out an execution framework.
+You establish best practices and standards for aligning with quota attainment, consumption goals, and customer consumption gaps to inform quarterly and fiscal objectives.
+You use existing and new readiness resources and demonstrate expertise in creating enablement plans for large and high-stakes customers and all-up Company B1 business.
+
+Qualifications
+
+Required/minimum qualifications
+
+Bachelor's Degree in Computer Science, Information Technology, Engineering, Business or related field AND 7+ years technical consulting, technical consultative selling, practice building, or related technical/sales/industry experience
+OR equivalent experience.
+Additional Or Preferred Qualifications
+
+Bachelor's Degree in Computer Science, Information Technology, Engineering, Business or related field AND 14+ years technical consulting, technical consultative selling, practice building, or related technical/sales/industry experience
+OR equivalent experience.
+5+ years experience leading technical, support, and/or partner teams.
+4+ years experience in business consulting, consultative selling, and change management.
+5+ years of cross-team collaboration and project management.
+5+ years experience in digital transformation or using technology to drive customer business outcomes.
+
+#################################################
+
+Job Title: Solutions Consultant
+Job Description: As a Solutions Consultant at Company C1, you will play a crucial role in establishing and nurturing partnerships with current and potential customers. This involves building trust and confidence through expert demonstrations of Company C1's products and a deep understanding of our customers' needs. Collaborating closely with Account Executives, Customer Success, and Account Management teams, you will prioritize and develop financial solutions for Company C1's key customers, ensuring that the product aligns with their evolving requirements. Acting as technical and financial experts, you will design integrated solutions, provide strategic advice to customers, and facilitate communication between internal technical teams and customers. Partner Consultants drive customer success from deal evaluation to product activation, influencing product development to enhance Company C1's value proposition continually. This role requires strong technical skills to educate on accounting features and seamlessly integrate them across customer touchpoints.
+
+What You’ll Do
+
+Partner with Sales, Product and Partners to advocate for integration development in-line with customer needs
+Collaborate with Company C1 Account Executives to showcase technical accounting features and benefits through customized product demos, workflow illustrations, and promoting Company C1’s value proposition
+Develop tailored product solutions based on a deep understanding of integration and configuration options, ensuring effective alignment with customer needs
+Support Sales and Post-Sales teams in executing advanced technical and accounting implementations for Company C1
+Evaluate customer requirements for new opportunities, determining Company C1's suitability through use-case analysis, ROI assessments, and technical evaluations during customer discovery
+Work alongside Product, Product Marketing, and Product Operations to create and maintain technical assets and an internal knowledge base of customer use cases and best practices
+
+What You’ll Need
+
+6+ years of experience in Solutions Consulting, Sales Engineering, Solutions Architecture, or similar customer-facing roles, focusing on implementing business SaaS solutions and utilizing APIs, preferably within the financial sector
+Bachelor's degree in computer science, engineering, business, finance, accounting or related field
+Proficiency in IdP, HRIS, and/or ERP solutions
+Expertise in accounting systems, controllership needs, and finance/accounting workflows
+Exceptional organizational, project management, and time management abilities
+Strong skills in engineering, system design, and technical specification writing
+Proactive mindset, adaptability, and comfort in a fast-paced, high-growth startup environment
+
+#################################################
+
+Job Title: Senior Solutions Consultant
+Job Description: As Sales Engineer/Solutions Consultant (Pre-Sales) you will be instrumental in designing, implementing, and supporting enterprise-level solutions with Company D1 Cloud Fax and Notifications services for commercial and end-user applications. You will collaborate with sales, partners, and customers; and will be working with multiple platforms, tools, and a variety of Company D1 cloud solutions and on-premise technologies. This is an excellent opportunity for individuals who strive to solve real-life business and technology problems through the implementation of enterprise software, cloud solutions (SaaS/PaaS); and enjoy acquiring hands-on skills and experience with new technologies. Strong customer focus, sales, and customer relationship bias.
+
+What The Role Offers
+
+Pre-sales demonstration, design of implementations of Company D1 products (EasyLink/Xpedite Fax2Mail/cloud fax solutions, Notifications and Cloud Security).
+Leading large-scale enterprise system solution positioning involving one or multiple Company D1 products and technologies, including business workflow and capture-related solutions.
+Supporting and working with senior salespeople and C-Level customers in pre-sales and sales phase as lead technical communicator.
+Acquiring specific knowledge and developing domain expertise relating to industry best practices, available/competing technologies and regulatory compliance for healthcare, financial, legal, and manufacturing verticals.
+Company D1 enterprise fax and messaging products/solutions.
+Knowledge of networking, telco, and IP-based transport protocols.
+Cloud implementation, and systems implementation and troubleshooting with Company B1 platform.
+Implementing and supporting business software and enterprise solutions.Services, Solutions or Consulting environment 
+
+What You Need To Succeed
+
+3+ years of systems implementation and support experience within Cloud Fax services.
+3+ years of hands-on implementation experience with Company B1 technologies (Exchange, SharePoint, SQL Server, Windows Servers technologies). 
+Company B1 Operating Systems and TCP/IP networking skills 
+Exchange, Lotus Notes and SMTP / POP3 services
+Business analytics and enterprise software/solution consultation experience 
+RightFax and/or Messagemanager preferred 
+
+#################################################
+
+Job Title: Startup Solutions Architect
+Job Description: Trusted by more startups around the world, Company K3 makes the power of cloud computing accessible for all by giving founders everywhere access to the same technology that powers the world’s largest companies. With nearly 20 years of experience gained from supporting hundreds of thousands of startups that have come before, we help founders prove that their world-changing ideas are possible, at any stage of growth or level of funding. This is why more startups, and over 80% of unicorns, build on Company K3.
+
+Startup Solutions Architects work hand in hand with Company K3 customers to help them make the most of the Cloud. They are at the crossroads of business and technology and engage with startups of different stages. Supporting the overall technical relationship between customers and Company K3, they work to understand the customer's business needs and give prescriptive guidance on how to create business value with technology. Solutions Architects also have broader impact at scale, taking a supporting role in creating and presenting technical content and best practices.
+
+In this role you will get to practice your creativity, linking technology to tangible solutions and educating Company K3 customers about the art of the possible. You will have the opportunity to produce cloud-native reference architectures for a variety of use cases. You will have the support to grow your expertise in industry and technology areas of depth. Every day you will be learning something new from your customers, your peers and your own experiments.
+
+You will be part of a team that is responsible for driving adoption of Company K3 technologies while bringing differentiated value to customers. This is a team dedicated to Startups, an important and growing subset of customers for Company K3. Startups follow unique technology adoption patterns and growth trajectories that distinguish them from traditional businesses, so you will be employing engagement strategies and programs tailored to their business needs and technical preferences.
+
+Company K3 Global Sales is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. The Company K3 Global Support team interacts with leading companies and believes that world-class support is critical to customer success. Company K3 Support also partners with a global list of customers that are building mission-critical applications on top of Company K3 services.
+
+Key job responsibilities
+
+ As a Solutions Architect, you will work directly with customers to accelerate their projects and recommend best-practice architectures in line with their long-term business outcomes.
+ You operate as a trusted advisor for startups. The best interests of the customer will shape the guidance you provide. You work backwards from their priorities and find inventive ways to add value with solutions utilizing Company K3 and its Partners’ technology.
+ You capture and share the voice of the customer to influence the roadmap of new features and services for Company K3. You use your customer understanding to participate the creation or updates of technical content and reference architectures (e.g. white papers, code samples, blog posts).
+ Evangelize and educate about Company K3 technology (e.g. workshops, user groups, meetups, public speaking, online videos or conferences).
+
+To be successful in this role you need to be passionate about startups and cloud architectures. You are a builder with genuine curiosity about how technology can support your customers’ business models and objectives. You are a lifetime learner that develops areas of depth in technical domains relevant to your interests and your customer's outcomes. You are prepared to work in a fast-paced environment, where you will be positively challenged and consistently embrace the Company S2 Culture.
+
+#################################################
+
+Job Title: Solutions Architect
+Job Description: The Success team is responsible for ensuring developers and enterprises are successful in building scalable production applications with the Company O3 API platform. We guide and support customers to achieve maximum benefits, value, and adoption from deploying our highly-capable models. Company O3's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises.
+
+About The Role
+
+We are looking for a technically savvy and business-minded solutions architect to deeply partner with our most strategic and high-impact platform customers, guiding them through application ideation, development, delivery, and scale to accelerate and maximize the value of what they build with our platform. You will have the opportunity to work on the most novel and creative use cases being built on our API, serving as a critical partner for collecting and delivering high fidelity feedback to Product and Research teams. You will collaborate closely with the Partnerships Research and Product teams, and will report to the Head of Success.
+
+In This Role, You Will
+
+Deeply embed with our most strategic platform customers, serving as their technical thought partner in ideating and building novel applications on our API.
+Proactively provide guidance to our customers on how to maximize business impact from their applications, accelerating their time to value.
+Experiment and prototype solutions with and for your customers.
+Forge and manage relationships with our customers’ leadership and stakeholders to ensure their application’s successful deployment and scale.
+Contribute to our open-source developer and enterprise resources.
+Scale the Solutions Architect function through sharing knowledge, codifying best practices, and publishing notebooks to our internal and external repositories.
+Validate, synthesize, and deliver high-signal feedback to the Product and Research teams.
+Use your expertise in programming with Python and Javascript.
+
+You’ll Thrive In This Role If You
+
+Have 8+ years of technical consulting (or equivalent) experience.
+Are proficient in Python and Javascript.
+Built and/or delivered prototypes on top of our API platform.
+Led complex technical projects and programs with many stakeholders.
+Can proactively identify opportunities for maximizing our customers’ business value through leveraging the Company O3 API.
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done to ensure both your team and our customers succeed.
+Have a humble attitude and an eagerness to help others with empathy.
+Operate with high horsepower, are adept at frequent context switching and working on multiple projects at once with expansive ownership, and ruthlessly prioritize.
+Thrive in dynamic environments and can navigate ambiguity with ease.
+
+#################################################
+
+Job Title: Enterprise Architect - Technical Presales
+Job Description: The Opportunity We’re searching for an Enterprise Architect to join our team! 
+
+The Enterprise Architecture organisation works with Company O2 customers at all levels, from C-level executives, with a focus on the CIO/CTO, to operational teams, to advise on strategies and technology solutions to support customer-experience transformation and digital innovation. It deep dives into architecture and identifies a prioritised path forward for customers.
+
+Our engagements employ high level architecture assessments, thought leadership around reference architecture, creation of solution vision and solution design, success roadmap crafting, and other techniques to deliver high-impact recommendations. In addition, identifying where these can be executed through Company O2's solutions and services.
+
+Presales Enterprise Architect For our Central Europe region, based in either Munich or Hamburg, we are looking for an Enterprise Architect to join the team and report to the Head of Enterprise Architecture CER.
+
+The Enterprise Architect is a senior position that provides direct support to regional sales and partner organisations in developing opportunity pipelines and executing deal cycle strategy within complex and strategic sales opportunities. The Enterprise Architect is instrumental in the sales process.
+
+With your knowledge of Company O2 Digital Experience (DX) solutions, you are regarded as a trusted advisor by your customers, colleagues, and the full ecosystem. Your colleagues admire your ability to engage the customer, manage a room, partner with Company O2 sales, drive product enhancements with the Company O2 product and engineering team, and participate in marketing events and local partner enablement and advisory.
+
+Enterprise Architects have deep technical expertise across the full Company O2 solution portfolio. EAs partner with Account Executives and Solution Consultants to assess the technical fit and set the technical roadmap & vision across pre & post-sales, aligned to the customer strategy and business objectives.
+
+What You'll Do
+
+ Strategy & Planning – Partners with Account Executives to define overall account strategy, focusing on technical vision and design an impact roadmap that supports a customer’s long-term strategy and use cases
+ Business Case – Supports Account Executives in development of a Business Case and ensures business case and technical case are aligned
+ Technical Case – Owns and defines the customer architecture & technical milestones (current, future and transition states), partners with Account Solution Consultants to develop a clear Technical Case narrative and supports Professional Services Solution Architects on technical scope, implementation timelines & proposals
+ Account Management – Partner with Account Executives to become trusted client advisors and builds relationships and trusted advisor status with a customer CIO/CTO/CDO organisation
+ Client Management: act as a senior trusted advisor to the customer with a broad customer experience (CX), or specific industry focus, covering the entire journey of an end customer experience end-to-end, as well as internal employee experience. 
+
+What Your Primary Accountabilities Will Be
+
+ Architecture Design: validate the as-is / current state situation and goals of the customer and translate it into an appropriate business-driven to-be / target state vision with a supporting IT-roadmap (transition states) and design for architecturally significant requirements (processes, applications, systems) beyond standard blueprints, based on Company O2’s solutions. 
+ Architecture Oversight: assist in the smooth transition into post-sales and value-realisation stages, advising on operationalizing the mutual business strategy from the Technical Case during the sales cycle. Engage post-sales on Industry-led transformational accounts with responsibilities through to post-sales delivery ensuring technical guidance extends into post-sales
+ Architecture Review: provide regular ongoing reviews where required to clarify and take into consideration new requirements to jointly create a path to solution, impact plan and build a stable client-vendor relationship for future business
+ Serve as the primary over-arching technical expert and resource to guide and support Expert and Account Solution Consultants in development of Technical case
+ Add value “beyond the sale” through long-term strategy development of design roadmap, providing industry insights and connect client needs to Company O2’s broader solution portfolio
+
+What You Need To Succeed
+
+ Ideally broad knowledge of Company O2 solutions and deep knowledge in several key domains such as customer journey management, data management, implementation & integrations, personalisation, analytics, etc. 
+ Deep knowledge of cloud architecture patterns and how Company O2 fits into best-in-class enterprise solutions
+ Strong leadership capabilities and project management skills to align sales resources behind technical vision and help scale & drive EA knowledge and practice across wider EMEA region
+ Strong soft skills to communicate vision, challenge objections, provide compelling thought-leadership
+ Advisory and communication skills at CxO level with with key executives and develop strong working relationships with practitioner architects
+ Adept at building technical roadmaps & defining multi-phase milestones, and ensuring complex enterprise technologies work together at scale
+
+Job Specific Competencies & Skills
+
+ Bachelor equivalent: minimum requirement. Master / MBA preferred
+ Relevant licence presales or consulting presales experience in the Company O2 eco-system
+ Deep technical solution experience in Company O2 DX solutions
+ Strong overall professional experience in technical roles
+ Demonstrable experience of appropriate successful EA engagements
+ TOGAF qualified – highly desirable
+ Expert knowledge/expertise on end-to-end processes/solution matching
+ Design Thinking experience in customer facing engagements
+ Experience in sales and sales processes
+
+Excellent presentation and communication skills in English and German.
+
+#################################################
+
+Job Title: Designated Support Engineer
+Job Description: Company K4 is looking for an experienced Designated Support Engineer with a passion for customer relations, project and account management. This role requires a self-motivated professional with a strong technical background that consistently brings a high level of commitment to customers and Company K4 teammates. The ideal candidate brings strong communication and project management skills as well as strong technical background and the ability to strategically and tactically navigate the challenges with large, strategic customers.
+
+The Designated Support Engineer will develop and maintain close relationships with a strategic group of customers. The ideal candidate will coordinate and prioritize business critical cases/events, and will be responsible for ensuring a high touch support experience.
+
+The Impact You Will Have
+
+Work with Company K4' largest strategic accounts to provide high touch support experience
+Manage one or multiple accounts simultaneously
+Project manage all open support cases on a daily basis, sometimes multiple times a day to ensure forward progress.
+Facilitate correspondence with Engineering, Product Team, SMEs, Accounts Teams and inspire active engagement to ensure forward progress on support cases.
+Directly engage on business impacting situations and ensure recovery of functionality for the customer.
+Review upcoming customer events and planned production activities to identify potential problems, then plan and implement solutions
+Successfully engage with Senior Leadership, Technical and Functional staff to remove roadblocks, address delays and mitigate issues
+Own and drive escalated issues blocking production success
+Effectively use sound business judgment, risk avoidance and subject matter experts resources to coordinate team efforts to solve problems
+Carry out regular review of customer cases to identify trends
+Handle challenging situations in a fast paced environment
+Champion and advocate for customers and chair roundtables to ensure close communication and relationship building with key stakeholders
+Serve on and actively participate in customer steering committee meetings
+Drive customer self-sufficiency by ensuring customers understand how to engage with the Company K4 Support organization and tools
+Pilot new programs and drive continuous improvement initiatives for production customers
+Participate in our 24x7 program
+
+What We Look For
+
+3 to 5 years of customer facing experience as Technical Account Manager, Designated Support Engineer or in related areas like implementation, Technical Support, or Solutions Architect
+Minimum 3 years’ experience designing and developing, testing, and sustaining Python/Java/Scala based applications required
+Demonstrated analytical and problem-solving skills, particularly those that apply to a “Distributed Big Data Computing” environment.
+You are an excellent communicator (written and verbal skills), with demonstrable customer communication and coordination efforts, and the ability to take complex technical ideas and translate them to non-technical stakeholders
+
+#################################################
+
+Job Title: Technical Architect
+Job Description: Company C5 is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays & Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+
+About The Role
+
+As an early Technical Architect on Company C5’s Professional Services team, you will play a key role in designing and implementing technical solutions that drive successful customer engagements, particularly for large-scale enterprise deployments. Your work will help shape best practices for how we support complex customer needs and ensure Company C5’s platform is ready for scale.
+
+This is a highly cross-functional role, collaborating closely with customers as well as Company C5’s Product, Engineering, CX (Support), and Sales teams to deliver impactful solutions.
+
+What You'll Achieve
+
+Contribute to the technical aspects of customer engagements, including understanding customer requirements, designing technical solutions, and supporting the implementation of these solutions.
+Work closely with client stakeholders to gather business and technical requirements and translate them into well-architected solutions that maximize the value of the Company C5 platform within their technical ecosystem.
+Participate in technical design sessions, helping to architect and document solutions that align with client objectives and identifying gaps between their current and desired end states.
+Support the technical delivery of customer development, integrations, and data migration aspects of a Company C5 implementation.
+Identify opportunities to enhance and expand the use of Company C5 within customer organizations.
+Collaborate with Company C5’s Product, CX, and Engineering teams to address technical challenges and provide customer feedback.
+Assist in navigating the technical complexities of large-scale Company C5 deployments to ensure successful adoption.
+Contribute to the growth and development of the Professional Services team by sharing best practices and improving processes.
+
+
+Skills You'll Need To Bring
+
+5+ years of experience in a technical consulting, solutions engineering, or similar role, preferably in a SaaS or enterprise software environment.
+Proficiency in at least one programming language such as Java, JavaScript, Node.js, SQL, or Python.
+Hands-on experience with APIs and data integration.
+Strong written and verbal communication skills, with the ability to engage both technical and business audiences effectively.
+A track record of delivering customer value by translating technical challenges into practical solutions at scale.
+
+
+Nice To Haves
+
+Experience working in SaaS professional services, preferably in a startup environment
+Background in developing technical frameworks and best practices
+Strong history of collaboration with product and engineering teams
+Experience in pre-sales technical support
+Strong track record of successful enterprise customer implementations
+
+
+#################################################
+
+Job Title: Principal Technical Architect, Business Applications
+Job Description: As a Principal Technical Architect, Business Applications in our Innovation Hub in New York City, you will be working at the forefront of Company B1 innovation, helping customers create and implement a vision and strategy for their digital transformation. You will be an integral part of their transformation journey, challenging their ways of thinking and helping them realize and adopt the benefits of our Cloud. Part of a world-wide community of exceptional peers, you’ll have access to the latest software and hardware, and you’ll be given the time and budget to develop as a globally influential technical leader. This role is Company B1 onsite only.
+
+This role is Company B1 onsite only. By applying to this U.S. based position, relocation is not provided for the role.
+
+Company B1’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+Deliver customer engagements: Based at your facility location, you will prepare and deliver technical engagements to enterprise customers. These include business envisioning, solution envisioning, architecture design, building of rapid prototypes, and hackathons. You take a cross-solution view to leverage capabilities across the entire Company B1 cloud platform. You will work collaboratively with account teams to determine the best engagements for a given opportunity to maximize customer benefit and accelerate deals success.
+Solution design: Using your technical knowledge, architectural approach, consultancy skills and our methodology to win a customer’s technical decision to buy and use Company B1 solutions and cloud services.
+Set vision: You will use your technical knowledge to show customers an inspiring digital and AI vision, across all Company B1 workloads, as well as deeper engagement in your core technology specialism. You will make this digital vision real using the architecture skills of you and your peers to provide a complete solution.
+Build strategy: You will map the agreed customer vision into a strategy for implementation, resolving concerns, removing technical blockers, and validating a strong business case for investment. You will work with the customer, wider account team resources and our partners to orchestrate a roadmap for implementation.
+An expert in Company B1 business applications: Guide business and technical decision makers on creating business value on top of our Business Applications platform with a focus on Company B1 Copilot agentic solutions. Synthesize business and technical architecture requirements. Serve as the as the go-to technical expert in the business applications space for the regional sales team. Deliver speaking engagements evangelizing our Business Applications platform in business and industry conferences.
+Other
+Embody our Culture and Values
+Qualifications
+
+Required/Minimum Qualifications
+
+7+ years of technical pre-sales or technical consulting experience
+OR Bachelor's Degree in Computer Science, Information Technology, or related field AND 6+ years technical pre-sales or technical consulting experience
+OR Master's Degree in Computer Science, Information Technology, or related field AND 4+ years technical pre-sales or technical consulting experience
+OR equivalent experience. 
+5+ years of experience in ANY of the following technologies: Power Apps, Power Automate, Copilot Studio, D365 Sales, D365 Customer Company A3s, D365 Contact Center, and D365 Customer Service or related.
+Additional Or Preferred Qualifications
+
+Structured facilitator. Validated customer experience in requirements capture; prioritization; capturing evidence and impact to quantify business value; issue, risk and constraint identification.
+Technical breadth. Intermediate level experience across the full range of Company B1 cloud solutions – Azure infrastructure, Azure Developer, Azure data, artificial intelligence, business applications, modern workplace and productivity, security, business applications. Demonstrated experience of solution architectures which span multiple workloads.
+Design Thinking. Proven experience of delivering design thinking; ‘ideation’; or similar context analysis / problem framing.
+Technical depth. Technical competency in low-code AI technologies, building agentic solutions, customer engagement, operations, field service, and sales automation solutions such as: low-code programming techniques and best practices in the context of building AI and Company B1 Copilot agentic solutions; demonstrated ability to build low-code applications leveraging scripting languages such as JavaScript and TypeScript; mastery of Power Platform with an understanding of business process workflows and corresponding compliance, governance, and security models; success in architecting CRM business process flows and migration best practices from Salesforce to Dynamics 365 CRM.
+
+#################################################
+
+Job Title: Solutions Architect - Games 
+Job Description: Are you deeply technical, customer first-minded and passionate about games? Do you have interest in helping game companies solve hard problems to help bring play to the world? We are looking for experienced pre-sales professionals who have a successful track record helping Enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Enterprise SA defines and directs the technical strategy for our largest and important Games accounts (video game studios and publishers; real money gaming). You will lean upon your solid background in value selling, technical account management and technical leadership to maximize success in these accounts. Your success will lead to widespread adoption of the Company K4 Data Intelligence Platform, accelerating your Customer’s business critical ML & AI initiatives. As you will be working hand in hand with your customers to build proofs of concept, project managing production pilots you need to be highly technical. You will also be a thought leader for your customers helping your AE uncover Games Specific Data Use Cases based on the needs of your client.
+
+The Impact You Will Have
+
+Work with customers as the main technical voice for Company K4.
+Lead your customers on a transformational journey, helping them to evaluate and adopt Company K4 as part of their strategy
+Own the technical strategy in the account, in alignment with their strategy and our go-to-market strategy.
+Build a movement of technical champions within the account.
+Align technical strategies around Company K4 solutions.
+Provide structured mentorship for other team members.
+Gain the respect of your peers based on your experience, insight, and contributions.
+
+What We Look For
+
+Proficiency at establishing virtual teams, and leading them to ultimate success within the account.
+Passion working in the Games industry (studios, publishers or real money gaming).
+Ability to form and maintain meaningful relationships with technical executives and influencers.
+Strong presentation skills to create and evangelize a convincing point-of-view to important decision-makers that leads them down a path of success.
+Hands-on technical experience in big data, data science and cloud.
+An ability in data-driven business transformation, and driving change with data.
+Production programming experience in Python, R, Scala or Java
+Nice to have: Company K4 Certification
+
+#################################################
+
+Job Title: Information Systems Architect 
+Job Description: About The Team
+
+The Support team is central to ensuring that our customers' experience with our products is nothing short of exceptional. We resolve complex issues, provide technical guidance, and support customers in maximizing value and adoption from deploying our products. We work closely with Sales, Technical Success, Product, Engineering and others to deliver the best possible experience to our customers at scale. Company O3's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises.
+
+We strive to reduce friction across the customer journey by harnessing the power of AI and LLMs. Our focus is on building knowledge-driven systems that reduce the need for direct customer support interactions, optimizing both self-service and automated solutions. By joining our team, you’ll collaborate with forward-thinking professionals committed to continually improve and evolve the customer experience.
+
+About The Role
+
+As a Information Systems Architect for the Support team at Company O3, your mission will be to proactively reduce the number of support cases by designing and implementing data-driven, self-fortifying information and knowledge systems. This is not a traditional support knowledge management role: by leveraging your expertise in library sciences and knowledge management, you will push the boundaries of what’s being done in the Customer Support space and build novel AI/LLM solutions that drive self-service, automation, and optimize the experience for customers seeking assistance. You will drive the research, strategy, and implementation for turning insights from every customer interaction into knowledge or actionable improvements that continuously enhance our support systems. If successful, what you build can be applied to and expanded to other knowledge structures around Company O3.
+
+If you thrive in environments that value impact, collaboration, and fast-paced problem-solving, you might be the perfect fit for our team.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In This Role, You Will
+
+Lead the strategy and implementation of a dynamic knowledge base that evolves with customer insights from interactions and resolutions, fortifying the system over time and contributing to increased automation and deflection
+Use data from each step of the customer journey (Help Center, chatbot, support cases) to continuously improve the support and customer experience, while building out trust systems to validate information or knowledge updates – e.g. implementing a “reinforcement learning from human feedback” (RLHF) process
+Partner with engineering teams to build out the self-fortifying information and knowledge ecosystem, harnessing the power of Company O3 technology and future-proofing our systems for scale
+
+You Might Thrive In This Role If You
+
+Have an advanced degree in Library Sciences, Information Systems, AI, Machine Learning, or a related field
+Have experience in knowledge management systems, knowledge-centered support (KCS) and are passionate about applying it to customer support operations
+Possess an understanding of customer support workflows and are familiar with tools like Intercom, Zendesk, Salesforce, or similar platforms.
+Are skilled in data analysis and can derive insights from customer interactions to continuously improve information, knowledge, and systems
+Enjoy cross-functional collaboration and working closely with product, engineering, and operations teams to implement cutting-edge solutions
+Are a proactive problem-solver and project/program manage
+
+#################################################
+
+Job Title: Staff Premier Support Engineer
+Job Description: 
+Job Description:
+
+At Company M6, we empower people to transform complex data into clear and actionable insights. With as much data under management as the hyperscalers, we're the preferred data partner for the top companies in almost every industry. Powered by the relentless innovation of the open source community, Company M6 advances digital transformation for the world’s largest enterprises.
+
+As a Staff Premier Support Engineer, you play a vital role in ensuring the success of CDP/HDP/CDH and cloud adoption with customers. Your primary focus is delivering top-tier technical support for Company M6 customers, handling complex issues, and proactively enhancing platform stability and performance.
+
+Collaboration is key as you work closely with account teams, engineering, and solutions teams to provide high-quality support to our Premier customer base. You serve as a trusted technical advisor, guiding clients in optimizing big data and cloud technologies using Company M6's extensive resources.
+
+In this role as the primary technical contact, you provide advisory services, troubleshoot effectively, and engage higher management when necessary. Your responsibilities include meeting SLAs, offering technical guidance, and sharing comprehensive issue analyses with clients. You also work on prevention methodologies and propose initiatives, upgrades, and best practices to drive customer success.
+
+You actively participate in issue resolution, research, and Proof of Concepts (POCs) for technical support and customer success. Additionally, you present Quarterly Technical Reviews to clients to showcase results.
+
+This role requires a self-motivated individual dedicated to continuous learning, with strong customer service and technical problem-solving skills to deliver exceptional support and customer success. Local language support in Portuguese as well as English is highly desired.
+
+As a Staff Premier Support Engineer you will: 
+
+Holistic coordination between the customer and other Company M6 organizations across the full CDP and Cloud deployment lifecycle
+Trusted point of contact for technical customer feedback to Product Management, Engineering and Sales
+Regular briefings on Company M6 Data Platform releases and roadmap in alignment with AE and SE
+Coordinate triage and prioritization of customer questions and enterprise support tickets
+Quarterly business reviews of support activity and recommendations
+Fast-track escalations, identify trends, and develop action plans to mitigate/avoid issues
+Root cause analysis reports including recommendations to improve proactive management of Hadoop deployments
+Assist with planning assistance for critical milestones including upgrade planning and for making the best use of new product capabilities
+
+
+We’re excited about you if you have: 
+
+Bachelor’s Degree in Computer Science or Computer Engineering, or equivalent experience
+Open Source experience is a key requirement
+5 years of technical support experience
+2 years of enterprise account management (interaction with the end client on strategic deliveries)
+Demonstrated ability to manage technical projects and processes
+Ability to collaborate and partner with internal teams
+Professional oral, presentation, and written communication skills
+Experience with supporting Java applications running on Linux or Windows
+Ability to quickly learn and pick up new technical concepts
+Strong knowledge of networking concepts (TCP/IP, DNS, etc.) and ability to troubleshoot complex networking issues in a Linux or Windows environment
+Hadoop knowledge and skills are must
+
+
+You may also have:
+
+Experience with database or in a big data platform/company a plus
+
+#################################################
+
+

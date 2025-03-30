@@ -1,0 +1,287 @@
+Cluster 31:
+
+Job Title: Quantum Algorithm Engineer
+Job Description: 
+Company Q1’s Quantum team is looking for Quantum Algorithm Engineers to work closely with leaders in Japan in the Quantum Computing industry leveraging the Company Q1 platform. We are seeking experts in quantum with applications in chemistry, machine learning, error correction and related areas with a desire to enable researchers across a range of disciplines. If you want to help push the boundaries of quantum computing, we want to hear from you!
+
+What You'll Be Doing
+
+Lead and develop collaborations with key leaders, startups and influential researchers in the quantum computing field.
+Discover high impact problems Company Q1 can uniquely solve that create new market paradigms.
+Drive early adoption of new products, and collect feedback and requirements.
+Speak at relevant scientific, technical and industry conferences.
+
+What We Need To See
+
+Degree in Physics, Computer Science, Chemistry, Applied Mathematics, or related engineering field (Ph.D. or Masters preferred)
+Extensive background in Quantum Information Science with expertise in one of the following: algorithms for Chemistry, Quantum Machine Learning, Error Correction or similar domain.
+5+ years experience in Quantum Computing, High Performance Computing and related areas.
+World-class communication skills with a demonstrated ability to articulate a value proposition to technical and non-technical audiences
+
+Ways To Stand Out From The Crowd
+
+Experience with GPU computing.
+Hands-on experience in scientific computing, high-performance computing, applied machine learning, or deep learning.
+Background in software development. Bonus points for scientific software development experience.
+
+#################################################
+
+Job Title: Quantum Software Engineer
+Job Description: The Quantum Information and Integrated Nanosystems Group at Company G1 develops quantum systems, including theory, engineering, and control, to address critical future technology needs. Areas of focus include superconducting qubits, trapped ions, integrated photonics, and solid-state quantum sensing. The group’s innovative research is supported by on-site state-of-the-art fabrication tools, close partnership with universities and industry, extensive test and measurement infrastructure, and daily collaboration with the 1700+ Ph.D-level scientists within Lincoln Laboratory
+
+Job Description
+Our group at Company G1 seeks a full-time assistant technical staff member to architect, develop, and maintain software that supports research towards promising applications for quantum computation. This engineer would work closely with a group of senior and junior researchers and developers in an agile and independent environment, where the team is defining new applications for quantum computing, designing quantum algorithms for these applications, developing logical circuit implementations of the algorithms, and performing resource analysis of these circuits.
+
+Candidates would ideally have one or more of the following qualifications:
+Experience or familiarity with one or more commercial or open-source quantum software tools (Qualtran, Cirq, Qiskit, PennyLane, etc.)
+A background or familiarity of developing software in a scientific or research environment (e.g. quantum information, astro-particle or particle physics, high-performance computing)
+Competence with Git version control, unit-testing frameworks, build tools, CI/CD pipelines
+Strong problem-solving skills, attention to detail, and the ability to work effectively in a collaborative team environment
+Excellent communication and interpersonal skills when working in a cross-functional team
+Requirements
+BS in Computer Science, Physics, Applied Mathematics or a related field and 2+ years of relevant industry experience. Must have a strong proficiency in Python. Experience with C++ is strongly desirable. Candidates should have a background, education, or a strong interest in quantum information science. Candidates with a background in an engineering or scientific field who are strongly proficient in programming are encouraged to apply.
+
+#################################################
+
+Job Title: Quantum Applications Scientist
+Job Description: The Quantum Information and Integrated Nanosystems Group at Company G1 develops quantum systems, including theory, engineering, and control, to address critical future technology needs. Areas of focus include superconducting qubits, trapped ions, integrated photonics, and solid-state quantum sensing. The group’s innovative research is supported by on-site state-of-the-art fabrication tools, close partnership with universities and industry, extensive test and measurement infrastructure, and daily collaboration with the 1700+ Ph.D-level scientists within Lincoln Laboratory
+
+Job Description
+
+Our group at Company G1 seeks a full-time technical staff member to perform research on promising applications for quantum computation. This researcher would work within a group that is defining new applications for quantum computing, designing quantum algorithms for these applications, developing logical circuit implementations of the algorithms, and performing resource analysis of the circuits.
+
+Candidates should have experience in one or more of the following areas:
+
+ Broad theoretical expertise in one or more scientific domains (e.g., condensed matter physics, chemistry, materials science) and experience with practical applications. 
+ The use of computation to tackle difficult scientific and engineering tasks; familiarity with both canonical and best-in-class methods. 
+ The development of new theoretical methods, algorithms or workflows for scientific computation; expertise in mapping mathematical problem descriptions to computations. 
+ A clear understanding of the scope and limitations of classical computational tools. 
+ Experience working with subject matter experts to answer realistic questions with well-defined experimental utility. 
+ Experience developing or applying quantum algorithms for scientific computation. 
+
+
+Requirements
+
+PhD (or a MS and 5+ years experience or BS and 10+ years experience) in Physics, Computer Science, Electrical Engineering or related field. Must have a strong background in theory and computation while appreciating how these can be reconciled with practical applications or experiments. Experience with quantum algorithms and quantum circuits is desirable, as is experience with quantum development platforms and resource estimation tools. The ability to develop software in programming languages such as Python, Julia, Matlab, Fortran, C++, and/or Mathematica is required.
+
+#################################################
+
+Job Title: Quantum Computing Applied Research Analyst
+Job Description: Are you looking for an exciting opportunity to join a dynamic and growing team in a fast paced and challenging area? This is a unique opportunity for you to work with Global Technology Applied Research (GTAR) division of Company E6. The goal of GTAR is to design and conduct research across multiple frontier technologies, to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm's clients and businesses.
+As a 2025 Quantum Computing Applied Research Summer Analyst within the Global Technology Applied Research (GTAR) division of Company E6 & Co., you will have the unique opportunity to advance the state of the art of theory and practice of quantum algorithms. You will collaborate with other researchers on a research project in areas like theoretical analysis, numerical benchmarking and implementation on hardware of quantum algorithms, quantum error correction and compilation to fault-tolerant architectures. Your professional growth and development will be supported throughout the internship program via project work related to your academic and professional interests, mentorship, and interaction with senior stakeholders.
+
+Job Responsibilities:
+
+
+Advance the state of the art of theory and practice of quantum algorithms
+Work with other researchers to document your findings in scientific papers
+Contribute to JPMC's IP by pursuing necessary protections of generated IP
+Required qualifications, capabilities, and skills
+
+
+1+ years of experience with quantum computing. Enrolled in a Bachelor's degree program in math, science, engineering, computer science or related fields
+Demonstrated research ability in quantum computing or related fields
+Experience in scientific technical writing
+Proficiency in Python
+Strong communication skills and the ability to present findings to a non-technical audience
+Preferred qualifications, capabilities, and skills
+
+
+Experience in Quantum algorithms for optimization (e.g., QAOA, quantum adiabatic algorithm, quantum walks).
+Experience in Quantum algorithms for machine learning (e.g., quantum algorithms for linear systems, PCA, classification).
+Experience in Quantum linear algebra (QSP, QSVT, and specific realizations).
+Experience in Simulation of quantum algorithms (e.g., MPS, PEPS, tensor networks).
+Experience in High-performance computing (e.g., MPI, experience running computational tasks on 100+ nodes).
+Experience in Theory of quantum algorithmic speedups (query complexity upper and lower bounds, universal techniques such as phase estimation, quantum counting, quantum walks, LCU and QSVT).
+Experience in Quantum error correction and fault tolerance (e.g., qLDPC codes, QEC decoders) and Experience in Compilation of quantum algorithms to fault-tolerant architectures
+
+#################################################
+
+Job Title: High-Performance Computing Research - Lead Software Engineer
+Job Description: Job Description
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+As a Lead Software Engineer at Company E6 within the Chief Technology Office’s Global Technology & Applied Research team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. You work in close collaboration with the quantum algorithms research team.
+
+Job Responsibilities
+
+Write high-performance code in C, C++, Python and other languages
+Develop software that takes full advantage of parallel clusters, leveraging both CPUs and GPUs
+Work closely with quantum algorithm team to develop and scale up simulation codes to advance algorithm research
+Develop software to support experiments on quantum hardware
+Contribute to JPMC’s IP by pursuing necessary protections of generated IP
+
+Required Qualifications, Capabilities, And Skills
+
+Formal training or certification on software engineering concepts and 5+ years applied experience
+Bachelor’s degree combined with 2+ years of quantum computing industry experience or Master’s or Ph.D. degree in computer science, physics, math, engineering or related fields
+Demonstrated ability to maintain or develop high-performance computing software
+Proficiency in Python or C/C++
+
+Preferred Qualifications, Capabilities, And Skills
+
+Experience in advanced techniques for simulation of quantum algorithms and quantum many-body systems (e.g., MPS, PEPS, tensor networks)
+Experience in simulation of quantum circuits (e.g., statevector simulation, density matrix simulation)
+Experience in parallel computing (e.g., MPI, experience running computational tasks on 100+ nodes)
+Experience in GPU programming (e.g., CUDA, SYCL)
+Familiarity with quantum computing
+Experience in finance is a plus, though no prior familiarity with financial use cases is required.
+
+#################################################
+
+Job Title: Applied Research Mathematician / Quantum Computing - Experienced to Expert Level
+Job Description: Responsibilities
+
+Company P3 conducts world-class research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking experienced mathematicians or physicists with subject matter expertise in quantum algorithms and/or quantum error correction to support Company P3's and the US Government's strategic efforts in quantum computing. If you are interested in joining a dynamic team with a proven track record of developing impactful research results, then please apply for this position. Candidates will be expected to engage with the Company P3 and US government quantum computing efforts, identify important research problems within this space, and conduct research to support Company P3 and US government goals in quantum computing. Candidates must have research and/or development experience (beyond basic coursework) in quantum algorithms and/or quantum error correction. Demonstrations of this record could include publishing in academic journals or delivering operational solutions to technical problems for customers from government or industry. A PhD is not required, although candidates must have acquired an advanced level of experience and mastery (beyond simply taking a few courses) in some area of quantum computing. Demonstrated success with effective technical writing and the ability to explain results to a non-technical audience is desirable. Experience with at least one of the following programming languages and/or software packages is desirable: C/C++, Rust, Python, SageMath, MAGMA. The ideal candidate will have a grounded background in mathematical tools, techniques, and theory, as well as a drive to apply that knowledge to complex and often ambiguous real-world situations. The ideal candidate will also have the ability to prototype and implement solutions in computer code/scripting, and a desire to stretch outside their comfort zone in a career that offers lifelong learning opportunities. While the primary research focus for this position is quantum computing, candidates could also have the option to contribute to other mathematics research efforts of interest to Company P3. These efforts involve a wide range of areas of mathematics, including linear algebra, number theory, probability, statistics, analysis, graph theory, or other areas of theoretical mathematics. Other areas of interest include cryptomathematics, algorithm development, computer network security, and vulnerability analysis. Interest in any of these areas is not required, but will be looked upon favorably.
+
+Job Summary
+
+Company P3's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. The Group focuses on mathematics research in the applications of a wide range of technical areas, including quantum computing, cryptanalysis, cryptography, vulnerability research, machine learning, statistical analysis, machine learning security, network defense, digital forensics, and graph algorithms. The nature of Company P3 mathematics is highly computational; therefore, computer programing/scripting experience in one or more languages will be of great benefit to the ideal candidate. In particular, the Mathematics Research Group is seeking candidates with experience in quantum computing research or development. Applicants with degrees in related fields such as Physics, Computer Science, and Data Science with demonstrated experience in quantum computing will be considered. The ideal candidate will have experience performing research or development in quantum computing, either alone or with a team. This vacancy will use a structured selection process. Candidates will be required to undergo two structured interviews, one covering technical expertise in quantum computing and the other covering soft skills. Candidates will also be required to present a seminar talk on quantum computing research or development work they have performed.
+
+Qualifications
+
+The qualifications listed are the minimum acceptable to be considered for the position. Degree must be in Mathematics, Physics, Engineering, Data Science, Computer Science, Statistics, or a related STEM field. Degree must include at least 24 semester credit hours (or 36 credit hours from universities on a quarter system) in advanced mathematics courses. Relevant experience must be in one or more of the following: the design, development, use, and evaluation of mathematics models, methods, or techniques (for example, algorithm development) to study issues and solve problems. Experience may also include, network engineering, computer science, physics, software engineering, electrical engineering. FULL PERFORMANCE Entry is with a Bachelor's degree plus 3 years of relevant experience, or a Master's degree plus 1 year of relevant experience, or a Doctoral degree with no experience. SENIOR Entry is with a Bachelor's degree plus 6 years of relevant experience, or a Master's degree plus 4 years of relevant experience, or a Doctoral degree plus 2 years of relevant experience. EXPERT Entry is with a Bachelor's degree plus 9 years of relevant experience, or a Master's degree plus 7 years of relevant experience, or a Doctoral degree plus 5 years of experience.
+
+#################################################
+
+Job Title: Research Scientist, Design and Simulation
+Job Description: Description
+
+Our Center for Quantum Computing is a multi-disciplinary team of scientists, engineers, and technicians, all working to innovate in quantum computing for the benefit of our customers.
+
+We are looking to hire a Research Scientist to design and model novel superconducting quantum devices, including qubits, readout and control schemes, and advanced quantum processors. Candidates with a track record of original scientific contributions and/or software development experience will be preferred. We are looking for candidates with strong engineering principles and resourcefulness. Organization and communication skills are essential.
+
+About The Team
+
+Company K3 Utility Computing (UC) provides product innovations — from foundational services such as Company S2’s Simple Storage Service (S3) and Company S2 Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set Company K3’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in Company K3, including support for customers who require specialized security solutions for their cloud services.
+
+Diverse Experiences
+
+Company K3 values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+
+
+
+
+Basic Qualifications
+
+ PhD in physics, applied physics, electrical engineering, or equivalent degree in a similar field
+ Knowledge of quantum mechanics, with expertise in at least one of the following topics: quantum technologies (sensing, communications, computing, etc.) superconducting qubits, hybrid quantum acoustic devices, cavity/circuit QED, quantum optics, open quantum systems, superconductivity (phenomenology or microscopic theory)
+ Proficient in a scientific programming environment
+
+Preferred Qualifications
+
+ Experience with microwave and/or multiphysics modeling software (one or more of COMSOL, Sonnet, Microwave Office, ANSYS, Keysight ADS, Company W1 AWR, Palace, etc.)
+ Experience with device layout scripting and automation
+ Effective working in a team environment with other engineers, scientists and technicians who have a wide range of technical skill levels
+
+#################################################
+
+Job Title: Quantum Scientist
+Job Description: Responsibilities
+
+Company I3 is seeking Principal Engineers / Quantum Scientists to support the National Aeronautics and Space Administration (NASA) Aeronautics and Exploration Technology directorates at NASA Ames Research Center (ARC). Employees will perform complex tasks related to scientific research associated with air traffic management, advanced technology, nanoelectronics, prototype software, and quantum computing, particularly the improvement of aircraft and airspace safety as well as the transition of advanced aeronautics technologies into future air vehicles. The goal of the research effort is to improve current models of quantum computing (in particular gate-model and quantum annealing) or to study unconventional paradigms of computation (for instance, optically Coherent Ising Machines).
+
+This can involve design of experiments to run on emerging hardware to give insights into quantum approaches to problems of interest to NASA and other partners from the U.S. Government, academia, and industry. The researcher explores the physics of quantum algorithms, the robustness of the hardware, develops best practice programming techniques for quantum hardware, and illuminates the inner workings to better understand the mechanisms (e.g. entanglement, co-tunneling, many-body effects etc.) that can be used to provide a quantum computational advantage.
+
+Example Research Problems Include
+
+ Follow, understand and review the technological developments in the sector of quantum computing, and related tangential domains, including the emergence of other post-Moore computing platforms. 
+ Develop new analytical, or experimental, or numerical techniques to better analyze realistic quantum computational paradigms. 
+ Invent and analyze new quantum algorithms or protocols of computation. 
+ Develop, and test applications of quantum computing for specific problems such as those involving planning and scheduling of unmanned aerial systems and autonomous mobile robots, data analysis, and a number of other partner problems in the domain of optimization and machine learning. 
+ Develop beyond-state-of-art classical computing techniques (optimization, machine learning). 
+
+Required Qualifications
+
+ Multiple levels available. 
+ Minimum of Master's degree or Ph.D. degree, in Physics, Computer Science, Mathematics, or Computer Engineering, or related. 
+ Either relevant postdoctoral work or research experience in the field of Quantum Physics, or Applied Mathematics, or Applied Computer Science 
+ Proven organizational and communication skills. 
+ Ability to work independently and effectively as part of a multidisciplinary team. 
+ Proficiency in Company B1 Office or similar and its applications. 
+ Ability to understand and code proof-of-concepts in a modern programming language 
+
+Associate Level
+
+ Master's degree in Computer Science, Mathematics, Engineering, or equivalent. 
+ Five or more years of experience 
+
+Mid Level
+
+ Ph.D. in Computer Science, Mathematics, Engineering, or equivalent. 
+ Seven or more years of experience 
+
+Senior Level
+
+ Ph.D. in Computer Science, Mathematics, Engineering, or equivalent. 
+ Seven or more years of experience 
+
+Desired Qualifications
+
+ Experienced in publishing related work in peer reviewed journals, and contributing to obtaining new funding in the areas above. 
+ Proficiency in writing documents with mathematical notations in TeX/LaTex. 
+ Experience developing analytical and numerical models and algorithms, quantum and classical. 
+ Experience building theoretical or software tools that enable effective use of near-term quantum hardware. 
+ Experience with theoretical physics methods of analysis, optimization or machine learning methods. 
+
+#################################################
+
+Job Title: Quantum Computing Experimental Research Scientist
+Job Description: Company X7 Research Scientists are charting the future of Artificial Intelligence, creating breakthroughs in computing, discovering how blockchain will reshape the enterprise, and much more. Join a team that is dedicated to applying science to some of today's most complex challenges, whether it’s discovering a new way for doctors to help patients, teaming with environmentalists to clean up our waterways or enabling retailers to personalize customer service.
+
+Your Role and Responsibilities
+
+This is for a 2025 summer internship with the following start dates: May - August or June - September for quarter system schools.
+
+As an experimental research scientist with Company X7 Quantum, your job will be to advance the field of quantum computing by pushing the boundaries of what’s possible on today’s most advanced quantum hardware. You will develop and make first-of-a-kind demonstrations of new capabilities to extend the reach of Company X7’s quantum processors. You will also work with theorists, experimentalists, and software engineers to design and execute groundbreaking demonstrations at the utility-scale, utilizing capabilities such as error mitigation and error suppression. Areas of interest for demonstrations include quantum simulation, chemistry, machine learning, high energy physics, condensed matter physics, and optimization.
+
+Responsibilities include advancing the entire quantum computing technology stack and exploring applications to make quantum broadly usable and accessible. Collaborate with others in a research and development environment, participate in executive speaker series, and showcase effective problem-solving skills."
+
+Required Technical and Professional Expertise
+
+
+Experience in academic graduate program related to quantum computing or other applicable area of study
+ Experience performing experimental research.
+
+
+Preferred Technical And Professional Expertise
+
+
+Experience using experimental techniques such as error mitigation, error suppression, quantum control
+Strong publication record in high-impact journals or top conference proceedings.
+Familiarity with Git and/or Github
+Experience with one or more general purpose programming languages such as Python
+Experience with Qiskit or similar quantum software development kit
+
+#################################################
+
+Job Title: Quantum Algorithm Engineer
+Job Description: Company Q1’s Quantum team is looking for Quantum Algorithm Engineers to work closely with leaders in Japan in the Quantum Computing industry leveraging the Company Q1 platform. We are seeking experts in quantum with applications in chemistry, machine learning, error correction and related areas with a desire to enable researchers across a range of disciplines. If you want to help push the boundaries of quantum computing, we want to hear from you!
+
+What You'll Be Doing
+
+Lead and develop collaborations with key leaders, startups and influential researchers in the quantum computing field.
+Discover high impact problems Company Q1 can uniquely solve that create new market paradigms.
+Drive early adoption of new products, and collect feedback and requirements.
+Speak at relevant scientific, technical and industry conferences.
+
+What We Need To See
+
+Degree in Physics, Computer Science, Chemistry, Applied Mathematics, or related engineering field (Ph.D. or Masters preferred)
+Extensive background in Quantum Information Science with expertise in one of the following: algorithms for Chemistry, Quantum Machine Learning, Error Correction or similar domain.
+5+ years experience in Quantum Computing, High Performance Computing and related areas.
+World-class communication skills with a demonstrated ability to articulate a value proposition to technical and non-technical audiences
+
+Ways To Stand Out From The Crowd
+
+Experience with GPU computing.
+Hands-on experience in scientific computing, high-performance computing, applied machine learning, or deep learning.
+Background in software development. Bonus points for scientific software development experience.
+
+Company Q1's invention of the GPU revolutionized parallel computing. Our GPUs are being used in many of the largest high-performance computing projects around the world, solving real world problems, including advancing the state of Quantum Information Science. Company Q1 is widely considered to be one of high technology's most desirable employers. We have some of the most forward-thinking and experienced people in the world working for us. Our goal is to craft an environment where we can do our life's best work. If you're creative, autonomous, and highly motivated, we want to hear from you!
+
+#################################################
+
+

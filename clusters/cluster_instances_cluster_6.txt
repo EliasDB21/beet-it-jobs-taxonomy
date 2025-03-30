@@ -1,0 +1,607 @@
+Cluster 6:
+
+Job Title: Perception Engineer
+Job Description: Company Q5 Robotics is on a mission to accelerate the advent of intelligent machines in the physical world. As the rise of LLMs like ChatGPT has shown, AI has the potential to drive immense change. However, we believe AI’s biggest impact will be in the physical world, given industries like manufacturing, food, and transportation represent 90% of global GDP. We're starting with food, with a goal to put an intelligent robot in every commercial kitchen in the world. We have signed multiple multi-year contracts with various large food companies and we are growing fast. We're backed by investors like Kleiner Perkins, Construct, Company M1 BETA and Promus Ventures. We have a great team, where you will be surrounded by talented engineers and tech leaders from companies like Cruise, Zoox, Company T2, Verb Surgical, Company L4, Nuro, Vicarious, Company S2 Robotics, Strateos, Built Robotics, Facebook, Plenty, Yelp, and Company B1.
+
+Company Q5 is looking for a Perception Engineer to help us scale our fleet of robots. You will be making a large impact on a small team, developing the next generation of our perception system that will allow our robots to reliably serve millions of meals in production environments. Ideal candidates for this role will be well-versed in the latest in deep learning, while also possessing a strong foundation in classical computer vision and state estimation.
+
+Responsibilities & Example Projects
+
+Oversee the collection, labeling, and management of datasets to train and evaluate machine learning models, including working with labeling vendors to ensure high-quality data annotation and building out ML ops infrastructure
+Employ strategies for training models with limited data, including things like synthetic data generation, data augmentation, transfer learning, active learning, and domain adaptation
+Develop perception systems for object detection and segmentation utilizing both 2D and 3D image data
+Develop systems for sensor fusion and object tracking
+Develop scalable and productionizable methods for camera calibration
+Evaluate and select cameras and other sensors for our next-generation hardware
+Champion engineering excellence, ensuring high-quality, well-structured, and well-tested code
+Stay up-to-date with the latest ML and perception research and apply insights in a practical way to our system
+Drive the development of new ideas from conception through implementation and evaluation
+Take full ownership of perception projects, ensuring they meet and exceed performance and reliability standards
+Be proactive in identifying potential issues and opportunities for improvement, leading efforts to develop and implement solutions
+
+
+Requirements
+
+BS, MS, or PhD in computer science, robotics, electrical engineering, mechanical engineering or related field
+Practical experience shipping working perception systems
+Minimum of 5+ years research and industry experience in machine/deep learning and computer vision
+5+ years experience in Python and/or C++
+Experience with common deep learning frameworks like Tensorflow or Pytorch
+Excellent software engineering fundamentals
+Excellent mathematical skills, especially with probability and statistics, linear algebra, and classical machine learning
+
+
+Bonus Points
+
+Startup experience
+Experience with the robotics tech stack, e.g. Linux, ROS, OpenCV, CUDA
+Experience with SLAM, localization, calibration, state estimation, sensor fusion
+Experience with full-stack web engineering and infrastructure
+Experience with basic mechatronics and electronics 
+Strong publication record in top machine learning and computer vision journals
+
+#################################################
+
+Job Title: Data Scientist
+Job Description: 
+Description
+
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Company S2 Robotics. We are a smart team of doers who work passionately to apply cutting edge advances in robotics and software to solve real-world challenges that will transform our customers’ experiences. We invent new improvements every day. We are Company S2 Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling, and fun.
+
+Company S2 Robotics empowers a smarter, faster, more consistent customer experience through automation. Company S2 Robotics automates fulfillment center operations using various methods of robotic technology including autonomous mobile robots, sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic understanding of commands. Company S2 Robotics has a dedicated focus on research and development to continuously explore new opportunities to extend its product lines into new areas.
+
+Key job responsibilities
+
+We Are Seeking An Enthusiastic Data Scientist To
+
+ Design and implement state-of-the-art solutions for never-before-solved problems.
+ Collaborate closely with other research and robotics experts to design and run experiments, research new algorithms, and find new ways to improve Company S2 Robotics analytics to optimize the Customer experience.
+ Partner with technology and product leaders to solve business problems using scientific approaches.
+ Build new tools and invent business insights that surprise and delight our customers.
+ Work to quantify system performance at scale, and to expand the breadth and depth of our analysis to increase the ability of software components and warehouse processes.
+ Work to evolve our library of key performance indicators and construct experiments that efficiently root cause emergent behaviors.
+ Engage with software development teams and warehouse design engineers to drive the evolution of the Company S2 Robotics system, as well as the simulation engine that supports our work.
+
+A day in the life
+
+As a member of the Software Research and Data Science (SWRDS) team, there are multiple different paths you can take. For example, you may conduct deep dive analysis of both structured and unstructured robotics field analyses. Some of our team members focus on modeling, pipelines and tooling work, while others focus more on analytic work. We also have team members working on early-concept solution analysis (leveraging simulations, ML-based models, experimenting with new solutions).
+
+About The Team
+
+The Company S2 Robotics Software Research and Data Science (SWRDS) team builds and runs simulation experiments and delivers analyses that are central to understanding the performance of the entire Company S2 Robotics system. This includes operational and software scaling characteristics, bottlenecks, and robustness to “chaos monkey” stresses -- we inform critical engineering and business decisions about Company S2’s approach to robotic fulfillment.
+
+Basic Qualifications
+
+ Master's degree or higher in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science, or Bachelor's degree and 3+ years of professional or military experience
+ 1+ year of relevant academic research or industry experience within relevant science disciplines such as Machine Learning, Applied Statistics, Computer Vision, Optimization, or related field
+ 1+ year of experience using data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, SAS, Matlab, etc.)
+
+Preferred Qualifications
+
+ 1+ years of data scientist or similar role involving data extraction, analysis, statistical modeling and communication experience
+ 2+ years of data/research scientist, statistician or quantitative analyst in an internet-based company with complex and big data sources experience
+
+#################################################
+
+Job Title: Security and Safety Systems Developer 
+Job Description: 
+Company P4 (TII) is a publicly funded research institute, based in Abu Dhabi, United Arab Emirates. It is home to a diverse community of leading scientists, engineers, mathematicians, and researchers from across the globe, transforming problems and roadblocks into pioneering research and technology prototypes that help move society ahead.
+
+
+
+Secure Systems Research Centre leads the development of end-to-end security and resilience for cyber-physical and autonomous systems. Our multi-disciplinary approach allows us to combine domain knowledge with security and resilience technologies, delivering breakthroughs in applied research that benefit society, support smart cities and boost economic development.
+
+
+
+Position Summary
+
+We seek a dedicated and technically adept Security and Safety Systems Developer to spearhead development and integration of robust software solutions for real-time monitoring and management of autonomous systems. This role requires a deep understanding of safety-critical system design and cybersecurity principles to deliver secure, reliable, and effective systems across various operational environments.
+
+
+
+Responsibilities
+
+Develop and Implement Software Solutions: Create software for real-time monitoring and management of autonomous systems, ensuring they meet operational requirements and standards and follow secure coding practices. 
+Ensure Resilience, Security, and Safety: Utilize advanced software engineering practices to enhance system robustness. Employ fault tolerance techniques and redundancy management to ensure system reliability and safety under various operational conditions.
+Integration with Hardware and Communication Protocols: Work with other divisions to integrate safety and security features into the hardware and communication protocols, ensuring seamless functionality across all system components.
+Collaboration on Research and Development Projects: Engage with researchers on projects to enhance autonomous systems' capabilities using machine learning algorithms, focusing on developing knowledge-based systems for decision-making. Specifically, it contributes to development and proof of concept (PoC) activities at TRL4 (Technology Readiness Level 4) and above, ensuring solutions are viable and scalable in real-world applications.
+Troubleshooting and Problem Resolution: Diagnose and resolve issues related to software performance, security breaches, and system failures, maintaining high standards of system integrity and reliability.
+
+
+Qualification and Skills
+
+Advanced Software Development Skills: Expert proficiency in programming languages such as Python and C++. Strong experience with real-time operating systems or embedded systems. Demonstrated ability to develop complex software architectures and high-performance applications.
+Safety and Security Knowledge: Deep understanding of cybersecurity principles, including threat modeling, secure coding practices, and security testing. Knowledge of safety-critical systems design and implementation, including familiarity with ISO 26262 for functional safety.
+Experience with Autonomous Systems: Detailed familiarity with drones or other autonomous vehicles, including their control systems and operational challenges.
+Problem-Solving Skills: Exceptional ability to diagnose and resolve intricate software and hardware integration issues.
+Collaborative and Communicative: Excellent teamwork skills, leading and communicating effectively across different teams and with stakeholders.
+
+
+Desirable Additional Skills
+
+Proficiency with Machine Learning, particularly in anomaly detection, fault diagnosis, or adaptive systems.
+Background in developing or implementing security protocols in wireless communication networks.
+In-depth knowledge of standards and regulations relevant to aerial drones and autonomous systems.
+
+
+Education
+
+Master’s degree in Computer Science, Software Engineering, Cybersecurity, or a related field. Advanced degrees or certifications in security or safety engineering are highly valued.
+
+#################################################
+
+Job Title: Guidance, Navigation and Control Engineer
+Job Description: Company P4 (TII) is a publicly funded research institute, based in Abu Dhabi, United Arab Emirates. It is home to a diverse community of leading scientists, engineers, mathematicians, and researchers from across the globe, transforming problems and roadblocks into pioneering research and technology prototypes that help move society ahead.
+
+
+
+Autonomous Robotics Research Centre
+
+
+
+Unmanned vehicles in space, in the air, on land, on sea, and underwater offer exciting opportunities to dramatically improve safety, environmental protection and operational effectiveness – at lower cost – in both industrial and mission-critical settings.
+
+
+
+Our research focus includes:
+
+
+
+UAV research and development, covering platforms, real-time operating systems, perception and communication algorithms, control, and decision-making algorithms
+Autonomous marine and submarine vehicles research and development for different use cases
+Autonomous ground vehicle research and development for on road and off-road use cases
+Swarm architectures for heterogeneous drones and advanced communication networks
+Low-power platforms for nano-size and pico-size UAV classes
+Bio-inspired, evolutionary, and self-organized methodologies
+
+
+
+
+Responsibilities
+
+
+
+Design and develop guidance, navigation, and control systems for UAVs and autonomous systems.
+Collaborate with cross-functional teams to define system requirements and specifications.
+Conduct system integration and validation to ensure seamless operation of the GNC systems.
+Develop high-level guidance algorithms to determine optimal trajectories and target tracking strategies.
+Optimize guidance algorithms for performance, robustness, and adaptability in various operational scenarios.
+Implement navigation algorithms to estimate the vehicle's position, orientation, and velocity.
+Fuse data from multiple sensors such as GPS, inertial sensors, and vision systems to enhance navigation accuracy and reliability.
+Develop and implement algorithms for sensor calibration, data fusion, and outlier detection.
+Design control systems to stabilize and control the UAV's attitude, altitude, and flight path.
+Implement control techniques such as PID control, adaptive control, or model predictive control.
+Optimize control system parameters to achieve desired performance, stability, and robustness.
+Conduct simulations, hardware-in-the-loop (HIL) testing, and flight testing to validate GNC system performance.
+Analyze test data, identify performance gaps, and propose necessary improvements or modifications.
+Collaborate with flight test engineers to ensure safe and effective integration of GNC systems on UAV platforms.
+Create detailed technical documentation including system specifications, design documents, and test plans.
+Prepare reports and presentations to communicate findings, results, and recommendations to project stakeholders. 
+
+
+
+
+Requirements
+
+
+
+Strong knowledge of guidance, navigation, and control principles for autonomous systems.
+Proficiency in programming languages such as C/C++, Python, or MATLAB for algorithm development and implementation.
+Familiarity with control system design tools and software packages, such as Simulink, ROS, or PX4.
+Experience with UAVs or autonomous systems, including flight dynamics, aerodynamics, and flight testing.
+Solid understanding of sensor technologies, sensor fusion techniques, and state estimation algorithms.
+Excellent analytical and problem-solving skills to troubleshoot and optimize complex systems.
+Strong teamwork and communication skills to collaborate effectively with multidisciplinary teams.
+Ability to manage multiple priorities, meet project deadlines, and adapt to a fast-paced environment.
+
+
+
+
+
+
+Qualifications
+
+
+
+Bachelor's or Master's degree in Aerospace Engineering, Electrical Engineering, Robotics, Control or a related field. A Ph.D. is a plus.
+
+
+#################################################
+
+Job Title: Senior Robotics Engineer - Navigation
+Job Description: Company P4 (TII) is a global scientific research center attracting the world’s foremost scientists and researchers. TII leads worldwide advances in artificial intelligence, autonomous robotics, quantum computing, cryptography and quantum communications, directed energy, secure communication, smart devices, advanced materials, and propulsion and space technologies, and biotechnology fields.
+
+
+
+Autonomous Robotics Research Centre
+
+Where innovation meets automation to redefine the future of robotics technology. At our center, we are dedicated to pushing the boundaries of autonomous systems, blending cutting-edge research with practical applications to create intelligent robots capable of navigating and performing tasks independently.
+
+
+
+Role Overview:
+
+As a Senior Robotics Engineer with expertise in Navigation, you will contribute to the development of navigation systems for high-speed Unmanned Ground Vehicles (UGV). The ideal candidate will possess a strong background in theoretical control knowledge, mathematical modeling, and control algorithm optimization. A deep understanding of high-performance vehicle dynamics and advanced control theories is crucial to excel in this role.
+
+
+
+Key Responsibilities:
+
+Develop and apply theoretical control knowledge to design and optimize navigation systems for high-speed vehicles.
+Create mathematical models to represent vehicle dynamics and control algorithms for navigation.
+Collaborate with a multidisciplinary team to ensure system stability and adaptability.
+Research, implement, and test advanced, adaptive, and predictive control theories to enhance navigation performance.
+Create path planning algorithms to plan collision-free paths for the robot, considering the robot dynamics.
+
+
+Qualifications and Skills:
+
+Strong theoretical control knowledge with a focus on high-performance vehicle dynamics.
+Proficiency in mathematical modeling and optimization of control algorithms.
+Knowledge of advanced, adaptive, and predictive control theories.
+Knowledge and experience with system identification methods.
+Excellent problem-solving skills and the ability to troubleshoot complex navigation challenges.
+Strong analytical and mathematical skills.
+Ability to work collaboratively in a cross-functional team.
+Effective communication skills, both written and verbal.
+Experience with relevant software tools such as CasADI, ACADOS, convex optimization algorithms, MATLAB (navigation toolbox, system identification toolbox).
+Experience with ROS, ROS2, and their official navigation frameworks and controllers (Navigation2, move_base, TEB local planner, etc.).
+Experience with other optimization solvers such as Ceres Solver and qpOASES is a bonus.
+Experience with path planning (A*, RRT, OMPL).
+
+
+Education: Master’s / PhD
+
+#################################################
+
+Job Title: Senior Robotics Engineer - Localization
+Job Description: Company P4 (TII) is a global scientific research center attracting the world’s foremost scientists and researchers. TII leads worldwide advances in artificial intelligence, autonomous robotics, quantum computing, cryptography and quantum communications, directed energy, secure communication, smart devices, advanced materials, and propulsion and space technologies, and biotechnology fields.
+
+
+
+Autonomous Robotics Research Centre
+
+Where innovation meets automation to redefine the future of robotics technology. At our center, we are dedicated to pushing the boundaries of autonomous systems, blending cutting-edge research with practical applications to create intelligent robots capable of navigating and performing tasks independently.
+
+
+
+Role Overview:
+
+We are seeking a Senior Robotics Engineer specializing in Robotic Localization to participate in the development of cutting-edge localization systems for autonomous robotic platforms. The ideal candidate will have extensive experience in SLAM using both lidar and camera sensors, and a deep understanding of sensor fusion techniques. Proficiency in implementing and tuning filters such as Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), and Particle Filter is essential.
+
+
+
+Key Responsibilities:
+
+Develop and implement robust SLAM algorithms using lidar and camera sensors for accurate robotic localization.
+Design and optimize sensor fusion strategies to integrate data from multiple sensors for enhanced localization accuracy.
+Apply and tune various filtering techniques, including EKF, UKF, and Particle Filter, to improve system performance.
+Collaborate with cross-functional teams to integrate localization systems with other robotic subsystems, ensuring overall system coherence and reliability.
+Conduct research and stay updated with advancements in robotic localization, SLAM, and sensor fusion technologies.
+
+
+Qualifications and Skills:
+
+Extensive experience in SLAM, both lidar-based and camera-based.
+Expertise in sensor fusion techniques and multi-sensor integration.
+Proficient in filtering techniques like EKF, UKF, and Particle Filter.
+Strong background in robotics, computer vision, and machine learning.
+Familiarity with ROS (Robot Operating System) and its application in localization tasks.
+Proficient in programming languages such as Python and C++.
+Excellent analytical and problem-solving skills.
+Strong teamwork and communication abilities, with a knack for cross-functional collaboration.
+Experience with 3D mapping and computer vision algorithms is a plus.
+Familiarity with hardware components relevant to robotic localization (e.g., IMUs, GPS).
+
+
+Education:
+
+Masters or PhD in Robotics, Computer Science or a related field.
+
+
+Languages:
+
+English (Advanced)
+
+#################################################
+
+Job Title: Robotics Engineer - Multi-Agent Perception and Planning
+Job Description: At Company G1, located at the vibrant nexus of academia, industry, and government, we are renowned for our groundbreaking solutions to some of the nation’s most intricate and complex challenges. Within the Engineering Division, our team collaborates extensively—not only within the Laboratory but also across the MIT campus—bridging a myriad of disciplines to innovate through robust analysis, design, prototyping, and testing.
+
+Our team culture is energized by our diverse group of talented professionals who bring a rich mix of skills and experiences to the table. We champion a balanced approach to work and life, promoting productivity through flexible schedules and hybrid work arrangements.
+
+The Control and Autonomous Systems Engineering Group at Company G1 is at the forefront of research and development in autonomy. Our projects range from theoretical research to the actual deployment of systems in oceanic, terrestrial, aerial, and space environments. We are looking for innovative thinkers who are eager to drive advancements in autonomous systems and robotics. If you are ready to contribute to cutting-edge research and development within a multidisciplinary team, Company G1 offers a dynamic and supportive environment for you to thrive.
+
+Position Description
+
+The Control and Autonomous Systems Engineering Group at Company G1 is seeking a dedicated Robotics Engineer to lead and innovate in the field of autonomous systems. In this role, you will focus on developing and implementing advanced algorithms that enable multiple autonomous systems to fuse local sensor information into a global representation such that the entire team can plan effectively despite uncertainties. This critical function enhances situational awareness and decision-making capabilities across various domains including ocean, land, air, and space environments.
+
+Key Responsibilities
+
+ Develop state-of-the-art perception algorithms that allow for real-time data fusion, tracking, and interpretation across multiple autonomous agents 
+ Design and implement systems that enhance communication and data sharing between autonomous platforms, ensuring efficient integration and processing of shared information 
+ Collaborate with cross-functional teams to prototype and field test multi-agent systems in real-world scenarios 
+
+
+Qualifications
+
+ A Ph.D. in Computer Science, Robotics, Electrical Engineering, or a related field 
+ Background in algorithm development for multi-agent sensor fusion. A track record of publications in this area is desired. Well-qualified candidates with a M.S. and 5+ years of experience are also encouraged to apply 
+ Strong programming skills in C++, Python, Julia, MATLAB, or similar languages 
+ Experience with machine learning frameworks (e.g., PyTorch) and computer vision is highly desirable and Factor Graph optimization is also highly desirable 
+ Excellent problem-solving skills and the ability to work in a dynamic, interdisciplinary team 
+ Strong communication skills, with the ability to convey complex technical details coherently 
+
+#################################################
+
+Job Title: Senior AI / Robotics Engineer (gn) @ Next-Gen Autonomous Vehicle Venture
+Job Description: 
+We are a VC-backed, pre-seed stage startup, building the next generation of autonomous electric vehicles. Our mission is to enhance Europe's food security and defence through a modular hardware and software platform approach. We're assembling a lean and highly capable team, optimising for deep domain expertise and autonomy.
+
+
+
+You will work closely with the founders and be involved in every stage of product development—from understanding customer needs to prototyping, manufacturing, and market adoption.
+
+
+
+If you are driven by curiosity, enjoy solving complex problems with like-minded peers, and are focused on creating a lasting impact, this is the place for you.
+
+
+
+
+
+What you'll work on 
+
+You’ll design and implement automated systems from initial concept to integration and testing. You will ensure our automation solutions are practical and effective. More concretely, you will:
+
+1/ Design, develop and implement the core control system: 
+
+Control unit (ECU/PLC), programmed with CodeSysor or a similar functionally safe programming environment.
+I/O system for RC input, linear actuators, electric motors and peripherals.
+Remote control terminal and data interface for tele-operations.
+Infrastructure for remote software updates.
+
+
+2/ Design, develop and implement (components for) the autonomous system: 
+
+Control unit (ECU/CPU) , running ROS2 or similar.
+Sensory array and sensor fusion.
+Interface to the core system.
+End-to-end data pipeline (incl. pre-processing, cleaning, and labelling).
+Machine Learning models for autonomous navigation, image recognition, and predictive analytics.
+
+
+3/ Conduct bench testing to ensure reliability, performance, and safety. 
+
+
+
+4/ Participate in field testing, both to ensure software quality and customer satisfaction 
+
+
+
+
+
+About you
+
+We are looking for a motivated software generalist that has
+Computer or Software Engineering degree, or self-taught coding experience
+Prior experience with robotics, software interfaces, autonomous systems, computer vision and cloud infrastructure
+Proficiency in programming languages (Python, Codesys/C, or alternatives) and experience with cloud platforms (GCP or Company K3)
+Understanding of communication protocols such as CAN
+Background in machine learning techniques, including SLAM (Simultaneous Localization and Mapping), reinforcement learning and CNNs
+Experience with both rapid prototyping and clean productization
+Creative problem-solving skills to independently overcome challenges
+Excellent communication and collaboration skills with team members across different disciplines (electrical, mechanical and mechatronic engineers)
+Startup mindset
+
+#################################################
+
+Job Title: Sr. Robotics Engineer
+Job Description: 
+Company G9 is the leading intelligent aerial imaging company for high-value infrastructure, providing businesses with actionable, real-time insights to recover revenue, reduce risk and improve build quality. We serve customers in the solar, wind, insurance, construction, real estate, and critical infrastructure industries. Trusted by the largest enterprises in the world, Company G9 is active in over 70 countries. Our mission is to accelerate the global transition to renewable energy and sustainable infrastructure through advanced inspection solutions. Take a look at our latest achievements here!
+
+About the Role:
+
+As a Sr. Robotics Engineer, you will play an important role in controlling unmanned vehicles to inspect hardware. You will be integrating sensors on the autonomous vehicles to allow the capture of critical data, designing and implementing algorithms to enhance the capabilities of the hardware, and developing the tools needed to utilize these software and hardware components on an edge device.
+
+You must have a proven track record of success and excel in a fast-growing, technology-based startup culture while working autonomously. We offer a competitive salary based on experience and performance, and a generous equity stake for the right candidate. We provide comprehensive medical, vision, & dental benefits, unlimited paid time off, and a great team environment with room for advancement.
+
+Responsibilities:
+
+Integrate new sensors and develop software backend to make the data available for the environment
+Handle sensor calibration and high-speed visual control and estimation of aerial vehicles
+Develop tools to allow for robust control of various unmanned vehicles
+Develop and implement algorithms to enhance inspection capabilities
+Conduct testing and validation of navigation systems to ensure accuracy and reliability
+Collaborate with cross-functional teams to meet project objectives
+Take feedback from the field and implement improvements to the system
+Write algorithms for trajectory generation
+
+
+Qualifications:
+
+4+ years of experience working within the Robotics space
+ROS experience
+C++/ Python
+Strong knowledge of sensor fusion, state estimation, and Kalman filtering
+Excellent problem-solving abilities and attention to detail
+Strong communication and teamwork skills
+Solid scientific training and analytical skills
+Strong knowledge of software development best practices
+Able to work remotely and coordinate effectively with a fully remote workforce
+Excellent English written and verbal communication skills
+Interested in technology and the drone space. Any type of drone experience or knowledge of UAV operations and regulations is a plus
+
+
+Desired:
+
+Gazebo experience
+Docker/container and containerization knowledge
+Cloud technology (Company K3, GCP, Azure). Specifically, ECR, S3, IOT
+Kubernetes, helm, kustomize, edge K8S (K3s, MicroK8s, minikube, etc.)
+Github CI experience
+Linux system administration
+DJI PSDK/OSDK experience
+PX4 experience
+Mavlink experience
+Experience with Nav2, Moveit
+
+#################################################
+
+Job Title: Robotics Engineer
+Job Description: 
+Company Q5 Robotics is on a mission to accelerate the advent of intelligent machines in the physical world. As the rise of LLMs like ChatGPT has shown, AI has the potential to drive immense change. However, we believe AI’s biggest impact will be in the physical world, given industries like manufacturing, food, and transportation represent 90% of global GDP. We're starting with food, with a goal to put an intelligent robot in every commercial kitchen in the world. We have signed multiple multi-year contracts with various large food companies and we are growing fast. We're backed by investors like Kleiner Perkins, Construct, Company M1 BETA and Promus Ventures. We have a great team, where you will be surrounded by talented engineers and tech leaders from companies like Cruise, Zoox, Company T2, Verb Surgical, Company L4, Nuro, Vicarious, Company S2 Robotics, Strateos, Built Robotics, Facebook, Plenty, Yelp, and Company B1.
+
+Company Q5 is looking for a Robotics Engineer to help us scale our fleet of robots. You will be making a large impact on a small team, developing a novel and scalable robot manipulation system that allows our robots to reliably serve millions of meals in production environments.
+
+Responsibilities And Example Projects
+
+Develop classical or ML/RL-based motion planning and manipulation algorithms that work across thousands of different foods with varying physical properties (stickiness, density, viscosity, etc.)
+Develop novel algorithms to learn ingredient properties on-the-fly and intelligently adapt manipulation parameters
+Incorporate new sensor data (e.g. force control, cameras) as needed for trajectory optimization and metrics to measure ingredient manipulation performance
+Analyze manipulation performance across ingredients and optimize trajectories for throughput
+Contribute to overall software architecture design and standards, including designing interfaces between subsystems
+Champion engineering excellence, ensuring high-quality, well-structured, and well-tested code
+Stay up-to-date with the latest robotics research and apply insights in a practical way to our system
+
+
+Requirements
+
+BS, MS, or PhD in computer science, robotics, electrical engineering, mechanical engineering or related field
+3+ years experience developing and testing robust robot manipulation solutions deployed on real robots after completion of an academic degree program
+Experience leading and shipping complex software projects
+Experience leading projects and people in a tech lead or similar role
+5+ years experience in Python and/or C++
+Understanding of both classical and machine/reinforcement learning approaches to robot manipulation, and the tradeoffs between various techniques
+Experience with robotic waypoint generation, path planning, and trajectory smoothing
+Experience with common deep learning frameworks like Tensorflow or Pytorch
+Excellent software engineering fundamentals
+Excellent mathematical skills, especially with geometry, probability and statistics, linear algebra, and machine learning
+
+
+Bonus Points
+
+Startup experience
+You’ve shipped working products under tight deadlines
+Robotics research experience, including publications
+Experience with trajectory optimization
+Experience with the robotics tech stack, e.g. Linux, ROS, OpenCV, CUDA
+Experience with calibration, state estimation, sensor fusion
+Experience with basic mechatronics and electronics 
+
+#################################################
+
+Job Title: Staff Robotics Software Engineer, AI Manipulation
+Job Description: Company H9 is a pioneer. Our robot, Digit, is the first to be sold into workplaces across the globe. Our team is differentiated by its expertise in imagining, engineering, and delivering robots with advanced mobility, dexterity, intelligence, and efficiency -- robots specifically designed to work alongside people, in spaces built for people. Every day, we break through engineering challenges and invent new solutions and capabilities that will one day make robots commonplace and approachable. This work is our passion and our responsibility: our mission is to make businesses more productive and people's lives more fulfilling.
+
+About The Role
+
+Our software team is growing and we are looking for a talented engineer to join our agile, world-class team. In this role you will develop manipulation behaviors and grasp planning algorithms for humanoid robots to manipulate the world around it. You will work closely with state estimation, navigation, and controls teams to execute your planning algorithms aimed at solving challenging problems in real-world deployments.
+
+About The Work
+
+Design, implement, test, and deploy contact rich manipulation behaviors for humanoid robots
+Develop manipulation strategies and behaviors robust to environmental uncertainty and imperfect state estimation
+Contribute to the software architecture and design of the autonomy stack
+Collaborate with members of the autonomy teams to solve complex cross functional problems
+Engineer high quality software that is well tested, reliable and maintainable
+
+About You
+
+Technical Experience
+
+Experience with reinforcement learning, diffusion models, and learning from demonstration
+Experience leveraging machine learning to improve grasp behaviors and object manipulation
+Industry experience developing and deploying manipulation algorithms on high-DOF robots in real world applications
+Experience with perception and scene understanding especially as it pertains to manipulation behaviors
+Experience using simulation tools such as Isaac Sim / Mojoco / Drake/ gazebo or similar
+
+Technical Qualifications
+
+MS or Ph.D. in robotics, computer science, or related field or have equivalent industry experience
+Strong robotics fundamentals, including kinematics, dynamics, sensing, control, and motion behaviors
+Strong software experience in modern C++ and Python
+Deep learning frameworks such as PyTorch, TensorFlow, and/or JAX
+
+You might also have
+
+Experience working with humanoid (or similar) robots
+Experience working with multi modal exteroceptive sensors (e.g. force, haptic, tactile, vision)
+Experience in orchestrating a scalable automated testing pipeline for simulation
+Experience in classical robotics motion planning and trajectory optimization algorithms
+Publications in your field (RSS, ICRA, IROS preferred)
+
+#################################################
+
+Job Title: Mechatronics Engineer - Bot
+Job Description: What To Expect
+Company L4 is at the forefront of developing humanoid robots on a large scale to revolutionize automation in manufacturing and material handling. As part of our dedicated Optimus Test team, we are seeking an exceptional Mechatronics Engineer to play a pivotal role in the testing and validation of the Company L4 Bot. You will be instrumental in ensuring the success of the Company L4 Bot throughout its entire product lifecycle.
+
+The ideal candidate will possess a strong background in robotic system test and integration, including hands-on experience with coding and control. A comprehensive understanding of the interdependencies between software and hardware is essential, as is the ability to effectively manage software and hardware integration for testing purposes. This role will provide exposure to various systems of the Company L4 Bot, including controls, actuators, and structures, requiring understanding of low voltage and mechanical systems basics.
+
+This position offers a high level of engagement, requiring close collaboration with diverse cross-functional teams including design engineers, software developers, and our controls team. You will be empowered to take ownership of specific testing tasks and contribute your unique expertise to identify and troubleshoot any issues that arise. Your strong technical background, coupled with excellent problem-solving skills, will enable you to contribute to the cutting-edge technology of the Company L4 Bot, which is poised to transform labor market and automation industry.
+
+Joining Company L4 as a Mechatronics Engineer presents an exciting opportunity to make a significant impact in the field of robotics, working on a groundbreaking project that pushes the boundaries of innovation. If you are passionate about robotics and possess the drive to tackle technical challenges head-on, we invite you to be part of our team.
+
+What You'll Do
+
+Design, build, and execute system level tests
+ Utilize existing tools and applications to commission and operate robotic and electro-mechanical systems, while effectively communicating, controlling, and troubleshooting these systems
+ Develop and maintain test software and customized test code, to enhance the efficiency, modularity, and repeatability of system validation processes and to facilitate the execution, data collection, and data analysis of robotic systems and sub-systems
+ Utilize technical expertise to identify potential root causes of system issues and failures, proactively engaging responsible parties to drive resolution
+ Thoroughly document procedures and results to ensure traceability and promote knowledge sharing among team members
+
+
+What You'll Bring
+
+Degree in Robotics, Mechatronics, Mechanical Engineering, or equivalent
+Minimum of 2 years of experience in designing, developing, and integrating robotic systems, preferably within an industrial environment
+Proficiency in Python and Git, along with hands-on experience with robotic frameworks and libraries
+Strong understanding of robotic systems encompassing hardware, software, and firmware components
+Exposure and familiarity with embedded firmware and hardware and comprehensive knowledge of motor controller operation and interfaces
+Experience with communication protocols both high and low level, like SPI, I2C, Ethernet, CAN, etc
+Knowledge of different sensors, what they do, and how to interact with them
+Genuine curiosity to comprehend the functioning and troubleshooting of systems, coupled with a proven ability to identify and resolve technical issues efficiently
+Experience with test automation and data analysis software and data acquisition methods.
+Demonstrated resilience, proactivity, and a positive mindset when facing challenging circumstances
+
+
+#################################################
+
+Job Title: Sr. Principal Robotics Engineer (SLAM)
+Job Description: Company J9 is looking to hire a Senior Principal SLAM Engineer in our Robot Autonomy group. The Senior Principal Engineer will play a vital role in developing the next generation of robots that will live in millions of homes across the world. If you are a consumer centric pioneer and eager to build innovative robot products, please apply now or reach out to one of our recruiters on LinkedIn.
+
+What You Will Do
+
+Design innovative solutions to robot mapping and pose estimation using techniques like robust non-linear optimization, statistical estimation, probabilistic graphical models, and Riemannian optimization. 
+Develop algorithms for reliable pose estimation in challenging and dynamic environments. 
+Develop and deploy algorithms for desktop and embedded platforms, in C/C++ and other languages 
+Solve problems pragmatically, by applying judgment and experience to balance trade-offs 
+Deliver artifacts that set the standard in your group for engineering excellence, from designs to implementations Work at the intersection of traditional computer vision and machine learning to improve and enrich indoor robot maps 
+Lead feature and technology development teams 
+Improve our software practices 
+Collaborate with cross-functional teams to develop systems from prototypes to production 
+
+To Be Successful You Will Have
+
+Strong experience in SLAM and robust sensory fusion algorithms for robotics or self-driving systems including visual and depth perception 
+Experience using data from optical, IMU, LiDAR, and depth sensors 
+Extensive experience with embedded C/C++ and familiarity with a Linux Environment 
+Ability to design, analyze, and debug large, complicated software systems 
+Understanding of data structures, design patterns, and advanced programming techniques 
+B.S. or M.S. in Computer Science or equivalent degree 
+Ideally this person will be based out of Boston, MA, Guangzhou or Shanghai, China.
+
+In Return You Can Expect
+
+To work on exciting problems in the SLAM field with the largest installed base of consumer robots 
+Opportunities to continuously learn and collaborate with our innovative and knowledgeable technical staff including leading scientists in the field of SLAM 
+Opportunities to publish at and attend leading robotics conferences 
+An environment that values and acts on new ideas 
+An attractive salary package with good benefits 
+Excellent career growth opportunities
+
+
+#################################################
+
+

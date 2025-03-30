@@ -1,0 +1,577 @@
+Cluster 24:
+
+Job Title: Network Engineer
+Job Description: Company Y2 is seeking a Network Engineer to be part of a team that is responsible for designing and implementing a scalable, maintainable, highly available network architecture that supports our growing network infrastructure that is required to deliver products meeting our business objectives and SLAs. Company Y2 products transform data into intelligence and provide engineering, integration and sustainment support for industrial and military platforms and systems. The successful candidate will create, oversee rollout, and serve as the point of escalation for managed network design and infrastructure, security, and computational solutions that support and sustain our software product development needs. Our products include delivery of computing infrastructure including end-point devices, data center hosted servers, multi-Cloud services as well as virtualized applications, and storage systems. Internal Enterprise Computing Engineering services include modern application technology with containerized solutions and orchestrated workflow that function both on customer premises, and via remote Cloud services. The successful candidate will have significant experience in network infrastructure engineering services comprised of core infrastructure, application management and development for networks, network analytics, firewalls, network access controls and bandwidth service delivery. The position will report within Company Y2’s Operations organization to the corporate Network Architect and be located within Company Y2’s headquarters in Starkville, MS.
+
+Qualifications
+
+Bachelor’s degree in computer science or a related field. 
+In-depth knowledge of network protocols such as TCP/IP, DNS (ISC BIND9), and DHCP (ISC KEA). 
+Experience with the lifecycle replacement and deployment of enterprise network hardware including routers, switches, and firewalls. 
+Expertise in network design best practices. 
+Proficiency in diagnosing and troubleshooting LAN, WAN, and VPN technologies, including cloud networking. 
+Creating firewalls and updating virus protection software and data security systems to keep data and communications protected 
+Familiarity with Infrastructure as Code (IaC) practices for deploying network configurations. 
+Excellent problem-solving and analytical skills. 
+Strong communication and teamwork skills. 
+Proven record of professional growth, high ethical standards, and ambition for success. 
+Ability to work under pressure and meet deadlines. 
+United States Company N7zenship is required. 
+
+Desired Skills
+
+Installing and configuring network equipment 
+Experience with pfSense and OpenVPN 
+Experience with Company K3 and/or Azure 
+Monitoring computer systems to improve network performance for all systems 
+Experience with CMMC compliance. 
+
+Key Responsibilities
+
+Design and implement network infrastructure based on organizational needs. 
+Install, configure, and maintain network hardware, including routers, switches, and firewalls. 
+Document network configurations, processes, and procedures. 
+Conduct regular network maintenance, update software and hardware as needed. 
+Use network monitoring tools to measure and ensure system performance, availability, reliability and security. 
+Troubleshoot and resolve network issues, encompassing both hardware and software problems. 
+Collaborate with IT professionals to develop and implement network security measures, including the use of pfSense and OpenVPN. 
+Provide network engineering support and training to team members.
+
+#################################################
+
+Job Title: Network Engineer (L4) Open Connect
+Job Description: The Open Connect team’s mission is to provide a high quality video streaming experience for our customers at a continually declining cost. The Open Connect Network Engineering group is focused on engineering and operation of the Open Connect Global backbone and egress connectivity to partners that is integral to our streaming service and also underpins the networking needs of our employees and content creators worldwide.
+
+Level 4 Network Engineer
+
+The Open Connect Network Engineering group is seeking a motivated L4 Network Engineer to join our team.
+
+As an L4 Network Engineer, you will focus on well-defined tasks and troubleshooting moderate operational problems remotely. You will participate in an on-call rotation supporting the global network. You will collaborate with many cross functional teams/network stakeholders and contribute to projects, support deployments (remotely), and configure equipment. You will need to demonstrate a high level of curiosity and willingness to learn to be successful in this role.
+
+We are looking for candidates who exhibit the following characteristics:
+
+A Highly Communicative Individual Who Will
+
+Take on defined tasks and problems within projects, driving short-term goals.
+Participate in the on-call rotation to support network reliability and performance.
+Independently handle well-defined tasks contributing to medium to larger efforts that drive project goals.
+Address simple to moderate operational problems in the technical domain without escalation.
+Assist in operating, maintaining, and upgrading the Open Connect network infrastructure deployed in 90+ locations worldwide.
+Collaborate with team members and vendors to support our global network growth, ensuring a high level of Quality of Experience (QoE) for Company Z2 users.
+Participate in efforts to improve network resiliency, observability, monitoring, and automation, contributing to a scalable and reliable global network.
+Work with external partners, carriers, data center providers, and hardware vendors to assist in network management and troubleshooting.
+Support the Network Architecture team in implementing and operationalizing network designs.
+Collaborate with the Network Tools team to enhance automation processes, improving accuracy and efficiency in daily activities.
+Exhibit strong written and verbal communication skills for effective documentation and collaboration.
+Demonstrate curiosity and a willingness to learn by seeking guidance and clarification from colleagues when needed.
+
+Your Skills And Experience Should Include
+
+Professional experience in network engineering or a related field (experience in the media/content delivery space is a plus).
+Basic understanding of Live Streaming infrastructure and operations.
+Familiarity with multi-vendor wide area networks (Arista, Cisco, Juniper).
+Solid understanding of IP routing, particularly BGP.
+Solid understanding of the internet ecosystem, including interconnection, peering, and transit concepts.
+Exposure to MPLS, QoS, and DWDM (nice to have) technologies.
+Familiarity with network automation. Basic experience in a scripting language or programming.
+Ability to execute changes within the team’s systems, including creating and updating alerts, dashboards, runbooks, and assisting with developing, testing, and deploying software.
+Demonstrates good judgment by taking a collaborative approach to engineering, participating in cross functional working groups, and mapping requirements to solutions.
+Communicates work status, impact, and progress to the team, learning to measure impact and progress.
+Communicates and collaborates effectively with immediate team peers and cross-functional project teams.
+Understands and applies Company Z2's core values, holding themselves and others accountable, and is comfortable speaking up when they have a different opinion.
+
+#################################################
+
+Job Title: Network Engineer
+Job Description: About The Role
+
+As a Network Engineer within Company A3’s Infrastructure Managed Services Team, your primary role will be a Network Engineer on diverse and challenging customer projects. You will be a member of a team responsible for incident resolution and service request handling for a wide variety of networking technologies. Along the way you will:
+
+Manage, monitor, and troubleshoot WAN and LAN connections for multiple clients. 
+Use remote monitoring tools and protocol analyzers to troubleshoot, diagnose and solve network problems, including WAPs and controllers. 
+Perform advanced, complex network analysis, identify problems, and determine solutions.
+Recommend enhancements to the network that will improve the quality, performance, security, and reliability of the network.
+Be AmbITious: This opportunity is not just about what you do today but also about where you can go tomorrow. When you bring your hunger, heart, and harmony to Company A3, your potential will be met with continuous opportunities to upskill, earn promotions, and elevate your career.
+
+What We’re Looking For
+
+Degree in Computer/Information Science, technical college, or equivalent work experience
+7+ years progressive experience in networking
+Must have Palo Alto, Cisco, Cisco Meraki, ASA, Firepower, Fortinet, and Company T8 experience.
+Juniper experience desired. 
+Demonstrated associate to professional level technology and support experience for route/switch, security, wireless, etc. Certifications desired.
+
+#################################################
+
+Job Title: Network Engineer, Corporate Networking
+Job Description: Your Role And Responsibilities
+
+Improve, Implement, and Refine
+
+Look for opportunities to improve efficiency within the network, look for deficiencies in existing implementations, and propose solutions
+Deploy new hardware on site or oversee upgrades in remote offices to improve existing infrastructure or replace aging hardware
+Audit existing network configurations to optimize outdated or deficient entries.
+Take on various network projects and see them through to completion
+
+Operations – Maintain, Troubleshoot and Support
+
+Help resolve network issues that are impeding development and implement improvements and solutions to prevent such problems from reoccurring
+Work on user network issues that get escalated from our service desk team
+Recommend/Implement ideas that will make our end users’ workflow easier
+Collaborate with our security team to manage next generation firewalls and ACLs
+Maintain an environment that strikes a balance between security and allowing our users to work efficiently
+Support a variety of local users, remote VPN users, and 3rd parties in various locations.
+
+#################################################
+
+Job Title: Critical Infrastructure Network Engineer
+Job Description: Responsibilities
+
+Network Design and Implementation
+
+Perform technical analysis and lead the design architecture of network plans for the enterprise, analyzing network & security requirements of the business and architects’ solutions that include highly available and resilient designs.
+Install, upgrade, and maintain network or security hardware and operating system and software as needed, leveraging automation with experience in network hardware from Cisco, Arista and Palo Alto.
+
+Maintaining and Operating Networks
+
+Participate in on-call DRI rotation to support Network Infrastructure services.
+Oversee complex infrastructure network or security projects, including design, deployment, and monitoring, and perform complex incident management and problem resolution for network and security systems.
+Handle Layer 3 technologies, including IPv4, BGP, EIGRP, OSPF, IPv6, HSRP, and VRRP. Apply strong technical knowledge of enterprise networking solutions for very large environments, at scale (e.g., MPLS/BGP, routing, switching, SDN/NFV, EVPN VXLAN), and have knowledge of SD-WAN technologies.
+Monitor network system state using tools such as SNMP, Sflow/netflow, and Telemetry, in compliance with current capacity plan guidelines, and network services budgets, including reviewing invoices from service providers for usage, errors, and inconsistencies, and making adjustments where feasible.
+
+Supporting People
+
+Collaborate with Information Technology staff and business personnel in the creation and turnover of solutions for production-level operations, and act as a source for direction, training, and guidance for less experienced department staff, demonstrating leadership ability in a fast-paced environment.
+
+Other
+
+Embody our culture and values.
+
+Qualifications
+
+Required Qualifications: 
+
+5+ years technical experience in network design, development, and automation
+OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Engineering, Information Technology, or related field AND 2+ years technical experience in network design, development, and automation
+OR Master's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 1+ year(s) technical experience in network design, development, and automation.
+Background Check Requirements
+
+Ability to meet Company B1, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+
+Company B1 Cloud Background Check: This position will be required to pass the Company B1 Cloud background check upon hire/transfer and every two years thereafter.
+
+Preferred Qualifications
+
+8+ years technical experience in network design, development, and automation
+OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 5+ years technical experience in network design, development, and automation
+OR Master's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 3+ years technical experience in network design, development, and automation
+OR Doctorate Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field.
+3+ years’ experience with network authentication systems such as TACACS+ (Cisco ISE, Duo)
+Possession of Industry certifications within the network Engineering CCNP or CCIE Route & Switch and work with industrial control systems. 
+
+#################################################
+
+Job Title: Network Operations Center NOC Specialist
+Job Description: This position supports ensuring that Telemetry and Command data flows for NASA’s spacecraft and aeronautical missions flow smoothly.
+
+Job Responsibilities
+
+Use a variety of network management and diagnostic tools for monitoring, troubleshooting communications-related problems for NASA’s Mission Network known as NASCOM
+Monitoring and some maintenance assistance will be required of Cisco Routers & Switches, Junipers Routers
+Operating NASA unique hardware items is also required
+Candidate will support the network’s operations and day-to-day activities in support of NASA missions
+Working directly with other NASA centers and customers to help resolve real-time network and dataflow problems which are unique to NASA
+Candidate will be involved in several activities including the testing and implementation of new network services
+Position is in the NASCOM Mission Alternate Operating Facility (MAOF), a 24X7 network operation center, that will be fully integrated with the NASCOM Operations Management Center in Greenbelt, Maryland. The MAOF will require supporting non-standard shifts, weekends and holidays.
+Candidate must be able to pass both a written and practical certification test associated with the operations of the Mission Network within 180 days of hire.
+
+#################################################
+
+Job Title: Senior Network Developer
+Job Description: Job Description
+mdclp
+Supports the design, deployment, and operations of a large-scale global Company A1 cloud computing environment (Company A1 Cloud Infrastructure - OCI). Primarily focused on development and support of network fabric and systems through a combination of a deep level understanding of networking at the protocol level coupled with programming skills to support the intensive automation required to operate a production environment.  As OCI is a cloud-based network with a global footprint, this support will include hundreds of thousands of network devices supporting millions of servers, connected over a mix of dedicated backbone infrastructure and the Internet. 
+
+Career Level - IC3
+
+Responsibilities
+Participate in Network lifecycle management through network build and/or upgrade projects.  Collaborate with program/project managers to develop milestones and deliverables.  Will primarily use existing procedures and tools to develop and safely execute network change.  However, may have to develop new procedures from time to time.  Serve as technical lead for team projects.  Contributes to the development of roadmap issues.  Leads development of new runbooks and method of procedures.  Mentors junior engineers. Participates in network solution and architecture design process.  Responsibility for developing standalone features.  Participate in operational rotations as either primary or secondary.  Provide break-fix support for events. Serve as escalation point for event remediation.  Lead post-event root cause analysis.  Coordinate with networking automation services for the development and integration of support tooling.  Frequently develops scripts to automate routine tasks for team and business unit.  Serves as SME on software development projects for network automation.  Supports network vendor software bug fixes.  Collaborate with network vendor technical account team and internal Quality Assurance team to drive bug resolution and assist in the qualification of new firmware and/or operating systems.                                                                
+
+Required Skills
+Network Automation
+Network Operations
+OCI (Company A1 Cloud Infrastructure)
+Python (Programming Language)
+Software Development
+About Us
+As a world leader in cloud solutions, Company A1 uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+When everyone’s voice is heard, we’re inspired to go beyond what’s been done before. It’s why we’re committed to expanding our inclusive workforce that promotes diverse insights and perspectives.
+
+We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+Company A1 careers open the door to global opportunities where work-life balance flourishes. We offer a highly competitive suite of employee benefits designed on the principles of parity and consistency. We put our people first with flexible medical, life insurance and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by calling +1 888 404 2494, option one.
+
+Disclaimer:
+
+Company A1 is an Equal Employment Opportunity Employer*. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Company A1 will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+
+#################################################
+
+Job Title: Network Development Engineer Intern
+Job Description: Do you want to be part of a team that deploys and automates one of the world’s largest and complex networks? As a Network Engineer working within Company K3 Infrastructure you will be responsible for deploying network infrastructure across all of our network fabrics that supports the Company S2 Retail Service, Kindle, Payments and multiple Company K3 services. You will work closely with our automation teams in defining the tools that allow us to scale at unprecedented volume. You’ll have the opportunity to deploy, scale and automate our network across multiple global datacenter, including existing footprints and greenfield locations.
+
+If this sounds exciting to you - come build the future with us!
+
+Key job responsibilities
+
+ Create simple, repetitive deployment processes that increase both velocity and quality.
+ Create and update our network standards and ensure that the network is deployed to these standards.
+ Work closely with our internal customers on designs/solutions; bringing those designs/solutions from concept to production.
+
+Basic Qualifications
+
+ Currently enrolled in a Bachelor’s degree in Computer Information Systems, Management Information Systems, Telecommunications or similar program with a graduation conferral date between December 2025 and September 2028
+ Experience working in a Linux/Unix environment
+ Experience scripting in languages such as Python, Perl or Shell
+
+Preferred Qualifications
+
+ Knowledge of IP Networking fundamentals and Routing Protocols such as BGP, OSPF, R&S.
+ Knowledge of network hardware and packet forwarding architectures
+ Ability to handle ambiguous or vaguely defined challenges and articulate technical solutions through abstract thinking
+
+#################################################
+
+Job Title: Network Architect
+Job Description: Job Summary
+
+As the Network Architect, you will occupy a critical role in the strategic development and execution of our network infrastructure, ensuring optimal performance, robust security, and scalability tailored to diverse organizational needs, including initiatives at campuses, medical centers, or the Office of the President. This expert-level position demands a sophisticated mastery of network architecture, deeply integrated with an understanding of organizational goals and technological imperatives. You will lead the design and implementation of advanced network solutions, collaborate with senior leadership and cross-functional teams to align network strategies with business objectives and drive the analysis of complex business requirements into innovative network designs. Your role also encompasses elevating network security frameworks, optimizing network performance, and managing the full lifecycle of network services from conceptual design to continuous improvement. Additionally, you will develop and enforce high-level network standards, mentor network engineering talent, and lead the resolution of complex network issues using advanced troubleshooting skills. This position requires extensive experience in network architecture, advanced professional certifications such as CCIE, CCNP, or JNCIE, and demonstrated leadership in managing large-scale network projects in a complex, multi-stakeholder environment. As the Network Architect, the visionary technical expertise will be instrumental in propelling our organization forward, leveraging cutting-edge technology to achieve strategic objectives and maintain high network availability and reliability.
+
+The final salary and offer components are subject to additional approvals based on UC policy.
+
+Your placement within the salary range is dependent on a number of factors including your work experience and internal equity within this position classification at UCSF. For positions that are represented by a labor union, placement within the salary range will be guided by the rules in the collective bargaining agreement.
+
+The salary range for this position is $124,400 - $291,600 (Annual Rate).
+
+To learn more about the benefits of working at UCSF, including total compensation, please visit: https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html
+
+Department Description
+
+Company I5, San Francisco (UCSF) is distinguished as a leading academic healthcare organization, home to groundbreaking discoveries, world-class education, and exceptional healthcare services. Infrastructure Services (IS) is the backbone of the technological infrastructure, assuring the technical services that enable the academic, medical, and research missions of the organization. Beyond a focus on maintaining systems and resolving issues, we are committed to nurturing the potential of our team members and empowering them to excel. UCSF Infrastructure Services provides 24x7 support to the University community, upholding the highest level of responsiveness and reliability at all times for our customers. IS values innovation and excellence in ensuring secure and efficient IT services, regardless of the hour or complexity of the issue.
+
+The Network Services team within Infrastructure Services holds a critical role in managing, maintaining, and developing UCSF’s network infrastructure, particularly ensuring reliable technical accessibility for individuals engaged in vital medical and health research work. Their core responsibilities include providing secure internet and network services, managing IT services, and maintaining data systems. They support end-users, manage system updates, repairs, and connectivity issues, and play an essential role in troubleshooting network issues, optimizing performance, and implementing protocols. They also oversee software and hardware updates and manage data storage, disaster recovery, and network resilience. Beyond this, Network Services provides specialized technical support to other employees in the organization, with a focus on those involved in medical and health research.
+
+Required Qualifications
+
+Bachelor’s degree, or equivalent combination of education, training, and experience, in one or more of the following fields: computer science, computer information systems, etc.
+7 to 10+ years of expert experience in one of the following fields: network engineering or network architecture.
+Cisco Certified Internetwork Expert (CCIE) or equivalent
+Company K3 Solutions Architect – Professional or equivalent
+Advanced working knowledge of LAN, WAN, MAN, wireless, VoIP, cloud networking protocols, OSPF, BGP, IP, Multicast, QOS, MPLS, VPLS, IPv4, IPV6, VxLan and spine-and-leaf architecture.
+Advanced experience with Automation tools and scripting languages (e.g., Python, Perl).
+Expert level skillset in Enterprise Network design engineering analysis and configurations of multi-vendor routing, switching, wireless controller, wireless access points, firewalls, VPN, Load Balancing and DDI services. (i.e. Aruba, Cisco, Brocade, Palo Alto, Company T8)
+Significant experience working in a project-based environment leading project management practices including schedule management, status reporting, and communication of project risks and issues. 
+Advanced experience working in a project-based environment, including the ability to report on project status, evaluate project risks, and escalate project issues. Experience with risk analysis frameworks. Knowledge of information management.
+Advanced experience architecting scalable, diverse, and complex networks. Expert understanding of server architecture, system administration, and security. Experience working with a software development lifecycle (SDLC) model.
+Expert ability to translate business needs into long-term architecture solutions. Expertise relating to the design and development of software across the organization.
+Demonstrated leadership skills, including mentorship, negotiation, and change management.
+Advanced written and verbal communication skills and can communicate work assignments to medium-sized teams. Demonstrated experience presenting complex technical information to audiences of technical and non-technical stakeholders. 
+Advanced experience creating presentation materials, generating reports, and presenting to appropriate stakeholders, including executive leadership. Ability to explain advanced concepts to engineers, peers, and leadership.
+Advanced ability to collaborate across a large, diverse organization and effectively communicate or negotiate with others.
+Demonstrated effective communication and interpersonal skills, including the ability to communicate technical information to technical and non-technical personnel at various levels in the University.
+Extensive experience in problem-solving skills; ability to uncover root of difficult problems and scope solutions based on knowledge of available resources and timelines as well as awareness of vision and strategy. Seeks information from multiple and diverse sources to inform solutions. Demonstrated ability to make decisions with integrity.
+Advanced experience providing inclusive leadership of others, cultivating an inclusive environment that values equity, diversity, inclusion and belonging. 
+Inspires creativity in others and advises teams on industry-leading practices, such as the incorporation of new technologies or processes. Has demonstrated experience leading in an ever-changing, fast-paced environment.
+
+Preferred Qualifications
+
+Master’s degree, or equivalent combination of education, training, and experience, in a relevant field such as computer science, computer information systems, etc.
+Experience in complex higher education environments, serving academic, medical, and research and/or administrative functions of a large organization.
+Aruba Certified Mobility Expert (ACMX) or equivalent
+
+License/Certification
+
+Cisco Certified Internetwork Expert (CCIE) or equivalent
+Company K3 Solutions Architect – Professional or equivalent
+
+#################################################
+
+Job Title: Senior Network Architect, Enterprise 
+Job Description: Your Role at Company J5: As a Senior Network Architect at Company J5, you will be at the forefront of our network strategy, driving the design and implementation of sophisticated, scalable, and secure network solutions. You will play a critical role in shaping our multi-cloud strategy and ensuring our network infrastructure meets the evolving needs of our business. This role will report to the Senior Director, Network Engineering
+
+
+
+.
+
+Responsibilities:
+
+Architectural Vision and Leadership: Lead the development and deployment of advanced network architectures, ensuring alignment with Company J5's strategic goals and business objectives
+Strategic Network Planning: Formulate and drive comprehensive network strategies, focusing on scalability, resilience, and future growth
+Performance and Optimization: Oversee continuous network performance evaluations, implementing enhancements to maintain optimal performance, reliability, and availability
+Security and Compliance: Establish and enforce rigorous security protocols and compliance standards, safeguarding Company J5’s network infrastructure
+Technical Design Delivery: Produce high-quality architecture artifacts, including high-level designs, detailed roadmaps, and thorough test plans
+Cross-functional Collaboration: Collaborate seamlessly with various technical and business teams, translating complex business requirements into robust technical solutions
+
+
+
+
+We're excited about you if you have:
+
+Extensive Expertise: 8-10 years of experience in designing, deploying, and managing complex network infrastructures across GCP, Azure, and on-premises environments
+Cloud and Hybrid Environments: Proven track record of delivering solutions in hybrid, multi-cloud, and cloud-native environments
+Advanced Technical Skills: Deep expertise in Palo Alto firewalls, Cisco switches, Aruba APs, Clearpass, Company T8, and advanced knowledge of Azure UDR, BGP, NSG, ASG, Vnets, VNG, ISE/ASE, Company K4, Redis, and SDN
+BGP Environment Mastery: Skilled in designing, scaling, and troubleshooting large-scale BGP environments
+Network Automation Proficiency: Extensive experience with network automation tools such as Terraform, Ansible, Jenkins, and proficiency in scripting for network configurations and managemeny
+Leadership and Influence: Demonstrated ability to lead large-scale network projects, mentor team members, and drive technological innovation within the organization
+
+
+#################################################
+
+Job Title: Data Center Network Architect
+Job Description: We are a leading global software company dedicated to the world of computer aided design, 3D modeling and simulation— helping innovative global manufacturers design better products, faster! With the resources of a large company, and the energy of a software start-up, we have fun together while creating a world class software portfolio. Our culture encourages creativity, welcomes fresh thinking, and focuses on growth, so our people, our business, and our customers can achieve their full potential.
+
+Job Summary:
+
+The Data Center Network Architect is responsible for designing, implementing, and maintaining data center network infrastructure that supports an organization’s critical operations. The role involves working closely with cross-functional teams to ensure the data center network aligns with business objectives, performance requirements, and scalability needs. The architect must also ensure that the network is secure, resilient, and capable of handling both current and future demands.
+
+Key Responsibilities:
+
+Design and Architecture: 
+Develop and design scalable, high-performance data center network architectures, including LAN, WAN, and storage networking. 
+Define network strategies that support business growth and technological advancement, ensuring alignment with best practices and industry standards. 
+Evaluate and implement new technologies and tools to optimize the network infrastructure. 
+Network Implementation and Management: 
+Lead the deployment of network solutions including switches, routers, load balancers, firewalls, and other network devices. 
+Develop detailed network diagrams, configuration documents, and operational guidelines. 
+Collaborate with teams to ensure seamless integration of cloud, virtualization, and on-premises data center networks. 
+Performance and Optimization: 
+Monitor network performance and capacity, identifying bottlenecks and potential improvements. 
+Troubleshoot and resolve complex networking issues to ensure minimal downtime and high availability. 
+Conduct periodic network assessments and audits to ensure optimal performance. 
+Security and Compliance: 
+Implement robust security measures to safeguard the network against internal and external threats. 
+Ensure compliance with relevant regulations and industry standards (e.g., PCI-DSS, GDPR). 
+Collaborate with security teams to develop and implement disaster recovery plans and failover strategies. 
+Team Collaboration and Leadership: 
+Work closely with other IT teams, including system administrators, cloud architects, and security engineers, to support the organization’s IT infrastructure. 
+Provide technical leadership and mentorship to junior network engineers. 
+Prepare and present proposals, cost analyses, and reports to senior leadership and stakeholders. 
+Vendor Management: 
+Engage with network hardware and service providers to negotiate contracts, purchase equipment, and manage service level agreements (SLAs). 
+Stay current with industry trends, emerging technologies, and vendor roadmaps. 
+
+Qualifications:
+
+ Education: 
+Bachelor’s degree in Computer Science, Information Technology, or a related field (Master’s degree preferred). 
+Relevant certifications such as Cisco Certified Design Expert (CCDE), Cisco Certified Internetworking Expert (CCIE), Cisco Certified Network Professional (CCNP), or similar. 
+Experience: 
+Minimum of 7-10 years of experience in network engineering, with a focus on data center network design and architecture. 
+Proven experience in designing and managing large-scale data center networks, including virtualization, cloud integration, and storage networking. 
+Skills: 
+In-depth knowledge of network protocols (e.g., BGP, OSPF, MPLS), network virtualization technologies (e.g., VXLAN, SDN), and data center technologies (e.g., Cisco Nexus, VMware NSX, HPE). 
+Experience with network security, firewalls, and intrusion detection/prevention systems. 
+Strong understanding of cloud networking (e.g., Company K3, Azure) and hybrid cloud architectures. 
+Excellent problem-solving and troubleshooting skills. 
+Strong communication skills with the ability to articulate complex technical solutions to both technical and non-technical stakeholders. 
+
+Preferred Qualifications:
+
+Experience with automation tools (e.g., Ansible, Terraform) for network provisioning and configuration. 
+Knowledge of storage networking, SAN/NAS architectures. 
+ Experience with load balancers, such as Company T8 or Citrix ADC. 
+
+#################################################
+
+Job Title: Principal Network Architect
+Job Description: Responsibilities
+
+ Drive projects within the team and cross-team collaboration to deliver on time and on scope improvements to the business. Create communications on status, next steps, and blockers to stakeholders and leadership. Candidate will need to track multiple workstreams and varying priorities with short term and long term milestones. 
+ Defines and influences requirements for design, network, and security across the business by applying expertise in large-scale network implementation, available technologies, aggregate insights from telemetry and production data, and root cause analysis, as well as best practices in identifying and implementing solutions. 
+ Analyzing the impact of technology change through cost, schedule, and quality metrics. Supports go/no-go decision making through multi-faceted impact assessment. Tracks the progress of approved technologies through implementation and provides input on the delta between planned and actual status. 
+ Accelerates the adoption of practices across the business to improve capabilities to identify risks, as well as standards that emphasize customer value and service quality without allowing for compromising exceptions; holds engineers across the business accountable for all facets of functionality, performance, scale, operations, cost, and customer impact. 
+ Refines how customer, business, and technical requirements influence large-scale network architectures by working with engineering and Program Management teams. Drives architecture reviews across organizations to open dialogue and ensure networks meet compliance standards and can deliver on Key Performance Indicators (KPIs); directs action in response to feedback to enable timely and cost-effective implementations. 
+ Leads the development of reliable, scalable, cost effective, and high-performance large-scale network architectures and designs across the business; identifies gaps in existing industry standards and drives requirements internally and into industry; develops solutions for common monitoring and operations systems, and advises on the development of design documents and implementation plans across organizations. 
+ Embody our culture and values . 
+
+Qualifications
+
+Required Qualifications: 
+
+ 9+ years technical experience in network design, development, and automation 
+ OR Bachelor's Degree in Electrical Engineering, Mechanical Engineering, Computer Science, Architecture, or related field AND 6+ years technical experience in network design, development, and automation. 
+ OR Master's Degree in Electrical Engineering, Mechanical Engineering, Computer Science, Architecture, or related field AND 4+ years technical experience in network design, development, and automation 
+ OR Doctorate Degree in Electrical Engineering, Mechanical Engineering, Computer Science, Architecture, or related field AND 3+ years technical experience in network design, development, and automation. 
+ 6+ years experience with mission-critical systems 
+ 6+ years experience with designing systems and/or developing products for industrial or mission-critical environments. 
+Other Requirements
+
+ Ability to meet Company B1, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+ Company B1 Cloud Background Check: This position will be required to pass the Company B1 Cloud Background Check upon hire/transfer and every two years thereafter. 
+Preferred Qualifications
+
+ Master’s degree in mechanical, electrical engineering, computer science, architecture 
+ Experience with cross-disciplined systems design (electrical, IT/Telecom, supervisory control and data acquisition). 
+ Experience with Datacenter network systems design, analysis, and optimization. Familiar with network technologies, architectures, and physical layer connectivity. 
+
+#################################################
+
+Job Title: Senior Network Architect ITS
+Job Description: As the Senior Network Architect, you will be an integral member of the Infrastructure Services department while reporting to the Director of Network Infrastructure. This is a full-time, nonexempt position, eligible all Company K5 Benefits + Perks available to its tenure such as comprehensive medical coverage, generous retirement matching, and free tuition.
+
+This Senior Network Architect will design, develop, and maintain a secure network for the university. As the Senior Network Architect, you are responsible for conceptualizing network architecture, identifying business requirements, creating designs and prototypes, and executing testing and training activities. The Senior Network Architect establishes overall network standards, guidelines, leading-edge practices, and approved network techniques and approaches. Additionally, the Senior Network Architect acts as a thought leader for the organization's network vision and goals and demonstrates ITS values in action.
+
+MINIMUM QUALIFICATIONS
+
+The ideal candidate for the position of Senior Network Architect must meet the following qualifications:
+
+
+A minimum of 10 years in in network engineering, network architecture, or related fields.
+A bachelor’s degree or combined experience/education as substitute for minimum education.
+Proven knowledge of LAN/WAN/MAN/wireless/VoIP/cloud networking protocols.
+Proven experience with backbone and campus design, wireless network design, on-premises load balancing, security architecture, and/or cloud architecture in large, complex user environments.
+Demonstrated expertise in network design optimization and spine/leaf architecture, with experience building scalable, diverse and complex networks. Demonstrated experience in server architecture, system administration, and security, and ability to explain advanced concepts to engineers, peers and leadership.
+Demonstrated experience with voice technologies in a VoIP environment, and with scripting languages (e.g., Python, Perl).
+Proven multicast and QoS skills. Experience working with software development life cycle (SDLC) models.
+Proven experience monitoring systems and security appliances. Experience with risk analysis framework.
+Experience working in project-based environments, reporting on project status, evaluating project risks, and escalating project issues. Ability to generate reports, create presentation, and present to appropriate stakeholders, including leadership. Ability to effectively communicate, negotiate, and collaborate with others in a large, diverse organization.
+In addition, the successful candidate must also demonstrate, through ideas, words and actions, a strong commitment to Company K5’s Unifying Values of integrity, excellence, diversity, equity and inclusion, well-being, open communication and accountability.
+
+
+In addition, the successful candidate must also demonstrate, through ideas, words and actions, a strong commitment to Company K5’s Unifying Values of integrity, excellence, diversity, equity and inclusion, well-being, open communication and accountability.
+
+PREFERRED QUALIFICATIONS
+
+Exceptional candidates for the position of Senior Network Architect will also bring the following qualifications or more:
+
+
+A master’s degree or advanced education and training.
+12 or more years of related experience.
+Demonstrated experience with virtualization and high-density containers networking Docker and Kubernetes.
+Proven experience with scripting languages (e.g., Python, Perl).
+One or more enterprise, service provider, security, data center, wireless, or voice certifications such as:
+CCIE - Cisco Certified Internetwork Expert
+ACE:L6 - Arista Design and Architecture
+CISSP - Certified Information Systems Security Professional
+OSCP - Offensive Security Certified Professional
+CCDE - Cisco Certified Design Expert
+CWDP - Certified Wireless Design Professional
+Company K3 – Solutions Architect
+
+
+SCOPE OF THE ROLE
+
+The Senior Network Architect Will
+
+
+Conceptualizes network architecture by identifying business requirements, designs, prototypes, and conducting testing, activities, and training. Develops overall network standards, guidelines, leading-edge practices, and approved network techniques and approaches. Performs network modeling and planning, and maximizes network efficiencies. Leverages the latest industry knowledge and takes the initiative to experiment with new ideas and technologies.
+Reviews and analyzes existing network infrastructure and its ability to support strategic organizational objectives and goals. Develops testing and implementation strategies, and assists in the development of network technology roadmaps. Troubleshoots and diagnoses network problems, and implements solutions while meeting business objectives. Participates in disaster recovery planning, development, exercises, testing, and actual disaster or emergency events, working in collaboration with security and other teams to create and maintain a secure infrastructure. 
+Identifies operational and business value opportunities, for customers, partners, and key stakeholders in administrative and academic units. Gains insight and anticipates customer pain points, challenges, and needs. Advises on risk assumptions for any variances granted, and provides alternatives to achieve desired end results.
+Supports the network engineering team’s vision and goals, acting as a thought leader for the organization. Maintains currency with technology, standards, and best practices, and works closely with management and team members to implement and support integration solutions and process improvement efforts across ITS. Builds and maintains collaborative relationships with diverse team members, peers, and leaders. Contributes to a culture of trust and transparency, sharing information broadly, openly, and deliberately. Actively embodies ITS values and behaviors, e.g., accountability, strong ethics, and best-in-class customer service.
+This role maintains on-call duties as well.
+
+
+THE TEAM
+
+The ITS vision aligns strategy, business, and services; affirms ITS cultural values; empowers cross-functional teamwork; embraces world-class best practices; and promotes innovation, excellence, agility, and efficiency. To achieve this vision, ITS is committed to providing a resilient modern technology infrastructure that delivers the performance necessary to meet the demands of a growing customer base. By training in the latest technologies for its highly productive and motivated workforce and providing outstanding customer experience and technology services, ITS aligns with the university’s mission to provide exceptional learning opportunities for students. ITS is creating a workplace where employees can develop cutting-edge skills, take pride in the services they provide, and have access to the roles and career paths that align with their abilities and potential. We are looking for top talent to join us on our journey.
+
+#################################################
+
+Job Title: Lead SME Network Architect & Network Team Lead
+Job Description: REQUIRED QUALIFICATIONS
+
+A minimum of ten (10) years of experience as an Enterprise Architect specializing in
+network infrastructure services including a minimum of four (4) years of experience in
+cloud technologies such as but not limited to Azure and Company K3. Company T2 Cloud Platform
+(GCP) desired.
+A minimum of five (5) years of experience designing critical network infrastructure for a
+large / complex network.
+Experience with infrastructure and network automation platforms and coding.
+Experience designing and implementing enterprise solutions that increase the availability
+and security of the enterprise.
+Experience in developing technology roadmaps.
+Expert level understanding of network technologies. (SDN, SDWAN, routing, switching,
+firewalls, wireless, application load balancing, network visibility.)
+Expert level understanding of network practices, and protocols.
+Extensive experience with on premise physical infrastructure and Virtualization
+technologies.
+Expert knowledge of route optimization, dynamic routing, packet aggregation, IPV6, and
+Border Gateway Protocol (BGP).
+Extensive experience with networking and security methods and tools.
+Experience performing network troubleshooting to isolate and diagnose common network
+problems at a SME level.
+Expertise with major networking products from companies similar to Cisco, Juniper and
+VMWare delivered via major cloud providers.
+Experience with managing and using DevOps concepts.
+CERTIFICATIONS
+
+ 
+
+Current Relevant Certification: CCIE with continuous certification updates throughout
+the performance period as credentials are retired.
+
+#################################################
+
+Job Title: IT Network Architect
+Job Description: We are seeking a Principal Network Architect to join our fast-paced, dynamic, and team-focused Global IT team. In this role, you will report to the Director of Global Network Services. The Principal Network Architect will define, design, and implement a highly resilient, scalable, and secure global network infrastructure. This position is responsible for establishing network strategy and delivering a roadmap for Company N5 services. The role represents the highest level of technical subject matter expertise within the company and serves as a key point of contact for Company N5’s clients and business partners.
+
+
+
+Primary responsibilities:
+
+
+
+Design and implement Company N5’s global SD-WAN, WAN, LAN, VPN, and necessary monitoring tools: gather requirements, analyze specifications, perform cost analysis, validate options, create architectural designs, prepare configurations, and communicate network engineering plans.
+Manage capacity and availability planning for all network components, ensuring alignment with business growth and stability needs.
+Act as a technical leader to resolve challenges associated with new technical initiatives or programs.
+Maintain strong relationships with other architecture teams to align Company N5s strategy and maintain a collaborative direction for network evolution.
+Configure and deploy key network components, including routers, switches, firewalls, wireless controllers, VPN appliances, and cloud-based networking tools.
+Maintain comprehensive network documentation, including standardized network topology, equipment, and configurations.
+Mentor Operations staff on change management and documentation best practices.
+Collaborate with clients, application teams, project managers, and vendors to deliver robust network solutions.
+Provide troubleshooting and serve as a mentor for resolving complex network and application issues.
+Ensure robust network asset management, including lifecycle management for network components.
+Lead research and evaluation of emerging technologies, coordinating with senior leadership to align with Company N5’s strategic roadmap.
+Establish strong vendor relationships to validate and implement new solutions.
+Align network architecture with Company N5’s growth, compliance, and business continuity objectives.
+
+
+Skills, abilities and knowledge:
+
+
+
+Expertise in modern network technologies such as SD-WAN, cloud networking, and Zero Trust principles.
+Exceptional technical acumen in traditional network protocols (IPv6, BGP, OSPF, QoS, VLANs, etc.) and security technologies (firewalls, IPS, DMVPN).
+Demonstrated leadership in a global, high-availability environment with a focus on scalability and security.
+Strong financial acumen, including experience with budgeting, cost analysis, and P&L.
+Proven ability to create, present, and advocate for network strategies and business cases.
+Familiarity with ITIL processes and frameworks.
+Exceptional time management, communication, and customer service skills.
+Ability to excel under pressure in a rapidly evolving technological landscape.
+
+
+Experience:
+
+
+
+7–10+ years of progressively complex experience in network architecture and design, including enterprise solutions and cloud-native networking.
+Proficiency in Cisco technologies and field experience.
+Experience with call center environments is highly advantageous.
+Experience working in ITIL-aligned organizations.
+
+
+Education:
+
+
+
+Bachelor’s degree in Computer Science, Engineering, Business, or equivalent field experience.
+Relevant certifications such as CCIE, CCNP, CISSP, or CCDE are required.
+Cloud certifications (e.g., Company K3 Certified Advanced Networking, Azure Network Engineer) are a plus.
+ITIL Foundation certification is an advantage.
+
+#################################################
+
+

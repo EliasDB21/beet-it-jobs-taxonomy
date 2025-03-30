@@ -1,0 +1,944 @@
+Cluster 9:
+
+Job Title: Solution Architect Manufacturing & Product Ops 
+Job Description: 
+A Snapshot of Your Day 
+
+You will be part of a team that is data driven and results focused, you will have a strong technical, analytical, and product background. As a Solution Architect you will analyze and evaluate the products to align to D&A’s current and future needs through identify product performance opportunities.
+
+Passionate about the environment and climate change? Ready to be part of the future of the energy transition? The Company I1 Energy Data Analytics & AI team plays a significant role in driving the energy transformation.
+
+Honestly, we don’t have all the answers. Honestly, given the scale of the challenge we need many types of perspectives to help reimagine the future. And honestly, we can’t do it alone.
+
+Our team is looking for innovative, enthusiastic, and versatile data, digital, and AI professionals that will drive us forward on this exciting venture.
+
+How You’ll Make An Impact
+
+Part of the global team and engagement in product and project management work and collaborate closely with other members of the product team to better understand the product, provide product insight and recommendations for improvement
+Requirement to communicate the idea and then demonstrate the ability to mockup the design architecture as well as communicating this model whilst being aware of the requirements
+Apply expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand the products
+Responsibility for building strong business relationships, understanding their needs and translating the requirements and having the ability to balance requirements of the business need with business value
+Define and analyze metrics that inform the success of products and allow us to monitor the heath of D&A products adoption in the markets we serve
+Influence and inform product teams through presentation of data-based recommendation through mock up design and IBCS
+Keeping up to date of latest developments in data science principles, theories, and techniques to support the business in making truly data-driven decisions as well as document and share methods, processes, project results and regularly communicating and presenting the results 
+Join an inspiring team of real data science thought leaders and experts within the ED&AA global team and make a valuable contribution
+
+
+What You Bring
+
+Bachelor’s or Master’s degree in Computer science, mathematics, engineering, physics or related and minimum 5 years’ experience as a solution architect or comparable role 
+Longstanding hands-on experience working collaboratively with product team members such as product management, engineering, design, data science, data engineering or similar and experience of working directly with clients, translating their needs and building strong relationships
+Excellent analytical skills and profound expertise in making data-driven decisions and communicating the results of analyses and knowledge in the application of statistics (e.g. hypothesis testing, product experimentation, regressions, experimentation logic and biases) and experience in using statistical software (SAS, Pivot Tables) or related methods
+Experience with product optimization work i.e. funnel/website optimization and/or outbound communication channels like email or push notifications and skills in programming language (Python, SQL etc).
+Deep knowledge in Company K3 and experience in designing solutions that include Company K3 services, experience in an industry-related environment (e.g. energy sector) is an advantage
+Strong customer orientation, open-mindedness and willingness to learn, continuous development of own skills, excellent communication skills and ease of getting along in a global and multicultural environment
+Result-driven and excellent interpersonal, communication, and collaborative skills as well as passionate about data and analytics, and driving data value across all parts of an organization and ecosystems
+Fluency in both spoken and written English, knowledge of German or any other language is a plus
+
+
+About The Team
+
+In our Business Functions we enable our organization to reach their targets by providing best-in class services and solutions in the areas of IT, HR, Finance, Real Estate, Strategy & Technology and more.
+
+#################################################
+
+Job Title: Enterprise Architect
+Job Description: Role Overview: The Technical Pre-Sales group at Company O2 collaborates with customers at all levels, from C-level executives to marketing and operational teams. The goal is to advise on solution strategies and technology solutions that support customer experience transformation and digital innovation. This involves deep dives into architecture and identifying prioritized paths forward for customers.
+
+As an Enterprise Architect, you will be the primary technical driver for solution validation critical for closing deals and ensuring customer success. You will help brands to fully capitalize on their digital transformation, so they can deliver personalized, impactful experiences across all devices and channels through architecture diagrams aligning their goals to Company O2's solutions.
+
+Key Responsibilities:
+
+Conduct high-level architecture assessments. 
+Collaborate with other Technical Pre Sales and Sales teams to align on Company O2 solutions supporting customer needs. 
+Conduct analyses and develop high-impact recommendations. 
+Develop architectures leveraging the context of the customers ecosystem and Company O2 solutions in support of the customer business goals. 
+Articulate the value of the proposed architectural recommendations and
+Provide thought leadership around reference architectures. 
+Identify execution opportunities through Company O2's solutions and services. 
+
+Requirements:
+
+10+ years of experience in one of the following areas: Enterprise Architecture, Digital Marketing, Database Administration, or Data Science. 
+Strong executive presence, presentation, communication and documentation skills. 
+Excellent ability to manage multiple customers with multiple deliverables simultaneously. 
+Passion for learning and the ability to quickly absorb new concepts. 
+Outstanding analytical and problem-solving skills, including research, hypothesis development, and recommendation synthesis. 
+Experience with Company O2 solutions and APIs. 
+Familiarity with REST APIs (real-time data exchange). 
+SQL experience and the ability to derive insights from data. 
+Ability to visualize data sets using tools like Tableau, Power BI, and/or Company O2 Analytics. 
+Working knowledge of AI/ML and the ability to discuss modeling with both data scientists and marketers. 
+Experience with ad technology (DMPs, DSPs, Ad servers, Ad Exchanges, Cross-Device Tracking platforms, etc.). 
+Familiarity with offline data environments (CRM systems, email platforms, data lakes). 
+Knowledge of data warehousing (data storage, movement, and security) to support optimal data modeling. 
+Strong interpersonal skills and the ability to work effectively with people at all levels. 
+Ability to work cross-functionally in a team environment. 
+High energy, personal drive, and positivity. 
+Open to remote candidates within the US who are willing to travel up to 30%. 
+A bachelor's degree or higher in computer science, engineering, data science, information technology, or similar disciplines. 
+
+#################################################
+
+Job Title: Data Privacy Lead Developer
+Job Description: Company U2 is seeking Data Privacy Lead Developer with strong hands-on experience in SQL. The position will primarily be responsible interface with key stakeholders and apply your technical proficiency across different stages of the Software Development Life Cycle including Requirements Elicitation and Design. You will play an important role in creating the high-level design artifacts. You will also deliver high quality code deliverables for a module, lead validation for all types of testing and support activities related to implementation, transition and warranty. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+
+Required Qualifications
+
+ Candidate must be located within commuting distance of Dallas, TX or be willing to relocate to the area 
+ Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education 
+ At least 4 years of experience with Information Technology 
+ At least 3 years in relevant advisory roles in any of the following areas :
+ Data Warehouse strategy definition or solution design, Data Governance solution design & implementation
+ Data security solution design & implementation
+ BI & Analytics Assessment, Solution Architecture Blue Print , Implementation Roadmap Creation, 
+ At least 3 years of experience in direct customer interfacing experience, data management related experience such as data analysis, data governance, enterprise information management, data modeling and data quality management. 
+ At least 2 years of experience in one of the below:
+ Data Privacy , compliance or data governance implementation
+ Data protection & data security measures (encryption, anonymization etc.) 
+ At least 2 years of experience on any one of data governance, data catalogue, data discovery and data security tools like OneTrust, BigId, Collibra, TrustArc, etc. 
+ At least 2 years of experience in SQL/PL SQL experience for data analysis, report generation, data profiling and reverse engineering. 
+ All applicants authorized to work in the United States are encouraged to apply. 
+
+Preferred Qualifications
+
+ Should be able to work independently with business stakeholders to understand and evaluate data privacy & security requirements of our clients 
+ Should be able to work work closely with business and data stakeholders to understand and document business requirements, create a plan for delivering the artifacts & lead the team to create and deliver the artifacts as per the project requirements 
+ 2 years of experience in Designing and implementing data privacy & security programs for different clients. 
+ Should have experience in working with multi-disciplinary teams and collaborate with business, subject matter experts and delivery teams to develop strategic business solutions. 
+ Work on data privacy & security related RFPs, proactive pitches and developing collaterals to showcase capabilities. Document and communicate the proposed solution via creation of compelling business cases 
+ Strong communication and collaboration skills to work effectively with functional teams and stakeholders 
+
+#################################################
+
+Job Title: Data Capability Lead
+Job Description: The Data Capability Lead is accountable to the customers and stakeholders within the US commercial organization to deliver data & analytics services accurately and consistently. The candidate will be hands-on in driving data-related initiatives and data exploration, ensuring data accuracy, quality, and accessibility across the organization. The Data Lead will work closely with cross-functional teams to design and ensure data is enabled for analytics solutions to drive business insights and decision-making.
+
+We are looking for adaptable candidates with a broad set of technology skills to be able to deliver robust data solutions that leverage disparate datasets, data lake repositories, engineering workflows, visualization and Data Science toolkit.
+
+Key Responsibilities
+
+ Translate complex data problems into conceptual design, create actionable logical datasets and own KPI definitions
+ Define and implement data quality standards, controls, and monitoring processes.
+ Collaborate with business units to ensure consistent data definitions and usage across the organization.
+ Understand data relationships and triage data related questions from the business
+ Maintain data governance policies and procedures to ensure data quality, security, and compliance.
+ Partner with Master Data Management function for data enablement
+ Work with SME in business teams such as Sales, Marketing, Market Access & Reimbursement, Field Excellence & Operations, Advanced Analytics and Customer Company A3s to understand and document their analytical and data needs and requirements
+ Understand the end-to-end architecture for data storage, management, and processing and work with IT on data integration efforts across multiple systems and ensure scalable solutions
+ Collaborate with IT in building logical models, with solid understanding of data and reporting use cases.
+ Champion data literacy and promote a data-driven culture across the organization
+ Act as a liaison between technical teams and business functions to ensure data is effectively used to solve business challenges
+
+Who You Are
+
+Data Enthusiast: You have a passion for working with data and deriving meaningful insights from raw datasets.
+Problem Solver: You enjoy solving complex problems by analyzing trends, patterns, and metrics, and you leverage this data to drive business decisions.
+Critical Thinker: You possess the ability to think critically, connecting the dots between seemingly unrelated data points to identify actionable insights.
+Detail-Oriented: Accuracy is key in your role. You ensure that the data is accurate and presented in a way that is clear and easily understood.
+Effective Communicator: You're skilled at translating complex data into straightforward reports, visualizations, and presentations for non-technical stakeholders.
+
+Qualifications
+
+Required Skills:
+
+ 3-5 years of experience in data analysis, data management and analytics.
+ Experience in data analysis, data quality and understanding of logical data architecture.
+ Strong analytical and problem-solving skills to deep dive and explore new datasets
+ Strong proficiency in SQL (Company X5), ETL tools and data modeling. Familiarity with programming languages such as Python or R for data analysis is a plus.
+ Knowledge of Cloud platforms like Company K3 suite, modern data storage layer like Company X5 and visualization tools such as Power BI
+ Excellent communication and collaboration skills, with the ability to work effectively across teams and with senior stakeholders. Experience with Pharma datasets, eg: claims and marketing data and knowledge of commercial analytics (sales, marketing) preferable
+ Strong business acumen, problem solving, interviewing and analytical skills with a solid understanding of Data and BI
+
+Education
+
+ Bachelor's or Master's degree in Data Science, Computer Science, Information Technology, or related field.
+
+#################################################
+
+Job Title: Consultant - Artificial Intelligence & Data - (Data Management & Data Platforms focus)
+Job Description: Help our clients navigate the future with confidence and embrace decision making with clear data-driven choices
+
+Company N3 AI & Data helps clients unlock the power of AI and data to deliver better human-centric solutions that catalyse growth and efficiencies. We enable them to leverage data, analytics, modern platforms, and data science & AI technologies to uncover hidden relationships from vast troves of data, generate insights, and inform their decision-making. 
+
+We help clients transform their business by designing and implementing data solutions to excel in their markets. Our role is to understand their business problems and use data-driven thinking and technology to achieve outcomes that drive their business forward.
+
+For this role, we are currently offering start dates from February 2025.
+
+How You Can Make An Impact
+
+Design and implement modern data solutions in the areas of data management (e.g. data quality, master and reference data, catalogues, data platforms) that deliver high-quality, usable data
+Develop data strategies that allow our clients to reach their business objectives across regulatory, cost, and revenue pillars.
+Design complex data & analytics transformations by providing architectural, technical and organizational thought leadership and guide clients in executing these transformations, which have significant organizational implications.
+Drive Data & AI use cases from business value concept to production
+Develop and maintain trusted client relationships through project work or business development and expand your network both internally and externally.
+Support business development opportunities to generate new projects.
+Be a role model for people you work with by demonstrating strong work ethic, leadership, and subject matter competence.
+Grow expertise in different industry and subject matter areas and share your knowledge with the rest of Company N3 talent.
+
+
+Who We Are Looking For:
+
+Drive and Motivation:
+
+Passionate individuals looking to make a career in AI & Data space.
+Drive to learn new topics and master them
+Ability to manage multiple activities in a high-paced environment and deliver independently.
+
+
+Consulting and Communication Skills:
+
+Strong Company B1 Power Point skills: Ability to design and shape meaningful presentations.
+Strong Conceptual Capability: Ability to consolidate diverse requirements into coherent solution designs, simplifying complex problems.
+Business-IT Translator: Ability to act as the bridge between business needs and technical solutions.
+Technical design: Attention to detail and ability to convey technical specifics of solution design in oral or written form and in 1-1 meetings as well as workshops
+
+
+Technical expertise:
+
+First practical experience with Data management or Data Platform solutions is highly recommended.
+Familiarity with SQL and Python.
+
+
+Language Proficiency:
+
+Fluent in English; fluency in German and/or French is highly preferred to facilitate communication with diverse teams and stakeholders.
+
+
+Industry Experience:
+
+First relevant experience in consulting, tech companies, or industry-specific roles, particularly in data-driven fields.
+Previous experience in the Banking, Insurance, Life Science or Healthcare sector is advantageous.
+
+#################################################
+
+Job Title: Enterprise Architect: Digital Transformation - Data & Analytics
+Job Description: A Snapshot of your Day
+
+Passionate about the environment and climate change? Ready to be part of the future of the energy transition?
+
+We focus on hiring the best people, wherever they may be in the world. We pride ourselves on the flexibility we offer to our employees and are committed to building a workforce that can grow with the company. Company I1 Gamesa is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+In our culture of trust, we focus on empowerment, diversity and continuous learning. Valuing our people is what makes us one global team, with our colleagues’ safety at the heart of our organization.
+
+The Company I1 Energy Enterprise Architecture team of the Digital Core organization shapes the Digital Future to grow and optimize our Company I1 Energy and Company I1 Gamesa businesses and operations.
+
+Given the scale of the challenge we need many types of perspectives to help reimagine the future. And honestly, we can’t do it alone. Our team is looking for innovative, enthusiastic, and versatile Enterprise Architects that will drive us forward on this exciting venture.
+
+The Enterprise Architecture team of our Digital Transformation Office has the responsibility to design the target architecture and its transformation roadmap, influencing our platform strategies and key architecture decisions to shape the digital future of Company I1 Energy and Company I1 Gamesa.
+
+As the Enterprise Architect leading the transformation of the Information and Data Architecture across all Business Capabilities of our enterprise, you can reengineer how we reveal information and its power, provisioning data in a safe, reliable, and accessible manner to all of Company I1 Energy and Company I1 Gamesa.
+
+Our team is looking for innovative, enthusiastic, and versatile experienced architects that will drive us forward on this exciting venture.
+
+How You’ll Make An Impact / Responsibilities
+
+Keep up to date with state-of-the-art technology to best support the business in making truly data-driven decisions
+You articulate the architectural vision for the entire enterprise and not just individual modules or technologies, to enable digitalization and promote innovation
+You design an IT transformation roadmap after evaluating the as-is and to-be
+You evaluate alternative architectural approaches and align impact to business capabilities and information with business, and to applications, Data, infrastructure and technology with IT architects
+You drive technical delivery and are accountable for overall data engineering strategy, data orchestration architecture, and our data operations execution framework
+You define the target data architecture for Company I1 Energy’s and Company I1 Gamesa’s data estate, considering the construct of the business areas, processes, information, data domains, data products and the anticipated integration and provisioning for multi-purpose consumption patterns
+You are part of an ambitious Digital Transformation Office programs to design and deploy our target operating model
+You define the target operating model of a modern data and AI factory, and create the framework to monitor and manage the performance and quality of integration pipelines, and to measure improve our data development velocity and efficiency
+You define standards and design patterns to optimize data sharing without sacrificing flexibility, promote scale and a composable data landscape that will serve are current and future data needs
+You provide good foundational frame for cost management and control for our data and platform operations
+You define data integration requirements, and the right access control framework to facilitate data provisioning at scale
+
+
+What You Bring / Skills, Capabilities
+
+Passion for renewable energy and a sense for the importance to lead the change, where you can make a difference, since:
+
+You have advanced knowledge in the field of Data & Analytics and Data Architecture, their strategy / trends, applications and technology used
+You have several years of experience in working with Enterprise IT solutions (applications & infrastructure) or Vertical IT (Engineering, PLM and ALM) or Operational Technology enablement (IoT, Digital Twin) or developing streaming and batch data pipelines for both cloud and hybrid infrastructures and with streaming frameworks (e.g. Company K3 IoT stack)
+You have work experience (1 - 3 years) in business or IT projects or strategy related roles (Consultant or Team Lead) and experience in doing analysis and concepts pertaining to Enterprise Architecture Management (EAM) and Strategy
+You bring excellent understanding and working knowledge of data ingestion, data modelling & analytics with broad and in-depth expertise in database and data warehouse modelling
+You have experience with cloud providers in data architecture (e.g. Company K3, Azure) or in data mesh implementation
+You are an excellent and persuasive communicator with the ability to transmit technical aspects in business and management language and are fluent in both spoken and written English.
+
+
+You are open-minded, love to learn and constantly improve own skills
+
+About The Team
+
+The Data & Advanced Analytics organization has been established and designed to help Company I1 Energy achieve our mission by becoming a data driven organization. Treating and using data as a strategic asset enables us to support customers in transitioning to a more sustainable world, by using innovative technologies and bringing ideas into reality.
+
+#################################################
+
+Job Title: Data Architect
+Job Description: Are you an experienced, passionate pioneer in technology? A Data Architect professional who wants to work in a collaborative environment. In Company N3 you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel.
+
+The Americas Delivery Mexico (ADMX) leverages scale and talent to provide high quality, cost-effective service to our clients. ADMX is a member of the Global Delivery Network which has presence across the world with Delivery centers in the United States, Romania, India, Spain, China, and the Philippines.
+
+
+
+ADMX is in Queretaro and Guadalajara, Mexico. We provide consulting services to help our clients achieve a higher of service in operational efficiency and business value. We are a team of professionals passionate about serving clients with distinction and learning, and we are driven by our purpose:
+
+Making an impact that matters for our clients, our people, and society.
+
+
+
+Work you’ll do/Responsibilities 
+
+Define the vision, requirements, and lead development of the Enterprise Data Lake focusing on the business needs
+Design and develop the data platform to efficiently and cost effectively address various data needs across the business.
+Build software across our entire cutting-edge data platform, including event driven data processing, storage, and serving through scalable and highly available APIs, with awesome cutting-edge technologies.
+Change how we think, act, and utilize our data by performing exploratory and quantitative analytics, data mining, and discovery.
+Think of new ways to help make our data platform more scalable, resilient and reliable and then work across our team to put your ideas into action.
+Help us stay ahead of the curve by working closely with data engineers, stream processing specialists, API developers, our DevOps team, and analysts to design systems which can scale elastically in ways which make other groups jealous
+Help build and maintain foundational data products such as but not limited to Finance, Titles, Content Sales, Theatrical, Consumer Products etc.
+Work closely with data analysts and business stake holders to make data easily accessible and understandable to them.
+Ensure data quality by implementing re-usable data quality frameworks.
+Work closely with various other data engineering teams to roll out new capabilities.
+Build process and tools to maintain Machine Learning pipelines in production.
+Develop and enforce data engineering, security, data quality standards through automation.
+Be responsible for cloud cost and improving efficiency.
+
+
+Qualifications & Experiences:
+
+Bachelor's degree in computer science, information systems, or information technology.
+7+ years of experience building and scaling data platforms
+5+ years of experience with cloud data technologies including Company X5, Company K3, Apache Airflow
+3+ Years of experience working as an Architect, designing enterprise data solutions.
+Passion for working with data and deriving insights to answer business questions that drive actions and decision-making
+Experience with programming languages – SQL & Python.
+Experience with Data Modelling tools
+Experienced in one or more automation and scheduling tools (for example Redwood, Airflow, etc.)
+Experience leveraging creative analytics techniques and output to tell a story to drive business decisions
+Champions the capabilities and benefits of analytical data assets. Partner effectively across departments and stakeholders
+Solid business acumen, and critical problem-solving ability, with a capacity for strategic thinking
+Comfort level with ambiguity and ability to manage multiple projects at the same time
+Excellent communication, presentation, and customer relationship skills.
+English fluency
+
+
+Not Required but preferred experience:
+
+
+
+Public speaking and presentation skills.
+Deep understanding of API connectivity and data streaming architecture
+
+#################################################
+
+Job Title: Data Architect, Data Lake, Professional Services
+Job Description: Are you a Data Analytics specialist? Do you have Data Lake/Hadoop experience? Do you like to solve the most complex and high scale (billions + records) data challenges in the world today? Do you like to work on-site in a variety of business environments, leading teams through high impact projects that use the newest data analytic technologies? Would you like a career path that enables you to progress with the rapid adoption of cloud computing?
+
+At Company S2 Web Services (Company K3), we’re hiring highly technical data architects to collaborate with our customers and partners on key engagements. Our consultants will develop, deliver and implement data analytics projects that help our customers leverage their data to develop business insights. These professional services engagements will focus on customer solutions such as Data and Business intelligence, machine Learning and batch/real-time data processing.
+
+Responsibilities Include
+
+ Delivery - Help the customer to define and implement data architectures (Data Lake, Lake House, Data Mesh, etc). Engagements include short on-site projects proving the use of Company K3 Data services to support new distributed computing solutions that often span private cloud and public cloud services.
+ Solutions - Deliver on-site technical assessments with partners and customers. This includes participating in pre-sales visits, understanding customer requirements, creating packaged Data & Analytics service offerings.
+ Innovate- Engaging with the customer’s business and technology stakeholders to create a compelling vision of a data-driven enterprise in their environment. Create new artifacts that promotes code reuse.
+ Expertise - Collaborate with Company K3 field sales, pre-sales, training and support teams to help partners and customers learn and use Company K3 services such as Athena, Glue, Lambda, S3, DynamoDB, Company S2 EMR and Company S2 Redshift.
+ Since this is a customer facing role, you might be required to travel to client locations and deliver professional services when needed, up to 50%.
+
+Basic Qualifications
+
+ Experience implementing Company K3 services in a variety of distributed computing environments
+ 3+ years of experience of Data Lake/Hadoop platform implementation
+ 2+ years of hands-on experience in implementation and performance tuning Hadoop/Spark implementations.
+ Experience Apache Hadoop and the Hadoop ecosystem
+ Experience with one or more relevant tools (Sqoop, Flume, Kafka, Oozie, Hue, Zookeeper, HCatalog, Solr, Avro)
+
+Preferred Qualifications
+
+ Hands on experience leading large-scale full-cycle MPP enterprise data warehousing (EDW) and analytics projects (including migrations to Company S2 Redshift).
+ At least one of the Company K3 Associate level certifications or higher.
+ Ability to lead effectively across organizations and partners.
+
+#################################################
+
+Job Title: Principal Data Architect
+Job Description: NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At Company W5, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+
+Who We Are Looking For
+
+We’re looking for a Principal Data Architect to join our Architecture team in the Consumer Product & Innovation organization (CP&I) responsible for Company W5’s Product Innovation, Merchandising, Design & Development. You will work with diverse cross-function team members to accelerate data modernization driving business outcomes and cultivating a data-driven culture within the organization.
+
+
+What You Will Work On
+
+You will lead the development and implementation of data strategy and architecture, as well as optimizing the data-product portfolio to drive efficient enterprise integration and enable AI/ML, analytics, and reporting use cases.
+
+
+You will be responsible for:
+
+
+Designing a scalable and robust data architecture and strategy that supports the development of the data components that are foundational to sound platform and applications development
+Working closely with business partners, product owners, technology partners to translate business requirements into data models and architecture for data and AI products
+Designing and developing data models, from conceptual to physical, to represent data entities and their relationships, adhering to best practices to support enterprise operational data at scale
+Overseeing data contract definition and the implementation of data models to optimize data design for performance and total-cost of ownership
+Partnering with Enterprise Taxonomists to develop metadata taxonomies to ensure data interoperability
+Establishing and communicating data architecture and modeling standards, principles and best practices to promote data literacy, enabling data governance
+Managing the integration landscape to drive simplification and standardization across enterprise data consumers
+
+Who You Will Work With
+
+You will spend much of your time with Data Product Managers, Solution Architects, and Software Engineers in CP&I delivery teams. You will also partner closely with other Data Architects, Taxonomists, Solution Architects, Product Managers, Engineering leaders from enterprise teams reliant on Product data.
+
+
+What You Bring
+
+A minimum Bachelor Degree or a combination of relevant education, training and experience is required
+In-depth knowledge in one or more business domains (Merchandising, Product Design, Product Development, Planning, Consumer/Marketplace)
+Deep expertise in requirements analysis, data modeling and implementation techniques and technologies
+Deep understanding and experience with data ingress, egress, data services/APIs, reporting, data warehousing, AI/ML integration and analytics platforms
+Strong knowledge of cloud technologies like Company X5 or Company K4, Company K3, including data services such as S3 and RDS
+Expert at data analysis, data querying tools/SQL with the ability to write complex queries
+Strong understanding of business functional design, business process design, and modeling
+Experience with modeling tools like Hackolade, Erwin, PowerDesigner
+Strong analytical and consulting skills
+Excellent collaboration and time management skills 
+Excellent influencing, verbal and written communication skills
+Demonstrated ability to build and maintain relationships with multiple peers and cross-functional partners
+Experience working in a technical leadership role with agile teams in a product model
+
+#################################################
+
+Job Title: Data Cloud Architect
+Job Description: We are looking for a Data Cloud Architect to be a part of our emerging Data Cloud Architecture team, working with our strategic customers on adopting and implementing the Data Cloud Strategy and Architecture. This person must be a hands-on, self-starter who loves solving innovative problems in a fast-paced, agile environment. The ideal candidate will have the insight to connect a specific business problem and Company X5’s solution and communicate that connection and vision to various technical and executive audiences. You will partner with our sales team, marketing, product management and channel partners to create compelling architectural visions for customers. You will also drive co-innovation programs with customers via Company X5’s technology and solutions sharing best practices, providing guidance around the design patterns for the Data Cloud Architecture.
+
+You will act as a visionary innovative industry expert and have the opportunity to apply your successful track record of architecting, building, and taking data platforms to market that are applicable to various industries, including Financial Services, Healthcare & Life Sciences, Public Sector, Retail, Manufacturing, Telecommunications, Media, Entertainment and Technology.
+
+IN THIS ROLE YOU WILL GET TO:
+
+Have direct & recurring involvement with our most strategic customers and partners building trusted relationships with technical stakeholders, participate in product and solution briefings and lead co-innovation projects
+Be the voice of the customer identifying industry trends, functional requirements and technical gaps to partner with product management for prioritization
+Drive repeatability by creating industry specific technical selling assets (customer architectures, use cases, demos, whitepapers, customer case studies and solutions)
+Collaborate with our industry go-to-market team to prioritize industry-specific capabilities in future product roadmaps and drive Company X5’s industry product vision into the market
+Collaborate with counterparts in Global and Regional System Integration partners to jointly define Company X5 centric industry offerings.
+Identify, recruit and map potential ISV partners and marketplace providers to target reference architecture, data sets and use cases
+Enable technical sales team and Industry communities of practice on industry trends, partner capabilities and solution offerings
+Contribute and participate in industry marketing activities such as webinars, conferences, blogs etc.
+
+
+ON DAY ONE WE WILL EXPECT YOU TO HAVE:
+
+15+ years of experience building, consulting on, or implementing technology architectures.
+Familiarity and experience implementing data architectures and patterns such as data lake, data warehouse, data mesh and data fabric.
+Broad range of experience with technical and design direction including large-scale database and/or data warehouse technology, ETL, analytics and public cloud technologies
+Familiarity with data providers and data aggregators
+Outstanding presentation skills to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos
+Experience working with C-level executives and an ability to quickly establish credibility with senior leadership
+Bachelor’s Degree required, Masters Degree in computer science, engineering, mathematics or related fields, or equivalent experience preferred
+The ability to travel to customer sites, industry events and other related events as required
+
+
+#################################################
+
+Job Title: Data Architect
+Job Description: Company Y5 Data Technology Solutions (DTS) team plays a crucial role in Company Y5`s global engineering organization. Through our projects we make sure that millions of users worldwide can enjoy Company Y5 content through web, mobile, and TV applications and help with our vision of entertaining the planet!
+
+We are seeking a highly skilled and experienced Data Architect to play a meaningful role in the design, development, and evolution of our data landscape. This individual will be a key contributor to the evolution of our data architecture, bridging the gap between engineering and business needs.
+
+This collaborative role requires strong technical expertise, a deep understanding of data warehousing, ETL processes, and cloud technologies, and a dedication to working optimally within a multi-functional team. This role will be responsible for both low level and high-level architecture design tasks and documentation.
+
+Responsibilities Include:
+
+Define, document, and maintain the overall architecture of Company Y5's data ecosystem, including data models, data flows, and data governance policies. 
+Collaborate closely with partners across the organization to ensure alignment on architecture decisions. 
+Develop and maintain logical data models that accurately represent the company's data assets. Work closely with data analysts and scientists to understand their data needs. 
+Design and implement data governance frameworks and standards. Partner with IT and legal teams to ensure compliance. 
+Conduct regular reviews and assessments of the current data architecture, identifying areas for improvement and optimization. Present findings and recommendations to senior leadership. 
+Build and maintain comprehensive documentation for all data assets and processes. Ensure documentation is accessible and understandable to a broad audience. 
+Develop ETL/ELT processes/frameworks to ingest, transform, and load data from various sources into our data warehouse. Work with data engineers and other teams to define the foundational frameworks. 
+Optimize the performance of data pipelines and infrastructure in collaboration with DevOps teams. 
+Participate in the evaluation and selection of new technologies and tools. Share your expertise with the team to inform technology decisions. 
+Evaluate and recommend cloud migration strategies, particularly focusing on. Work with cloud architects and infrastructure teams to develop a comprehensive migration plan. 
+Lead and participate in the migration of data and applications from one cloud environment to another. Collaborate with multiple teams to ensure a smooth and efficient migration. 
+Explore and implement innovative technologies and solutions to improve the capabilities of our data platform. Share knowledge and insights with the team to promote innovation. 
+
+Basic Qualifications:
+
+Bachelor's Degree in Computer Science, Engineering, or a related field with 7+ years of professional experience as a Data Professional, with at least 3 years in an enterprise data architect role. 
+Extensive experience with cloud platforms, preferably GCP and including Company A1 Cloud Infrastructure, along with experience migrating between cloud platforms. 
+Expertise in designing and implementing data pipelines using tools such as Apache Airflow, Company T2 Big Query, Python, Kubernetes. Solid understanding of data warehousing concepts and methodologies. 
+
+Additional Qualifications:
+
+Proficiency in SQL and at least one scripting language (e.g., Python, Scala). 
+Experience with data modeling techniques (e.g., dimensional modeling, snowflake schema). 
+Strong Database fundamentals and enterprise data modeling experience is required. 
+Superb communication, collaboration, and presentation skills. 
+Experience with data governance and compliance regulations. 
+Experience with data visualization tools (e.g., Tableau, Power BI). 
+Experience with containerization technologies (e.g., Docker, Kubernetes). 
+Experience working in a large, complex enterprise environment. 
+Experience with evaluating and migration of data clouds between different clouds. 
+Ability to take and evaluate new and emerging technologies to be used in an enterprise setting. 
+
+#################################################
+
+Job Title: Solutions Architect - Company K4
+Job Description: We are looking for someone who can thrive in a fast-paced, collaborative environment, with experience in industries such as FinTech, Transportation, Insurance, Media, or other complex, multifactor environments
+
+
+
+Key Responsibilities:
+
+Solutions Design: Architect end-to-end scalable data solutions using Company K4, Azure, Company K3, and other cloud-based services to meet client requirements.
+Data Strategy & Architecture: Develop robust data architectures, implement ETL pipelines, and establish data governance frameworks to ensure data accuracy and consistency.
+Technical Leadership: Lead the design and implementation of data platforms, define best practices, and mentor team members to elevate technical competencies within the organization.
+Advanced Analytics & Machine Learning: Create pipelines and workflows to support advanced analytics and machine learning initiatives, utilizing Company K4 and other cloud-based services.
+Collaboration & Client Engagement: Act as a trusted advisor, working closely with client stakeholders to understand business needs, present architectural solutions, and implement strategies that deliver high-impact results.
+Performance Optimization: Identify bottlenecks and recommend solutions to optimize data workflows and architecture for both cost and performance.
+Innovation & Experimentation: Champion using cutting-edge data technologies and methodologies to drive innovation and experimentation within client projects.
+
+
+Qualifications & Experience:
+
+7+ years of experience in a senior data engineering or solutions architect role, with a strong focus on Company K4, Azure, or Company K3 cloud ecosystems.
+Proven track record of designing and implementing data architectures that support large-scale data pipelines and analytics.
+Strong proficiency in Python, PySpark, and SQL for data processing and manipulation.
+Extensive experience in creating ETL pipelines from scratch, handling large datasets, and developing solutions that align with business goals.
+Hands-on experience with data warehousing concepts, data modeling, and building data marts.
+Industry experience in financial services, logistics, or other complex domains is highly desirable.
+Fluency in verbal and written English, with the ability to communicate complex technical concepts to non-technical stakeholders.
+Personality traits: Analytical, solution-oriented, proactive, team player, and continuously learning.
+
+
+
+
+
+In addition to competitive pay, we offer a variety of benefits to support your professional and personal growth, including:
+
+
+
+Company C3ible working hours in a remote environment.
+Health insurance (medical and dental) for W2 Employees
+401K Contribution
+A professional development fund to enhance your skills and knowledge.
+15 days of paid time off annually.
+Access to soft-skill development courses to further your career.
+
+#################################################
+
+Job Title: Product Data Analyst, Ring AI Data Engineering & Analytics 
+Job Description: Description
+
+As a Product Data Analyst you will drive actionable insights for AI Services Product Management team, and influence decision-making across the org. This is a highly visible role in which you will communicate actionable insights to decision-makers. You will ‘tell the story’ around data about features usage insights, user journey analysis, support hypothesis testing from methodology to results evaluation. You will utilise advanced analytics techniques to derive insights about product usage patterns. You will also create self-service dashboards, and work closely with data engineers on data pipelines automation.
+
+Key job responsibilities
+
+ Use data to create insights which include detailed product users behaviour analysis, outlining segments and different patterns, which may lead to business opportunities. You are passionate about turning data into actionable insights that will inform product development and strategy.
+ Write compelling narratives to share data stories to stakeholders and equip them to make informed decisions and future plans.
+ Take a proactive approach to defining new metrics, reports, and dashboards. You seek to develop a deep understanding of our metrics, reporting tools, and data structures in order to provide actionable intelligence with existing metrics.
+ Utilise advanced analytics techniques for conducting deep dive studies around certain device use cases.
+ Provide data for monthly business reviews, which includes results of experiments and A/B tests, features health indicators, activation and engagement metrics.
+ Develop self-service dashboards using Tableau.
+ Browse available data sources in order to understand and enhance analytics signals logging.
+ Work closely with the data engineering team to design, execute and maintain reporting modules, define requirements for automation of recurring reports.
+
+A day in the life
+
+The successful candidate will be on the lookout for ways to learn more about Ring devices usage behavioural patterns, optimise the ways how metrics used for decision making, superior communications skills and the ability to deliver analysis in a clear and actionable format for Product Managers, have technical skills to come up with insights.
+
+About The Team
+
+Our Product Data Analytics team mission is to equip AI Services Product Management team to make data-driven decisions around features with AI component development (e.g. Package detection), starting with insights for feature proposal and to feature post-launch evaluation. We do this by quantifying user experience on each feature usage stage (activation, engagement, retention, reactivation), identifying usage patterns and new opportunities to improve customer experience with Ring devices.
+
+Basic Qualifications
+
+ 3+ years of experience in analyzing and interpreting data, performing statistical analysis
+ Experience with data visualization using Tableau, Quicksight, or similar tools
+ Experience with writing advanced SQL queries
+ Experience in statistical and root cause analysis techniques
+ Experience in product data analytics or user experience analytics
+
+Preferred Qualifications
+
+ Experience with advanced analytics techniques.
+ Experience with data modelling, warehousing and designing ETL pipelines.
+ Experience in data mining in a business environment with large-scale, complex datasets.
+ Experience with Company K3, including Redshift, S3, RDS, Athena.
+ Proficient in handling big data volumes, composition of advanced SQL and query performance tuning skills.
+ Experience in collaborative workflow using version control systems.
+
+#################################################
+
+Job Title: Business Intelligence Engineer, People Analytics, Technology, and Operations Excellence (PATOE)
+Job Description: Description
+
+Do you have a passion for deriving insights from data to make a difference in people's lives? Are you a Day 1 thinker who is passionate about pushing the boundaries of conventional talent development approaches and innovating on behalf of our customers? If so, we would like to hear from you!
+
+PATOE is a centralized technology, data, reporting, and analytics organization that supports over a million employees globally, spanning support across NA Customer Fulfillment, Global Operations Learning & Development and PXT Capability & Impact, and Employee Relations.
+
+We are seeking a seasoned Business Intelligence Engineer for our L&D pillar to further our mission of building technology and programs that help our more than 1 million employees reach their full potential from onboarding through career advancement. In this role, a BIE will play a pivotal role in designing, executing, and optimizing data solutions to empower our front-line leaders and ensure they are well-equipped to effectively lead the largest hourly population in Company S2.
+
+The ideal candidate will be enthusiastic about translating complex and ambiguous problem statements into actionable solutions, working across L&D teams worldwide. In this role, you will partner with our program managers to consult, prioritize, develop and implement KPIs, and automate reporting processes. Your work will play a major role in devising the team's expansion strategy, technical foundation of our ecosystem and scaling our impact across the org. This role provides opportunities to test new approaches and innovate in an exciting, fast-paced environment
+
+Key job responsibilities
+
+ In this role, you will use analytics to enhance our L&D product offerings and improve employee experience
+ Collaborate with PATOE developers and evaluate internal processes, approaches, and technical systems to establish highest standards and ensure safety for our associates and leaders
+ Apply deep analytics and business intelligence skills to extract meaningful insights and learning from large and complicated data sets
+ Design, develop and maintain scaled, automated, user-friendly systems, reports and dashboards
+ Support cross-functional teams on the day-to-day execution of projects and initiatives
+ Deliver business reviews to the senior management team regarding progress and roadblocks
+ Serve as liaison between the business and technical teams to achieve the goal of providing actionable insights into current program performance, and ad-hoc investigations to support future improvements or innovations
+ Recognize and adopt best practices in reporting and analysis through data integrity, test design, analysis, validation, and documentation
+ Conduct advanced statistical analysis to identify trends and opportunities
+
+About The Team
+
+This role sits within the larger People Analytics, Technology, and Operations Excellence (PATOE), a team of Engineers, Data Professionals, Product Managers and Scientists supporting People Experience & Technology (PXT) and Operations worldwide. The role will report into People Data & Analytics team embedded within PATOE and comprised of Business Intelligence and Data Engineers. We design, build and sustain scalable data products that support Employee Relations, Global Learning & Development, and NA Operations
+
+Basic Qualifications
+
+ 5+ years of Excel (including VBA, pivot tables, array functions, power pivots, etc.) and data visualization tools such as Tableau experience
+ 3+ years of business or financial analysis experience
+ Bachelor's degree
+ Experience defining requirements and using data and metrics to draw business insights
+ Experience with SQL
+ Experience making business recommendations and influencing stakeholders
+ Worked extensively in large scale data bases and data warehouses.
+
+Preferred Qualifications
+
+ 5+ years of business or financial analysis experience
+ Experience in customer segmentation, customer behavior analysis, conjoint/trade-off modelling
+ Bachelor's degree in computer science, engineering, mathematics or equivalent
+ Demonstrated experience using scripting languages like R or Python.
+
+#################################################
+
+Job Title: Data Analyst (Engineer)
+Job Description: About The Role
+
+We approach Data Science at Company H6 the same way that we approach everything else. We take complex problems, and create extraordinary solutions that our customers love. Our Data Analysts aren’t kept in the background, doomed to never see the impact of their work. They’re some of our best and brightest problem solvers, deployed to the front-lines to work in Product Teams and deliver rock star solutions.
+
+We’re looking for a superstar Data Analyst who does not believe there is a data task that can be too hard. From digging into our complex databases, looking for the root cause of a problem to designing their own solutions and writing their own code to implement them. In this process they never stop learning, picking up new skills and delivering value ✨
+
+Up for the challenge? Get in touch 🚀
+
+What You’ll Be Doing
+
+Understanding our business and its processes through our data
+Applying this understanding and knowledge of data to help product and services teams
+Developing documentation and data governance
+Owning the entire ETL process
+Designing key metrics to measure different aspects of the business
+Creating and maintaining new aggregated views and tables to simplify data querying
+Providing clean data sets to end users, modeling data in a way that empowers end users to answer their own questions
+
+What You'll Need
+
+5+ years of professional experience in an analytical role, creating impactful data-driven solutions
+Excellent background/education in a quantitative discipline
+Great skills with Python, SQL, or other programming languages
+Evidence of exceptional mathematical and statistics knowledge
+
+Nice to have
+
+An advanced degree in a core STEM subject
+Excellent experience with additional programming languages (Java, Scala, C++, etc.)
+School/University Olympic medal competitions in Physics, Maths, Economics, or Programming
+
+#################################################
+
+Job Title: Lead Data Analyst
+Job Description: Our team masters exploratory data analysis, advanced reporting, data visualization and storytelling to deliver actionable insights and provide recommendations to drive business decision-making. This team collaborates cross-functionally across the DTC organization as well as with stakeholders from business units across The Walt Company J6 Company to generate insightful, compelling, and strategic analyses.
+
+This role will build strong relationships and partner closely with Executive Leadership, Business Operations, Product & Content Programming teams to understand drivers of subscriber health, identify opportunities to improve engagement and retention, and measure impact of strategic business initiatives. The team’s work will drive the development of business and operational plans that are expected to have broad influence at all levels of the organization. The right person for this role has exceptional analytical capabilities, thrives in a fast-paced environment, loves problem-solving, is a good communicator, and is passionate about providing impact.
+
+Responsibilities
+
+
+Conduct analyses to drive valuable business insights, using internal analytics tools and SQL to access and manipulate multivariate data 
+Ideate and develop new metrics and analytical approaches to better understand audience behavior for both tactical and strategic decision-making 
+Effectively communicate results through compelling data storytelling across the organization, both in oral presentations and via written report, specifically focusing on supporting Executive Stakeholders 
+Partner closely with business stakeholders (Product, Business Operations, Programming, Marketing etc.) to identify and unlock opportunities for improved subscriber engagement and retention 
+Translate complex business questions into SQL including proper cohorting, calculations, filtering criteria and/or aggregations 
+Partner with Data Science teams to uplevel analyses using clustering/segmentation, regression modeling, and/or predictive modeling 
+
+
+Required Qualifications
+
+
+Bachelor’s degree in Analytics, Computer Science, Statistics, Economics, Mathematics, or related field 
+7+ years of strategic analysis to inform product or business decision making 
+5+ years of hands-on analytical work experience with SQL (ETL ownership, complex transformations, development of “analytical” datasets) 
+Strong analytical skills with the ability to apply business strategy to data analysis and recommendations 
+Ability to think strategically, analyze and interpret first- and third-party data 
+Experience manipulating large data sets and interpreting data trends using a multitude of disparate data sources and tools 
+Expertise with data exploration and data visualization tools like Tableau or Looker 
+Strong analytical and technical skills to troubleshoot issues, analyze the cause, quickly come-up with possible solutions, document the changes, and communicate organizational impact 
+Strong experience in documenting the data requirements, data strategy, data rules (standardization, cleansing, and validation) 
+Experience in the streaming media industry and/or supporting a direct-to-consumer subscription-based product 
+
+
+Preferred Qualifications
+
+
+Experience in the technology industry and knowledge of how to build and implement data products 
+Experience presenting data stories to executive audiences 
+
+#################################################
+
+Job Title: Senior Data Analyst
+Job Description: We’re looking for a Data Analyst to support our Global Operations Finance team. You’ll use SQL to dig into large datasets, uncover trends, and present clear, actionable insights that inform our decision-making. This role involves close collaboration with finance, analytics and operations to identify areas for improvement and drive ongoing enhancements.
+
+Responsibilities:
+
+ Perform in-depth analyses—combining financial, operational data—to shape business recommendations. 
+ Present findings in a clear and compelling way to both technical and non-technical stakeholders
+ Design and implement processes that streamline data collection, reporting, and analysis
+ Build automated dashboards to ensure stakeholders have real-time access to critical metrics
+ Partner with Finance and Operations teams to scope projects, identify data needs, and translate insights into action
+ Assist with ad hoc queries and special projects that are time sensitive
+
+Qualifications: 
+
+ BA/BS in Business, Finance, Accounting, or a related field
+ Ideally a background in strategic finance
+ 6–8+ years experience in data analytics, with strong financial modeling skills
+ Strong SQL and data visualization skills(Tableau, Looker,etc.)
+ Exceptional analytical and critical thinking skills; able to derive insights from complex datasets
+ Proven ability to operate effectively in fast-paced, ambiguous settings—keen business judgment required
+ Adept at juggling multiple priorities and delivering results on time
+ Strong communicator who can articulate technical findings to both technical and non-technical audiences
+
+#################################################
+
+Job Title: Customer Analytics - Company A3s Analyst
+Job Description: Our Business Strategy & Operations team sets and drives key business initiatives across the company. We complement and support product, engineering, sales, and marketing teams across three critical areas: corporate and business unit strategy, business planning and sales operations, and business systems and tools development.
+
+Role Description
+
+As an Company A3s Analyst, you will join the Customer Analytics team which empowers informed, customer-centric decision-making by delivering reliable, insightful, actionable analytics to customer experience teams, product managers, and senior leaders to enhance the customer experience. As an Company A3s Analyst you are responsible for building a foundational understanding of our custo azmers’ needs to guide decision-making. By developing, analyzing and interpreting customer metrics and operational KPIs, this role supports and advances the company’s customer-centric vision to improve CX from beginning to end.
+
+Your focus will be on providing actionable insights to partners through a deep understanding of the customer experience with applied analytics techniques and business insights. This role isn’t just about performing analytics - it’s also about communicating insights to the business, telling a story with data that answers the “why” as well as the “what” to inform the business strategy.
+
+This is an individual contributor role that requires exceptional analytical skills, bias toward action, strong collaboration and communication skills and a passion for customer experience.
+
+Responsibilities
+
+Lead end-to-end Key Performance Indicator (KPI) reporting processes, including defining and developing high-impact metrics aligned to business strategy, building and maintaining stakeholder dashboards, driving monthly reviews with operational rigor, and providing context for emerging trends
+Serve as a thought partner and SME for data in specific CX or product areas, bridging the gap between technical and non-technical partners to drive continuous improvement, crafting clear actionable insights to make recommendations to the business
+Perform analytics deep dives that identify opportunities to improve customer experience across the business, from product pain points to assisted or scaled support experiences
+Partner closely with CX and CSO leadership to develop and execute an analytics strategy and roadmap of deliverables aligned to business goals
+Translate complex concepts into implications for the business via excellent communication skills, both verbal and written
+
+Requirements
+
+5+ years experience in a data-centric role
+Strong analytical and interpretive skills with the ability to distill copious amounts of data (qualitative, quantitative, secondary, etc.) into an insightful story with actionable recommendations for the business
+Significant experience working with large amounts of data (SQL) and a deep understanding of statistical analysis, common quantitative techniques like regression
+Experience in data visualization tools (e.g. Tableau) and with querying large data lakes (e.g. Company K4)
+Proven track record of being able to drive work independently and proactively engage with business stakeholders with minimal direction, navigating through ambiguity
+Ability to build strong relationships and work cross-functionally with stakeholders in a globally distributed team 
+Team player with a strong attention to detail and ability to meet tight deadlines
+Curious and analytical mindset, with the ability to create compelling narratives and actionable recommendations from their analyses
+Strong stakeholder management, up to VP level
+
+Preferred Qualifications
+
+Bachelors or above in quantitative discipline (e.g. Statistics, Applied Mathematics, Economics, Computer Science, Engineering, or related field)
+Experience with Tableau, Company K4, and Company X5
+Experience with Python/R and git
+Experience with surveys (design, creation, maintenance, analysis)
+Experience with customer experience data and web metrics
+
+#################################################
+
+Job Title: Data Analyst, Returns, ReCommerce & Sustainability
+Job Description: We are looking for an experienced Data Analyst to join the Reverse Logistics Services team to help unlock insights which take our team to the next level. The ideal candidate will be excited about understanding and implementing new and repeatable processes, while providing data to improve the Returns transportation business. The successful candidate will have strong data mining and modeling skills and is comfortable facilitating ideas and working from concept through to execution. They will partner with various key stakeholders to deep dive into the business challenges and data to identify insights, providing recommendations for process improvement on a globally scalable level. This role requires an individual with excellent analytical abilities as well as strong business acumen.
+
+Key job responsibilities
+
+Retrieving and analyzing data using Excel, SQL, and other data management systems
+Monitoring existing metrics, analyzing data and partnering with internal/external teams to identify process and system improvement opportunities
+Design, develop and maintain scalable, automated, user-friendly systems, reports, or dashboards to enable stakeholders to manage the business and drive effective decisions
+Prepare and deliver business requirements reviews to leadership teams
+Excellent writing skills, to create artifacts easily digestible by business and tech partners.
+Be self-driven, and show ability to deliver on ambiguous projects with incomplete data
+
+About The Team
+
+At Company S2 Worldwide Returns & ReCommerce (WW R&R), we aspire to zero: zero cost of returns, zero waste, and zero defects.
+
+We are an agile, innovative organization dedicated to ‘making zero happen’ to benefit our customers, company, and environment. We are constantly innovating to create long-term value at Company S2 by investing in the future and focusing on the planet, not just on the bottom line. WW R&R includes business, product, program, operational, data, and software engineering teams, who together manage the lifecycle of returned and damaged products.
+
+Basic Qualifications
+
+ Experience in a business analyst, data analyst or statistical analysis role
+ Experience with Excel, SQL, and data visualization tools such as Quicksight
+ Experience defining data requirements
+ Experience using data and metrics to draw business insights
+ Experience making business recommendations and influencing stakeholders
+
+Preferred Qualifications
+
+ Data experience in Transportation or Operations
+ Advanced SQL skills
+ Advanced experience with Tableau, Company K3 QuickSight, Power BI, or other data visualizations software
+ Experience communicating across all levels of management, peers, and partners
+ Strong background in administrative support, project or data management and working with tech teams
+
+Company S2 is committed to a diverse and inclusive workplace. Company S2 is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Our inclusive culture empowers Company S2ians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+#################################################
+
+Job Title: Senior Data Scientist 
+Job Description: 
+Job Description:
+
+At Company M6, we empower people to transform complex data into clear and actionable insights. With as much data under management as the hyperscalers, we're the preferred data partner for the top companies in almost every industry. Powered by the relentless innovation of the open source community, Company M6 advances digital transformation for the world’s largest enterprises.
+
+We are seeking a highly skilled and motivated Senior Data Scientist to join our Business Intelligence team. The ideal candidate will have a strong background in data science, analytics, and statistical modelling with a particular focus on prescriptive analytics. This role will involve analyzing complex data sets, developing prescriptive models, and delivering actionable recommendations to support business decisions. The Data Scientist will also play a crucial role in enhancing our data analytics offerings, implementing prescriptive business processes, and upskilling team members.
+
+As a Senior Data Scientist, you will:
+
+Analyze large and complex data sets to identify trends, patterns, and actionable insights.
+Develop and implement prescriptive models to optimize business operations and decision-making.
+Utilize statistical techniques and machine learning algorithms to support data-driven strategies.
+Collaborate with business stakeholders to understand needs and translate them into data-driven solutions.
+Present findings and recommendations to senior management and stakeholders in a clear and impactful manner.
+Ensure data quality and integrity through data cleaning, transformation, and validation.
+Mentor and upskill team members in data science and analytics techniques.
+
+
+We’re excited to have you if you have:
+
+A Master’s degree in Data Science, Statistics, Computer Science, or a related field.
+4+ years of experience in data science, analytics, or a related role.
+Proficiency in Python and experience with data visualization tools (e.g., Tableau, Power BI).
+Strong knowledge of statistical methods, prescriptive analytics, and data mining techniques.
+Excellent problem-solving skills and attention to detail.
+Strong communication and presentation skills, with the ability to convey complex ideas effectively.
+The ability to work independently and collaboratively in a fast-paced environment.
+
+
+You may also have:
+
+Experience with big data technologies such as Hadoop and Spark.
+Knowledge of database management systems like SQL and NoSQL.
+Previous experience in a business intelligence or analytics team.
+A track record of continuously improving and innovating data analytics processes and methodologies.
+A passion for staying current with the latest trends and advancements in prescriptive analytics and data science.
+
+#################################################
+
+Job Title: Big Data/Big Query Developer
+Job Description: The Role
+
+Responsibilities:
+
+Data Processing: Design and implement data pipelines to process and analyze large datasets using tools such as Apache Hadoop, Spark, or Flink. 
+Data Storage: Work with distributed storage systems like HDFS, Apache HBase, or NoSQL databases (e.g., MongoDB, Cassandra). 
+Data Querying: Develop and optimize queries to extract meaningful insights from big data using languages like SQL, HiveQL, or Pig Latin. 
+Data Integration: Integrate data from various sources, ensuring data quality and consistency. 
+Performance Tuning: Optimize existing big data solutions for performance and scalability. 
+Collaboration: Work with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions that meet business needs. 
+
+Requirements: 
+
+You are:
+
+Proficiency in programming languages such as Java, Scala, or Python. 
+Strong understanding of big data technologies and frameworks (e.g., Hadoop, Spark, Kafka). 
+Experience with data querying languages (SQL, HiveQL). 
+Knowledge of data modeling and ETL processes. 
+Familiarity with cloud platforms (Company K3, Azure, Company T2 Cloud) and their big data services. 
+Understanding of data governance and security practices. 
+Data Processing: Apache Spark, Hadoop MapReduce, Apache Flink. 
+Data Storage: HDFS, Apache HBase, MongoDB, Cassandra. 
+Data Querying: Apache Hive, Apache Pig, SQL. 
+Data Integration: Apache NiFi, Talend, Informatica. 
+Cloud Services: Company K3 EMR, Company T2 BigQuery, Azure HDCompany A3. 
+
+#################################################
+
+Job Title: Senior Big Data Engineer
+Job Description: Company C7 is hiring a Big Data Engineer for a contract with the FAA HQ in Washington, DC. This position is remote and the applicant can reside anywhere within the U.S. but must be able to travel to both the Company C7 facilities (Reston, VA and Washington D.C.) and the customer facilities (Washington, D.C. and Atlantic City, NJ) on an as-needed basis.
+
+Works in cross-functional teams with data at all stages of the analysis lifecycle to derive actionable insight. Translates mission needs into an end-to-end analytical approach to achieve results. Performs the pre-analytics areas of data collection and understanding, data cleansing and integration, and data storage and retrieval. Determines the appropriate analytics based on the data and the desired outcomes, using techniques such as feature detection, statistics, data mining, predictive modeling, machine learning, natural language processing, and business intelligence. Interprets the validity of results and communicates the meaning of those results. Has familiarity with data wrangling, analytics, and visualization software and programming languages, including analytics methods for big data. Follows a scientific approach to generate value from data, verifying results at each step.
+
+This opportunity is contingent upon contract award.
+
+Qualifications
+
+Required Qualifications and Skills
+
+Bachelors Degree and 9 years or more relevant experience; Masters and 7 years or more experience
+Knowledge and use of low-code/no-code data analytics and data science tools (Tableau, Dataiku, Cloud AI tools).
+The ability to obtain a Public Trust Clearance.
+Experience in designing, building, and maintaining data pipelines.
+Familiarity with RDS and NoSQL databases
+
+Desired Qualifications And Skills
+
+Experience on working with Agile development teams.
+History working with the FAA or DOT data.
+Familiarity with working with API’s and JSON and XML file formats
+Some experience working with programming languages such as Python
+
+#################################################
+
+Job Title: Software Engineer (Framework - BigData), Ai & Data Platforms
+Job Description: The people here at Company O1 don’t just build products — we craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Company O1, and help us leave the world better than we found it. Imagine what you could do here! A passion for product ownership and track record will prove critical to success on our team. Be ready to make something extraordinary when here. Multifaceted, encouraging people and innovative, industry-defining technologies are the norm at Company O1. Would you like to work in a fast-paced environment where your technical abilities will be challenged on a day to day basis? If so, Company O1’s AI & Data Platform (AiDP) team is seeking a Software Engineer to work on building and scaling best in class big data platform that support applications across Company O1. We are looking for a team member that will be able to think creatively and should have a real passion for building highly scalable platforms with end users in focus. 
+
+You will enjoy the benefits of working in a fast growing business where you are inspired to "Think Different" and where your efforts play a key role in the success of Company O1's business. This position is an extraordinary opportunity for a competent, expert, and results-oriented Framework Software Engineer to define and build some of the best-in-class data platforms and products.
+Description
+As a Framework Software Engineer for Big Data at Company O1, you'll play a key role in shaping the future of how we work with data. You will be directly involved in building and making decisions on the tools and features that power our Data and ML platforms, impacting everything from data processing and lakehouse management to data access, observability, model training, and visualization. You will either work on building custom solutions ground up or take open source products and customize them for Company O1’s needs. We're looking for an individual who loves to take challenges, tackles problems with imaginative solutions, works well in collaborative teams, and can produce high-quality software under tight deadlines and constraints.
+Minimum Qualifications
+3+ years or more of hands-on experience with Java and/or Python
+Deep understanding of data structures and algorithms.
+Experience designing and developing scalable & performant micro-services and Rest APIs
+Knowledge of cloud computing platforms like Company K3, Company T2 Cloud, Azure
+Bachelor’s degree in computer science or related field or equivalent
+Preferred Qualifications
+Hands-on experience with distributed computing technologies like Spark, Flink etc.
+Experience or familiarity with big data technologies like Apache Iceberg, Delta or Hudi
+Prior experience in the areas of AI/ML/Data Sciences will be a strong plus
+Familiarity in working with frontend frameworks
+Experience with SQL and NoSQL data stores
+Strong problem-solving skills and Excellent communication skills
+
+#################################################
+
+Job Title: Specialist Solutions Architect - Data Engineering
+Job Description: 
+This role can be remote and fluent-proficiency in English and Portuguese/Spanish is required.
+
+As a Specialist Solutions Architect (SSA) - Data Engineering, you will guide customers in building big data solutions on Company K4 that span a large variety of use cases. You will be in a customer-facing role, working with and supporting Solution Architects, that requires hands-on production experience with Apache Spark™ and expertise in other data technologies. SSAs help customers through design and successful implementation of essential workloads while aligning their technical roadmap for expanding the usage of the Company K4 Data Intelligence Platform. As a deep go-to-expert reporting to the Specialist Field Engineering Manager, you will continue to strengthen your technical skills through mentorship, learning, and internal training programs and establish yourself in an area of specialty - whether that be streaming, performance tuning, industry expertise, or more.
+
+The Impact You Will Have
+
+Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural design to data engineering to model deployment
+Architect production level data pipelines, including end-to-end pipeline load performance testing and optimization
+Become a technical expert in an area such as data lake technology, big data streaming, or big data ingestion and workflows
+Assist Solution Architects with more advanced aspects of the technical sale including custom proof of concept content, estimating workload sizing, and custom architectures
+Provide tutorials and training to improve community adoption (including hackathons and conference presentations)
+Contribute to the Company K4 Community
+
+What We Look For 
+
+Fluent-proficiency in English and Portuguese/Spanish
+5+ years experience in a technical role with expertise in at least one of the following:
+Software Engineering/Data Engineering: data ingestion, streaming technologies - such as Spark Streaming and Kafka, performance tuning, troubleshooting, and debugging Spark or other big data solutions
+Data Applications Engineering: Build use cases that use data - such as risk modeling, fraud detection, customer life-time value
+Extensive experience building big data pipelines
+Experience maintaining and extending production data systems to evolve with complex needs
+Deep Specialty Expertise in at least one of the following areas:
+Experience scaling big data workloads (such as ETL) that are performant and cost-effective
+Experience migrating Hadoop workloads to the public cloud - Company K3, Azure, or GCP
+Experience with large scale data ingestion pipelines and data migrations - including CDC and streaming ingestion pipelines
+Expert with cloud data lake technologies - such as Delta and Delta Live
+Bachelor's degree in Computer Science, Information Systems, Engineering, or equivalent experience through work experience
+Production programming experience in SQL and Python, Scala, or Java
+2 years of professional experience with Big Data technologies (Ex: Spark, Hadoop, Kafka) and architectures
+2 years of customer-facing experience in a pre-sales or post-sales role
+Can meet expectations for technical training and role-specific outcomes within 6 months of hire
+Can travel up to 30% when needed
+
+#################################################
+
+

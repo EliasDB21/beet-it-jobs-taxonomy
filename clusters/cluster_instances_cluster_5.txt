@@ -1,0 +1,993 @@
+Cluster 5:
+
+Job Title: Circuit Design Engineer
+Job Description: About Company N1
+
+Company N1 is building a small, fast semiconductor fab.
+
+It's already possible to build this with today's technology and a few simplifications. We'll build the tools ourselves so we can quickly iterate and improve.
+
+We're building a small team of exceptional, hands-on engineers to make this happen. Mechanical, electrical, hardware, computer, and process. We'll own the stack from atoms to architecture. Our team is optimistic about the future and we want to continue pushing the limits of technology.
+
+Smaller is better. Faster is better. Building it ourselves is better.
+
+We believe our team and lab can build anything. We've set up 3D printers, a wide array of microscopes, e-beam writers, general fabrication equipment - and whatever is missing, we'll just invent along the way.
+
+Atomic was founded by Sam Zeloof and Jim Keller. Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.
+
+About the role
+
+We are seeking a skilled Circuit Design Engineer to lead the development and maintenance of our PDK, circuit design, and device characterization projects. The ideal candidate will have a deep understanding of semiconductor processes, design methodologies, and tool flows. You will work closely with our process and fabrication teams to design test chips and models from scratch.
+
+Responsibilities
+Lead the development and validation of PDKs for new semiconductor process technologies.
+Collaborate with process and engineering teams to define PDK requirements
+Develop and optimize process-specific design rules, device models, and parasitic extraction files.
+Design test chips and experiments to drive modeling
+Create and maintain PDK documentation, including design manuals, application notes, and training materials.
+
+
+Required Experience
+Minimum of 5 years of experience in PDK development or circuit design
+Proven track record of successfully leading test tape-out chips and analog circuit design
+Hands-on experience with device measurement, characterization, and modeling
+Proficiency with new or industry-standard EDA tools (e.g., OpenLane, Company W1, Mentor Graphics, Synopsys).
+Experience with scripting languages (e.g., Python, Tcl) for automation and tool integration.
+Strong communication and interpersonal skills, with the ability to work effectively in a collaborative team environment.
+
+
+Nice-to-have
+Timing analysis
+Open-source layout tools
+
+#################################################
+
+Job Title: Digital Layout Design Engineer
+Job Description: Do you have a passion for crafting entirely new solutions? As part of our Digital Design Engineering group, you’ll take imaginative and revolutionary ideas and determine how to turn them into reality! You and your team will apply engineering fundamentals and start from scratch if needed, bringing forward-thinking ideas to the real world. Join us, and you’ll help design the tools that allow us to bring customers experiences they’ve never before envisioned. You will be part of an exciting silicon design group that is responsible for designing state-of-the-art ASICs. We have an extraordinary opportunity for Digital Layout Designers! In this highly visible role, you will be a member of Company O1’s custom layout team, working on the latest technology nodes to create extraordinary custom digital macros, libraries, etc. This is a fast paced work environment with endless learning opportunities working in the design team with members of integration, CAD, circuit and technology engineering.
+
+Description
+
+Imagine yourself at the center of our SOC design effort, collaborating with all fields, playing a strategic role of getting functional products to millions of customers quickly. You will have the opportunity to integrate and come-up with new ideas, as well as work with a team of hardworking engineers. As a member of the layout team of the microprocessor group, you will be responsible to deliver PDV clean layout, including the following: - Designing complex custom layout for digital circuits in deep SubMicron CMOS technologies. - Reviewing and analyzing floorplans and complex circuits with circuit designers. - Running a complete set of layout design verification tools available on megacells completed. - Working with the circuit design team to plan, schedule work and negotiate layout tradeoffs as needed. - Interpretation of LVS, DRC and ERC report to find the fastest way to complete layouts. - Exceed engineering specifications and expectations. - Use advanced CAD tools, mask design knowledge to layout corrections and robust physical design representation of circuits.
+Bachelors degree in relevant field of study + 3 years of relevant experience
+
+Preferred Qualifications
+We are looking for applicants experience in custom layout design of deep SubMicron CMOS circuits.
+High level proficiency in layout floorplanning, standard cell planning and hierarchical layout assembly.
+Good understanding of issues with RC delay, electromigration, self heating and cross capacitance.
+Recognize failure prone layout structures, dedicatedly work with designers for the best approach to problems.
+Excellent communication skills and able to work with multi-functional teams.
+Great skills on interpretation of CALIBRE DRC, ERC, LVS, etc. reports.
+Knowledge of MENTOR GRAPHICS or CADENCE layout tools
+Scripting skills in CSH, PERL or SKILL are considered a plus, but not required.
+Experience in layout automation is considered a plus, but not required.
+Experience in memory compiler development is considered a plus, but not required.
+Experience designing low noise, low power datapaths or Memory layout structures, etc.
+
+#################################################
+
+Job Title: Senior Analog Design Engineer
+Job Description: Company S1, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $12 billion in FY23 and approximately 26,000 people globally working alongside 125,000 global customers, ADI ensures today’s innovators stay Ahead of What’s Possible. Learn more at www.analog.com and on LinkedIn and Twitter (X)
+
+The Group:
+
+The charter of ADI’s CSS team is to lead the market in several technology domains with highly differentiated sensing and signal processing solutions. Today these technology areas include Capacitive Sensing, Optical Image Stabilization, Optical sensing, Audio, Capacitance or Laser Driving, and Power, which drive growth in our portable Consumer business. With a goal to deliver sustainable growth the CSI group will present the successful candidate with a great opportunity for continuous career development as part of a highly motivated and supportive team.
+
+The Position:
+
+The group is seeking an experienced Senior Analog IC Design Engineer to work on the development of new product solutions for portable consumer applications, engaging directly with our Tier 1 OEMs, along with supervisor/mentor leadership opportunities.
+
+Responsibilities
+
+Working within an analog/mixed-signal design team based in our Valencia (Spain), Cork (Ireland), Limerick (Ireland) and Newbury (England) sites.
+Contributing to the detailed definition and architecture development of high-performance mixed signal devices.
+IC block design, transistor-level circuit design and simulation. 
+Conducting technical presentations to ADI’s internal engineering team and customers.
+Using recommended design and verification techniques, tools & flows to produce efficient designs which meet all specified functional, power and timing objectives.
+Successful integration of blocks into larger mixed-signal systems.
+Supporting other job functions such as layout, lab evaluation and test to ensure successful delivery meeting all requirements.
+Continuing to improve analog design methodologies consistent with the group’s wider business objectives to reduce time and cost to market.
+
+Requirements
+
+Electronic Engineering degree with 5+ years’ experience as an analog/mixed signal IC designer.
+Candidates should have a good knowledge of analog and mixed signal electronics, tools and flows.
+Design experience with circuits such as amplifiers, DACs, ADCs, bandgaps, bias circuits, LDOs, switching power supply circuits, audio etc., is an advantage.
+Strong people leadership, inter-personal, teamwork and communication skills are required.
+The successful candidate will be expected to take a full cell ownership role and contribute to the development of new products from architecture selection to implementation and debug.
+Experience of integrating analog blocks (converters, power management, etc.) in complex microcontroller systems would be an advantage.
+Some limited travel should be expected.
+
+#################################################
+
+Job Title: CPU Design Engineer (Memsys/RISC-V/Out-of-Order cores)
+Job Description: Your role: 
+
+Join our team as a CPU Design Engineer and collaborate with our IP team, working closely with Guillaume Bru from the French Design Center, Xubin Tan from the Barcelona Design Center, and CPU Architects based in the UK - Ben Fletcher, Tariq Kurd, etc. 
+
+Your primary focus will be on the recently launched Out-of-Order core project and memory subsystems. You will also have the opportunity to contribute to cutting-edge design projects, participate in the development of next-generation architectures, and work with our proprietary CodAL language.
+
+
+
+What we need: 
+
+Good knowledge of modern CPU architectures (ideally RISC-V) and micro-architectures, or alternatively track of records in the design of complex pipelined designs
+Hands-on experience with at least one Hardware Description Language (preferably - Verilog/SystemVerilog)
+Good knowledge of Out-of-Order core development and multicore cache coherence
+Understanding of the CHI protocol
+Sharp understanding of physical implications when designing at a higher level of abstraction (digital design synthesis and implementation flow)
+Skills to design and optimize a module around a given PPA point
+Practical expertise in versioning tools (preferably git)
+Proficiency in scripting languages (Shell, Python, Tcl)
+Practical usage of Linux
+Proficiency in digital design synthesis and implementation flow
+
+
+Who is Company T1: 
+
+We believe Company T1 is the most innovative processor solutions company. We take pride in designing and developing cutting-edge, high-performance, and energy-efficient CPU cores from scratch, and our own automated proprietary tools to fully customize them. We give our customers a unique competitive advantage by empowering their system-on-chip developers to build the most innovative products.
+
+Our processor cores are based on the RISC-V open architecture. The potential for customizing RISC-V is unlocked with the Company T1 Custom Compute approach: our unique architecture description language, CodAL, and the powerful automated processor design tool, Company T1 Studio. These are at the heart of our unique and groundbreaking RISC-V processor solutions.
+
+
+
+What’s in it for you?
+
+Joining Company T1’s IP domain (CPU Design Team) is a chance to challenge yourself to work on complicated projects and apply your ideas to how we do processor architecture and design. The best candidates for us are decisive, proactive, comfortable with ambiguity, opinionated yet collaborative and passionate about continuous improvement as we scale up and disrupt the semiconductor industry.
+
+We can offer you a chance to grow by providing variety in your day-to-day, autonomy to be creative with solutions in your role and really make a direct impact on the future custom compute revolution.
+
+#################################################
+
+Job Title: CAD Gate-level 3DIC EM/IR Engineer
+Job Description: Imagine what you could do here! At Company O1, new ideas have a way of becoming phenomenal products very quickly. Do you want to bring passion and dedication to your job? There's no telling what you could accomplish at Company O1. The people who work here have reinvented entire industries with Company O1 Hardware products. The same real passion for innovation that goes into our products also applies to our practices - we continue to strengthen our commitment to leave the world better than we found it! As a key member of our best-in-class CAD Group, you will be part of building innovative designs. We will apply your hands-on experience in power EM/IR analysis to develop, define and refine the methodologies and flows for gate-level, as well as transistor level designs. Major tasks will include functional static / dynamic IR analysis, scan mode IVD analysis, package and interposer model handling, 3DIC and multi die analysis, power EM analysis, SigEM, power switch modeling, design abstract and reuse for EM/IR purposes, IP / SoC level EMIR sign-off / ECO, and much more. Are you ready to join some of the world's leading engineers, and help us deliver the next generation of ground-breaking Company O1 products?
+Description
+In this highly visible role, your primary responsibilities will include: 
+
+-  Development of custom EM/IR solutions which scale with accuracy and capacity challenges.
+
+-  Streamline and automate EM/IR flow with ownership of the entire flow.
+
+-  Support and collaborate with design groups (Physical-design and integration, Circuit-design / Power / Package & System / Technology) on their EM/IR requirements for various post layout flows.
+
+-  Work side by side with EDA vendors and foundries for tool qualification, debug and enhancement.
+Minimum Qualifications
+Experience in EDA Tool, CAD flow or methodology relevant to EM/IR
+Experience in at least one of Tcl, Python or Perl scripting languages.
+Experience in one of the analysis involved in EM/IR - extraction, timing, noise, simulation, physical design and verification
+Minimum requirement of BS and 3+ years of relevant industry experience
+Preferred Qualifications
+Ability to coordinate and drive initiatives with little to no oversight.
+Excellent communication and presentation skills.
+Hands on knowledge of industry leading EMIR tools e.g. Voltus, VoltusFi, RedHawk-SC, Totem.
+Experience in development of large scale software in multi user, multi site environment.
+Hands on experience with analysis, optimization and debugging of IR/IVD/Electromigration issues on high performance, large scale designs and silicons.
+
+#################################################
+
+Job Title: Embedded Systems Engineer
+Job Description: Description:
+Company Y1 is a technology-focused company specializing in the design, development and manufacturing of gas generation systems, precision compressor solutions, and cryogenic cooling technologies for critical applications in Marine, Aerospace, Land, Energy, Industrial, Medical, and Critical Infrastructure markets. Founded in 1878, the company is headquartered in Benicia, CA, and operates additional facilities in Sparks, NV and Rockville, CA.
+
+Position Summary
+
+The Embedded Systems Engineer is responsible for the design, development, coding, testing, and maintenance of embedded systems and their software. Experience with both hardware and software is required.
+
+Responsibilities
+
+Perform schematic capture, PCB layout, component selection, bill of material generation, and produce PCB fabrication documentation.
+Design and develop digital circuitry for real time control of systems using microcontrollers, digital signal controllers, or digital signal processors.
+Design and develop digital communication interfaces such as CAN, RS232, RS485, Ethernet, SPI, or I2C.
+Design and develop analog circuitry for signal measurement and signal generation for the integration with a wide range of sensors including temperature, pressure, force, flow, concentration, current, or frequency.
+Design and develop power electronics for powering or controlling of DC-DC converters or motor drivers (<300W).
+Perform thermal analysis of PCBA componentry for component selection or identification of thermal management requirements.
+Develop firmware and software for custom developed PCBAs to control and communicate with gas compression, gas generation, or cryogenic systems.
+Collaborate with engineers to integrate newly designed controllers into production units.
+Procure prototype quantities of components and PCBs and assemble/solder if required.
+Design and build functionally representative prototypes, both physical and computer models.
+Create test plans and procedures for the validation of new technologies.
+Perform tests using functionally appropriate prototypes and document results.
+Perform technical trade studies to support product development strategies.
+Prepare and present findings for comprehensive design reviews.
+Participate in technical problem solving for current products through cross departmental teams.
+Support Production and Supply Chain teams for production of PCBA designs through Contract Manufacturers.
+Support Test Engineering in EMC testing and qualification by designing immune and low EMI circuits or identifying necessary corrections or improvements.
+Perform Root Cause Analysis of electrical and electronic system failures.
+Focus on rapid prototyping.
+Requirements:
+Minimum Qualifications•
+
+Experience with Altium Designer or equivalent schematic/layout tools.
+Experience in component selection and evaluating cost, availability, and modularity.
+Experience with programming in Embedded C, C and C++.
+Experience with electro-mechanical integration of PCB assemblies.
+Completed (designed/built/tested) controller assemblies.
+Experience with digital hardware design (Microcontrollers and communication protocols such as Ethernet, RS485 etc).
+Experience with analog hardware design (ADC measurements, sensor scaling, noise filtering)
+Strong written and verbal communication skills.
+Ability to work in a fast-paced environment.
+B.S. in electrical engineering or related discipline.
+Company N7zenship: U.S. Company N7zen or qualified U.S. Person in accordance with ALU 22CFR 120.15.
+Preferred Qualifications
+
+4+ years of working experience in relevant industry.
+4+ years’ experience with Real-Time Operating System.
+4+ years’ experience designing hardware testing systems for production.
+4+ years’ experience working with high-power motor controllers
+4+ years’ experience with first article design and testing.
+Physical Requirements & Work Environment
+
+Must have the following physical abilities:
+
+Ability to stoop, kneel, crouch, bend, stretch, reach, and lift.
+Ability to lift up to 50 pounds regularly.
+Ability to sit or stand for extended periods at a desk or table as well as machine tools or printers.
+This position is regularly exposed to the following conditions:
+
+Manufacturing, warehouse and office environments
+While working near moving equipment, mechanical parts and lift trucks; must have the ability to follow safe operating procedures.
+May be exposed to loud noise, fumes and/or toxic chemicals.
+
+#################################################
+
+Job Title: Sr. Hardware Engineer
+Job Description: Job description
+Company B2 is a private equity-owned global design, engineering, and manufacturing company selling product solutions to the appliance, automotive, and HVAC industries. We are an industry leader in advanced flow control components and systems for water, gas, and other fluids to help build extraordinary products that improve safety, comfort, health, and happiness.
+
+When you join Company B2, you’re joining a company with over 125 years of experience and a global team with focus on innovation.
+
+Position summary:
+
+As a Senior Hardware Engineer, you will be a leader in our electronics team, developing new product architectures, implementing hardware circuit designs, coordinating with Company B2’s factories, and mentoring other team members.
+
+
+You should have a high aptitude for design of discrete analog and digital circuitry, developing technical specifications, and leading our team creating innovative controls solutions. You will also have focus on product cost, quality, and schedule.
+
+You will be working closely with product management and software teams as well as some involvement with Company B2’s customers to define new products and root cause issues with current products.
+
+This position is hybrid onsite in Itasca, Illinois.
+
+Experience and Competencies
+10+ years of electronic controls design experience for residential and commercial appliances with focus on designing Class C functional safety compliant circuitry, gas spark ignition, HVAC controls, and/or automotive controls.
+Proficient in the design of embedded analog and digital circuitry and systems using embedded microcontrollers.
+Proficient in design of power supplies including DC point-of-load, isolated AC/DC, and non-isolated high-voltage supplies.
+Experience with mixed analog/digital signal conditioning.
+Experienced with industry standards such as IEC/UL 60335, IEC/UL 60730, IEC 61000 series Emissions/Immunity.
+Experience designing for high-volume manufacturing to ensure designs consider DFM, testability, sustainability, and sourcing needs.
+Experience using eCAD schematic entry and PCB layout tools and PSPICE simulation tool.
+Proficient in design verification including developing test plans, contributing to lab testing, and documenting results.
+Great technical leadership to coach and supervise junior engineers in electronics design and testing, making cost and performance tradeoff decisions, and task prioritization.
+Good verbal and written communication skills.
+Nice to have
+Familiarity with automotive standards (e.g. ISO, SAE, and EMC requirements).
+Experience leading DFMEA failure mode analysis.
+Design experience with wireless IoT and/or TFT touchscreen products.
+Experience using Mentor Graphics DxDesigner/PADS eCAD tools.
+Education
+Bachelor’s degree in Electrical or Computer Engineering. Graduate coursework is desirable.
+
+#################################################
+
+Job Title: Staff Hardware Customer Engineer
+Job Description: 
+General Summary
+
+As a leading technology innovator, Company E1 pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Company E1 Hardware Application Engineer, you will provide technical expertise of hardware through trainings, product demonstrations, and the design, debug, test, and quality support of customer products. Company E1 Hardware Application Engineers collaborate with cross-functional teams to assess the potential application of company products that meet and exceed customer needs.
+
+Minimum Qualifications
+
+ Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 4+ years of Software Applications Engineering, Software Development experience, or related work experience.
+
+
+OR
+
+Master's degree in Engineering, Information Systems, Computer Science, or related field and 3+ years of Software Applications Engineering, Software Development experience, or related work experience.
+
+OR
+
+PhD in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Applications Engineering, Software Development experience, or related work experience.
+
+ 2+ years of experience with Programming Language such as C, C++, Java, Python, etc.
+ 1+ year of experience with debugging techniques.
+
+
+Preferred Qualifications
+
+ Master's Degree in Electrical Engineering, Computer Engineering, or related field.
+ 6+ years of Hardware Applications Engineering or Hardware Design experience or related work experience.
+ 1+ year of work experience in a role requiring interaction with senior leadership.
+Familiar with Principals of High Speed Signal Design including transmission lines, controlled impedance and EMI/EMC
+ Familiar with interfaces such as LPDDR, MIPI, USB, PCIe, UFS
+ Team Player with excellent written and verbal communication skills.
+
+
+Principal Duties And Responsibilities
+
+ Applies Hardware Board Design Skills to customize Reference Designs (Schematic, Layout, eBOM) based on Customer Requests.
+ Leverages advanced Hardware Application knowledge and experience to provide technical expertise of hardware through trainings, product demonstrations, and the design, debug, test, and quality support of customer products that are based on Company E1 chips.
+ Applies Hardware Application knowledge and experience to provide technical expertise through trainings, product demonstrations, and the design, debug, test, and quality support of customer products that are based on Company E1 chips.
+ Collaborates with cross-functional teams and customer personnel in assessing potential application of company products, preparing detailed product specifications, disseminating technical information on specific hardware areas, and/or troubleshooting issues regarding hardware tools and products.
+ Owns support for a technology and/or chipset area and recommends appropriate modifications and enhancements in light of customer needs.
+ Proactively identifies customer problems and recommends innovative solutions.
+ Writes detailed technical documentation for complex Hardware Application projects.
+
+
+Level Of Responsibility
+
+ Works independently with minimal supervision.
+ Provides supervision/guidance to other team members.
+ Decision-making is critical in nature and highly impacts program, product, or project success.
+ Requires verbal and written communication skills to convey complex information. May require negotiation, influence, tact, etc.
+ Has a moderate amount of influence over key organizational decisions.
+ Tasks do not have defined steps; planning, problem-solving, and prioritization must occur to complete the tasks effectively.
+
+#################################################
+
+Job Title: Hardware Support Engineer 
+Job Description: Why join us
+
+TRACTIAN is transforming the industrial world by empowering frontline maintenance workers to achieve more. We’ve fused cutting-edge hardware with innovative software into one powerful platform, disrupting legacy systems and delivering smarter, faster solutions for our clients.
+
+At TRACTIAN, you'll break boundaries, question convention, and collaborate with top talent to drive real change. As a part of our growth-stage startup, you’ll work alongside the founders, shaping the vision, products, and experiences that will define the future of industrial tech.
+
+Hardware at TRACTIAN
+
+The Hardware team is responsible for designing and improving our IoT devices, dealing with every step of the development process, ranging from PCB design, firmware programming, case design, validations and certifications, always aiming to build trustworthy products that can be produced at a mass scale.
+
+What You'll Do
+
+As a Hardware Support Engineer, you will be responsible for analyzing and resolving technical issues with our products, utilizing your analytical thinking, engineering skills, and fast learning abilities to deliver effective solutions. If you thrive in a challenging and fast-paced environment and enjoy problem-solving, this opportunity is for you. Your expertise in problem solving and testing will be instrumental in ensuring the seamless operation and reliability of our industrial asset monitoring solutions.
+
+Responsabilities
+
+Troubleshoot product issues: Investigate and diagnose technical problems reported by customers or identified through internal testing.
+Analyze data, logs, and system behavior to identify the root cause of issues and propose appropriate solutions.
+Collaborate with cross-functional teams: Work closely with engineering, quality assurance, and customer support teams to understand and replicate reported issues.
+Generate and maintain documentation for test results and repeatability.
+Clearly communicate technical concepts, solutions, and recommendations to both technical and non-technical stakeholders.
+Provide timely updates to customers, support teams, and management regarding the progress of issue resolution.
+Teardown documentation for field failure analyses.
+Contribute to the development and maintenance of quality documentation, including standard operating procedures, work instructions, and quality manuals.
+
+
+Requirements
+
+Enrollment in a Bachelor's degree program in Electrical Engineering, Computer Engineering, or a related field.
+Basic knowledge of electronic circuits, components, and schematic design.
+Basic understanding of measurement equipment, manufacturing process, and other mechanical manufacturing concepts.
+Understanding of electrical technical documents such as components datasheet, schematics and PCB Gerbers.
+Understanding of 2D mechanical technical documents such as 2D drawings and work instructions.
+Intermediate English fluency.
+Live or have availability to move to Sao Paulo.
+
+
+Bonus Points
+
+Experience with scripting languages such as Python.
+Basic knowledge of programming languages such as C.
+Experience with other low-level programming languages.
+Fluency in English proficiency.
+
+#################################################
+
+Job Title: Data Center Hardware Engineering - Hardware System Integration Engineer
+Job Description: Description
+The EE integration team is responsible for the design, specification, and realization of high- performance compute solutions supporting customer’s specific requirements. This is a design and validation position that entails owning electrical engineering implementation, documentation, and validation of customized compute designs. 
+
+The ideal candidate has electrical systems integration experience with emphasis in high-speed digital design using high-performance silicon. Day-to-day tasks involve electrical design, simulation, bringup, debug and validation. Routine responsibilities also include factory build support, and multi-disciplinary cross-functional collaboration and negotiation where strong documentation and communications skills are critical.
+
+We are looking for well-rounded candidates with a broad set of skill and interests, and the curiosity to dig deep wherever necessary to solve challenging problems. In addition to technical capability, we prize curiosity, creativity, integrity, leadership, collaboration, and a passion for learning.
+Minimum Qualifications
+Strong EE fundamentals, grounded in a solid understanding of E&M physics and first principles
+Outstanding written, verbal, and visual communication skills in order to develop functional specs, procedures, and other documentation needed for complex system integration
+Working knowledge of design and validation requirements for common low-speed and high-speed digital interfaces: I2C/SMBus, SPI, JTAG, USB, PCIe, Ethernet (SGMII, RMII, QFSP), DDR Memory
+Experience with PCB bringup and debug using standard EE lab equipment: Soldering, DMM, Oscilloscope, Logic Analyzer, Spectrum Analyzer
+BS in electrical or computer engineering with a minimum 5 years of relevant industry experience
+Preferred Qualifications
+High-speed board design experience with 10+ layer PCBs, including PCB material selection
+Experience in circuit design for a variety of domains including power, digital, analog, high-speed communications, and / or programmable logic
+Understanding of computer architecture and design tradeoffs
+Schematic capture and constraint-driven PCB layout using Company W1 tools or similar
+Demonstrated ability to understand technology and debug problems at varying levels of abstraction, from the system-level down to the silicon/transistor level
+Experience with designs utilizing new or custom silicon
+Automation and data manipulation script development
+Data analysis and visualization
+
+#################################################
+
+Job Title: Hardware Engineering Intern
+Job Description: About Company F2
+
+Company F2 is your AI-powered job matchmaker. Our platform brings opportunities directly to you by matching you with top employers and jobs you are qualified for. Tell us about your strengths and goals - we'll get you interviews! Leading employers such as eBay and Teach For America leverage our company to build diverse, high-performing teams and Gen Z job seekers across the country trust us to launch and grow their careers.
+
+Requirements for the role:
+
+Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Hardware Engineering, or a related field.
+Basic understanding of hardware design principles, including circuit design, PCB layout, and system integration.
+Familiarity with hardware development tools and software, such as Altium Designer, Eagle, or similar PCB design software.
+Ability to assist in the design, prototyping, and testing of electronic hardware components and systems.
+Strong analytical and problem-solving skills, capable of addressing technical challenges in hardware development.
+Good organizational and project management skills, capable of handling multiple tasks and contributing to project timelines.
+Effective communication and interpersonal skills, for collaborating with multidisciplinary teams.
+Eagerness to learn and adapt to new technologies and methods in hardware engineering.
+Proactive approach to troubleshooting and resolving hardware design issues.
+Creativity and innovation in developing practical hardware solutions.
+
+#################################################
+
+Job Title: Product Technical Manager
+Job Description: Company Y2 is searching for an experienced technical manager to support our growing business. As a Product Technical Manager (PTM) you will provide strategic technical guidance to convert product vision and prioritized product features into an executable plan to successfully deliver the products defined by the Business Unit. The PTM defines the system architecture, key algorithms, and tasks required to achieve the value proposition, also serving as a subject matter expert to guide the engineering team through the product development life cycle. The PTM formulates intellectual property strategies to minimize product costs and to generate company value. The ideal candidate encourages an environment that promotes excellence, innovation, collaboration, and teamwork. This role will report to the VP of Product Development.
+
+
+
+Qualifications
+
+Expertise and hands-on experience with system architecture in hardware and/or software applications
+Understanding capabilities, limitations, and tradeoffs of technologies across engineering subject matters
+Demonstrated experience in translating customer needs to system definition of features and design specs
+Demonstrated ability to coordinate with cross-functional teams to define product system architectures
+Demonstrated ability to identify and manage product and program technical risks
+Demonstrated experience in product implementation
+Experience with integration constraints, troubleshooting, diagnosis, and solutions
+10+ years professional experience
+Bachelor’s Degree Computer Science, Engineering, or relevant technical degree
+Proficient with Company B1 Office Suite
+United States Company N7zenship 
+
+
+Desired Skills
+
+Defines the system architecture, key technical attributes, algorithms, and tasks required to ensure the value proposition is achieved
+Estimates time and resources required to complete tasks including obtaining input from development teams
+Defines acceptance criteria for technical tasks to ensure the development team has achieved the task goals
+Builds and maintains a robust, forward looking, prioritized product backlog to inform the development team on resource, schedule, and scope decisions
+Mentors the product development teams as necessary to achieve function, schedule, and budgets
+Determines whether the product was satisfactorily delivered to ensure the development team meets acceptance criteria
+Interfaces with customer technical representatives to build customer confidence and trust 
+
+
+Key Responsibilities
+
+Experience in the following areas are strongly desired.
+
+Performance limitations and tradeoffs of variety of hardware processing platforms
+Understanding of physical data interfaces and their tradeoffs (e.g. USB, serial, embedded camera interface)
+Knowledge of various sensor modalities (e.g. EO/IR (LW/MW/SW/NIR), acoustic, magnetic, passive RF, active RF) and modeling of these modalities
+Knowledge of algorithms/DSP/AI/ML (e.g. signal processing including traditional, statistical, image/video; feature extraction, natural language processing, machine learning concepts (model training, network architectures / complexity, performance expectations, data science including data mining)
+Problem Solving
+Familiarity with government contracts, processes, and program execution
+
+
+Exceptional work ethic, willingness to learn, tenacity not to quit, aptitude to surpass, and strong desire to work in a fast-paced environment, with existing and new product lines, are necessary for success. Collaboration and cross-pollination with other teams will be frequent, thus communication, openness, and willingness to share BOTH success and failure is a must. We are a team-centric organization, there are no individuals, and we win and lose together.
+
+#################################################
+
+Job Title: Computer Systems Architect - Experienced Level
+Job Description: Responsibilities
+
+Computer Systems Architects at Company P3 use commercial and government developed hardware, software, networking, and security products to: - drive information technology projects - produce compliance results for established project requirements and IT architecture - modernize IT architecture through analysis of research and introducing changes based on evolving project requirements - integrate industry trends, emerging technologies and standards, and new vendor features - collaborate with experts in technical and application teams to identify, evaluate, and recommend technical solutions to support project requirements - define and analyze data requirements, mapping legacy data stores and formats to logical and physical data models - propose standard ways for information transport between IT systems and stored within corporate knowledge databases - perform architectural alignment of the enterprise logical data model and physical data models
+
+Job Summary
+
+Company P3 is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. We are looking for you to apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations; join our team of experts! Help protect national security interests as part of the world's most advanced team of computer science professionals!
+
+Qualifications
+
+The qualifications listed are the minimum acceptable to be considered for the position. Degree must be in Computer Science (CS). Related fields (e.g., Engineering, Mathematics, Information Technology, Information Systems) may be considered relevant if the programs contain, at minimum, a concentration of courses in the following foundational CS areas: algorithms; computer architecture (not network architecture); programming methodologies and languages; data structures; logic and computation; and advanced mathematics (for example, calculus, discrete mathematics). Relevant experience must be in the design/development of computer or information systems and include engineering hardware and/or software over their lifecycle (i.e., requirements analysis, design, implementation, testing, integration, deployment/installation, and maintenance), programming, computer systems research, reverse engineering, and/or computer/network security. Completion of military training in a relevant area such as JCAC (Joint Cyber Analysis course) will be considered towards the relevant experience requirement (i.e., 24-week JCAC course will count as 6 months of experience). SENIOR Entry is with a Bachelor's degree plus 6 years of relevant experience or a Master's degree plus 4 years of relevant experience or a Doctoral degree and 2 years of relevant experience. An Associate's degree plus 8 years of relevant experience may be considered for individuals with in-depth experience that is clearly related to the position.
+
+#################################################
+
+Job Title: Technical Lead / Sensor Architect for Motion Sensors
+Job Description: Our team develops high-precision, highly integrated MEMS inertial sensors for applications in smartphones and wearables. We drive innovative engineering projects from concept phase until high-volume mass production. With our industry-leading products, we enable real-time motion detection, indoor navigation, gesture and activity recognition as well as optical image stabilization (OIS).
+
+
+
+
+
+As a Motion Sensor Expert you are part of an interdisciplinary team driving the development of our next generation consumer inertial sensors and sensing systems from pre-development phase until series production. We implement technological innovations enabling advanced sensor system performance and ensure reliable system integration and testing for high volume and high quality mass production.
+
+
+
+
+
+We are searching for motivated candidates with expertise in the field of inertial sensors, sensor design and test concepts to strengthen our cross-domain development team.
+
+
+
+Sensing the future: You participate in the enabling of exciting use cases in consumer technology; to achieve this goal you coordinate interdisciplinary areas for the development of the next generation of sensors from development to mass production
+Take responsibility: You are responsible for requirements engineering and derivation of key requirements for MEMS, ASIC, package, testing and SW from system requirements
+Integrated implementation: You plan, organize, implement, evaluate and analyze complex experiments and measurements in order to achieve the requirements
+Conscientious coordination: You document the results and present these in project reviews with internal stakeholders and to customers
+Create something new: You are the interface to Bosch corporate research and external partners to evaluate and develop new technologies and architectures for future sensor systems
+
+
+
+
+
+
+Qualifications
+
+
+
+Personality: High level of interdisciplinary comprehension, customer orientation, creative drive and entrepreneurial mindset
+Working Practice: Very good decision-making abilities and positive team player with cross cultural competence
+Experience and Knowledge: More than 5 years of industry experience with deep understanding of gyroscopes and acceleration sensor systems; Experience with MEMS devices welcome
+Qualifications: Understanding of system modelling, for example using SystemC; Multiple years experience in data evaluation in Matlab or Phython
+Languages: Fluent English, German beneficial
+Education: Master or equivalent degree in Microsystems Engineering, Microelectronics, Physics, Information Technology or comparable qualification
+
+#################################################
+
+Job Title: Communications and Networks Systems Design Engineer (Technical Staff)
+Job Description: How can we enable timely and automated data sharing across Department of Defense space, air, and surface platforms operating over vast distances? Researchers in our group develop technologies, algorithms, and architectures to provide resilient and interoperable communications across the joint force. We apply our expertise in line-of-sight and beyond-line-of-sight communications and networking to design and build robust connectivity to support users operating in congested and/or contested environments. Our solutions improve the resilience and capacity of individual communications systems and enable seamless integration across these systems. The Communications Networks and Analysis group uses a combination of technical analysis, modeling, simulation, emulation, prototype development, and flight tests to develop new capabilities and to predict and evaluate their performance.
+
+Job Description:
+
+The Communications and Networks Systems Design Engineer will actively participate in the design, analysis, and implementation of novel algorithms and protocols at all layers of the network stack. The individual will typically work in multi-disciplinary teams in which team members possess expertise in communications theory, networking, information assurance, systems engineering, RF, digital HW, and SW. The individual will have opportunities to work with the government, academia, and industry to make contributions towards the design, development and fielding of future DoD capabilities.
+
+Responsibilities:
+
+ Design, develop, implement and assess state-of-the-art systems for communications and networking 
+ Design, develop, simulate and prototype novel communications and networking algorithms 
+ Collaborate with a multidisciplinary team to design and prototype communications and networking hardware and software for surface, airborne and space platforms 
+ Develop and design laboratory experiments that include ground, airborne, and space systems with hardware-in-the-loop 
+ Collect, analyze and interpret complex data sets from field and laboratory experiments 
+ Prepare technical documentation, including refereed publications, reports, and as well as technical presentations for multiple internal and external audiences 
+ Share new ideas and intuitions with your colleagues, collaborators and others in our technical communities through mentorship, education, and outreach opportunities. 
+
+
+Required Experience:
+
+ PhD in Electrical Engineering, Computer Science, Mathematics (or related field) with a strong background in wireless communications and signal processing. In lieu of a PhD, an M.S. with 5+ years of directly relevant experience is acceptable. 
+ Experience and/or coursework in wireless communications theory, data networks, digital signal processing, estimation and detection, optimization, radio frequency propagation modeling, linear algebra. 
+ Proficiency with MATLAB, Python, C or C++, VHDL and/or embedded systems programming 
+ Proficiency with Linux or commercial real-time operating systems 
+ Highly effective written and verbal communication skills. 
+ Demonstrated ability to work effectively in multi-disciplinary teams. 
+
+
+Desired Experience:
+
+ Software Defined Networking hardware and software 
+ Cloud network technologies and protocols 
+ Adaptive filtering, digital signal processing, media access control protocols, and machine learning 
+ Fixed point algorithm design and implementation targeting embedded processors such as FPGA, GPU, DSP 
+ Antennas, arrays and RF circuits 
+ Software Defined Radio 
+ Demonstrated ability to plan and manage tasks and projects. 
+
+#################################################
+
+Job Title: Human Systems Engineer
+Job Description: The Human Health & Performance Systems Group develops human-centered technologies to overcome operational challenges and to enhance human capability in domains of interest to national security. Our research programs focus on innovative and objective solutions in the areas of integrated wearable systems, human-machine teaming, enhanced communications, neurocognitive analytics, and medical technologies. Our group is highly interdisciplinary and includes scientific experts in physiology, cognitive science, neuroscience, psychology, biomechanics, computer science, engineering, and physics. Our core technical competencies include system-level modeling and gap analysis, advanced sensing and signal processing, machine learning and artificial intelligence, computational modeling, hardware and software prototyping, model-based systems engineering, and human data collection in laboratory and field environments.
+
+Job Description
+
+Our team is looking for a new staff member with an interest in solving challenging human systems engineering problems. You would work with and lead multi-disciplinary teams consisting of engineers, scientists, and end user communities (e.g., clinicians, pilots, military personnel) to develop technologies across all the mission areas in our group: training and education, human augmentation, health and resilience, and medical operations. We are looking for self-motivated candidates who are interested in developing analyzing, designing, and optimizing complex socio-technical systems.
+
+Requirements
+
+Ph.D. in industrial/systems engineering or cognitive/human-factors engineering with technical methods/computer science coursework or equivalent. In Lieu of a PHD a M.S. or M.Eng. with 5 or more years of relevant experience will also be considered.
+
+ Experience analyzing, designing, and optimizing complex socio-technical systems 
+ Coursework and experience designing systems with a human-centered approach 
+
+
+Desired skills:
+
+ Simulation and modeling experience 
+ Data analytics and AI/ML development, including Python programming 
+ Cognitive psychology and decision modeling coursework 
+ Healthcare/biotechnology development experience 
+ Systems dynamics modeling 
+ Systems architecture and design 
+ Experimental design 
+ Model-based systems engineering 
+
+#################################################
+
+Job Title: Sr. Embedded Algorithms Engineer
+Job Description: The Sr. Embedded Algorithms Engineer will prototype and implement algorithms on Company G8 existing and future products, in order to extract meaningful measurements and other information. Having high quality data at this stage is essential for the enablement of downstream clinical intelligence. Being able to successfully deliver on product requirements in a timely manner is necessary to the company’s success.
+
+What You'll Be Doing
+
+Prototype algorithms:
+Research novel methods for vital sign signal extraction using high frequency sensor data
+Work with product team to define algorithm requirements and test metrics
+Iterate rapidly to develop algorithm prototypes and communicate performance tradeoffs
+Productize algorithms:
+Port algorithms to C/C++ and optimize computations to meet processor and power constraints
+Develop test protcols for data collection team, and perform QA to ensure the product meets the requirements
+Contribute to team infrastructure and support data collection:
+ Ideate new tools to automate algorithm benchmarking and testing to improve team efficiency
+Develop and maintain internal signal evaluation tools to help algorithm, firmware, and hardware teams optimize existing and future products
+Assist in designing and conducting studies to evaluate new hardware/firmware prototypes, in both the development and validation stages
+
+
+What You Need
+
+PhD or MS in EE, CS, or related engineering field
+5+ years experience in signal processing methods and algorithm design (FIR/IIR filters, adaptive filtering, statistical processes, time/frequency analysis, etc)
+Experience with pre-processing and analyzing large time-series datasets
+Experience in embedded C/C++, especially in resource constrained systems
+Experience with embedded microcontrollers, such as ARM Cortex M0/M4 or similar
+Nice to have: Experience with Machine Learning approaches a plus
+Nice to have: Working knowledge of mixed-signal hardware design for embedded systems
+Strong proficiency in Python
+Strong oral and written communication skills
+Strong critical thinking skills and high attention to detail
+Ability to work under pressure in a startup environment
+
+
+You'll be excited about this opportunity because you will:
+
+ Join a fast-growing company and grow right along with us
+ Work on challenging and interesting tech problems which reshape the future of healthcare
+ Get the chance to work on cutting-edge technologies
+ Make a large impact across the company through business deliverables and continuous innovation
+ Opportunity to build solutions and organizations
+
+
+#################################################
+
+Job Title: Signal Processing Engineer
+Job Description: 
+JOB DESCRIPTION AND POSITION REQUIREMENTS:
+
+Company U8is seeking a motivated and talented Signal Processing Engineer to research, develop, analyze, and deliver new capabilities for the processing of undersea platform sensor data.
+
+ARL is an authorized DoD SkillBridge partner and welcomes all transitioning military members to apply.
+
+Responsibilities include: 
+
+Design algorithms for vehicle guidance and control, including active waveform design, beamforming, broadband processing, passive multi-source angle estimation, acoustic communication, environmental adaptation, multi-target detection, tracking, and classification, and machine learning
+Collaborate with real-time code developers and modeling and simulation analysts to integrate system software
+Make substantial contributions to determining feasibility of goals/objectives; may evaluate proposed or ongoing projects
+Create opportunities to enhance technical methodology or content through expansion of existing or development of new efforts; may extend technology into new application areas; contribute or lead in intellectual development activities 
+Provide innovative problem-solving approaches to enhance organizational capabilities; use peer network to expand technical capabilities and identify new research opportunities 
+
+Higher level responsibilities include:
+
+Understand broad strategic objectives and contribute to them; nurture and maintain relationships with major customers/grantors of external research and development grant funding 
+Collaborate with USO leadership, sponsors and the technical community to plan and execute programs advancing autonomous capabilities for current and future applications
+Mentor assigned staff in the development of technical, project, and business development skills 
+
+This job can be filled at multiple levels, depending upon the successful candidate’s education and experience. Minimum education and experience requires a Bachelor’s Degree or higher in an engineering or science related discipline plus five year’s related experience or an equivalent combination of education and experience. Additional experience and/or education and competencies are required for higher level positions.
+
+This position will be filled as either Research Faculty or a Research and Development Engineer.
+
+Required skills and experience include:
+
+One or more of the following: MATLAB, Python, or C++
+Signal processing,
+Algorithm development
+
+Preferred skills and experience include: 
+
+A Master’s degree or a PhD in Electrical Engineering, Mechanical Engineering, Aerospace Engineering, Applied Mathematics, Physics, or Computer Science/Engineering
+Vehicle guidance and control
+Detection, communication
+Target tracking and classification
+Machine learning
+Underwater acoustics
+
+ARL at Penn State is an integral part of one of the leading research universities in the nation and serves as a University center of excellence in defense science, systems, and technologies with a focus in naval missions and related areas.
+
+You will be subject to a government security investigation, and you must be a U.S. citizen to apply. Employment with the ARL will require successful completion of a pre-employment drug screen.
+
+ARL is committed to diversity, equity, and inclusion; we believe this is central to our success as a Department of Defense designated University Affiliated Research Center (UARC). We are at our best when we draw on the talents of all parts of society, and our greatest accomplishments are achieved when diverse perspectives are part of our workforce.
+
+FOR FURTHER INFORMATION on ARL, visit our web site at www.arl.psu.edu.
+
+The Pennsylvania State University is committed to and accountable for advancing diversity, equity, and inclusion in all of its forms. We embrace individual uniqueness, foster a culture of inclusive excellence that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity, and engage all individuals to help them thrive. We value inclusive excellence as a core strength and an essential element of our public service mission.
+
+#################################################
+
+Job Title: Signal Processing Engineer
+Job Description: Company Y2 is looking to expand its development organization with the addition of a Signal Processing Engineer to develop innovative technologies for our products. We are focused on applying state-of-the-art computational technologies, Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision to advance decision support products in the government and commercial markets. This is a hands-on technical position that involves the design and development of signal processing algorithms. The candidate must demonstrate strong programming, physics, and mathematical skills and be able to solve complex problems. Teamwork, flexibility, and willingness to continuously learn new concepts & technologies are critical requirements for this position.
+
+Qualifications
+
+Bachelor’s degree in Computer Engineering, Electrical Engineering, or Computer Science 
+Proficient in C/C++, Python 
+Proficient in scientific computing tools such as NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, MATLAB 
+Familiarity with detection, classification, angle of arrival, and tracking algorithms 
+Familiarity with sensor fusion, state estimation, random signals, feature extraction, and linear algebra 
+0 - 5 years professional experience 
+United States Company N7zenship 
+
+Desired Skills
+
+Master’s/Ph.D. in Computer Engineering, Electrical Engineering, or Computer Science 
+Strong algorithm, mathematical, and programming skills 
+Ability to solve complex signal processing, detection, estimation and tracking related problems 
+Ability to adapt to different programming languages and frameworks 
+Familiarity with radar and acoustic sensor theory and sensor signal processing 
+Familiarity with image and video signal processing concepts 
+Familiarity with machine learning and deep learning concepts 
+
+Key Responsibilities
+
+Implementation of scientific computing algorithms and intelligence to meet customer/product requirements ensuring high quality through unit, functional, integration, and regression testing 
+Document architecture, design, test plan, results, and analysis 
+Participate in design reviews and present your work 
+Track project/product milestones and releases ensuring schedule and budget are met 
+Contribute to continuous process and productivity improvements in the team 
+Engage in professional development activities to enhance your skillset 
+
+Exceptional work ethic, willingness to learn, tenacity not to quit, aptitude to surpass, and strong desire to work in a fast-paced environment, with existing and new product lines, are necessary for success. This position will be under the supervision, mentorship, and guidance of a Senior or Lead Engineer. Collaboration and cross-pollination with other teams will be frequent, thus communication, openness and willingness to share BOTH success and failure is a must. We are a team-centric organization, there are no individuals, we thrive and dive together.
+
+#################################################
+
+Job Title: Modeling and Simulation Scientist
+Job Description: What You Will Do
+
+The Company V8 is seeking qualified and motivated scientists and engineers to join our Electromagnetic Pulse (EMP) Modeling and Simulation Team. The EMP Modeling and Simulation Team is responsible for a suite of simulation codes used to predict the generation, propagation, and detection of EMP. The selected candidate will participate in the maintenance of existing and development of new EMP models, conduct analyses using these tools, and collaborate with other national laboratories and organizations on implementing these modeling tools for national security applications.
+
+The Intelligence and Space Research Division has been designing, building, and operating highly innovative ground, air and space-based measurement and detection systems for nearly 60 years. We solve some of the most challenging scientific and national security problems facing the world today. Our interdisciplinary teams of engineers, technicians, and scientists work, learn, and succeed through a highly creative and dynamic R&D environment. We build, fly, operate, and analyze data from measurement systems deployed to space for verification of international nuclear treaties, and develop innovative sensors and ground, airborne and space hardware/software systems for basic scientific missions, nuclear nonproliferation, space situational awareness and remote sensing. In addition, we lead experiments on NASA missions, including the Curiosity and Perseverance Mars Rovers, Van Allen Probes, and IBEX.
+
+
+
+The selected candidate will be expected to contribute in the following areas:
+
+•	Maintain modeling code bases written in Python, C++, and/or Fortran
+•	Identify and implement performance improvements or capability enhancements to these code bases
+•	Ensure compliance of models with technical and performance requirements
+•	Run validation studies, assessing model performance against empirical data
+•	Run verification studies, assessing model performance against analytic models
+•	Apply models to ad-hoc analysis tasks
+•	Author reports on model performance and general model documentation
+•	Coordinate with other national laboratories on model development
+•	Develop into a subject matter expert on EMP modeling and simulation
+
+In addition to what was outlined at the lower level, at this level the candidate will be expected to:
+
+•	Lead small projects or teams
+•	Contribute to internal and external funding proposals
+•	Contribute to peer review of work of others across organizations or disciplines
+•	Communicate with sponsors and stakeholders on modeling capabilities and performance
+
+What You Need
+
+Minimum Job Requirements:
+
+•	Experience with version control software, e.g. git, svn, mercurial
+•	Experience in computational physics or a related simulation-focused field
+•	Familiarity with foundational statistical and physical concepts
+•	Proficiency with Python and familiarity with compiled languages, or proficiency in C++ and/or Fortran
+•	Demonstrated ability to clearly communicate ideas in both written and verbal venues
+•	Demonstrated ability to work independently and as a member of a team
+
+Additional Job Requirements:
+In addition to the requirements outlined above, qualification at the higher level requires:
+
+
+•	Experience developing and writing successful research grant proposals
+•	The ability and desire to lead small teams
+•	Experience mentoring junior staff, students, or postdocs
+
+Education/Experience at lower level: Position requires a Bachelor's degree in a STEM field, from an accredited college and university and 4 years of related experience; or an equivalent combination of education and experience directly related to the occupation.
+
+Education/Experience at higher level: Position requires a Master's degree in a STEM field from an accredited college or university and 6 years of relevant experience or an equivalent combination of education and experience directly related to the occupation.
+
+Desired Qualifications:
+
+•	Experience with radio frequency wave generation, propagation, and/or detection theory
+•	Expertise in EMP physics, lightning physics, or ionospheric physics
+•	Experience with parallel computing (shared and/or distributed memory parallelism)
+•	Experience with Linux or related OS
+•	Familiarity with Software Engineering best practices
+•	Awareness of verification and validation techniques employed within informatics, data science, or a related statistical-focused field
+•	Active DOE Q Clearance
+
+
+#################################################
+
+Job Title: Image Scientist - Simulation
+Job Description: 
+Do you love taking on big challenges that require exceptionally creative solutions? Do you deeply understand how an incredible camera experience should work? As part of our Camera Technologies group, you’ll help design the innovative technology that allows each generation of Company O1 products to produce photos even more incredible than the last. You’ll design and develop groundbreaking ideas for everything involved in our camera systems, from sensor to lens. You’ll collaborate with teams across Company O1 to research, design, develop, test, and qualify camera hardware for Company O1 products. Together, we’ll craft a magical photography experience that redefines what millions of customers can expect from their cameras. 
+
+The Image Sciences team, a part of the Camera Hardware and Depth Team, develops novel metrology, calibration, and simulation processes to enable the implementation and architecture of machine-vision-driven and photographic experiences! We collaborate closely with cross-functional teams to define hardware design specifications and key performance metrics to deliver seamless user experiences. The team is seeking an expert in imaging, computer vision, or rendering with broad skills to help develop next-generation, high-throughput simulation frameworks to guide the design and architecture of products, including AR/VR features.
+Description
+• Develop GPU-based image simulation pipelines including models for optics, sensor, and ISP.
+• Develop and maintain tools to generate large volumes of synthetic images on-demand.
+• Characterize end-to-end (hardware and software) performance of features through simulation studies.
+• Develop differentiable models for optics and sensors to train and optimize machine vision algorithms.
+• Manage project deliverables and schedules to meet commitments to product development teams.
+Minimum Qualifications
+Bachelor’s degree
+Programming experience in C or C++
+EXPERIENCE IN ONE OF THE FOLLOWING:
+Experience with a GPU API for compute or rendering, such as : Cuda, OpenCL, Company O8l, Vulkan, OpenGL, DirectX
+Experience with a rendering engine, such as : Unreal-Engine, Unity, Blender, V-Ray, PBRT, Mitsuba or similar
+Image rendering and processing: Gaussian raytracing or splatting, NeRF, image-generative networks, computer vision, or related topics
+Optics: imaging system design, lens design, computational imaging, or similar
+Preferred Qualifications
+3 years of relevant industry experience
+Experience in the following is a plus: Halide, LLVM Python, Linux, continuous integration/deployment, Docker, CMake
+
+#################################################
+
+Job Title: Propulsion Methods & Tools Researcher
+Job Description: KCompany F1 ACTIVITIES - RESPONSIBILITIES:
+
+
+
+• The successful candidate will be responsible to:
+
+o Develop detailed zero-dimensional performance simulation models for gas turbine engines in steady-state and transient conditions on MATLAB/Simulink, Python, or any other commercial software. The modeling and simulation will be applied to expand the capabilities on engine performance analysis, control systems, fault implementation and detection, diagnostics, and prognostics.
+
+• The candidate will be participating in building and applying verification strategies, plans and procedures for developed in-house tools according to project requirements.
+
+• The candidate will work closely with the Lead and Senior researchers in identifying opportunities for future research projects, specifying resources, advancing the research capabilities of TII, and developing partnerships with academia and industry.
+
+• Work with a multi-disciplinary team to develop, verify and validate complex tools and software systems, document, maintain, and optimize them.
+
+• Develop multi-physics-based models for various propulsion systems in compliance with SAE standards.
+
+• Create and update tool support technical documentation.
+
+• Prepare and write technical reports.
+
+• Prepare and write papers for submission to peer-reviewed journals and conference proceedings.
+
+• Liaise with the line managers to make immediate project decisions to conduct independent research.
+
+• Ensure that the research activities run with legality and conformity to established regulations (health, safety, ethics).
+
+• Develop positive working relationships with internal and external contacts.
+
+
+
+JOB SPECIFICATIONS:
+
+Industry / Domain: Propulsion and Space Research Center
+
+
+
+Necessary Knowledge & Experience:
+
+• Master’s degree with 3+ years of experience or bachelor’s degree with 5+ years of experience or PhD degree in Aeronautical, Aerospace, Mechanical Engineering or similar role in a related engineering field.
+
+• Strong understanding of thermodynamics and thermodynamic cycles as they relate to gas turbines.
+
+• Experience in gas path analysis and remaining useful life prediction will be considered a plus.
+
+• Software verification experience complying with international standards (SAE standards,…), would be a plus.
+
+• Proficiency in backend languages (Python, C++, MATLAB).
+
+• Proven knowledge in the design and validation of aircraft engine and modelling, fluid mechanics or aerodynamic simulation models.
+
+• Ability for knowledge transfer between aerospace analysis methodologies and establish cross-functional approaches/processes into other engineering disciplines or fields.
+
+• Strong problem-solving skills with an emphasis on product development.
+
+• Proven experience in project involvement, respecting deadlines, high standard customer delivery.
+
+• A drive to learn and master new programming languages, multi-disciplinary methods, technologies, and techniques.
+
+• Oral and writing fluency in English
+
+#################################################
+
+Job Title: Threat Intelligence Lead
+Job Description: The Threat Intelligence Lead will own Company E8's threat intelligence strategy and execution, including understanding of which cyber threat actors are targeting Company E8, and the use of intelligence on Tactics, Techniques and Procedures (TTP) to better our products and internal cybersecurity controls. You will collaborate with internal stakeholders as well as with the wider cybersecurity community, making sure that Company E8 is recognised as a thought leader on open source threat intelligence.
+
+This role will report to the CISO.
+
+You will lead intelligence gathering and development activities on threat actors targeting software supply chains. You'll study attack trends across the wider open source software landscape, report findings to internal security teams, and advise the wider engineering community on the best course of action to detect and mitigate possible threats.
+
+As the publisher of Ubuntu, Company E8 products are directly or indirectly present in almost every organisation and household in the world, making them a prime target for threat actors. This team's mission is to help Company E8, and by extension countless community members and companies around the world, secure their software infrastructure.
+
+What you'll do in this role
+
+Build and own Company E8's threat intelligence strategy
+Build and maintain OSINT research environments
+Develop OSINT tradecraft, principals, and techniques
+Identify and track targeted intrusion cyber threats, trends, and new developments by cyber threat actors through analysis of proprietary and open source datasets 
+Collaborate across teams to inform on activity of interest
+Coordinate adversary/campaign tracking
+Contribute to the wider threat intelligence community, establishing Company E8 as a key contributor and thought leader in the space
+Work with product and engineering teams to explain cybersecurity threats and advise on mitigation strategies
+Work with the OPSEC and IS team to help implement/update security controls prioritising cyber defence
+Identify intelligence gaps and propose new tools and research projects to fill them
+Conduct briefings for executives, internal stakeholders and external customers
+
+The successful Threat Intelligence Lead will be
+
+An experienced threat intelligence leader (or similar)
+Knowledgeable about the current open source threat landscape and computer networking/infrastructure concepts
+Highly competent with OSINT tools (e.g., Buscador, Trace Labs OSINT VM, OSINT Framework, Maltego, Shodan, social media scraping tools, etc.)
+Able to identify, organise, catalogue, and track adversary tradecraft trends — often with incomplete data
+Experienced using threat intelligence data to influence enterprise architecture or product development decisions
+An excellent communicator with the ability to clearly articulate and tailor technical content to a variety of audiences
+Able to travel twice a year, for company events up to two weeks long
+
+Desired Characteristics
+
+A professional portfolio of OSINT related scripts, tools, or frameworks
+Demonstrated involvement in the larger OSINT community (please share relevant links)
+Degree qualified, with a bachelor's degree in computer science, information security, or a related field
+Certifications in related areas (e.g. GOSI, SANS SEC487 & SEC587, IntelTechniques OSIP, etc)
+Experience in a tech company or government/military signal intelligence departments
+
+#################################################
+
+Job Title: Cryptologic Computer Scientist
+Job Description: 
+In an ultra-competitive environment, Company C9 has thrived by adhering to our name, making sure excellence is displayed by our Employees, to our Customers and by Improving Performance (ECP). It's what sets us apart, enabling us to be an autonomous yet agile business that delivers huge results—showing we're ready to meet our customers' evolving demands. Company C9 has earned a client list that includes numerous Fortune 100 companies, in addition to multiple branches of the US government and military services.
+
+Requirements
+
+ A Bachelor's degree and 5 years of relevant experience or a Master's degree plus 3 years of relevant experience or a Doctoral degree and 2 years of relevant experience. An Associate's degree plus 7 years of relevant experience may be considered for individuals with in-depth experience that is clearly related to the position.
+ Degree must be in Computer Science (CS). Related fields (e.g., Engineering, Mathematics) may be considered relevant if the program contains, at minimum, a concentration of courses in the following fundamental CS areas: algorithms; computer architecture (not network architecture); programming methodologies and languages; data structures; logic and computation; and advanced mathematics (for example, calculus, discrete mathematics). Information Technology (IT) or Information Systems (IS) degrees may be considered relevant if the programs contain the amount and type of coursework equivalent to a CS major.
+ Design, develop, deliver and operate solutions to hard cryptologic computer science problems within a scientific framework. The solutions may arise in the forms of forensics and attack attribution, protection of critical networks, active systems warnings and indicator, active penetration into target systems, knowledge discovery of passive and active systems, or other cryptologic computer science mission support.
+ Requisite computer science skills (operating systems, compiler theory, database theory, algorithm analysis, computer architecture, discrete math, programming language theory, and data structure) are applied to each problem to provide state-of-the-art techniques, tools, and approaches.
+
+#################################################
+
+Job Title: Cyber Operations Researcher
+Job Description: Come and help defend the nation in cyberspace! In the Cyber Operations & Analysis Technology Group at Company G1, we research challenging technical problems in cyber security, develop new technologies, and prototype first-of-a-kind systems. We have particular focus on enabling human operators and improving operational systems, orienting our work toward strong practical impact.
+
+We work across a variety of cutting-edge national-security applications:
+
+ Enhancing the cyber security of critical infrastructure, weapons systems, and other operational technology 
+ Protecting and defending emerging U.S. systems for conducting command and control (C2) across multiple domains 
+ Helping the nation’s cyber operators do their jobs better, faster, and at greater scale 
+ Quantifying risk posed by adversary cyber threats to key national security missions 
+ Creating new analytics and processing techniques to create timely, actionable insights from cyber data 
+ Developing techniques to coordinate actions for emerging mission scenarios combining cyber and other mission domains such as air, land, sea, and space 
+
+
+As a diverse and interdisciplinary group, we innovate by drawing insights from computer science, software engineering, data engineering, data science, artificial intelligence/machine learning, electrical engineering, mathematics, physics, and allied technical fields. We collaborate with research partners across MIT, offering frequent opportunities to team and learn in new areas. If you want a career in R&D with the opportunity to have real impact on important problems, join us!
+
+Job Description
+
+You will perform analysis, develop technology, and/or build software for the next generation of operational cyber security systems. As a member of a research team, you will work with a principal investigator and other seasoned researchers, have considerable autonomy and independence on your research tasks, but also many collaborative work opportunities. You will learn about the problems operators and decision makers face from persistent, intelligent cyber adversaries, and contribute to novel technical solutions. You will have many opportunities to develop your skills in research, modeling, coding, presenting results, and working collaboratively with a highly motivated and skilled research team.
+
+You should apply if you have the following: 
+
+ Bachelor’s degree in Computer Science, Electrical Engineering, Mathematics, Statistics, or related technical fields. 
+ Demonstrated interest in cyber security. 
+ Proficiency in Python, Java, or similar. 
+ Knowledge and experience in one or more of the following, with research experience especially valued (classes, extracurriculars, mentoring, etc.):
+ Cyber security. 
+ Artificial intelligence/machine learning. 
+ Cloud and infrastructure automation (e.g., Docker, Kubernetes, etc.) 
+ Mathematical or statistical modeling and problem-solving. 
+ Software engineering. 
+ Human–system integration. 
+ United States military operations, especially cyberspace operations. 
+ Ability to work both independently and collaboratively on open-ended problems with interdisciplinary technical teams. 
+
+#################################################
+
+Job Title: Sr Cyber System Platform Engineer
+Job Description: The Cyber System Assessments Group performs software and hardware reverse engineering, vulnerability research and discovery, and system exploitation. We develop and prototype cutting-edge capabilities for our operational partners in the U.S. government. We look for, find, and demonstrate cyber vulnerabilities so that vulnerabilities in U.S. systems can be corrected, and so that vulnerabilities in other systems are better understood. Top U.S. Government leadership relies on us for our expert guidance, and our technical role with our U.S. Government sponsors is considered essential to the success of their missions.
+
+Job Description
+
+As a Cyber System Platform Engineer , you'll be architecting the software and hardware solutions leveraged by both Company G1 Cyber Researchers and our U.S government sponsors. A growing need in the group is the integration of the latest DevSecOps technology to meet the unique needs of our sponsors in an efficient and secure way. You will help advise and drive those decisions as well as experiment with the latest technology in the platform engineering space. You will communicate your work to domain and non-domain experts through your writing, presentations, and training sessions.
+
+Requirements
+
+MS in Computer Science, Computer Engineering, Computer Security and 3+ years of directly related experience OR BS and 8+ years of directly related experience.
+
+ Desired 
+
+ Strong DevSecOps and Cloud Native ecosystem skillset 
+ Version Control Systems (Git, GitLab) 
+ Programming Languages (C/C++, Go, Python) 
+ Microservice architectures (12-factor app development) 
+ Infrastructure/Container Provisioning/Orchestration Systems (Ansible, Kubernetes, Docker/containerd/podman) 
+ Kubernetes Distributions (k3s, RKE2, Talos, TKG) 
+ IaC and Control Plane Management (Crossplane, Cluster API, Terraform, Pulumi) 
+ Continuous Integration (GitLab CI, Tekton, Argo Workflows) 
+ Secure Software Supply Chain Concepts (sigstore, trivy) 
+ GitOps (Flux CD, Argo CD) 
+ Service Mesh (Istio, LinkerD) 
+ Ingress / API Gateways (Traefik, Istio IngressGateway, Kong) 
+
+#################################################
+
+

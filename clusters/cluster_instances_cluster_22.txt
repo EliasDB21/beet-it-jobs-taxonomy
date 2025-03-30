@@ -1,0 +1,198 @@
+Cluster 22:
+
+Job Title: Senior Data Software Engineer | Data Solutions
+Job Description: GET TO KNOW US
+
+Company P5 (formerly Gympass*) is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner. Founded in 2012 and headquartered in NYC, we have a growing global team in 11 countries. At Company P5, you have the opportunity to build a career in a high-growth tech company that places wellbeing at the foundation of its culture, and contribute to making every company a wellness company.
+
+Big news: Gympass is now Company P5! We are thrilled to announce our rebranding as Company P5, marking a significant milestone in our journey. This transformation reflects our evolution from a “pass for gyms” to a comprehensive employee wellbeing solution. With our refreshed identity, we are poised to embark on an exciting new chapter of growth and expansion. We are elevating our offerings, including a completely new app experience and an expanded network of wellbeing partners. Learn more about it here.
+
+THE OPPORTUNITY
+
+We are hiring a Senior Software Engineer focused on Data for our Data Solutions squad in Brazil!
+
+Join our growing Data team at Company P5 and contribute to our data democratization mission: make data accessible to everyone!
+
+We are responsible for empowering all teams by providing a scalable and reliable data platform to collect, organize, and process the deluge of data generated daily at Company P5, following data modeling and governance best practices. Your work will directly impact our goal of enabling all teams to make data-driven decisions and generate business value from data.
+
+We use data and software engineering principles to solve large-scale production challenges. Our infrastructure is completely in the cloud, running Kubernetes, Trino, Spark, Kafka, Airflow, Flink, and more cutting-edge projects.
+
+YOUR IMPACT
+
+Design and implement innovative data solutions that enhance automation, efficiency, and productivity for data practitioners across the organization.
+Collaborate with cross-functional teams to architect and develop in-house data solutions that meet organizational needs.
+Lead the evaluation and integration of cutting-edge technologies to optimize our data and machine learning processes.
+Ensure robust data architecture and technical product integration, enhancing the overall data ecosystem.
+Live the mission: inspire and empower others by genuinely caring for your own wellbeing and your colleagues. Bring wellbeing to the forefront of work, and create a supportive environment where everyone feels comfortable taking care of themselves, taking time off, and finding work-life balance. 
+
+Who You Are
+
+Hands-on expertise in data engineering and architecture, with the ability to follow software engineering best practices.
+Experience in building in-house solutions to address common data engineering patterns is a must.
+Advanced proficient in CDC, Flink, Spark, Airflow, Trino, and Kubernetes.
+Strong understanding of data lakehouse design and technical integration with products.
+Passionate about data democratization, making data accessible and useful across the organization.
+Familiarity with data management tools (e.g. OpenCompany O8data) and/or MLOps frameworks (e.g., Company O8flow, Kubeflow)
+Previous experience in a cloud-based infrastructure, preferably using Company K3 stack is a plus. 
+Experience with scalable data processing and storage solutions (e.g., S3 Management, Trino, Hive Company O8store) is a plus. 
+We recognize that individuals approach job applications differently. We strongly encourage all aspiring applicants to go for it, even if they don't match the job description 100%. We welcome your application and will be delighted to explore if you could be a great fit for our team. 
+
+#################################################
+
+Job Title: Senior Backend Software Engineer | GenAI | Partner Content
+Job Description: 
+GET TO KNOW US
+
+Company P5 (formerly Gympass*) is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner. Founded in 2012 and headquartered in NYC, we have a growing global team in 11 countries. At Company P5, you have the opportunity to build a career in a high-growth tech company that places wellbeing at the foundation of its culture, and contribute to making every company a wellness company.
+
+Big news: Gympass is now Company P5! We are thrilled to announce our rebranding as Company P5, marking a significant milestone in our journey. This transformation reflects our evolution from a “pass for gyms” to a comprehensive employee wellbeing solution. With our refreshed identity, we are poised to embark on an exciting new chapter of growth and expansion. We are elevating our offerings, including a completely new app experience and an expanded network of wellbeing partners. Learn more about it here.
+
+THE OPPORTUNITY
+
+We are hiring a Senior Backend Software Engineer to our Partner Content (CODE) team in Brazil!
+
+CODE is an acronym for Consumer Digital Experience, which means we're in charge of the experience and services that will guide people in their wellbeing journey. Our main goal in CODE is to make every company a wellness company. From knowing about Company P5, and getting access to exclusive benefits, to using our vast partner's network, it is in the end-user experience. CODE teams are responsible for developing and maintaining Company P5's App, frontend, and backend services, and Design System and work closely with product, UX, and data teams to create an excellent experience for the users of our platform.
+
+Our mission as the Partners Content squad is to surpass subscribers' expectations when visiting new partners. We are responsible for building, updating and maintaining all the information from our partnerships (their logo, company information, contacts, activities, among others) to the subscribers. In summary, everything partner-content related that has an impact on subscribers is under our umbrella.
+
+YOUR IMPACT
+
+You will be working on one or more of the following exciting areas:
+
+Generative AI Development
+
+Design, develop, and implement generative AI-based applications.
+Work with large language models (LLMs) to create innovative applications and solutions.
+Conduct research to stay updated with the latest advancements in generative AI.
+
+Retrieval-Augmented Generation (RAG)
+
+Develop and optimize RAG systems to enhance the performance and accuracy of AI models.
+Implement robust data retrieval mechanisms to support RAG frameworks.
+Collaborate with data engineers to ensure seamless integration of data pipelines.
+
+API Development And Integration
+
+Design and develop APIs to interface with various AI models and services.
+Ensure APIs are secure, scalable, and performant.
+Ensure seamless integration of our AI applications with other software systems, enhancing interoperability and functionality (e.g., WhatsApp, Slack, Teams, Company T2 Chat, and other 3rd party mobile applications).
+
+Collaboration And Communication
+
+Work closely with cross-functional teams including product managers, designers, and other engineers.
+Participate in code reviews and provide constructive feedback to peers.
+Communicate technical concepts and project progress effectively to non-technical stakeholders.
+
+Live The Mission
+
+Inspire and empower others by genuinely caring for your own wellbeing and your colleagues. Bring wellbeing to the forefront of work, and create a supportive environment where everyone feels comfortable taking care of themselves, taking time off, and finding work-life balance.
+
+Who You Are
+
+Bachelor’s or Master’s degree in Computer Science, Mathematics, Statistics, Engineering, or a related field;
+Strong skills in programming languages such as Python, Go, Kotlin, Java, C or C++;
+Experienced in working with SQL/NoSQL technologies (e.g., OpenSearch, DynamoDB, PostgreSQL) understanding common use cases and performance pitfalls;
+Experience with API development and integration;
+Excellent problem-solving skills and attention to detail;
+Strong communication (both in English and Portuguese) and teamwork skills;
+Able to work efficiently on highly scalable and distributed projects;
+Proven experience with projects where the scope is not clearly defined;
+Faster learner, easily adapting to new technologies quickly and efficiently;
+Passionate and proven experience to build reliable minimum viable products and pilots in a short amount of time.
+
+The Following Are Preferred Qualifications
+
+PhD degree in Computer Science, Mathematics, Statistics, Engineering, or a related field;
+Proven experience with one or more topics listed in the Responsibilities section;
+Familiarity with large language models, and generative AI frameworks (e.g., Haystack, Langchain, LlamaIndex, HuggingFace, Ollama, Company K3 Bedrock);
+Knowledge of retrieval-augmented generation (RAG) and related technologies;
+Experience with cloud platforms (e.g., Company K3, GCP, Azure);
+Knowledge of data engineering and ETL processes (e.g., Spark, Flink);
+Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch);
+Understanding of natural language processing (NLP) and computer vision;
+Experience with Kubernetes for containerization and orchestration.
+
+We recognize that individuals approach job applications differently. We strongly encourage all aspiring applicants to go for it, even if they don't match the job description 100%. We welcome your application and will be delighted to explore if you could be a great fit for our team. For this specific role, please note that prior experience in software engineering and AI are mandatory requirements.
+
+#################################################
+
+Job Title: Data Analyst Specialist | CX Company A3s
+Job Description: GET TO KNOW US
+
+Company P5 (formerly Gympass*) is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner. Founded in 2012 and headquartered in NYC, we have a growing global team in 11 countries. At Company P5, you have the opportunity to build a career in a high-growth tech company that places wellbeing at the foundation of its culture, and contribute to making every company a wellness company.
+
+Big news: Gympass is now Company P5! We are thrilled to announce our rebranding as Company P5, marking a significant milestone in our journey. This transformation reflects our evolution from a “pass for gyms” to a comprehensive employee wellbeing solution. With our refreshed identity, we are poised to embark on an exciting new chapter of growth and expansion. We are elevating our offerings, including a completely new app experience and an expanded network of wellbeing partners. Learn more about it here.
+
+THE OPPORTUNITY
+
+We are hiring a Data Specialist to join our team in CX Company A3s Team in São Paulo - Brazil! Are you an outstanding “storyteller” who integrates data to encourage business leaders to act on what’s right for the customer and our business? This role is for you. We are looking for someone who can dig into the details of our data and research, synthesize key “Ahas!” and work across critical teams to align on recommendations for how to improve the customer experience and grow our business. The ideal candidate will have strong business acumen and a deep working knowledge of various analytical and statistical tools for evaluating trends and measuring operational performance against qualitative and quantitative objectives.
+
+This includes (but is not limited to) defining and enforcing efficient operational processes, generating and governing business-focused dashboards, educating business stakeholders on dashboards and datasets, developing analytical insights and analysis, and working with multiple global teams within the business to provide solutions as a strategic partner.
+
+YOUR IMPACT
+
+Develop recommendations and drive improvements to data standards, processes, and definitions within the Customer Experience area
+Partner with team leaders globally by providing analytical insights through accessible business-oriented datasets and visual data dashboards
+Be an active participant in discussions with various global teams and have a voice in the direction of the business 
+Identify insights that will impact the broader business by leveraging relationships with internal stakeholders across multiple functional areas
+Consult with managers and team leaders, working with them to turn vague or poorly defined issues into clearly addressable problems/questions that are measurable
+Live the mission: inspire and empower others by genuinely caring for your own wellbeing and your colleagues. Bring wellbeing to the forefront of work, and create a supportive environment where everyone feels comfortable taking care of themselves, taking time off, and finding work-life balance.
+
+Who You Are
+
+You are a driven self-starter who thrives in a fast-paced environment, and has a passion for excellence and continuous improvement; strong execution and ability to drive work to completion
+Ability to communicate with technical teams/data engineers about data pipelines, data modeling, and data architecture
+Ability to communicate complex data and technical concepts clearly and concisely to a non-technical audience
+Experience with managing stakeholders' requests, pushing for prioritization, and impact
+Relevant work experience in analyzing large data sets and synthesizing insights into actionable product recommendations
+Experience building data visualizations (Tableau, Company O8base, etc) and creating Data Tables for Departmental Consumption
+Advanced expertise in SQLis required - the ability to translate a business request into code that answers a question
+Exposure to Python or other scripting languages
+Excellent English written and verbal communication skills
+
+We recognize that individuals approach job applications differently. We strongly encourage all aspiring applicants to go for it, even if they don't match the job description 100%. We welcome your application and will be delighted to explore if you could be a great fit for our team. For this specific role, please note that prior experience in analyzing large data sets and synthesizing insights into actionable product recommendations and advanced SQL skills are mandatory requirements.
+
+#################################################
+
+Job Title: Senior Application Security Engineer
+Job Description: GET TO KNOW US
+
+Company P5 (formerly Gympass*) is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner. Founded in 2012 and headquartered in NYC, we have a growing global team in 11 countries. At Company P5, you have the opportunity to build a career in a high-growth tech company that places wellbeing at the foundation of its culture, and contribute to making every company a wellness company.
+
+Big news: Gympass is now Company P5! We are thrilled to announce our rebranding as Company P5, marking a significant milestone in our journey. This transformation reflects our evolution from a “pass for gyms” to a comprehensive employee wellbeing solution. With our refreshed identity, we are poised to embark on an exciting new chapter of growth and expansion. We are elevating our offerings, including a completely new app experience and an expanded network of wellbeing partners. Learn more about it here.
+
+THE OPPORTUNITY
+
+We are looking for a Senior Application Security Engineer to join our Information Security team in Brazil!
+
+The mission of the Infosec team is to make Company P5 a safer company for its customers, partners, end users, and employees by protecting the entire ecosystem from internal and external threats and contributing to the creation of safe and secure products.
+
+This position is for the Application Security team. Regarding challenges, our mission is to secure our applications throughout their lifecycle using engineering principles and automation. You will be an engineer who understands security best practices and will support our engineering teams in delivering secure software.
+
+YOUR IMPACT 
+
+Help define the DevSecOps strategy and security architecture eliminating vulnerabilities within our applications since the first stages of development.
+We are ensuring successful deliveries and promoting the long-term technical health of our projects.
+Provide security practices at all stages of the software development process.
+Develop and implement tools and processes that encourage collaboration between developers, security experts, and operations teams to create efficient and secure software.
+Share knowledge within Company P5, facilitating access for new members.
+
+Who You Are
+
+You have experience designing and implementing security controls for CI/CD pipelines and micro-services infrastructure.
+You have experience with SAST, DAST, and Vulnerability Scanners.
+You have experience with Code Review.
+You have a background as a Software Developer.
+You have experience with Public Cloud infrastructure (preferably Company K3). 
+You have knowledge in Linux, containers, and networking.
+You are proficient in any modern language (Java, Go, Python, etc)
+You have knowledge of cybersecurity frameworks such as OWASP and Mitre’s ATT&CK.
+You have knowledge of Security Champions programs.
+You have experience with Infrastructure as Code
+You have the ability to speak English and Portuguese fluently and idiomatically.
+
+We recognize that individuals approach job applications differently. We strongly encourage all aspiring applicants to go for it, even if they don't match the job description 100%. We welcome your application and will be delighted to explore if you could be a great fit for our team. For this specific role, please note that prior experience in Application Security are mandatory requirements.
+
+#################################################
+
+

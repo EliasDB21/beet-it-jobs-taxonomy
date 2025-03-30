@@ -1,0 +1,73 @@
+Cluster 20:
+
+Job Title: Full Stack Software Engineer
+Job Description: 
+Company F7 was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today Company F7 is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+
+
+We’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to 4M+ users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.
+
+As a software engineer working in Starlink’s GNC (Guidance, Navigation, and Control) organization, you will use your distributed systems knowledge to build mission-critical systems that keep low-earth orbit safe. You’ll work on collision avoidance, maneuver coordination, and orbital prediction tools for the world’s largest spacecraft constellation. You’ll build analysis pipelines that allow engineers from other disciplines to better understand our fleet of satellites.
+
+Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support.
+
+Responsibilities
+
+Develop highly reliable and available software systems for managing thousands of satellites in low-earth orbit
+Participate in architecture, design, and code reviews
+Develop mission-critical architecture that aggregates satellite information into actionable decisions for launch times, satellite trajectory planning, deconfliction, and deorbit decisions
+
+Basic Qualifications
+
+Bachelor’s degree in computer science, engineering, math, or science discipline and +1 years of professional experience in software development; OR 3+ years of professional experience in software development in lieu of a degree (internship experience is applicable)
+Experience with Python
+Experience with relational databases (PostgreSQL, CockroachDB, or similar)
+
+Preferred Skills And Experience
+
+Experience with systems-level design of highly-critical software infrastructure
+Experience with C++, and/or Golang
+Experience with distributed systems or large-scale consumer internet systems
+Production experience with containerization technologies (e.g. Docker, Kubernetes)
+Understanding of version control, testing, continuous integration, build, deployment, and monitoring.
+Experience with profiling and improving application performance
+Previous experience with satellites or spacecraft systems is a plus
+
+#################################################
+
+Job Title: Backend Software Engineer
+Job Description: 
+Company F7 was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today Company F7 is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+
+
+We’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to 4M+ users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.
+
+As a software engineer working in Starlink’s GNC (Guidance, Navigation, and Control) organization, you will use your distributed systems knowledge to build mission-critical systems that keep low-earth orbit safe. You’ll work on collision avoidance, maneuver coordination, and orbital prediction tools for the world’s largest spacecraft constellation. You’ll build analysis pipelines that allow engineers from other disciplines to better understand our fleet of satellites.
+
+Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support.
+
+Responsibilities
+
+Develop highly reliable and available software systems for managing thousands of satellites in low-earth orbit
+Participate in architecture, design, and code reviews
+Develop mission-critical architecture that aggregates satellite information into actionable decisions for launch times, satellite trajectory planning, deconfliction, and deorbit decisions
+
+Basic Qualifications
+
+Bachelor’s degree in computer science, engineering, math, or science discipline and +1 years of professional experience in software development; OR 3+ years of professional experience in software development in lieu of a degree (internship experience is applicable)
+Experience with Python
+Experience with relational databases (PostgreSQL, CockroachDB, or similar)
+
+Preferred Skills And Experience
+
+Experience with systems-level design of highly-critical software infrastructure
+Experience with C++, and/or Golang
+Experience with distributed systems or large-scale consumer internet systems
+Production experience with containerization technologies (e.g. Docker, Kubernetes)
+Understanding of version control, testing, continuous integration, build, deployment, and monitoring.
+Experience with profiling and improving application performance
+Previous experience with satellites or spacecraft systems is a plus
+
+#################################################
+
+

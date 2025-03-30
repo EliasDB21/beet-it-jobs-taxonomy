@@ -1,0 +1,262 @@
+Cluster 15:
+
+Job Title: Senior AI-HPC Storage Engineer
+Job Description: 
+Company Q1 has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. Company Q1 is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to solve, that only we can address, and that matter to the world. This is our life’s work, to amplify human creativity and intelligence. Make the choice to join us today!
+
+As a member of the GPU AI/HPC Infrastructure team, you will provide leadership in the design and implementation of ground breaking fast storage solutions to enable runs of demanding deep learning, high performance computing, and computationally intensive workloads. We seek an expert to identify architectural changes and/or completely new approaches for our GPU Compute Clusters fast storage. As an expert, you will help us with the next-gen storage solutions strategic challenges we encounter with storage design for large scale, high performance workloads, evolving our private/public cloud strategy, capacity modelling, and growth planning across our global computing environment.
+
+What You'll Be Doing
+
+Research and implementation of distributed storage services.
+Design, implement an on-prem AI/HPC infrastructure supplemented with cloud computing to support the growing needs of Company Q1.
+Design and implement scalable and efficient next-gen storage solutions tailored for data-intensive applications, optimizing performance and cost-effectiveness.
+Develop tooling to automate management of large-scale infrastructure environments, to automate operational monitoring and alerting, and to enable self-service consumption of resources.
+Document the general procedures and practices, perform technology evaluations, related to distributed file systems.
+Collaborate across teams to better understand developers' workflows and gather their infrastructure requirements.
+Influence and guide methodologies for building, testing, and deploying applications to ensure optimal performance and resource utilization.
+Supporting our researchers to run their flows on our clusters including performance analysis and optimizations of deep learning workflows
+Root cause analysis and suggest corrective action for problems large and small scales
+
+What We Need To See
+
+Bachelor’s degree in Computer Science, Electrical Engineering or related field or equivalent experience.
+8+ years of experience designing and operating large scale storage infrastructure.
+Experience analyzing and tuning performance for a variety of AI/HPC workloads.
+Experience with one or more parallel or distributed filesystems such as Lustre, GPFS is a must.
+Proficient in Centos/RHEL and/or Ubuntu Linux distros including Python programming and bash scripting
+Strong Experience operating services in any of the leading Cloud environment [ Company K3, Azure or GCP]
+Experience with AI/HPC cluster job schedulers such as SLURM, LSF
+In depth understating of container technologies like Docker, Enroot
+Experience with AI/HPC workflows that use MPI
+
+Ways To Stand Out From The Crowd
+
+Experience with Company Q1 GPUs, Cuda Programming, NCCL and MLPerf benchmarking
+Experience with Machine Learning and Deep Learning concepts, algorithms and models
+Familiarity with InfiniBand with IBOP and RDMA
+Background with Software Defined Networking and AI/HPC cluster networking
+Familiarity with deep learning frameworks like PyTorch and TensorFlow
+
+#################################################
+
+Job Title: Lead HPC Engineer
+Job Description: We are seeking a highly skilled Lead HPC Engineer to oversee and enhance our HPC infrastructure operations and engineering activities. The ideal candidate will possess a strong engineering background with extensive hands-on experience in deployment and optimization within an HPC environment. This role requires a proactive leader who can efficiently manage daily operations while driving continuous improvement and innovation in our HPC systems.
+
+Responsibilities
+
+
+Support and maintain HPC infrastructure
+Implement Infrastructure as Code (IaC) for automation of HPC systems
+Participate in incident resolution, along with software and hardware upgrades
+Lead a team of HPC engineers and technicians, providing guidance and mentorship
+Design and execute strategies for optimizing system performance and resource utilization
+Develop and enforce best practices for HPC system security and reliability
+Collaborate with research and development teams to align HPC capabilities with project needs
+Conduct regular system audits to ensure compliance with industry standards and regulations
+Manage vendor relationships and negotiate contracts for hardware and software acquisitions
+Stay abreast of the latest advancements in HPC technology and recommend upgrades and new systems
+
+
+Requirements
+
+
+Minimum of 5 years of experience in a HPC engineering role
+At least one year of relevant leadership experience
+Proficiency in Linux environments (any rpm-based), including skills in compiling kernel modules and using debugging tools such as strace, coredump, and tcpdump
+Experience managing HPC job schedulers, including Company X7 LSF and Slurm
+Expertise in configuring and implementing Bright Cluster Manager
+Understanding of both GPFS and Lustre file systems
+Familiarity with InfiniBand and OmniPath network interconnect technologies
+Fluent English communication skills at a B2 level or higher
+
+
+Nice to have
+
+
+Proficiency in hardware diagnostics, upgrades, and tuning, including HCA InfiniBand and disk arrays from Lustre, Vast, Company X7
+Capability to utilize infrastructure monitoring tools like Zabbix, Splunk, or Grafana
+Understanding of Easybuild
+Experience working within a GxP environment
+Familiarity with project and service management tools like Jira and ServiceNow
+
+#################################################
+
+Job Title: High Performance Computing (HPC) Engineer
+Job Description: Company P4 (TII) is a publicly funded research institute, based in Abu Dhabi, United Arab Emirates. It is home to a diverse community of leading scientists, engineers, mathematicians, and researchers from across the globe, transforming problems and roadblocks into pioneering research and technology prototypes that help move society ahead.
+
+
+
+Artificial Intelligence Cross-Center Unit
+
+The Artificial Intelligence Cross-Center Unit is the machine learning powerhouse of TII, working in close collaboration with our other research centers to harness the full benefits of AI across our projects – and drive innovation from new computing paradigms, designing and delivering new AI methodologies, technologies, solutions, and systems that address challenging issues across multiple sectors of the economy – from technology to healthcare, cybersecurity, and government, among others.
+
+
+
+We incorporate core elements of intelligence (perception, sensing, planning, and language) in the ideation, design, and prototyping of next-generation systems with human-like intelligence. We build advanced AI computing and scalable AI-based software stacks and hardware systems to deliver significant enhancements in systems infrastructure.
+
+
+
+Our AI researchers, scientists, and engineers collaborate to ensure innovative outcomes, from AI theory to AI technologies towards better intelligence.
+
+
+
+We're looking for a talented High-Performance Computing (HPC) Engineer to join our growing team and help us push the boundaries of computational technology. As an HPC Engineer, you'll design, implement, and manage scalable, high-performance computing solutions to meet our clients' complex computational needs.
+
+
+
+Key Responsibilities:
+
+
+
+1. Design, develop, and optimize HPC systems and applications.
+
+2. Collaborate with our software engineering team to integrate HPC solutions into software applications.
+
+3. Diagnose and troubleshoot complex HPC systems and software issues.
+
+4. Perform system administration tasks including system configuration, system upgrades, and monitoring of HPC cluster health and performance.
+
+5. Collaborate with our sales and customer support teams to provide technical expertise for customer inquiries and for pre-sales engineering support.
+
+6. Research new technologies and methods for improving system performance and efficiency.
+
+
+
+Skills and qualifications:
+
+
+
+· BS/MS degree in Computer Science, Electrical Engineering, or a related field.
+
+· Proven experience with HPC, cluster management, and parallel computing.
+
+· Proficiency in programming languages such as C, C++, Python, or Fortran.
+
+· Experience with Linux/Unix environment, including scripting and system administration.
+
+· Familiarity with MPI, OpenMP, or other parallel processing frameworks.
+
+· Experience with job scheduling tools such as Slurm, PBS Pro, or similar.
+
+· Strong problem-solving abilities, attention to detail, and excellent analytical skills.
+
+· Good communication skills and ability to work collaboratively in a team environment.
+
+· Experience with cloud-based HPC solutions (Company K3, GCP, Azure) is a plus.
+
+· Experience with GPU programming (CUDA, OpenCL) or FPGA is a plus.
+
+· Familiarity with containerization technologies such as Docker, Singularity, etc is a plus.
+
+
+
+If you're excited about working on cutting-edge LLM technologies and want to make a significant impact on the AI field, apply today and help us shape the future of AI!
+
+
+
+#################################################
+
+Job Title: Climate Workflows Research Engineer
+Job Description: 
+About BSC: The Company Z8 – Centro Nacional de Supercomputación (BSC-CNS) is the leading supercomputing center in Spain. It houses MareNostrum, one of the most powerful supercomputers in Europe, was a founding and hosting member of the former European HPC infrastructure PRACE (Partnership for Advanced Computing in Europe), and is now hosting entity for EuroHPC JU, the Joint Undertaking that leads large-scale investments and HPC provision in Europe. The mission of BSC is to research, develop and manage information technologies in order to facilitate scientific progress. BSC combines HPC service provision and R&D into both computer and computational science (life, earth and engineering sciences) under one roof, and currently has over 1000 staff from 60 countries.
+
+We are particularly interested in the strengths and lived experiences of women and underrepresented groups to help us avoid perpetuating biases and oversights in science and IT research. In instances of equal merit, the incorporation of the under-represented sex will be favoured.
+
+We promote Equity, Diversity and Inclusion, fostering an environment where each and every one of us is appreciated for who we are, regardless of our differences.
+
+If you consider that you do not meet all the requirements, we encourage you to continue applying for the job offer. We value diversity of experiences and skills, and you could bring unique perspectives to our team.
+
+Context And Mission: Within the Computational Earth Sciences group, the successful candidate will be part of the Models and Workflows team, being in charge of improving and maintaining the existing software stack that is used to manage and monitor scientific experiments in different High-Performance Computing facilities, as well as providing support to the scientific groups of the Earth Sciences department.
+
+The Models and Workflows team devotes to the research and development of methodologies and tools essential to efficiently use the variety of computing resources available at the BSC and in other HPC institutions. The team is composed of more than 18 members and has strong connections with the Performance and Data & Diagnostics teams, as well as with the scientific groups.
+
+The candidate will work within the EC-Earth climate model ecosystem, which is developed and maintained by various institutions in Europe, including the BSC. EC-Earth 3 is an established model with a solid in-house supporting software stack, which is developed following a Continuous Delivery strategy supported by cyclic pseudo-automatic testing. EC-Earth4 is the new model cycle that will bring structural changes with important involvement of the BSC. This model will run on state-of-the-art systems such as the upcoming EuroHPC Pre Exascale systems.
+
+Key Duties: Be the main responsible for the EC-Earth model department infrastructure, developing and maintaining the supporting software stack and workflow additions, taking care of the project repository and supporting the scientific developments.Be in charge of the testing strategy and the workflow documentation. Improve the testing software, allowing these tests to be performed in a pseudo-automatic fashion.Support scientific experiments by helping the department users, addressing arising technical issues and communicating further necessities to the rest of the team, developers of the underlying software stack.Collaborate with members of the department and other institutions in the improvement of the system. Communicate the advances and progresses in department events such as training and tutorials or international workshops.Port the model, supporting software and the whole workflow in general, to new platforms to sustain the department's scientific production.Requirements: Education: Having a Bachelor in Computer Science, Telecommunications, Physics or related discipline. Having a Master's or PhD degrees will be valued.
+
+Essential Knowledge and Professional Experience: Excellent development skills and experience with UNIX/LINUX environments.Knowledge of development and execution of scientific applications on parallel computers.Understanding of HPC computer architecture issues including CPU, accelerators, memory, interconnect, parallel I/O, and computational performance.Experience in the execution of numerical climate models.Additional Knowledge and Professional Experience: Experience of version control in a collaborative environment, including Git or SVN.Experience of Python programming and/or scripting languages (Bash).Previous experience in scientific Python packages (Python Numpy, Scipy, …) will be valued.Previous experience in a scientific area related to the research position will be appreciated.Experience with testing procedures and containerization methodologies will be valued.Competences: Earth system models are sophisticated tools and High-Performance Computers are complex systems. The candidate needs to have excellent problem-solving skills and a proactive attitude to address new challenges and perfect the current solutions so they gain in reliability and efficiency. This is a specialised position so the successful candidate is expected to have a demonstrated learning capacity and the motivation to maintain a learning progression during the contract. The BSC Earth Sciences department is an international and interdisciplinary environment, so the candidate must be fluent in English and have good written and verbal skills and the capacity to support Earth and Computational scientists. EC-Earth is a collaborative project, so it is mandatory to be able to fulfil schedules and coordinate with members from other institutions, as well as to disseminate the advances in international workshops.
+
+#################################################
+
+Job Title: GPU Computing Capacity Optimization Engineer
+Job Description: Company Q1 has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. Company Q1 is a "learning machine" that constantly evolves by adapting to new opportunities that are hard to solve, that only we can address, and that matter to the world.
+
+As a member of the GPU AI/HPC Infrastructure team, you will provide leadership in the design and implementation of ground-breaking GPU compute clusters that run demanding deep learning, high performance computing, and computationally intensive workloads. In this role, we seek an expert to optimize the Capacity management and allocation in GPU Compute Clusters. You will help us with the strategic challenges we encounter in maximizing and optimizing our usage of all datacenter resources including compute, storage, network, and power. You will help build methodologies, tools, and metrics to enable effective resource utilization in a heterogeneous compute environment, and assist with growth planning across our global computing environment.
+
+What you'll be doing:
+
+Building and improving our ecosystem around GPU-accelerated computing including developing large scale automation solutions
+Supporting our researchers to run their flows on our clusters including performance analysis and optimizations of deep learning workflows
+Diagnosing customer utilization deficiencies and job scheduling issues
+Building automation, tools, and metrics to help us increase productive utilization of resources
+Collaborating with the scheduler team to improve scheduling algorithms
+Root cause analysis and suggest corrective action for problems at large and small scales
+Finding and fixing problems before they occur
+What we need to see:
+
+Bachelor's degree in Computer Science, Electrical Engineering or related field or equivalent experience
+Minimum 5+ years of experience designing and operating large scale compute infrastructure
+Experience analyzing and tuning performance for a variety of AI/HPC workloads
+Working knowledge of cluster configuration management tools such as Ansible, Puppet, Salt
+Experience with AI/HPC advanced job schedulers, and ideally familiarity with schedulers such as Slurm, K8s, RTDA or LSF
+Familiarity with container technologies like Docker, Singularity, Shifter, Charliecloud
+Proficient in Python programming and bash scripting
+Experience with AI/HPC workflows that use MPI
+Ways to stand out from the crowd:
+
+Experience with Company Q1 GPUs, CUDA Programming, NCCL and MLPerf benchmarking
+Experience with Machine Learning and Deep Learning concepts, algorithms, and models
+Proficient in CentOS/RHEL and/or Ubuntu Linux distros
+Familiarity with InfiniBand with IBOP and RDMA as well as understanding of fast, distributed storage systems like Lustre and GPFS for AI/HPC workloads
+Familiarity with deep learning frameworks like PyTorch and TensorFlow
+Company Q1 offers highly competitive salaries and a comprehensive benefits package. We have some of the most brilliant and talented people in the world working for us and, due to unprecedented growth, our world-class engineering teams are growing fast. If you're a creative and autonomous engineer with real passion for technology, we want to hear from you.
+
+#################################################
+
+Job Title: HPC Cluster Administrator
+Job Description: What You Will Do
+
+Join the Company A9  in operating and maintaining some of the fastest supercomputers in the world for the betterment of our nation and the world. Designing, operating and maintaining these systems requires highly skilled personnel that specialize in both the hardware and software aspects of High Performance Computing. Innovators at heart, our cluster administrators work both independently and collaboratively across teams, to maintain capability and implement continuous capability improvements across a complex and heterogeneous computing environment.
+
+The selected HPC Cluster Administrator  will provide strategic design, testing, analysis, administration, configuration management, verification, and validation of both existing HPC systems and systems in development, including modifications and additions to systems, code, and methods, in support of LANL's HPC capability. HPC Cluster Administrators apply existing scientific principles, techniques, methods, and tools to both maintain production computing systems as well as diagnose root cause of system failures in collaboration with administrators of other HPC subsystems; bring up new hardware and test functionality; and document, design, and implement new ideas, technical innovations, and best practices. In addition, the selected candidate will have the opportunity to develop technical products such as documentation, presentations, technical papers, and reports, and to communicate findings internally or at conferences. Mentoring of students, junior staff, and peers in technical and professional growth activities is highly valued, as is maintaining state-of-the-art technical expertise and knowledge within HPC system administration and developing new skills in related disciplines. This is your chance to directly support our national security mission and continue to make LANL the best place to work as a member of a dynamic, team-oriented, and leading-edge technical capability team.
+
+Position requires a skilled professional who has specialized experience with and broadly applies cluster computing system administration knowledge and best industry practices, including a full knowledge of a range of related disciplines, across a complex and heterogeneous computing environment in a professional setting to resolve diverse issues in creative, practical, and robust ways. The selected candidate will have the capacity to produce technical products, reports, documentation, presentations, and concept papers, as well as the ability to present findings at national technical meetings.
+
+What You Need
+
+Minimum Job Requirements:
+
+
+Computer Scientist:
+Advanced Linux Administration Expertise: Demonstrated knowledge of administering production Linux computer systems, including strong command line Linux operating system skills, working knowledge of or experience with hardware and software security practices, and experience scripting in Bash, Perl, Python, or similar languages.
+Configuration Management Expertise: Demonstrated experience with configuration and automation tools and practices, such as Company Q5, Puppet, Ansible, Salt, or similar tools.
+Troubleshooting and Technical Analysis Acumen: Significant knowledge and demonstrated experience in formulating and testing hypotheses, investigating alternative solutions, and recommending solutions to technical problems.
+Computer Networking Expertise: Working knowledge of networking concepts and practices.
+Communication and Teaming Skills: Demonstrated effective communication skills, both verbal and written, including the ability to communicate technical information to both technical and non-technical personnel, to provide assistance and knowledge to peers, to collaborate with Group members, other HPC Group personnel and vendor representatives, as required, and to formulate and communicate technical results and findings to technical audiences and readerships (examples can include publications, team projects, and presentations).
+Troubleshooting skills: Demonstrated ability to troubleshoot hardware and software errors, prioritizing problems and assessing impact to stakeholders, documenting problems and solutions.
+Clearance: Ability to obtain a DOE Q-clearance (To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.
+Container experience: Demonstrated experience and knowledge with containerization such as Kubernetes, Charliecloud, Docker, etc.
+Virtualization: Demonstrated experience and knowledge with virtualization and hypervisors.
+Computer Networking Expertise: High performance interconnects, preferably Mellanox InfiniBand or Omni-Path.
+Leadership: Demonstrated experience with project planning and management. Ability developing and leading complex projects, generating formal project plans, delegating tasks, and providing routine updates to management.
+HPC Experience: Demonstrated experience building, installation, and administration of HPC systems. Experience with modern image building and provisioning tools.
+
+
+Education/Experience the lower level: Positions requires a Bachelor' degree in a STEM field from an accredited college and university and 4 years of related experience
+
+Education/Experience the higher level: Position requires a Master's degree in a STEM field from an accredited college or university and 6 years of relevant experience or an equivalent combination of education and experience directly related to the occupation.
+
+Desired Qualifications:
+Experience with Git, creating issues, branches, merge requests and using CI/CD pipelines
+Experience modifying Unix/Linux operating systems (e.g., enabling/disabling kernel modules).
+Practical experience with Splunk or other monitoring tools.
+Knowledge of or demonstrated experience with parallel and distributed storage systems; knowledge of file systems such as ZFS, EXT, XFS; working knowledge of file system structures and algorithms; and/or experience with Object storage and RESTful storage interfaces.
+Demonstrated ability to develop new methods, techniques, or approaches to address critical technical problems and/develop new technical capabilities.
+Knowledge with virtualization and containerization
+Ability to mentor and lead individual junior team members and students.
+Active DOE Q Clearance.
+
+#################################################
+
+

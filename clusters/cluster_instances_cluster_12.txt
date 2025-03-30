@@ -1,0 +1,99 @@
+Cluster 12:
+
+Job Title: Computer, Computational & Stat Sciences
+Job Description: What You Will Do
+
+Come join the brightest minds at the most innovative R&D facility supporting our national security! The Computer, Computational and Statistical Sciences (CCS) Division is seeking undergraduate students (UGS) looking for a challenging internship. As a CCS UGS student, we will provide you with a mentor, a challenging project, and an opportunity to present your work and progress to colleagues. The projects will vary depending on your skills and interests and the Laboratory's current needs. The CCS UGS program offers paid summer and year-round internships for undergraduate students in a variety of Computer Science, Mathematics, and Statistics projects. The GRA program provides mentoring, hands-on technical experience, and professional development opportunities through a normalized work plan complementing the student's chosen area of study. You will work closely with one of four groups within the CCS Division.
+
+Computational Physics and Methods conducts research in numerical methods and algorithms, physical model development, and software engineering. 
+Information Sciences engages in a wide variety of basic and applied research activities that are directly applicable to core needs. 
+Statistical Sciences provides statistical reasoning and rigor to multidisciplinary scientific investigation and the development, application, and communication of cutting-edge statistical sciences research. 
+Applied Computer Science is to be the vanguard for scientific simulations at extreme scale through the co-design of applications, algorithms, and architectures. 
+
+What You Need
+
+Minimum Job Requirements:
+
+Currently enrolled in an accredited undergraduate degree program in any Computer Science or Mathematics (or related) discipline. 
+Must be enrolled in at least 12 semester credit hours (or full-time equivalent). 
+Must currently have and maintain a cumulative GPA of at least 3.0 on a 4.0 scale (or equivalent). 
+
+Desired Qualifications:
+
+Computer programming (Python, C++, etc.) in support of scientific or engineering applications. 
+Application of advanced mathematical methods to develop models of physical phenomena. 
+Familiarity with cutting edge computational research in applications such as cybersecurity, artificial intelligence, machine learning, and quantum computing. 
+Demonstrated ability to communicate (verbal and written) well in a professional scientific context; and Commitment to achieving results in a complex social and organizational setting. 
+
+#################################################
+
+Job Title: Computer, Computational, and Statistical Sciences
+Job Description: 
+What You Will Do
+
+CCS Division is seeking recent graduates looking for a challenging professional at the Post-Master's level. You will be provided with a mentor, a challenging project, and an opportunity to present your work and progress to colleagues. The projects will vary depending on your skills and interests and the Laboratory's current needs.
+
+Computer, Computational and Statistical Sciences (CCS) Division is a problem-solving organization that works in four principal LANL mission areas:
+
+ Nuclear Weapons Program
+ Threat Reduction and Department of Homeland Security programs
+ Basic science and technology research programs
+ Institutional Computing Program
+
+You will work closely with one of four groups within CCS Division. Computational Physics and Methods conducts research in numerical methods and algorithms, physical model development, and software engineering. Information Sciences engages in a wide variety of basic and applied research activities that are directly applicable to core needs. Statistical Sciences provides statistical reasoning and rigor to multidisciplinary scientific investigations and the development, application, and communication of cutting-edge statistical sciences research. Applied Computer Science is to be the vanguard for scientific simulations at extreme scale through the co-design of applications, algorithms, and architectures.
+
+What You Need
+
+Minimum Job Requirements:
+
+The successful candidate should have the knowledge and experience in an area that is in the technical scope of CCS Division.
+
+ Computational earth science
+ Numerical analysis
+ Plasma physics
+ Astrophysics
+ Computational physics
+ Computational material science
+ Computational radiation or particle transport
+ Machine Learning
+ Statistics
+ Computer Science
+
+Education/Experience: M.S. Degree from an accredited program in engineering, mathematics, computer science, physics, or related field completed within the past 3 years with a cumulative GPA of at least a 3.2 on a 4.0 scale.
+
+Desired Qualifications:
+
+ Strong leadership skills
+
+#################################################
+
+Job Title: Researcher in Applied Mathematics & Plasma Physics 
+Job Description: What You Will Do
+
+We are looking for candidates to join our team in Company W8's Theoretical Division. Our division provides a unique and engaging environment that fosters multi-disciplinary collaborations to support the laboratory's strategic basic research and national security missions. The Applied Mathematics and Plasma Physics  group within our division conducts research in novel algorithms and numerical methods for a variety of applications including fusion science, space plasma science, astrophysics, numerical analysis, machine learning, computational imaging, optimization, artificial intelligence, environmental sciences, and the modeling of critical infrastructure (gas pipelines and electrical grids).
+
+The project will explore the development of particle (Lagrangian) and low-rank mesh-based (Eulerian) approaches to solve the kinetic plasma model equations, while overcoming the curse of dimensionality. The methods developed will be used to simulate high-temperature plasmas for space physics, astrophysics, and laboratory fusion applications. Depending on the interests and skills of the successful candidate, the research may focus on numerical algorithm development, or its application to model plasma phenomena in fusion or space physics, such as magnetic reconnection, plasma shocks and other plasma instabilities.
+
+A background in either applied mathematics or plasma physics is desired and the selected candidate is expected to work within a small team of applied mathematicians and plasma physicists. 
+
+What You Need
+
+Minimum Job Requirements:
+
+Demonstrated ability to publish in scientific journals, and to communicate effectively, both written and orally. 
+Ability to collaborate effectively in a team environment, and develop solutions for complex problems while effectively networking with peers. 
+Experience in developing and/or applying Lagrangian or Eulerian methods to solve partial differential equations. 
+Proficiency in C/C++, Python, Julia, Fortran and/or MATLAB. 
+
+Education/Experience: A Ph.D. in Applied Mathematics, Plasma Physics, Astrophysics, Engineering, Computational Science, or a closely related field completed within the past five years or soon to be completed.
+
+Desired Qualifications:
+
+Expertise in theoretical or computational plasma physics, space physics, and/or astrophysics. 
+Experience with particle-in-cell methods or low-rank tensor decomposition methods. 
+Experience with parallel numerical algorithm development and simulation on modern computer architectures. 
+Experience with code development relevant to computational physics. 
+
+#################################################
+
+

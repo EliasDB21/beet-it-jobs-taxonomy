@@ -1,0 +1,340 @@
+Cluster 1:
+
+Job Title: Staff Digital Design Engineer - SoC / Neuromorphic
+Job Description: We are working with an exciting AI/Semiconductor company and their VLSI design team is dedicated to creating energy-efficient mixed-signal neuromorphic processors and SoCs for AI applications at the sensor edge. They're looking for Staff level Digital Design Engineer to join the team.
+
+
+
+They have a preference for those that are able to relocate to western Netherlands and work on a hybrid model. Visa sponsorship is available for those relocating.
+
+
+
+Key Responsibilities:
+
+Design and architect digital IP and subsystems, ensuring thorough verification by the verification engineer.
+Integrate all IP and subsystems at the SoC level, assisting in top-level functionality verification. A deep understanding of the software-hardware system is essential.
+Perform and assist with all front-end design tasks, including design, verification, DFT, synthesis, static timing analysis, and formal equivalence checking.
+
+
+Key Qualifications:
+
+A minimum of 10 years of experience in ASIC design.
+Proven ability to design complex digital modules from the ground up, ideally in hardware accelerators, computer vision, DSP, or neural networks, with a focus on power-aware design and power domains.
+Experience architecting complex SoC subsystems or entire SoCs.
+Strong documentation skills and the ability to work effectively within a team with minimal supervision.
+Familiarity with the design or integration of RISC/DSP processors and their ecosystems.
+Robust verification skills with a focus on reuse and best practices.
+Experience with various communication protocols (SPI, I2C, UART) and on-chip bus protocols (AMBA, OBI).
+Knowledge of test methodologies (JTAG, scan, memory BIST).
+Proficiency in EDA tool flows and scripting (e.g., Python).
+Experience with version control (Git) and CI/CD tools (GitHub, GitLab, Jenkins).
+Proficiency in (Embedded) C, C++, and/or SystemC.
+Experience with synthesis, timing analysis, and timing closure.
+Skills in chip bring-up, silicon, and system debugging.
+Ideal candidates are fearless, curious, ambitious, and, above all, team-oriented.
+
+
+What You Get:
+
+A dynamic work environment rooted in a fearless engineering culture.
+Ambitious teams that encourage innovation.
+Company C3ible working arrangements, including remote work options, flexible hours, and a generous holiday scheme.
+An inclusive company culture that promotes communication, diversity, and holistic personal development.
+
+#################################################
+
+Job Title: Analog Architecture Engineer
+Job Description: About The Function
+
+The Analog Architecture team consists of a multi-disciplinary group involved from early product specification and analysis to define power management architecture, optimize analog IP integration and improve power efficiency and performance of the SoCs.
+
+Job Responsibilities
+
+As Analog Architecture Engineer at Company U1 you will work with a team of engineers to develop and verify analog and power architecture for System-on-Chip (SoC) designs; you will support Analog IP integration, power management development and verification, validation of power estimation model at chip and system level.
+
+In this team your responsibility will include, but not limited, to:
+
+Support the development of the best Architecture capable of improving PPA (Performance-Power-Area) and integrating the customer needs. 
+Design analog IP to improve PPA. 
+Support flows, methodologies to build the power estimation models for HPC products and systems. 
+Actively work on validation of analog IP integration. 
+Actively work on full-chip AMS verification 
+Support modeling and analysis of high-speed interconnects in chiplets 
+
+Skills
+
+5+ years of solid experience in IP/SoC design. 
+Working knowledge of energy efficient chip/system design fundamentals and related tradeoffs. 
+Solid knowledge with low power design techniques such as multiple voltage domains, clock gating, power gating and dynamic voltage-frequency Scaling (DVFS). 
+Solid knowledge of simulators and design flow used in modern SoC., such as analog and AMS simulators. 
+Solid knowledge of energy efficient chip/system design fundamentals and related tradeoffs. 
+
+Soft Skills
+
+We are looking for team players that focus on the outcome of the team above the individual needs, with respect and honest challenge. Individuals are encouraged to work well with the team. You have good communication and enjoy working with your teammates, having fun at the same time that you strive to do your best to provide unique products for our customers.
+
+Job Details 
+
+Job type: Full Time
+
+Primary Job Location: Barcellona (Spain)
+
+Alternative Job Location: Rome (Italy)
+
+Working Model: This role is eligible for hybrid work model which allows employees to split their time between working on-site at their assigned site and off-site.
+
+#################################################
+
+Job Title: R&D Power Electronics Engineer
+Job Description: 
+Powering the Future: Join our team as a Power Electronics Engineer in R&D
+
+We are seeking a Power Electronics Engineer to join our Research & Development Department in our Electrification, Automation and Digitalization business unit. As a global leader in this industry, our company is dedicated to driving innovation and shaping the future of electrical propulsion and energy systems. If you are passionate about electrical engineering and believe that you have what it takes to excel in this role, we would love to hear from you.
+
+What You'll Bring
+
+Master's degree or doctorate in electrical engineering or a related field of study, ideally with a focus on power electronics
+Several years of experience in the field of power electronic systems and related technical fields
+Confident knowledge of simulation platforms such as MATLAB/Simulink, PLECS or Simplorer as well as programming in C/C++
+Knowledge of relevant and applicable international standards for electrical engineering and testing
+Committed, independent and reliable team player with good communication skills in English
+Knowledge of Subsea environment is an advantage
+
+
+Do you identify with all the requirements, or maybe just one of them? In any case, we encourage you to apply. We invite you to submit your application, along with your resume and grade transcript.
+
+How You Will Make An Impact
+
+As a Power Electronics Engineer, you will have responsibility in the design and development of innovative power electronic solutions. This includes selection and qualification of components in the field of power converters as well as planning and participating of laboratory demonstrations, system tests and commissionings. This requires a confident knowledge of simulation platforms such as MATLAB/Simulink, PLECS or Simplorer as well as programming in C/C++ etc.
+
+We are looking for a hands-on person, with a proactive attitude to take responsibility in our R&D projects and cooperation with suppliers as well as partners in funded projects. The position is interacting with international teams with different cultures and technical fields. We expect you to be an excellent communicator and collaborator. The working language is English, but competence in one of the Scandinavian languages is beneficial. This role offers growth opportunities within the organization, with many learning prospects as well as opportunities to contribute and develop our portfolio of technical products and solutions.
+
+The position will include a significant time spent in Trondheim, Norway, where you will receive specific training and perform hands-on work.
+
+#################################################
+
+Job Title: SoC Interconnect Senior Architect
+Job Description: About the function
+
+The Network Architecture team consists of a multi-disciplinary group involved from early product specification and analysis effort to final RTL delivery to the SoCs. One aspect of the process is to identify architecture bottlenecks and drive micro-architecture choices using performance and power analysis, and to provide the SoC team with design guidelines for bus protocol compliance and best power interconnect.
+
+Job responsibilities
+
+As Network Architect Engineer, you will work with a team of engineers to develop and verify state-of-the-art Memory Interface and Network-on-Chip IP cores. You will be working on advanced device architectures, design definition, implementation, and verification. You will also be developing design examples and simulation models, accompanied by a rich set of technical documentation.
+
+In this team your responsibility will include, but not limited, to:
+
+·Actively work with SoC Architecture, verification, physical design team, Soc Floorplan, core teams to achieve system targets for performances, area and power.
+
+·Coherent and non-coherent interconnects within the chip, coherency protocol, directory structure, bandwidth, and latency targets.
+
+·Evaluate new IPs, driving new protocol deployments as well as defining system wide guidelines for IPs to inter-operate together in the SoC.
+
+·Deliver RTL to the SoC team, support verification and silicon validation teams, and work with SW teams to support successful deployments of the interconnects.
+
+Skills
+
+·7+ years of solid experience in IP/SoC design.
+
+·Working knowledge of System on Chip and Network on Chip Architectures.
+
+·General knowledge of on-chip network protocols: AMBA, AXI, CHI, ACE or APB.
+
+·General knowledge of cache coherent memory systems and interconnect.
+
+·Familiarity with RISC-V architecture.
+
+·Working Knowledge with SystemVerilog or Verilog, C or C++, scripting languages such as Python
+
+·Hands-on experience with SoC Design, Verilog RTL coding and simulation software.
+
+·General knowledge of functional and performance simulators.
+
+·Good understanding of the design convergence cycle in terms of architecture, micro-architecture, synthesis, timing closure and verification.
+
+Soft Skills
+
+We are looking for team players that focus on the outcome of the team above the individual needs, with respect and honest challenge. Individuals are encouraged to work well with the team. You have good communication and enjoy working with your teammates, having fun at the same time that you strive to do your best to provide unique products for our customers.
+
+#################################################
+
+Job Title: Principal Solutions Engineer: Digital Design Verification
+Job Description: Company W1 Design Systems Inc. is looking for a motivated Principal Solutions Engineer: Digital Design Verification to work with us in Brazil.
+
+As a Principal Solutions Engineer: Digital Design Verification, you will be part of the Silicon Engineering team. In this role, you will work with an experienced Company W1 team and leading-edge customers to implement SoC designs in advanced process nodes. You will use Company W1’s market-leading technologies in simulation, formal proof, verification planning and regressions to help customers turn their design ideas into products that will be deployed in the marketplace.
+
+Job Description
+
+Develop the entire functional verification flow on complex SoC IPs according to customer technical needs.
+Writing, maintenance, and execution of the verification plan.
+Full testbench creation, maintenance, and optimization (stimuli, sequences, reference model, checkers, coverage, assertions)
+Thorough planning, analysis and reporting of code, functional and assertion coverage.
+Work together with Architecture, RTL and FW/SW teams to guarantee full feature coverage.
+Provide support on post-silicon validation, bring-up, emulation and prototyping.
+Provide technical training to new team members.
+
+Requirements
+
+Complete Bachelor's degree in Computer or Electrical Engineering or related areas.
+Ability to verify complex modules autonomously in the context of subsystem/SOC using systemic metric-driven approach.
+Strong expertise in building testbenches using System-Verilog, UVM, C/C++.
+Strong understanding on digital logic and digital design architecture.
+Experience in functional coverage, code coverage and assertions (SVA) development and closure.
+Experience in writing and maintaining the verification plan at module, subsystem, or SOC level.
+Strong debug skills in developing System Verilog and UVM-based testbenches.
+Excellent verbal and written communication skills in English and a good team player.
+
+Nice To Have
+
+Experience on formal verification.
+Experience on emulation or prototyping.
+Previous participation in successful IP delivery or SOC tape-out.
+Effective cross-team communication and documentation skills.
+Knowledge on Company W1’s verification tools (XCelium, Simvision/Verisium Debug, VManager, JasperGold)
+
+Additional Job Details
+
+Employment category: CLT.
+Employment term: 40 hours/week.
+Competitive benefits.
+Hybrid work.
+
+
+
+#################################################
+
+Job Title: Graphics Power Analysis & Optimization Engineer
+Job Description: Do you love creating elegant solutions to highly complex challenges? As part of our Silicon Technologies group, you’ll help design and manufacture our next-generation, high-performance, power-efficient processor, system-on-chip (SoC)! You’ll ensure Company O1 products and services can seamlessly handle the tasks that make them beloved by millions. Joining this group means you’ll be crafting and building the technology that fuels Company O1’s devices. Together, we enable our customers to do all the things they love with their devices! We are looking for a talented and creative engineer to support the power activity of Company O1 best-in-class GPU development.
+Description
+For this role, the candidate must have strong analytical skills and background in power, micro-architecture and scripting to support the following activities on GPU designs: 
+-  Create early power estimation, power targets and perform what-if analysis at architectural evaluation stage.
+-  Support RTL and gate-level power rollup and analysis.
+-  Analyze various GPU workloads to identify power reduction opportunities.
+-  Evaluate and implement power optimizations in both RTL and gates.
+-  Identify the best power sign-off tests to improve power analysis coverage.
+-  Develop flows & heuristics to accelerate power triage on large power data sets.
+Minimum Qualifications
+Experience with low power microarchitecture and implementation.
+Experience with scripting in Python.
+Experience with PowerArtist and/or PTPX.
+BS degree and minimum of 10+ years of relevant experience.
+Preferred Qualifications
+Experience in product level power budgeting and projection.
+Experience in writing, simulating and debugging RTL designs.
+Experience in low power ASIC design and implementation techniques.
+Experience in data mining applications to power modeling & triage.
+Experience in power use-case definition and analysis.
+Experience in post-silicon power correlation.
+Experience in power management techniques.
+Excellent communication skills, self-motivated and well organized.
+
+#################################################
+
+Job Title: Applied Cryptographer
+Job Description: Company E9 believes hardware determines the boundaries of humanity's collective creativity and imagination. We are building hardware for the next generation of cryptography because we believe in creating a more trustworthy world with secure, private computation at its core. Just as encryption and decryption enabled the Internet as we know it, this new paradigm of cryptographic algorithms, such as zero knowledge proofs, have even broader potential to revolutionize how trust, privacy, and identity work in our society. 
+
+About The Job
+
+As a Cryptography Hardware Engineer at Company E9, you will play a pivotal role in shaping the future of modern cryptography systems and empowering our customers to build production systems securely. You will be involved in a variety of technical tasks related to ZKP protocols, framework improvement, and customer advisory, among other responsibilities. Your deep knowledge of cryptography, programming skills, and experience working with cryptocurrency or cryptographic products and LLVM will be highly valuable and necessary for the role.
+
+What you'll be doing
+
+Cryptography System Development: Utilize our framework to express modern cryptography systems, with a particular focus on Zero-Knowledge Proof (ZKP) protocols. Design and implement secure and efficient cryptographic solutions
+Product Improvements: Perform HW/SW co-design across the algorithms, the microarchitecture, and‬ the ISA‬
+Framework Enhancement: Continuously improve our existing framework and debugging tools based on your experience using them. Streamline the development process, optimize performance, and ensure robustness
+Technical Advisory: Advise customers on how to effectively use our system framework to build production systems, ensuring the security and integrity of their cryptographic implementations
+Research and Knowledge: Stay up to date on the latest advances in the field of cryptography, including emerging ZKP/FHE/PQC protocols and other relevant technologies. Incorporate these advancements into our products
+
+
+Qualifications And Experience Requirements
+
+Qualifications and experience requirements
+A Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, Mathematics, or Computer Engineering
+Strong familiarity with the uses and implementations of Zero-Knowledge Proofs (ZKPs)
+Experience implementing cryptographic algorithms in hardware, particularly‬ FPGAs
+Proficiency in programming languages such as Rust or Python, with a deep understanding of cryptography-related programming
+Previous experience working on a cryptography product
+An aptitude for problem-solving and a keen eye for details
+
+#################################################
+
+Job Title: Cryptography Engineer
+Job Description: 
+Company E9 is a fast-growing Series A deep tech company (full-stack across silicon, hardware and cloud) that was founded to weave programmable trust into the fabric of society.
+
+Incredible cryptographers, engineers, and builders are working tirelessly to bring this vision to life. Our job is to make their work possible at scale and at speed.
+
+We’re a team of 60+ AI hardware and software veterans, cryptographers and cypherpunks. Together, we’re building the first general purpose, high performance computer chip for all cryptography – what we call the Verifiable Processing Unit (VPU). On top of the VPU, we’re developing a full compiler stack and acceleration libraries to ensure the chips are easy to program and use.
+
+In a world where progress often comes at the cost of security, our hardware-accelerated cryptography redefines the paradigm. We're enabling real-time, high-performance systems where privacy is the default, not the exception.
+
+In a world where progress often comes at the cost of security, our hardware-accelerated cryptography redefines the paradigm. With $39 million in equity and tens of millions worth in pre-orders, we're enabling real-time, high-performance systems where privacy is the default, not the exception.
+
+You can learn more about us on Forbes or our website.
+
+About The Job
+
+As a Cryptography Engineer, you will play a key role on the Cryptography team, working closely with Sales/Business Development and Software teams to deliver cutting-edge cryptographic solutions to clients. You’ll bridge technical expertise with client-facing initiatives, ensuring that our clients’ needs are integrated into our innovative cryptographic infrastructure.
+
+This role is ideal for candidates with a strong foundation in cryptography, particularly in zero-knowledge proofs (ZKP), who are excited to engage in both technical development and client relations.
+
+What you'll be doing... 
+
+Client Benchmarks: Collaborate with the sales team to generate benchmarks for clients and prospects based on their proving systems. This will involve interpreting client requirements and mapping them onto our Instruction Set Architecture (ISA)
+ISA Enhancement: Actively contribute to defining ISA updates, driven by client requirements and technical insights
+Kernel Specifications: Translate client requirements into software kernels, supporting our cryptographic software team
+Kernel Development & Audits: Work closely with kernel engineers to establish and audit specifications, ensuring alignment with client demands and industry standards
+Compiler Development: Assist in compiler automation to streamline benchmarks and improve the efficiency of cryptographic processes
+Industry Expertise: Stay updated on advancements in cryptography, particularly zero-knowledge and programmable cryptography systems, as well as cryptographic hardware
+Open-Source Contributions: Maintain active involvement in the cryptographic community through open-source contributions (preferred)
+Conference Participation: Attend and potentially present at relevant cryptographic conferences
+
+
+Experience And Requirements...
+
+Crypto-Nativity: Demonstrated experience in cryptography, ideally with a background in zero-knowledge proofs (ZKP) or related programmable cryptographic systems
+Experience: Previous work in ZK rollups, industry research, or crypto infrastructure projects is highly valued
+Programming: Proficiency in Rust and/or C/C++ for low-level programming. Distributed systems and compiler knowledge is a plus
+Client-Facing Aptitude: Comfortable communicating complex cryptographic concepts to clients and participating in technical discussions during client meetings
+Sales & Business Collaboration: Ability to work closely with business development teams to align cryptographic benchmarks with client needs
+Research Mindset: Although a cryptography research background is preferred, candidates should have practical engineering experience and a strong drive to learn
+Education: BS or MS in Mathematics, Computer Science or related field. Advanced degree preferred.
+
+#################################################
+
+Job Title: Digital Design Verification Consultant
+Job Description: Company E9 is a fast-growing Series A deep tech company (full-stack across silicon, hardware and cloud) that was founded to build towards a future beyond trust with custom chips for advanced cryptography. Incredible cryptographers, engineers, and builders are working tirelessly to bring this vision to life. Our job is to make their work possible at scale and at speed.
+
+We’re a team of 60+ AI hardware and software veterans, cryptographers and cypherpunks. Together, we’re building the first general purpose, high performance computer chip for all cryptography – what we call the Verifiable Processing Unit (VPU). On top of the VPU, we’re developing a full compiler stack and acceleration libraries to ensure the chips are easy to program and use. With $39 million in equity and tens of millions worth in pre-orders, we're enabling real-time, high-performance systems where privacy is the default, not the exception.
+
+About The Job
+
+As a Design Verification Engineer, you will be an integral part of our mission to deliver cutting-edge cryptography processors. You will work alongside a team of highly skilled professionals who are committed to pushing the boundaries of hardware innovation. Your role will involve ensuring that our cryptographic processor designs meet the highest standards of functionality, performance, and reliability.
+
+What you'll be doing...
+
+Work on verification of a proprietary cryptographic processor and SoC
+Contribute to the architecture and methodology of our DV environment and team from scratch
+Develop and execute verification plans and testbenches to validate the functionality of our products 
+Write and maintain directed and constrained random tests to ensure that the verification environment is up-to-date and effective
+Work cross functionally to integrate the verification environment into the overall design flow. 
+Own and develop formal and UVM verification methods to ensure the completeness and consistency of the design. 
+Provide technical guidance to other team members with the latest verification best practices and techniques. 
+
+
+Qualifications And Experience Requirements...
+
+BS, MS, PhD in Electrical Engineering, Computer Science, or a related field. 
+10+ years of strong experience with design verification
+Integration of third-party IP into an SoC
+Experience with an SoC through tapeout and post-silicon
+Knowledge of CDC, XProp,and DFT
+UVM testbench development from scratch, SystemC/C++ experience a plus
+Python knowledge and scripting/automating DV flows
+Good understanding of digital design, including RTL design, UVM, System Verilog and synthesis. 
+Knowledge of cryptography and data protection is a plus. 
+Excellent written and verbal communication skills, and the ability to work effectively in a team environment.  Ability to work independently, under pressure and in a startup setting
+
+#################################################
+
+

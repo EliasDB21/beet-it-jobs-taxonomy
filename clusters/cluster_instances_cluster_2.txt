@@ -1,0 +1,453 @@
+Cluster 2:
+
+Job Title: Cloud Engineer
+Job Description: Responsibilities
+
+Company I3 is seeking a technical thinker and doer to work as a Cloud Engineer within a highly dynamic and impactful operating environment located in McLean, VA.
+
+Responsibilities Include
+
+ Analyze customer requirements and provide technical expertise on cloud cluster computing techniques and technologies. 
+ Gather customer, user, and product owner requirements working together with application architects and product owners. 
+ Build and design web services in the cloud, along with implementing set-up of geographically redundant services. 
+ Evaluate cloud strategy and program architecture. 
+ Select appropriate cloud services to design and deploy an application based on given requirements. 
+ Create functional design specifications, architectures, and render support with other cloud project deliverables. 
+ Develop and maintain high visibility cloud-based IT systems. 
+ Deploy, manage, operate, and debug cloud initiatives as needed in accordance with best practices throughout the development lifecycle. 
+ Identify, analyze, and resolve infrastructure vulnerabilities and application deployment issues. 
+ Provide support for development in or transition to the cloud, implementation, troubleshooting, and maintenance of IT systems. 
+ Manage cloud/system infrastructure and any process related to these systems. 
+ Provide support to IT systems including day-to-day operations, monitoring, and problem resolution for all of the client problems. 
+ Offer recommendations with respect to cloud migrations and prepare technical implementation roadmaps for cloud adoption. 
+ Create and configure virtual private clouds (VPCs). Create EC2 instances, public and private subnets, users and groups in cloud environment, and auto scaling groups. 
+ Configure load balancers and security groups. 
+ Evaluate systems and make recommendations to increase availability and efficiency. 
+ Code within cloud environments. 
+
+Required Qualifications
+
+ Active TS/SCI with Polygraph security clearance. 
+ Demonstrated experience working with IC Agencies, and knowledge of IC systems, processes, data, and policies. 
+ Demonstrated experience with cloud design, development, and associated practices to implement/transition applications into enterprise architectures. 
+ One of the following professional certifications:
+ Professional Cloud Solutions Architect (PCSA) 
+ Company K3 Solutions Architect (Professional) 
+Skill Levels
+
+ Subject Matter Expert (SME): Bachelor's degree in related field with 10 years of relevant experience OR Master's degree in related field with 8 years of relevant experience OR PhD with 6 years of relevant experience.
+
+ Expert: Bachelor's degree in related field with 8 years of relevant experience OR Master's degree in related field with 6 years of relevant experience OR PhD and 4 years of relevant experience.
+ 
+ Senior: Bachelor's degree in related field with 5 years of relevant experience OR Master's degree in related field with 3 years of relevant experience OR PhD and 1 year of relevant experience.
+
+ Full Performance: Bachelor's degree in related field with 3 years of relevant experience OR Master's degree in related field with 1 year of relevant experience.
+
+Desired Qualifications
+
+ One of the following Company K3 Certifications is highly desired:
+ Company K3 Certified Cloud Practitioner 
+ Company K3 Certified SysOps Administrator (Associate) 
+ Company K3 Certified DevOps Engineer (Professional) 
+ Company K3 Certified Big Data (Specialty) 
+ Experience with one of the large cloud-computing infrastructure solutions, similar to Company K3 or Elastic MapReduce. 
+ Experience supporting highly distributed applications. 
+ Experience mentoring or training (through formal or informal means) members of a team. 
+ Experience utilizing Agile development methodologies and application lifecycle management. 
+ Experience working with programming languages such as Java, C++, JSON, PHP, Perl, Python, Ruby, Pig/Hive, or Elixir. 
+
+#################################################
+
+Job Title: Principal Software Engineer - Kubernetes
+Job Description: Company B1 Azure Edge + Platform (E+P) is a globally distributed team of engineers, architects, program managers, product managers, business program managers, business administrators, user experience researchers and designers who are responsible for the platform for Company B1 and for delivering Company B1’s edge vision. We create the most reliable and trustworthy OS and platform services to empower Company B1 and our customers to achieve more. We unlock the next wave of opportunity at the edge through an at-scale ecosystem driving widespread adoption of our Company B1 cloud services.
+
+Join us. Make an impact. We are the Sky team and have the mandate and opportunity to:
+
+Empower Company B1 Cloud teams and their customers to easily deliver high-quality services using standard cloud architecture and infrastructure.
+
+We understand that driving meaningful impact means empowering and enabling our customers to achieve more. Driven by customer needs, we are fueling investments in standardized cloud architecture and infrastructure to build a solid foundation that gives customers an excellent experience with our products. Our portfolio includes projects that span the entirety of Company B1’s cloud ecosystem. You will partner on projects across different areas like containerization, security, large-scale distributed systems, reliability, distributed computing, observability, etc.
+
+Sky is a talented, diverse, and supportive organization that celebrates development and learning. We pride ourselves on embracing a growth mindset to pursue technical excellence. We value collaboration and craftsmanship to drive results that move the needle for our customers. We engineer elegant solutions to complex problems. We encourage an informal and flexible work environment, and you are welcome to work from home, or in our offices - wherever you can do your best work.
+
+Responsibilities
+
+As a Kubernetes focused Principal Software Engineer on the Sky team, you will have the incredible opportunity to work on business-critical initiatives that directly contribute to the future of Company B1’s business. You must be deeply technical, collaborative, and experienced with Kubernetes, and able to ramp up in new areas quickly since your responsibilities will span all areas of Azure’s business as well as all layers of the cloud technology stack.
+
+In this role you will leverage your Kubernetes expertise to lead the design and implementation of solutions that deliver reliability, security and compliance fundamentals to Company B1’s internal cloud native services. This will require working with stakeholders across the company to define the long and short-term product strategy in collaboration with upstream and downstream dependent Program Management and Engineering teams. You will also be a key component of fostering our engineering culture for standardized solutions with a quality focus.
+
+Qualifications
+
+Required Qualifications:
+
+Bachelor's Degree in Computer Science, Information Technology, or related field AND 4+ years technical experience in software engineering, network engineering, service engineering, or systems engineering
+OR equivalent experience. 
+4+ years of experience in software development coding an object-oriented, strongly typed programming language such as C#, C++, or Go. 
+4+ years of experience with Cloud Native technologies including containers, Go, and Kubernetes 
+Ability to participate in a period, global 24x7 on-call rotation. 
+
+Other Requirements
+Background Check: Ability to meet Company B1, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:
+Company B1 Cloud Background Check: This position will be required to pass the Company B1 Cloud background check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+
+Experience operating a large-scale Kubernetes environment (10’s of clusters) which hosts multiple applications. 
+Knowledge of Kubernetes networking configurations and security best practices. 
+Awareness of, and ability to reason about, modern software & systems architectures, including load-balancing, queueing, caching, distributed systems failure modes, and microservices. 
+Strong understanding of computer science, including data structures and algorithms 
+Experience designing, building, and troubleshooting complex software systems.
+Demonstrable ability to own and deliver software projects, particularly through technical leadership of other engineers. 
+Willingness and ability to respectfully challenge the status quo, using negotiation and collaboration to influence others across organizational silos.
+
+#################################################
+
+Job Title: Cloud FinOps Specialist
+Job Description: We are searching for a Cloud FinOps Specialist to support our product development and customer experience teams. This role will require the specialist to combine analytical skills with an understanding of IT operations practices to ensure that these applications collect and present the information that the team and cloud users need to make the most out of the cloud.
+
+
+
+Responsibilities:
+
+Work closely with the client who manages all of the financial and billing-related aspects of the Initiative.
+Become an expert in the processes and serve as a deputy to the client, support development and review of reporting, while coordinating with project staff to ensure customer inquiries are addressed and cloud usage is optimized.
+Qualifications:
+
+4 years of experience on a team delivering complex IT projects in operations, support, client services, or customer relations
+FinOps certified practitioner or professional with experience using cloud FinOps tools for analysis
+Excellent written and verbal communication skills
+Bachelor’s degree or equivalent experience
+Ability to obtain a Public Trust determination
+Nice to Haves:
+
+Experience with and understanding of cloud services usage and pricing; Company K3, GCP, and/or Azure
+Ability to bridge finance and technology
+Experience in information technology, as a business/data analyst and in supporting dashboards and reporting
+Experience with analyzing spend trends, forecasting, opportunities for savings, and offer advisory services with specific improvement recommendations for cloud services
+Work with distributed teams and influence strategy, tactics, and execution of cloud usage.
+Strong understanding of cloud requirements, ability to partner cross-organizationally and drive cost optimization discussions.
+What Company L3 Can Offer You:
+
+Competitive benefits including Health Insurance, 401K w/ match, Paid Time Off and more.
+Results driven culture that embrace our core values
+Rewarding work contributing to our Nation’s mission critical programs
+
+#################################################
+
+Job Title: Principal Cloud Engineer
+Job Description: The Infrastructure Engineering team’s mission is to provide the cloud native infrastructure, automation and tools that enable teams across Company M3 to deliver products in a safe, secure and agile manner, with minimal operational dependencies.
+
+As a Principal Cloud Engineer, you will be responsible for platform architecture and providing the automation and implementation for landing zones as well as network and security infrastructure for new Company K3 regions. You are passionate about the cloud, Software Defined Networks, highly available, scalable and secure systems infrastructure.
+
+About this roll* (Responsibilities) 
+
+Reports to the Manager of Cloud and Network Infrastructure Engineering focusing on software defined networks, cloud landing zones, VPC buildouts, cloud security, application and network firewalls, as well as ingress and egress control. 
+Focus on design and implementation of software defined networks, cloud landing zones and VPCs, cloud security, application and network firewalls, as well as ingress and egress control for security and PCI compliant networks. 
+Is a technical leader and cloud architect (platform engineering)
+Collaborates with product with an internal customer self service mindset 
+Collaborates closely with other platform engineering teams
+
+Do you have the right ingredients*? (Requirements)
+
+Experience designing, building and operating large scale automated cloud services in multiple zones and regions in Company K3 or other public clouds
+Hands-on experience with IaC (Terraform, Cloudformation), platform control planes (Kubernetes API and Operators)
+Hands-on experience building internal and edge network infrastructure in cloud environments, at Layer 3, 4 and 7, DNS, BGP, TGW, VPC Peering, ALB, VPN etc…
+Hands-on experience building and managing systems with Container Orchestration platforms like ECS or Kubernetes, as well as service mesh (Istio, Envoy, etc…)
+Hands-on experience with edge/CDN networking products (Cloudflare, Cloudfront, Fastly, etc…)
+Deep experience with cloud native systems infrastructure, applications and micro service architecture
+The ability to influence and lead teams executing and making technical decisions within a larger organization
+Collaborate with the Chief Architect and Software Systems Architects
+A strong sense of empathy for internal engineering teams and teammates
+Bonus - software and tool development with Go
+15+ years of experience developing and operating distributed systems
+10+ years of experience implementing and architecting in Company K3 Cloud
+
+#################################################
+
+Job Title: Senior Cloud Engineer
+Job Description: We are looking for a Staff Cloud Engineer who wants to join us in a fast paced setting to build next generation cloud and applications that leverage all the latest capabilities of Company K3, Kafka, DevOps, cloud native, containers, AI and ML. Our tech stack is built for high scale with ability to connect many devices and services while being able to process tens of millions events a day. As a member of the team you will play an integral role in shaping the architecture and features required to enhance our cloud platform.
+
+
+
+Responsibilities
+
+Design and implement highly available, scalable, and secure cloud services
+Participate in code reviews and other technical discussions to maintain high-quality code and infrastructure
+Work with cloud developers, product managers and designers to guide and make technical decisions throughout the development process
+Mentor other developers and contractors throughout the development lifecycle
+Prototype unproven concepts to inform final implementations
+Stay on top of cloud trends and topics
+Automate everything possible; leverage CI/CD to automate repeatable tasks and quality checks
+Manage and support engineering teams' software release processes
+Build the tools, processes, and support for teams to be able to self-manage in an owner-operator model
+Manage Infrastructure as Code
+
+
+Skills And Expertise
+
+BS/MS in Computer Science or equivalent practical experience
+5+ years experience in a high level programming language (TypeScript, Python, Go, etc.)
+Deep knowledge of building and managing web services using REST
+Strong problem-solving skills and ability to work independently
+Passionate for continuous learning and understanding things in and around cloud development
+Experience leading teams or projects
+Experience with databases such as PostgreSQL and DynamoDB
+Experience building event driven architectures using Kafka
+Experience with high availability deployment across multiple regions and availability zones
+Experience with observability tools such as DataDog, SumoLogic, and/or CloudWatch
+Deep experience with Git
+Ability to operate in a fast-paced, deadline-driven, collaborative, and iterative development environment
+Ability to lead and define cloud initiatives with other engineers
+Experience working with a highly reactive platform
+Experience with establishing, promoting, and ensuring best practices in Cloud code bases including common architectures and standardized unit/integration testing
+Experience building reusable libraries, SDKs, and shared components used by many applications
+
+
+Bonus
+
+Previous startup experience
+Experience with Infrastructure as Code using Terraform or CloudFormation
+Experience with Kubernetes
+Experience with AI, ML, or AR
+Experience working with multiple Company K3 accounts
+Experience with Docker container development and hosting
+Experience with growing large teams and understanding the issues that arise with growth
+Experience with Serverless architectures
+
+#################################################
+
+Job Title: Senior Cloud Native Software Engineer – Energy Product Incubator
+Job Description: About The Job
+
+We’re looking for an experienced senior cloud native software engineer for our engineering incubator team. You’ll be part of a team of experienced engineers who are building a next-generation platform for the energy industry with a heavy focus on massive data volume processing.
+
+Our new platform is built directly on Company A1 Cloud Infrastructure (OCI) based on cloud native principles. We build to scale globally, leveraging state-of-the-art tooling, with zero downtime. As a senior software engineer, you’ll be responsible for building world-class software, leveraging automation whenever possible, mixed with many opportunities to contribute to the definition of early stage products.
+
+Career Level - IC4
+
+Responsibilities
+
+What You’ll Make Happen
+
+You are the builder here. You’ll create software that’s used by the world’s largest utilities as well as other innovative companies in the energy space.
+You’ll be part of a product development team for new energy products. You’ll be surrounded by a team of smart, motivated, and diverse people and given the autonomy and support to do your best work. It is a dynamic and flexible workplace where you’ll belong and be encouraged.
+You’ll contribute to ideas for how to architect our platform for scale.
+You’ll be able to apply your expertise and passion in solving difficult problems in highly available distributed systems. If this is you, at Company A1 you can help, shape, design and build innovative new systems from the ground up.
+
+
+About You
+
+3+ years of hands-on experience developing services on a public cloud platform (e.g., Company K3, Azure, Company A1 Cloud, Company T2 Cloud)
+2+ years of experience building and delivering large scale, highly available distributed systems. This should include some experience with multi-tenant infrastructure.
+Deep experience developing with Java. Experience with multiple languages is preferred.
+Deep experience with continuous deployment tools.
+Experience with Kubernetes or other container orchestration technology is a plus.
+You have a strong knowledge of data structures, algorithms, operating systems, and distributed systems fundamentals.
+You’ve built rich tools and web apps for use by your team and other internal customers. You’ve made life easier for other developers and have motivated your teams to make both process and service improvements with your ability to automate and instrument properly to get the right data.
+You are comfortable working at all levels of the technical stack.
+You work backwards from the why. You care about creating reliable software that solves real problems.
+You value simplicity and scale, work comfortably in a collaborative, agile environment, and be excited to learn. You understand that simple systems are easier to operate and fix.
+You work well with everyone. You can lead a conversation in a room with engineers, managers and customers.
+You are comfortable with ambiguity. You have a strong sense of ownership, and are able to drive projects to completion.
+
+
+#################################################
+
+Job Title: Cloud Platform Engineer (GCP)
+Job Description: Do you want to be at the forefront of Company N3's emerging cloud practice working on mission critical work for manager government entities? We're looking for exceptional problem-solvers to help address our clients' most compelling Cloud needs within the public sector. You will work along-side top engineers and technical thought leaders building Cloud solutions helping shape the future of global enterprises. You will be at the heart of the technical solutioning and leading-edge product development.
+
+ Work you'll do: 
+
+The Platform Engineer (GCP) is responsible for working alongside a highly technical team of cloud engineers to drive the implementation, and management of cloud-based solutions for multiple environments. This role involves working on cloud infrastructure, ensuring security and compliance, and optimizing cloud performance across platforms. Some other technical skills needed to perform the job include experience with cloud infrastructure design and deployment, automation and CI/CD, monitoring and optimization, and incident management and troubleshooting.
+
+Qualifications
+
+ Required: 
+
+ Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future. 
+ Ability to obtain and maintain and Public Trust. 
+ Bachelor's degree in a related field. 
+ 5+ years' experience with platform engineering using GCP. 
+ 5+years' experience working within multi cloud environments. 
+ Proficiency in GCP services (e.g., Compute Engine, Cloud Storage, BigQuery, GKE) and Company K3 services (e.g., EC2, S3, Lambda, RDS) 
+ This is a primarily remote position with the ability to travel 0-20% on average, based on the work you do and the clients and industries/sectors you serve . 
+
+#################################################
+
+Job Title: Principal Software Engineer/Architect
+Job Description: As a Principal Software Engineer/Architect on the Cloud Platform team, you will get to demonstrate leadership at both the business and technology level. You will get to consistently extend your knowledge of cloud compute, hypervisors, desktop virtualization, streaming technologies, and other technical areas including cloud-based management suites. You will be part of a team designing new platform capabilities involving virtualized compute, storage, networking, GPUs, and streaming protocols (such as RDP) for our core products to enhance the value to our customer base. You will also be a part of an agile team working with experienced engineers and product managers that behave more like a technology startup.
+
+Company B1’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+Lead the technical direction and vision for the architecture, design, and the implementation of cloud platform that scales to provision, manage, and monitor health of millions of cloud-based virtual devices.
+Mentor and grow a team of talented, diverse software engineers.
+Work across organizations, collaborating with internal partner teams such as Azure Compute, Core OS, Company B1 Security and Identity team, and others.
+Provide strong leadership for the architecture of secure, distributed, scalable, and resilient micro-services using modern technologies.
+Raise the technical bar, maintain a data and results driven culture, and nurture a high-performance team to build world-class experiences for W365 and AVD end users, ITPros, partners, and operations teams. 
+
+Qualifications
+
+Required Qualifications
+
+Bachelor's Degree in Computer Science or related technical field AND 8+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience.
+8+ years of experience as a software engineer/leader designing, implementing, and shipping cloud services or software products.
+8+ years of experience designing and building Virtual Desktop Infrastructure (VDI) technologies.
+5+ years of experience driving and managing technical and architectural dependencies and with distributed systems delivering large-scale, secure, and resilient cloud services.
+Preferred Qualifications
+
+Exceptional software development design, debugging and troubleshooting and problem-solving skills.
+Ability to generate clarity in ambiguous situations. 
+Experience with Devops models and agile methodologies.
+Experience with the Company B1 Azure or similar cloud platforms.
+
+
+
+#################################################
+
+Job Title: Customer Engineer III
+Job Description: Minimum qualifications:
+
+Bachelor's degree or equivalent practical experience.
+10 years of experience as a technical sales engineer in a cloud computing environment or a customer-facing role.
+Experience engaging with, and presenting to, technical stakeholders and executive leaders.
+
+Preferred qualifications:
+
+Master's degree in Computer Science or a related technical field.
+Experience with developing scalable architectures using API management, microservice frameworks, PaaS, container orchestration systems, or other applicable platforms.
+Experience with State Local Public Sector clients including state, county, local municipal agencies, and academic institutions.
+Knowledge of application security patterns including web application security, service mesh, and mobile security strategies.
+Ability to learn, understand, and work with emerging technologies, methodologies, and solutions in the Company T2 Cloud/IT technology space.
+
+About The Job
+
+When leading companies choose Company T2 Cloud, it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Company T2 Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You listen and deliver what is most helpful for the customer. You assist fellow sales Company T2rs by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Company T2 Cloud products.
+
+As a Customer Engineer, you will partner with technical Sales teams to differentiate Company T2 Cloud to our customers. You will help prospective and existing customers and partners understand the power of Company T2 Cloud, develop creative cloud solutions and architectures to solve their business issues, engage in proofs of concepts, and troubleshoot any technical questions and roadblocks. You will use your expertise and presentation skills to engage with customers to understand their business and technical requirements, and present practical and useful solutions on Company T2 Cloud.
+
+Company T2 Public Sector brings the magic of Company T2 to the mission of government and education with solutions purpose-built for enterprises. We focus on helping United States public sector institutions accelerate their digital transformations, and we continue to make significant investments and grow our team to meet the complex needs of local, state and federal government and educational institutions.
+
+The US base salary range for this full-time position is $142,000-$214,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Company T2 .
+
+Responsibilities
+
+ Work with the team to identify and qualify business opportunities, understand key customer technical objections, and develop the strategy to resolve technical blockers. 
+Lead technical projects, technology advocacy, support bid responses, product and solution briefings, proof-of-concept work, and the coordination of supporting technical resources.
+Deliver product messaging for the Company T2 Cloud Platform by using whiteboard and slide presentations, product demonstrations, white papers, trial management, and Request for Information (RFI) response documents.
+Drive recommendations on integration strategies, enterprise architectures, platforms, and application infrastructure to implement a complete solution providing best practice advice to customers to optimize Company T2 Cloud platform effectiveness.
+
+#################################################
+
+Job Title: Senior Manager, Software Engineering - Full Stack
+Job Description: WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Company J7, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs.  We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Company J7 Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Company J7. 
+
+What You’ll Do: 
+
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that  help meet regulatory needs for the company
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of Company K3 tools and services
+
+Basic Qualifications: 
+
+Intermediate-Advanced English fluency
+
+Bachelor’s Degree
+
+At least 8 years of experience in software engineering (Internship experience does not apply)
+
+At least 1 year of experience with cloud computing (Company K3, Company B1 Azure, Company T2 Cloud)
+
+At least 4 years of people management experience
+
+Preferred Qualifications: 
+
+Master’s Degree
+
+At least 9 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+
+At least 3 years of experience with Company K3, GCP, Company B1 Azure, or another cloud service
+
+At least 4 years of experience in open source frameworks
+
+At least 7 years of people management experience
+
+At least 2 years of experience in Agile practices
+
+Company J7 will only consider candidates that are Mexico citizens or permanent residents.
+
+At Company J7, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws. 
+For technical support or questions about Company J7's recruiting process, please send an email to Careers@capitalone.com
+
+Company J7 does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Company J7 Financial is made up of several different entities. Please note that any position posted in Canada is for Company J7 Canada, any position posted in the United Kingdom is for Company J7 Europe, any position posted in the Philippines is for Company J7 Service Corp (COPSSC), and any position posted in Mexico is for Company J7 Technology Labs Mexico.
+
+#################################################
+
+Job Title: Lead Software Engineer, DevOps
+Job Description: Overview
+WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Lead Software Engineer, DevOps
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Company J7, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking DevOps Engineers who are passionate about marrying data with emerging technologies to join our team. As a DevOps Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Company J7.
+
+What You’ll Do:
+
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in machine learning, distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like Java, Python, SQL, Ruby and Go, Container Orchestration services including Docker and Kubernetes, CM tools including Ansible and Terraform, and a variety of Company K3 tools and services 
+
+Basic Qualifications:
+
+Intermediate-Advanced English fluency
+
+Bachelor’s degree
+
+At least 6 years of experience in DevOps Engineering (Internship experience does not apply)
+
+At least 3 years of experience in Cloud Native technologies (Company S2 Web Services, Company B1 Azure, Company T2 Cloud Platform)
+
+At least 4 years of Unix or Linux system administration experience
+
+
+Preferred Qualifications:
+
+7+ years of DevOps Engineering experience
+
+4+ experience with coding and scripting (Python, SQL, Java, JavaScript, Golang, Bash, Perl or Ruby) 
+
+4+ Experience with technologies Apache Mesos, Marathon, or Apache Spark
+
+4+ Experience using build and deployment tools (Jenkins, Docker)
+
+2+ Experience with distributed database systems (Cassandra, ElasticSearch)
+
+2+ Experience with deploying clustered web services
+
+2+ years experience working within Agile Development Practices 
+
+
+Company J7 will only consider candidates that are Mexico citizens or permanent residents.
+
+At Company J7, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws. 
+For technical support or questions about Company J7's recruiting process, please send an email to Careers@capitalone.com
+
+Company J7 does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Company J7 Financial is made up of several different entities. Please note that any position posted in Canada is for Company J7 Canada, any position posted in the United Kingdom is for Company J7 Europe, any position posted in the Philippines is for Company J7 Service Corp (COPSSC), and any position posted in Mexico is for Company J7 Technology Labs Mexico.
+
+#################################################
+
+

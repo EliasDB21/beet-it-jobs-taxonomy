@@ -1,0 +1,164 @@
+Cluster 13:
+
+Job Title: Senior Quantitative Researcher / Developer
+Job Description: Job Description
+
+Company P6 is seeking a Senior Quantitative Developer to join our PM-Analytics, Portfolio Engineering and Implementation team to focus on enhancing and integrating systematic signals and portfolio construction into our investment processes. In this role, you will partner with Quant Researchers, Portfolio Managers and Analysts in developing and implementing systematic signals and investment strategies. Your job will involve data analysis, understanding inputs to signals, developing systems to deploy strategies for alpha generation and performing analysis to support the strategy/model implementation process across multiple asset classes. As a Quant Developer in our Newport Beach office, you will interact directly with our PMs and Quants. Our ideal candidate will be enthusiastic about quantitative methods in the financial industry, technology and making a direct business impact.
+
+Responsibilities
+
+Work closely with Quants and PMs to implement, deploy and support portfolio construction engines and strategy deployment.
+Fully understand the Company P6 Common Model Execution Framework and Optimization Engine and contribute to their support and future evolution.
+Provide timely and proactive support to end users.
+Troubleshoot data and/or software issues and be able to rapidly implement fixes.
+Work with Data Teams to onboard required data on Company P6’s core data services platform.
+Actively participate in design and review sessions with stakeholders, project managers, and developers.
+Work collaboratively with technologists, traders and other researchers to build robust systematic trading software solutions.
+
+Requirements
+
+Quantitative Master’s degree (financial engineering or other technically demanding program such as theoretical physics or mathematics).
+7+ years of hands-on experience with Python and relational databases.
+Proficiency in any modern SQL based relational databases.
+5+ years of Object-Oriented Programming with hands on experience in Java (or C#/C++) is a plus.
+Solid understanding of probability and statistics (e.g. machine-learning, time-series analysis, pattern recognition, NLP).
+Experience using quantitative techniques in solving highly complex data intensive problems.
+Financial products knowledge, specifically fixed income, is strongly preferred.
+Able to work independently, handle multiple tasks and thrive in a collaborative and fast-paced team environment. Prior team management experience with the ability to mentor and coach is preferred.
+Exceptional analytical skills, with strong attention to detail.
+Excellent communicator - verbal and written.
+
+#################################################
+
+Job Title: Senior Equity Quant Researcher
+Job Description: 
+About The Role
+
+Company Q6 is seeking a Quant Researcher who has a strong understanding of financial markets and will help support our equity portfolio. You will work with other researchers and developers on various research projects including design of predictive signals and the enhancement of our models and algorithms. The ideal candidate will have strong programming skills and demonstrate a passion for diving deep into data analysis, allowing for creative alpha generation driven by in-depth understanding of the data.
+
+Duties And Responsibilities
+
+Identify compelling differentiating factors, design novel predictive signals, back test & validate hypotheses.
+Develop quantitative models to predict market movements and identify trading opportunities.
+Stay updated with the latest academic research and apply relevant findings to enhance models.
+Analyze large datasets to extract insights and inform decision-making processes.
+Collaborate with other team members to improve existing research and trading infrastructure, as well as adding new data analysis and research tools.
+Take a proactive approach to problem-solving, demonstrating a high level of motivation and initiative in the pursuit of innovative investing strategies.
+Stay informed about market trends, emerging technologies, and advancements in quantitative finance.
+
+Experience
+
+Bachelors, Masters or Ph.D. in Computer Science, Statistics, Mathematics, Economics, Physics, or related fields. Advanced degree preferred. 
+Advanced training in Statistics, Mathematics, Finance/Financial Engineering or a related field
+Strong familiarity with high-capacity research methodologies in cash equities
+Proven experience in quantitative analysis, data interpretation, and statistical modeling.
+Strong knowledge of financial markets and instruments
+Strong programming skills in Python
+Strong analytical and problem-solving skills with the ability to derive insights from complex data sets.
+Excellent communication skills with the ability to present complex ideas and findings in a clear and concise manner
+Strong collaborative and teamwork abilities to work effectively with cross-functional teams.
+
+#################################################
+
+Job Title: Quantitative Research Engineer
+Job Description: Are you ready to join a cutting-edge quantitative trading firm? We are currently working with a leading systematic hedge fund looking to grow its Research Engineering team in NYC. Founded by a household name in the industry, the fund has a reputation for innovation and a collaborative methodology. This Research Engineer roles offer the opportunity to work closely with the fund’s Quant Researchers, playing a meaningful role in the fund’s revenue generation.
+
+
+
+Role Overview:
+
+Collaboration and Innovation: Engage with senior researchers to explore novel ideas, conduct extensive experiments, and develop scientific libraries that disseminate transformative findings.
+Development and Implementation: Build essential tools and engines that operationalize sophisticated platforms and models into active trading scenarios.
+Ownership and Growth: Gradually assume responsibility for research projects, from ideation through to execution, demonstrating your ability to lead and innovate.
+
+
+Technical Skills Required:
+
+Expertise in Python and C++
+Familiarity with tackling large-scale parallel computational issues
+Numeracy skills relevant to software development for research applications
+Experience in quantitative trading environments is advantageous
+A commitment to iterative development and clean coding practices
+
+
+Candidate Profile:
+
+Action-oriented with a strong initiative
+Driven by responsibility and urgency
+Independent in seeking optimal solutions
+Prefers a collaborative team setting focused on achieving research goals
+Thrives in ambitious and dynamic environments
+
+
+This opportunity is an ideal next step for a talented Research Engineer or Quantitative Developer who is looking to develop a more complete understanding of the investment decision-making process in a truly collaborative environment.
+
+#################################################
+
+Job Title: Algorithm Developer
+Job Description: Our client is a world-leading hedge fund, seeking a highly skilled and innovative C# Software Engineer with a strong focus on algorithmic trading systems and electronic market-making. The ideal candidate is passionate about developing high-performance algorithms and is comfortable working in a fast-paced, collaborative environment, applying their expertise to solve complex financial challenges.
+
+In this role, you will develop and optimize real-time algorithms for market-making and trading systems. You will be responsible for designing and implementing new functionalities, managing risk, and analyzing both pre- and post-production data. Additionally, you will create and automate test cases to ensure seamless integration and performance, while providing ongoing support for production systems.
+
+
+
+Key Responsibilities:
+
+Develop real-time algorithms for electronic market-making of financial instruments.
+Design and implement features for risk management and strategy communication.
+Monitor and support production market-making systems.
+Conduct data analysis for pre/post-production strategy evaluation.
+Create and integrate automated test cases to validate system components.
+Requirements:
+
+A minimum of 5 years of experience in C# software development with strong object-oriented programming skills.
+Expertise in UI development (WPF/MAUI) and concurrency programming.
+Proficiency in software design and architecture.
+Experience with both Linux and Windows environments.
+Knowledge of scripting languages (Bash, Python, PowerShell).
+Ability to multi-task in a fast-paced environment with a keen attention to detail
+
+#################################################
+
+Job Title: Algorithmic Trader
+Job Description: About the Opportunity:
+
+I’m currently working with an innovative financial services company that is looking to expand its trading team in New York. This is a fantastic opportunity for an Algorithmic Trader to join a forward-thinking organization that values expertise, creativity, and results.
+
+This role offers the chance to work on high-impact projects, collaborating with a team of talented individuals passionate about technology and trading. If you’re ready to take your career to the next level, this could be the perfect move for you!
+
+
+
+Key Responsibilities:
+
+Develop and implement algorithmic trading strategies to capitalize on market opportunities.
+Analyze historical and real-time market data to enhance strategy performance.
+Collaborate with software developers and data scientists to improve trading infrastructure.
+Optimize and monitor live trading algorithms to ensure consistent profitability.
+Stay ahead of market trends, industry regulations, and emerging technologies.
+
+
+Ideal Candidate Profile:
+
+Education: Degree in a quantitative field such as Computer Science, Mathematics, Finance, or Engineering.
+Technical Expertise:
+Proficiency in Python, C++, or Java.
+Experience with algorithmic trading platforms and statistical modeling.
+Strong knowledge of market microstructure and financial instruments.
+Experience:
+Proven success in developing and executing trading strategies.
+Understanding of risk management practices in trading.
+Soft Skills:
+Strong analytical and problem-solving capabilities.
+Ability to thrive in a fast-paced, results-driven environment.
+
+
+Why This Role?
+
+Competitive compensation package, including performance bonuses.
+Work in a collaborative and innovative team environment.
+Access to cutting-edge technology and tools.
+Opportunity to make a significant impact in a fast-evolving industry.
+
+#################################################
+
+

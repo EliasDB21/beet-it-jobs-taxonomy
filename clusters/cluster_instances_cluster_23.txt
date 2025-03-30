@@ -1,0 +1,237 @@
+Cluster 23:
+
+Job Title: Consulting Project Technical Manager 
+Job Description: Job Description
+
+Project Management 
+Direct engagement with business & IT stakeholders in customers & experience in handling project deliveries (preferred with preference to Company A1 Technologies)
+Good understanding across technologies covering BSS/OSS domain in communication specially Charging & Billing, OSM and UIM 
+Good track record in delivering high quality project in time, Revenue Management and Cost racking
+Candidate must have in-depth experience of using standard project management methodologies (PMP, Prince2)
+and software engineering methodologies complying with international quality standards .
+Candidate must have experience of handling complex engagements with strong skills in contract/scope management.
+Strong communication skills to deal with internal stakeholders, customers, and partners
+Detailed understanding and solid experience of package integration, customization and implementation projects.
+Able to enable new channels of engagement with vendors and telecom service providers for data modelling and able to define inventory & discovery reconciliation models.
+Understand process flows, automation requirements to enable Order Management for Network Build through OSM/UIM and Charging & Billing.
+Active role in Scoping, planning and estimation for deliverables during pre-sales as well as during project deliveries.
+Meet regularly with project stakeholders and define project goals and objectives as well as lead budget and resource allocation through all project phases.
+Able to defend solution, estimations, timelines, deliverables with the customer, negotiate and able to present across CxO level.
+Oversee day-to-day technical operations, including assignments and personnel review.
+Exposure to cloud native technologies is desirable. 
+Having PM accreditation is added advantage.
+Able to manage delivery resources in onsite and remote locations.
+Able to work with multiple vendor environment to meet the common project milestone.
+Must speaking native Japanese, and able to translate project documentation in English and Japanese.
+Able to support and drive Business opportunities such as CRs, RFP, etc.
+Able to utilize the project management tools such as MS Project, Jira and confluence
+Understanding of at least one project delivery methodology 
+
+
+Career Level - IC4
+
+Responsibilities
+
+ RESPONSIBILITIES 
+
+Project Management 
+Direct engagement with business & IT stakeholders in customers & experience in handling project deliveries (preferred with preference to Company A1 Technologies)
+Good understanding across technologies covering BSS/OSS domain specially Charging & Billing, OSM and UIM 
+Enable new channels of engagement with vendors and telecom service providers for data modelling and able to define inventory & discovery reconciliation models.
+Understand process flows, automation requirements to enable Order Management for Network Build through OSM/UIM and Charging & Billing.
+Active role in Scoping, planning and estimation for deliverables during pre-sales as well as during project deliveries.
+Meet regularly with project stakeholders and define project goals and objectives as well as lead budget and resource allocation through all project phases.
+Defend solution, estimations, timelines, deliverables with the customer, negotiate and able to present across CxO level.
+Oversee day-to-day technical operations, including assignments and personnel review.
+Exposure to cloud native technologies is desirable. 
+Work Breakdown Structure for the delivery milestone
+Prepare and present the project status reports for various project stakeholders.
+Project Risk Management Plan, Manage risks and escalated issues from project teams
+Utilize standard project management tools to execute the project delivery
+Participate and ensure offshore teams participation in the health checks and audits conducted by Quality Management Group and ensure that resulting actions are properly addressed
+Receive and Review the project expense policy, resource ramp-up and ramp-down policy (if as applicable) from the PM with project team and accountable for adherence
+Ensure the timesheets and expenses are submitted timely.
+Ensure that resources on the project enter time in PA by COB Friday.
+Review the project’s PMW and provide the required inputs .
+The following are the key review check points
+Review the scheduled resource hours
+Review the vacation and holiday plans
+Review the Bill Rate, Cost Rate and Levels Job Requirements/Specification
+About Us
+
+As a world leader in cloud solutions, Company A1 uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+#################################################
+
+Job Title: IT Project Manager
+Job Description: General Summary
+
+Provides budget analysis, resource allocation and coordination of project activities that may be across functional areas within the organization. Assigns and monitors work of technical personnel, ensuring that project steps are in alignment with business objectives, on-time and within budget. Monitors reliability and any internal issues that appear as a result of the project. Selects, develops, and evaluates personnel to ensure the efficient operation of the function.
+
+Minimum Qualifications
+
+ 4+ years of Project Management-relevant work experience with a Bachelor's degree.
+
+
+OR
+
+6+ years of Project Management-relevant work experience without a Bachelor’s degree.
+
+Preferred Qualifications
+
+Bachelor's degree in the areas of IT, Information Systems, Engineering, Computer Science, or related field.
+
+7+ years of Project Management-relevant work experience in IT.
+
+3+ years of managing operating budgets and/or project financials.
+
+3+ years of work experience in a role requiring interaction with senior leadership (e.g., Director level and above).
+
+PMO, PMP, or Six Sigma Project Management Certification
+
+Experience working as a Scrum Master in an Agile environment, facilitating Scrum events, and coaching teams in Agile principles and practices.
+
+Knowledge of Agile frameworks and methodologies, such as Scrum, Kanban, and Lean.
+
+Experience with Agile tools, such as Jira, Trello, or similar.
+
+Principal Duties And Responsibilities
+
+ Gathers stakeholder needs and goals with guidance, and executes communication plan for project team and stakeholders.
+ Forms project team, and manages and prioritizes the work of the project team by establishing schedules and task assignments, and tracking tasks of team members.
+ Creates project goals and prioritizes deliverables with guidance from project stakeholders.
+ Manages multiple projects of small to medium size or complexity and applies up-to-date project management knowledge to meet deadlines.
+ Builds and executes project plans for small- to medium-sized projects which include schedule and resource forecasting, stakeholder identification, method and frequency of communication, scope, and prioritization.
+ Identifies project issues and risks, and creates a risk mitigation plan for small- to medium-sized projects.
+ Manages project performance (e.g., on time, on budget, within scope, and with quality) for projects of small to medium size or complexity.
+ Promotes project vision and objectives within project team, and ensures project objectives are met.
+ Supports the compliance of project plans by following best practices and procedures.
+ Promotes collaboration with diverse project stakeholders.
+
+
+Facilitating Scrum events such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
+
+Coaching the Development Team in self-organization and cross-functionality.
+
+Helping the Development Team to create high-value products.
+
+Removing impediments to the Development Team’s progress.
+
+Coaching the Product Owner in effective Product Backlog management.
+
+Ensuring that all Scrum events take place and are positive, productive, and kept within the time-box.
+
+Facilitating effective communication and collaboration between the Development Team, Product Owner, and other stakeholders
+
+Level Of Responsibility
+
+ Working under close supervision.
+ Taking responsibility for own work and making decisions with limited impact; impact of decisions is readily apparent; errors made typically only impact timeline (i.e., require additional time to correct).
+ Using verbal and written communication skills to convey basic, routine factual information about day-to-day activities to others who are fully knowledgeable in the subject area.
+ Completing tasks that require multiple steps that must be performed in a specific order, using directions or manuals that accurately document the steps necessary to perform the tasks.
+ Using deductive problem solving required to solve moderately complex problems; most problems have defined processes of diagnosis/detection; some limited data analysis may be required.
+ Exercising some creativity may be required to troubleshoot technical problems or deal with novel circumstances.
+
+
+#################################################
+
+Job Title: Project Manager
+Job Description: The opportunity 
+
+We are looking for experienced Project Managers to join our Consulting team.
+
+Your Key Responsibilities
+
+As a Project Manager you will play a crucial role in supporting the planning, execution and completion of projects within Company F1. You will work closely with project teams and stakeholders to ensure that projects are delivered on time, within budget and according to quality standards.
+
+Skills And Attributes For Success
+
+Work with clients and project teams to define project requirements, resources, budgets, phases, tasks, schedules, and timelines. 
+Assess projects for risks and proactively identify blocks to success to facilitate collaboration among project and client teams to mitigate these risks. 
+Continuously track project progress in detail and manage its daily progress including updating project plans, timelines, budget reports, client reports, and other project documentation to ensure accuracy and transparency.
+Effectively manage client expectations and provide status updates regular and as needed, responding to client questions and concerns. 
+Have a general understanding of each team’s process, and how to set them up for success, including what different approaches mean in terms of output, pitfalls and success.
+Be empathetic to client needs and diplomatic in solving problems that arise.
+Make decisions based on insights in the context of project goals and deadlines that positively affect the outcomes of projects and relay those insights to the team and clients.
+Facilitate meetings with the internal team and the client that provide clarity around roles, responsibilities, stages and tasks.
+Write and speak clearly and intelligently about complex ideas, systems, frameworks, strategies, and project progression with clients.
+Anticipate the needs of teammates on projects and ensure that they are not blocked from achieving project success, while also holding the team and clients accountable to their commitments for a project.
+Contribute to the overall project management team community of practice by identifying and contributing ways of improving the studios workflow and processes. Ensure that best practices are maintained. 
+Make projects successful with both teammates and clients through a collaborative approach.
+
+To qualify for the role, you must have
+
+Minimum 4 - 10 years relevant project management experience project management and/or project support experience.
+Experience working with project management tools (SmartSheet, JIRA, Company W4, Asana, etc).
+Experience in working independently or as part of a large team to deliver projects.
+Working knowledge of Project Management Processes, Agile Methodologies, project and product management.
+Excellent interpersonal, written, verbal, communication, and presentation skills.
+
+Ideally, you’ll also have
+
+Industry-standard certifications in Project Management (CAPM, PMP, SMC, etc.)
+Experience in managing international projects and working in multicultural environments. 
+Full English Proficiency.
+
+#################################################
+
+Job Title: Senior Associate - AI & Data Agile Project Manager
+Job Description: Role Overview
+
+The AI and Data Agile project manager is responsible for supporting AI & D project teams by effectively leading them from ideation to production implementation and business success. Engages cross-functionally, applies Agile principles, and uses the agile scrum framework to organize, define, measure, and accelerate work. Aids the team in eliminating, reducing, or avoiding challenges that impede progress. AI Agile project manager is part of the AI & DPMO and works closely with the value stream technology teams, business stakeholders, product owners, Ai product team, data science team, governance team, machine learning operations team and other technology teams.
+
+What You'll Do
+
+Lead multiple strategic initiatives within the AI & D team to deliver high quality and exceptional business value to our customers.
+
+Champion and drive the Agile mindset, helping the team embrace core values, principles, and agile processes/practices. Drive adoption of Agile delivery approaches.
+
+Facilitate project activities; be a voice of reason and authority, while enabling the AI & D team to self-organize and innovate.
+
+Bring visibility to the work, impediments, risks, and other areas of importance. Remove or mitigate team impediments to enable the team to deliver value. Escalates as needed to resolve and achieve commitments from all key stakeholders. Collaborate with cross-functional teams to refine backlog items, plan for sprints and/or iterations, and ensure all deliverables are produced on time and with quality results. Enforce project delivery governance processes. Act as gate keeper to ensure that all project and gating milestones / deliverables meet within the existing PMO framework.
+
+As an Agile project manager, monitor Scrum Team execution against iteration plans. Tracks team burn-down throughout sprint execution and works with the team to maximize efficiency.
+
+Develop and manage the high-level project plan including all interdependencies, project charter, status report, RAID (risk, actions, issue, and decision) log, and ensure timely communications to all key stakeholders.
+
+Partner with various Tech teams to oversee implementations. Participate in Program Increment (PI) planning sessions with Tech teams. Coordinate and prioritize deliverables from Tech teams.
+
+Track resource usage and budget/expenses as needed. Support and/or champion process and tool improvement efforts to strengthen and build upon existing PMO capabilities by continuously improving project management functions and developing new capabilities as appropriate.
+
+Required Skills
+
+Strong command of Scrum framework, Scaled Agile Framework, and Agile values and principles.
+
+Analytical mindset, aptitude for working on a team with highly technical data scientists, engineering and/or IT experts.
+
+Collaborative work style with ability to effectively interact with and earn the trust of stakeholders across the organization.
+
+Must be highly organized and have excellent follow-up and problem-solving skills
+
+Self-motivated, with strong self-learning ability
+
+Strong Company B1 suite (including Word, Excel, PowerPoint, MS Teams, MS Project etc.) and advanced JIRA skills required
+
+Demonstrated analytical skills, independent thinking and ability to exercise prudent judgment.
+
+Ability to influence and lead cross-functional team in the realization of project goals and time-bound deliverables
+
+Qualifications
+
+At least 2+ years of experience in working in an Agile environment.
+
+At least 3-5 years of data related project/program management experience, preferably in the Life, Health or P&C insurance industry
+
+CSM, SSM or PSM certification required
+
+CSP, SASM, SPS Or Other Advanced Certification Preferred
+
+Project Management Professional (PMP) preferred
+
+BS in technical and/or quantitative discipline
+
+Experience effectively motivating and coordinating cross-functional teams in a matrixed environment to achieve well-defined timelines and goals
+
+#################################################
+
+

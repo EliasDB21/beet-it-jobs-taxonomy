@@ -1,0 +1,72 @@
+Cluster 29:
+
+Job Title: Fullstack JS Developer, Education Technology Innovator
+Job Description: Client
+Our client is a pioneer in US schools education since 2000, it is leading the way in next-generation curriculum and formative assessment, they develop a number of solutions and interactive web products for teachers and students. Their products target the educational needs of all classes – from elementary to high school. They operate in 50 states, products are used in 21,000+ schools by 7,000,000 students.
+
+Join a great company, not merely an individual project
+Project overview
+The company is technology-driven with a huge number of software engineers involved in product development. They have a very solid approach to technology and employ best practices and processes, with a focus on cutting-edge frameworks, languages and tools.
+They use Company K3 technologies such as RDS, Lambdas, DynamoDB, etc. on Linux-based platforms.
+
+Team
+A collaborative, open-minded team that values diverse perspectives and contributions. This group focuses on building user-friendly applications that enhance the overall learning experience.
+
+Position overview
+As a Fullstack Developer, you'll work with a cutting-edge tech stack that includes Company K3 services (RDS, Lambdas, DynamoDB) within a Linux environment. The company's strong engineering culture emphasizes best practices, modern frameworks, and continuous improvement.
+As a Fullstack Developer, you'll play a pivotal role in shaping the future of education technology.
+
+Responsibilities
+Design, develop, and maintain scalable Node.js applications that directly impact millions of students and teachers
+Collaborate with a cross-functional team
+Stay at the forefront of Node.js advancements
+Contribute to a positive, growth-oriented team environment
+Requirements
+Experience with Node.js
+Frontend development experience using React.js
+Experience with several of the following: NPM, Webpack, Yarn, TypeScript, JavaScript
+Experience with Git
+Knowledge of JavaScript architecture practices
+Understanding of web development paradigms (RESTful APIs, Pub/Sub, security)
+Experience with the development of performant and scalable applications
+Experience with Agile methodology
+Good spoken English
+Nice to have
+Familiarity with Jenkins, Jira, Confluence, Bitbucket
+Experience with some of the following: CSS-preprocessors (LESS, SASS), WebSockets, MQTT
+Experience with Python
+
+#################################################
+
+Job Title: Senior Node.JS Developer, Education Technology Innovator
+Job Description: Client
+Our client creates engaging curricula, formative assessments, and powerful tools that empower educators and inspire students to reach their full potential. Their award-winning products serve over 10 million students nationwide.
+
+Join a great company, not merely an individual project
+Project overview
+The company is technology-driven with a huge number of software engineers involved in product development. They have a very solid approach to technology and employ best practices and processes, with a focus on cutting-edge frameworks, languages and tools.
+They use Company K3 technologies such as RDS, Lambdas, DynamoDB, etc. on Linux-based platforms.
+
+Team
+The client's culture is very similar to ours. There is no hierarchy, just a friendly and open-minded team where each voice is valuable.
+This particular team that we are hiring right now builds intuitive applications to connect teachers, students, and support team members to shared experience across all our products.
+
+Position overview
+Join a collaborative, open-minded team that values diverse perspectives and contributions. This group focuses on building user-friendly applications that enhance the overall learning experience.
+As a Senior Node.js Developer, you'll work with a cutting-edge tech stack that includes Company K3 services (RDS, Lambdas, DynamoDB) within a Linux environment. The company's strong engineering culture emphasizes best practices, modern frameworks, and continuous improvement.
+As a Senior Node.js Developer, you'll play a pivotal role in shaping the future of education technology. You'll design, develop, and maintain scalable Node.js applications that directly impact millions of students and teachers. Collaborate with a cross-functional team, stay at the forefront of Node.js advancements, and contribute to a positive, growth-oriented team environment.
+
+Responsibilities
+Design, develop, and maintain scalable Node.js applications that impact the educational landscape
+Collaborate with a cross-functional team of engineers, product managers, and designers
+Stay ahead of the curve with the latest Node.js trends and best practices
+Contribute to a positive, inclusive team environment that values learning and growth
+Requirements
+A seasoned Node.js developer with a proven track record of building high-quality applications
+Experience with Company K3 services (or similar cloud technologies) and Linux environments
+Strong problem-solving skills and a passion for writing clean, efficient code
+Excellent communication and collaboration abilities
+
+#################################################
+
+

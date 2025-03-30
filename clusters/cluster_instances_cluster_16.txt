@@ -1,0 +1,247 @@
+Cluster 16:
+
+Job Title: Gameplay Programmer
+Job Description: WHAT MAKES US EPIC?
+ At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.
+ 
+ Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development.
+ 
+
+ 
+
+ What You'll Do:
+ The Company S7 Brasil Fortnite team seeks a Gameplay Programmer to build out exciting new challenges and rewards for our players. These systems will extend the possibilities in Battle Royale and form a foundation for future experiences. Join us now and build the future!
+ 
+ In this role, you will:
+ Experiment with game design and use rapid prototyping while ensuring that solid architectural and algorithmic decisions are made
+ Work closely with art and design to create and iterate on gameplay features
+ Prototype and iterate on features and be willing to accept and respond to critical feedback
+ Supporting technical excellence of Fortnite on multiple platforms
+ Optimize and fix bugs in existing gameplay systems
+ Contribute ideas toward all aspects of the game’s production and development
+ Write robust, maintainable code
+ What we're looking for
+ Firm grasp of C++ / tech fundamentals
+ Unreal Engine experience
+ Profiling and optimization skills
+ A keen analytical mind with strong problem-solving skills
+ Talent for building robust, extensible, maintainable systems
+ Ability to work through ambiguity and get stuff done
+ Willingness to deep dive into metagame systems, including mobile-focused development
+ Enjoys working with cross-functional, geographically distributed team
+ 
+
+
+ ABOUT US:
+ Company S7 spans across 19 countries with 55 studios and 4,500+ employees globally. For over 25 years, we’ve been making award-winning games and engine technology that empowers others to make visually stunning games and 3D content that bring environments to life like never before. Epic’s award-winning Unreal Engine technology not only provides game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and develop remarkable games, we strive to build teams of world-class talent.
+ 
+ 
+
+#################################################
+
+Job Title: Senior Unity Developer
+Job Description:  
+  
+ Located in San Diego, CA, Company T7 is a designer and manufacturer of performance analysis and game enhancement technologies. Our products include launch monitors, simulators, performance/entertainment software, and smart mobility solutions for a variety of sports and games. We are recognized by equipment manufacturers, top professional golfers, and media outlets as the industry leader in performance measurement systems. Company T7 is a total technology provider, with more than 15,000 GC launch monitors and golf simulation solutions in use in retail stores, driving ranges, commercial facilities, and homes worldwide. With engineering, manufacturing, and quality-assurance teams all located under one roof, Company T7 offers complete, vertically integrated solutions for every segment of the market.
+ 
+  
+ 
+ We are seeking an experienced Senior Unity Developer to join our talented team!
+ 
+  
+ 
+ General Purpose
+ 
+ Technical lead for the FSX Pro team
+  
+ 
+ Principal Duties and Responsibilities
+ 
+ Transform design specifications into functional games
+ Design, develop, and maintain efficient, reusable, and reliable code
+ Optimize game performance to run efficiently on specified hardware requirements
+ Manage build and release pipelines for games
+ Develop and deploy games on multiple platforms and form factors
+ Identify process and application bottlenecks and bugs
+ Establish and document coding standards and guidelines
+ Provide technical leadership and mentorship to junior and mid-level game developers
+  
+ 
+ Requirements/Qualifications
+ 
+ Min. 5 years’ experience delivering commercial games
+ Strong background in C# and game development using the Unity game engine
+ Cross-platform game development experience on desktop, tablet, and mobile
+ Practical knowledge of OOP/OOD and best programming practices
+ Experience with scripting, textures, animation, GUI styles, and user session management
+ Experience working with game physics
+ Proficient knowledge of code versioning tools such as Git, SVN, and Perforce
+ Strong written and oral communication skills
+  
+ 
+ Minimum Education Required
+ 
+ Bachelor of Science or equivalent
+  
+ 
+ Years of Experience
+ 
+ 5-7
+  
+
+ 
+ The actual annual salary offered to a candidate will be based on variables including experience, geographic location, education, and skills/achievements, and will be mutually agreed upon at the time of offer.
+ 
+  
+ 
+ We offer a highly competitive salary, comprehensive benefits including: medical and dental, vision, disability and life insurance, 401K, PTO, tuition reimbursement, gear discounts and the ability to add value to an exciting mission!
+ 
+  
+ 
+ Our Postings are not intended for distribution to or use in any jurisdiction, country or territory where such distribution or use would violate local law or would subject us to any regulations in another jurisdiction, country or territory. We reserve the right to limit our Postings in any jurisdiction, country or territory.
+ 
+ About Us
+ 
+ Located in San Diego, CA, Company T7 is a designer and manufacturer of performance analysis and game enhancement technologies. Our products include launch monitors, simulators, performance/entertainment software, and smart mobility solutions for a variety of sports and games. We are recognized by equipment manufacturers, top professional golfers, and media outlets as the industry leader in performance measurement systems. Company T7 is a total technology provider, with more than 60,000 GC launch monitors and golf simulation solutions in use in retail stores, driving ranges, commercial facilities, and homes worldwide. With engineering, manufacturing, and quality-assurance teams all located under one roof, Company T7 offers complete, vertically integrated solutions for every segment of the market.
+ 
+  
+ 
+
+#################################################
+
+Job Title: Gameplay Programmer
+Job Description: ENGINEERING - GAMES
+
+What We Do
+
+Unreal projects have been leading the pack of real-time entertainment with our constantly growing team of engineering experts. We’re always improving on the tools and technology that empower content developers worldwide.
+
+What You'll Do
+
+Unreal projects have been leading the pack of real-time entertainment with our constantly growing team of engineering experts. We’re always improving on the tools and technology that empower content developers worldwide.
+
+In this role, you will
+
+Experiment with game design and use rapid prototyping while ensuring that strong architectural and algorithmic decisions are made
+Work closely with art and design to create and iterate on gameplay features
+Prototype and iterate on features and be willing to accept and respond to critical feedback
+Support technical excellence of Fortnite on multiple platforms
+Aid in the development of new technology within UEFN
+Optimize and fix bugs in existing gameplay systems
+Contribute ideas toward all aspects of the game’s production and development
+
+
+What We're Looking For
+
+3+ years of experience developing games professionally, and shipping AAA titles 
+Strong C++ skills and the ability to code and architect gameplay mechanics and tools 
+Good ability to learn new programming languages 
+Well-versed in games and the ability to articulate what is strong/weak about the design of existing games (an interest in online games is preferred)
+Excellent communication and interpersonal skills
+Console experience
+Experience working on a live service game
+Self-motivated, strong work ethic, and able to work independently
+Creativity in problem-solving and the ability to think outside of the established solutions
+Experience working with UEFN not required, but also helpful
+
+#################################################
+
+Job Title: Multiplayer Game Software Engineer
+Job Description: YOUR MISSION
+
+Game on! True Anomaly is developing a wargaming capability to evaluate system and architecture performance, develop and evaluate tactics and automated mission planning tools, and evaluate requirements trades in realistic operational scenarios. This role leverages your background in multiplayer game development to expand our wargame capability, enabling networked local and remote multiplayer participation.
+
+Responsibilities
+
+Contribute to development of True Anomaly’s space systems wargame capability by developing and testing multiplayer access over local and remote networks 
+Develop and integrate Python tools for managing players and player access into the True Anomaly wargame environment 
+Support local and remotely-hosted wargames by managing player connectivity during the events 
+Provide guidance to dedicated software engineers who build out high-performance capabilities in C++ or other compiled languages 
+Work proactively and independently in a fast-paced work environment 
+
+Qualifications
+
+Bachelor of Science (MS preferred) in engineering, computer science, physics, math, or a related technical discipline. 
+Typically 3-5 years experience (2+ with advanced degree) designing games including games with networked multiplayer participation 
+Experience with space-based games and physics simulations is highly desired but not required 
+Excellent problem-solving and analytical skills, with the ability to handle complex and dynamic mission scenarios 
+Willingness to develop new skills on the job as required to support a variety of efforts 
+Experience with code configuration management tools such as github is highly desired 
+Experience with system behavior modeling including Finite State Machines or Behavior Trees is a plus 
+Experience with C++ and Python is a plus 
+
+#################################################
+
+Job Title: Game Design Developer (Mathematician)
+Job Description: Position Summary
+
+We are looking for an enthusiastic Game Designer Developer based at our Las Vegas studio. You will work closely with a Game Designer utilizing your math and software skills to develop compelling prize-first math models for Arrow’s electronic gaming products.
+
+Primary Roles And Responsibilities
+
+Design compelling ‘slot-style’ game math models utilizing prize-first math engine.
+Translate game concepts and mathematical ideas into software using C#.
+Develop and maintain math characteristics metrics to enable data-driven decision-making while iterating on math model design.
+Create and maintain PAR sheets detailing the game math model.
+Develop a working knowledge of North American slot markets, identifying trends ensuring game designs are contemporary and meet market requirements.
+Able to work with the team to align priorities and drive towards solutions, a true team player.
+Passion to create fun games with an engaging player experience.
+Excellent organizational skills.
+Grasp of math principles and probability.
+
+Requirements
+
+Experience and Education
+
+Bachelor’s degree in software engineering/mathematics/data analysis field or equivalent experience
+Experience with C#. 
+Experience with Excel.
+Knowledge of other development tools, for example Confluence, JIRA, Bitbucket etc. a plus.
+
+Physical Demands/Working Conditions
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodation may be made to enable individuals with disabilities to perform the essential job functions.
+
+Specific vision abilities required by this job include close vision, distance vision, peripheral vision, and ability to adjust focus.
+The noise level in the work environment is low.
+May be required to sit for long and/or extended periods of time.
+
+
+#################################################
+
+Job Title: Casual Mobile Free To Play Unity Game Programmer
+Job Description: Job Description: We are looking for a skilled and experienced Unity Programmer to join our dynamic team. In this role, you will play a pivotal part in the development of our next top casual game, collaborating closely with designers, artists, and other programmers to bring new game concepts to life.
+
+Requirements
+
+
+Key Responsibilities:
+
+Collaborate with cross-functional teams to design and implement game features
+Write clean, maintainable, and efficient code in C# using the Unity engine
+Optimize game performance for mobile platforms
+Participate in code reviews and contribute to team best practices
+Assist in debugging and resolving technical issues
+Keep up with the latest trends and technologies in game development
+
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Game Development, or related field (or equivalent experience)
+2+ years of experience in game development with Unity and C#
+Strong understanding of object-oriented programming and design patterns
+Experience with mobile game development (iOS and Android)
+Familiarity with version control systems, preferably Git
+Excellent problem-solving and communication skills
+A passion for games, especially in the casual and free-to-play sector
+
+
+Nice to Have:
+
+Experience with Unity's UI system and animation tools
+Knowledge of backend systems and multiplayer game development
+Familiarity with agile development methodologies
+
+#################################################
+
+

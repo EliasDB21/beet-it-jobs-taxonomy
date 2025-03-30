@@ -1,0 +1,249 @@
+Cluster 19:
+
+Job Title: Senior Flight Software Engineer
+Job Description: 
+Who are we?
+
+ICCompany F1E is the global leader in synthetic aperture radar (SAR) satellite operations for Earth Observation, persistent monitoring, and natural catastrophe solutions; owning and operating the world's largest SAR constellation. ICCompany F1E is headquartered in Finland and operates from five international locations with more than 600 employees from nearly 60 countries, inspired by the shared vision of improving life on Earth by becoming the global source of truth in Earth Observation.
+
+Our satellites acquire images of Earth at any time - even when it's cloudy or dark - providing commercial and government partners with unmatched persistent monitoring capabilities. Information derived from our SAR images helps customers make data-driven decisions to address time-critical challenges in various sectors, such as maritime, disaster management, insurance, and finance.
+
+Our team is a tight-knit group of experts across many disciplines (e.g., engineering, software development, radar technology, etc.). We're innovative, driven people who strive for excellence in everything we do. Teamwork, curiosity, and having fun are core values at ICCompany F1E, and contribute to Making the Impossible possible!!
+
+Why should you work for us?
+
+ICCompany F1E is at the cutting edge of new technology and we are continuing to build and operate our commercial constellation of SAR satellites. Working with ICCompany F1E, you will be part of making the impossible possible, whilst shaping the Earth Observation industry. You will work with varied, diverse and engaged colleagues to further the ICCompany F1E mission. At ICCompany F1E we realise that without great people we can not succeed, therefore you will be an integral, valued and appreciated colleague, with the ability to directly shape the vision and direction of the business.
+
+We actively support Continuous Professional Development, and will provide access to a range of avenues to allow you to succeed, including courses, training and attendance at conferences. ICCompany F1E is a place where your development, your growth and your success is a priority.
+
+What will you do in this role? 
+
+You get to work on world-class Attitude Determination and Control System (ADCS) for satellites. It's a self-contained Flight Control Unit running embedded linux. You will design and implement architecture and components around this ecosystem.
+Do you like writing high performance code and you have the best embedded systems tooling for it?
+Daily tasks will include writing new features for satellite ADCS.
+You will design and write code that is well unit tested and help the whole team to achieve the same.
+Do you have great knowledge of best practices and tools for embedded systems? Teach these to the whole team!
+Work with multiple closely knitted teams to ensure the architectural interfaces are clear and well tested and communication around them - human or code - is unambiguous.
+
+Requirements
+
+What will you need to be successful in this role?
+
+Good knowledge of modern C++
+Previous experience with embedded linux
+Understanding of common embedded system design principles and patterns
+
+In addition to the above, it would be beneficial if you had the below attributes and skills: 
+
+A set of sharp knives when you live in terminal
+Knowledge of CI pipelines
+
+#################################################
+
+Job Title: Network Engineer
+Job Description: 
+Who are we?
+
+ICCompany F1E is the global leader in synthetic aperture radar (SAR) satellite operations for Earth Observation, persistent monitoring, and natural catastrophe solutions; owning and operating the world's largest SAR constellation. ICCompany F1E is headquartered in Finland and operates from five international locations with more than 600 employees from nearly 60 countries, inspired by the shared vision of improving life on Earth by becoming the global source of truth in Earth Observation.
+
+Our satellites acquire images of Earth at any time - even when it's cloudy or dark - providing commercial and government partners with unmatched persistent monitoring capabilities. Information derived from our SAR images helps customers make data-driven decisions to address time-critical challenges in various sectors, such as maritime, disaster management, insurance, and finance.
+
+Our team is a tight-knit group of experts across many disciplines (e.g., engineering, software development, radar technology, etc.). We're innovative, driven people who strive for excellence in everything we do. Teamwork, curiosity, and having fun are core values at ICCompany F1E, and contribute to Making the Impossible possible!
+
+Why should you work for us?
+
+ICCompany F1E is at the cutting edge of new technology and we are continuing to build and operate our commercial constellation of SAR satellites. Working with ICCompany F1E, you will be part of making the impossible possible, whilst shaping the Earth Observation industry. You will work with varied, diverse and engaged colleagues to further the ICCompany F1E mission. At ICCompany F1E we realise that without great people we can not succeed, therefore you will be an integral, valued and appreciated colleague, with the ability to directly shape the vision and direction of the business.
+
+We actively support Continuous Professional Development, and will provide access to a range of avenues to allow you to succeed, including courses, training and attendance at conferences. ICCompany F1E is a place where your development, your growth and your success is a priority.
+
+Who you are:
+
+To succeed in this role of Network Engineer, you need to be able to take initiative and manage your own time. You are able to search for the information you need, instead of having all details available from the start of a project. Thus, being able to collaborate with others is important to your role.
+
+This role would suit someone who has worked with a variety of networking issues, and someone who is hands on. This role would suit someone who has worked as an individual contributor, and working with a wider team when required. Due to the nature of the role, this role would ideally be filled by someone who has worked in a similar role, outside of telecommunications.
+
+You will also have to be meticulous with attention to detail. You do not mind reading up on technologies and protocols when you do not have sufficient knowledge of them.
+
+You are happy to help others and others find it easy to approach you for help. You are the kind of person who does not like to leave things unfinished which includes documentation as a part of the job.To thrive as a Network Engineer, you must possess the initiative to manage your time effectively. You should be comfortable seeking out the necessary information rather than expecting all details to be provided at the project's onset. Collaboration with others is crucial to your success.
+
+Additionally, meticulous attention to detail is essential. You should be willing to research and familiarize yourself with technologies and protocols when your knowledge is limited.
+
+You are known for your willingness to help others, making you approachable and reliable. You take pride in completing tasks, including documentation, to the highest standard, ensuring nothing is left unfinished.
+
+You will participate in architecting, designing and implementing network infrastructure. 
+Maintain current network infrastructure (patching, monitoring, etc)
+Troubleshoot wireless and wired networks
+Seek to optimize network design and operational efficiency
+Take the lead in process development
+Participate as a subject matter expert in projects
+Operational tasks such as implementing tickets, operating FW, etc. 
+
+Requirements
+
+Required Experience:
+
+CCNP or equivalent knowledge with 2+ years experience with routing and switching in an enterprise/service provider environment
+Experience with firewalls (Cisco or Palo Alto preferred)
+Experience with VPNs
+In-depth understanding of communication protocols (mainly TCP/IP) and routing protocols (BGP, OSPF, EIGRP for example)
+Familiarity with access control models and network security
+Knowledge of coding languages for scripting (for example; Python, Perl)
+Experience with network diagnostic, monitoring and analysis tools (for example; SolarWinds network tools)
+Solid understanding of network device operating systems (JUNOS, Cisco IOS)
+Demonstrable understanding of network design best practices
+Always knowing where your rollover cable is
+
+In addition to the above, it would be beneficial if you had the below attributes and skills:
+
+Experience in SASE architecture
+Experience with networking with public cloud provider technologies (for example; Company K3 Transit Gateways, Azure WAF, virtual appliances)
+Experience with IT infrastructure
+Experience with wireless network technologies
+Good understanding of scripting
+
+#################################################
+
+Job Title: Software Engineer - Python
+Job Description: Who are we?
+
+ICCompany F1E is the global leader in synthetic aperture radar (SAR) satellite operations for Earth Observation, persistent monitoring, and natural catastrophe solutions; owning and operating the world's largest SAR constellation. ICCompany F1E is headquartered in Finland and operates from five international locations with more than 600 employees from nearly 60 countries, inspired by the shared vision of improving life on Earth by becoming the global source of truth in Earth Observation.
+
+Our satellites acquire images of Earth at any time - even when it's cloudy or dark - providing commercial and government partners with unmatched persistent monitoring capabilities. Information derived from our SAR images helps customers make data-driven decisions to address time-critical challenges in various sectors, such as maritime, disaster management, insurance, and finance.
+
+Our team is a tight-knit group of experts across many disciplines (e.g., engineering, software development, radar technology, etc.). We're innovative, driven people who strive for excellence in everything we do. Teamwork, curiosity, and having fun are core values at ICCompany F1E, and contribute to Making the Impossible possible!!
+
+Why should you work for us?
+
+ICCompany F1E is at the cutting edge of new technology and we are continuing to build and operate our commercial constellation of SAR satellites. Working with ICCompany F1E, you will be part of making the impossible possible, whilst shaping the Earth Observation industry. You will work with varied, diverse and engaged colleagues to further the ICCompany F1E mission. At ICCompany F1E we realise that without great people we can not succeed, therefore you will be an integral, valued and appreciated colleague, with the ability to directly shape the vision and direction of the business.
+
+We actively support Continuous Professional Development, and will provide access to a range of avenues to allow you to succeed, including courses, training and attendance at conferences. ICCompany F1E is a place where your development, your growth and your success is a priority.
+
+About the role:
+
+We are seeking a skilled Software Engineer (mid- to senior level) to join our Fleet Control and Communications team in Helsinki. In this role, you will play a pivotal part in designing, developing, and optimizing our orbital pass management system. This system orchestrates communication between ICCompany F1E satellites and global ground stations, managing orbital calculations, configurations, and offering RESTful interfaces to both internal and external services.
+
+As a key member of the team, you will primarily work with Python-based backend microservices across multiple environments. You'll be responsible for building modular, scalable systems, developing new features, and designing APIs that empower internal stakeholders. Your work will involve leveraging Kubernetes to ensure high availability and reliability, following agile methodologies and best practices. We're looking for someone who thrives in a fast-paced environment, takes ownership of key projects, and delivers hands-on solutions that drive our satellite operations forward.
+
+In this role you will:
+
+Design, develop, and maintain high-performance backend microservices in Python.
+Build scalable, reliable APIs and systems for satellite communications.
+Leverage Kubernetes, cloud infrastructure, and CI/CD pipelines to ensure high availability.
+Collaborate with cross-functional teams to deliver innovative solutions for satellite operations.
+Take ownership of key products, incorporating feedback to drive continuous improvement.
+
+Requirements
+
+Strong software engineering background with expertise in Python.
+Proven experience building highly available APIs using frameworks like FastAPI and Pydantic.
+Hands-on experience with Kubernetes, Terraform, and infrastructure as code.
+Proficiency in CI/CD pipelines, container orchestration, and GitOps workflows.
+Solid experience working with GNU/Linux systems, including shell scripting.
+In-depth knowledge of microservices, containers, and cloud platforms (especially Company K3).
+Familiarity with agile development methodologies and working in agile teams.
+"You build it, you run it" mentality for satellite services you develop.
+
+Nice-to-Have Requirements
+
+Experience with additional programming languages (e.g., C, Go).
+Familiarity with satellite or spacecraft communication systems.
+Exposure to cloud networking and security tools.
+System architecture and design experience.
+
+#################################################
+
+Job Title: Solution Engineer
+Job Description: 
+Who are we?
+
+ICCompany F1E is the global leader in synthetic aperture radar (SAR) satellite operations for Earth Observation, persistent monitoring, and natural catastrophe solutions; owning and operating the world's largest SAR constellation. ICCompany F1E is headquartered in Finland and operates from five international locations with more than 600 employees from nearly 60 countries, inspired by the shared vision of improving life on Earth by becoming the global source of truth in Earth Observation.
+
+Our satellites acquire images of Earth at any time - even when it's cloudy or dark - providing commercial and government partners with unmatched persistent monitoring capabilities. Information derived from our SAR images helps customers make data-driven decisions to address time-critical challenges in various sectors, such as maritime, disaster management, insurance, and finance.
+
+Our team is a tight-knit group of experts across many disciplines (e.g., engineering, software development, radar technology, etc.). We're innovative, driven people who strive for excellence in everything we do. Teamwork, curiosity, and having fun are core values at ICCompany F1E, and contribute to Making the Impossible possible!!
+
+Why should you work for us?
+
+ICCompany F1E is at the cutting edge of new technology and we are continuing to build and operate our commercial constellation of SAR satellites. Working with ICCompany F1E, you will be part of making the impossible possible, whilst shaping the Earth Observation industry. You will work with varied, diverse and engaged colleagues to further the ICCompany F1E mission. At ICCompany F1E we realise that without great people we can not succeed, therefore you will be an integral, valued and appreciated colleague, with the ability to directly shape the vision and direction of the business.
+
+We actively support Continuous Professional Development, and will provide access to a range of avenues to allow you to succeed, including courses, training and attendance at conferences. ICCompany F1E is a place where your development, your growth and your success is a priority.
+
+What will you do in this role?
+
+In this role you will master the application of ICCompany F1E solutions for addressing insurance and government natural catastrophe use cases.
+
+Create captivating maps and other visuals to showcase our Natural Catastrophe products during and after events
+Create product demonstrations and technical presentations to highlight the exceptional capabilities of ICCompany F1E's solutions.
+Develop customized geospatial analyses and maps to empower clients, prospects, and our Marketing team with impactful visuals.
+Take ownership of ICCompany F1E data delivery setup 
+Provide technical and process-oriented support to Sales Executives and Strategic Account Managers throughout the customer journey to unlock the full value of ICCompany F1E's products.
+Collaborate with Customer Success Managers to facilitate the implementation and integration of ICCompany F1E's products into their decision-making tools and processes.
+
+Requirements
+
+Must Haves:
+
+At least 12 months experience in a similar role
+Interest working directly with clients in a technical pre-sales, data implementation or GIS consultant role
+Excellent communication and project management skills 
+Creative problem solver with a passion for telling stories with data and analytics
+Practical experience performing geospatial analyses for data driven decision making
+Skilled in multiple geospatial analysis techniques, enterprise or web GIS, and comfortable with multiple analysis platforms and languages
+
+In addition to the above, it would be beneficial if you had the below attributes and skills:
+
+Familiarity with remote sensing, especially SAR
+Experience in natural catastrophe analytics
+Experience with Python or other programming language
+
+#################################################
+
+Job Title: Senior Security Engineer
+Job Description: Who are we?
+
+ICCompany F1E is the global leader in synthetic aperture radar (SAR) satellite operations for Earth Observation, persistent monitoring, and natural catastrophe solutions; owning and operating the world's largest SAR constellation. ICCompany F1E is headquartered in Finland and operates from five international locations with more than 600 employees from nearly 60 countries, inspired by the shared vision of improving life on Earth by becoming the global source of truth in Earth Observation.
+
+Our satellites acquire images of Earth at any time - even when it's cloudy or dark - providing commercial and government partners with unmatched persistent monitoring capabilities. Information derived from our SAR images helps customers make data-driven decisions to address time-critical challenges in various sectors, such as maritime, disaster management, insurance, and finance.
+
+Our team is a tight-knit group of experts across many disciplines (e.g., engineering, software development, radar technology, etc.). We're innovative, driven people who strive for excellence in everything we do. Teamwork, curiosity, and having fun are core values at ICCompany F1E, and contribute to Making the Impossible possible!!
+
+Why should you work for us?
+
+ICCompany F1E is at the cutting edge of new technology and we are continuing to build and operate our commercial constellation of SAR satellites. Working with ICCompany F1E, you will be part of making the impossible possible, whilst shaping the Earth Observation industry. You will work with varied, diverse and engaged colleagues to further the ICCompany F1E mission. At ICCompany F1E we realize that without great people we can not succeed, therefore you will be an integral, valued and appreciated colleague, with the ability to directly shape the vision and direction of the business.
+
+We actively support Continuous Professional Development, and will provide access to a range of avenues to allow you to succeed, including courses, training and attendance at conferences. ICCompany F1E is a place where your development, your growth and your success is a priority.
+
+What is the role?
+
+As a Senior Security Engineer at ICCompany F1E, you will leverage your expertise in Identity and Access Management (IAM) and access control model design to overhaul existing practices and develop robust solutions for securing a modern and rapidly evolving work environment. This role is part of our Security Engineering team, which is responsible for both building a secure self-service platform for most daily developer actions and working with developers and product managers on further adopting secure development practices. The goal for the team is to gather together blue and red team experts to work together on how to best solve the cat-and-mouse game that is modern cybersecurity. Because of the collaborative nature of the work, we seek individuals who excel in collaborative environments, seek continuous improvements and have the expertise to navigate the complexities of today's threat landscape.
+
+A typical day for you will involve collaborating with platform and development oriented teams to assess and enhance our security posture. You will start your day by reviewing security events, conducting threat analysis, and performing vulnerability assessments. Throughout the day, you will design and implement access control models, manage IAM operations, and enforce the principle of least privilege for our cloud infrastructure and services. Your IAC wizardry and craftsmanship, combined with a passion for GitHub, will drive the definition, refinement, and automation of these security concepts and processes. You'll regularly evaluate the robustness of our security controls, report any identified gaps to your peers, and propose infrastructure enhancements. This feedback loop is integral to our continuous improvement approach.
+
+You will serve as a reference for authentication and authorization design choices and implementation details across multiple projects.
+
+Requirements
+
+What will you need to be successful in this role?
+
+As a Senior Security Engineer, you will bring a blend of expertise and hands-on experience to enhance our security measures:
+
+Solid expertise with IAM
+Proficiency in securing API endpoints to prevent unauthorized access and mitigate potential vulnerabilities
+Experience implementing Zero Trust principles
+Experience with identity provider setup and management
+Expertise in DevSecOps and a shift-left mentality, focusing on integrating security into every stage of the development lifecycle, along with strong automation skills
+Understanding and managing public key infrastructure (PKI) systems
+
+In addition to the above, it would be beneficial if you had the below attributes and skills: 
+
+Strong understanding and hands-on experience with OAuth2.0, OIDC, and SCIM protocols
+Experience implementing and managing security services within Company K3 environments
+Experience managing identity management platforms such as Auth0, Okta, or FusionAuth
+Knowledge of Istio and Spire/SPIFFE
+Understanding of OPA (Open Policy Agent)
+Experience with Kubernetes
+Familiarity with HashiCorp Vault
+
+#################################################
+
+

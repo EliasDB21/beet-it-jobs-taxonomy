@@ -1,0 +1,450 @@
+Cluster 28:
+
+Job Title: Database Architect
+Job Description: Company T6 is seeking a versatile database expert to join our team and take charge of our movie database and data handling strategies. You will be responsible for designing, implementing, and maintaining our database architecture, ensuring data integrity, and optimizing query performance. Additionally, you will play a key role in shaping our overall data strategy as we scale our platform.
+
+Responsibilities:
+
+Design and implement a robust, scalable database architecture for our movie metadata, with a focus on graph/node databases
+Develop and optimize database queries for efficient data retrieval and manipulation in both relational and graph databases
+Ensure data integrity, security, and compliance with relevant regulations
+Collaborate with the backend team to integrate the database with our API and services
+Implement data backup, recovery, and archiving processes
+Monitor and optimize database performance, troubleshoot issues, and implement solutions
+Contribute to the development of our data governance policies and best practices
+Assist in data migration and integration tasks as we expand our platform
+Stay up-to-date with the latest database technologies and trends, particularly in the graph database space
+Required Skills:
+
+Strong proficiency in SQL and experience with relational databases (e.g., PostgreSQL, MySQL)
+Extensive experience with graph/node databases (e.g., Neo4j, Company S2 Neptune)
+Deep understanding of graph data modeling, Cypher query language, and graph database optimization techniques
+Knowledge of database design principles, normalization, and indexing strategies
+Experience with database performance tuning, query optimization, and troubleshooting
+Familiarity with database security best practices and data protection regulations
+Understanding of data warehousing and ETL (Extract, Transform, Load) processes
+Ability to work with large datasets and develop efficient data processing workflows
+Experience with data modeling and schema design
+Familiarity with NoSQL databases (e.g., MongoDB, Cassandra) is a plus
+Proficiency in Python or another scripting language for data processing tasks
+Excellent problem-solving skills and attention to detail
+Good communication and collaboration abilities
+Experience with version control systems like Git
+Familiarity with DevOps principles and the ability to set up and manage your own test environments independently
+Our tech stack includes PostgreSQL as our primary relational database and Neo4j for graph data management, with Python for data processing tasks. We are looking for someone who is passionate about data management, has strong experience with graph databases, enjoys optimizing database performance, and can help us build a solid foundation for our data infrastructure. If you have the right mix of database expertise, coding skills, and a strategic mindset, we'd love to hear from you. This is an exciting opportunity to play a key role in shaping our data architecture at a new startup.
+
+Competitive salary and benefits package included. 
+
+#################################################
+
+Job Title: Database Administrator (SQL Server)
+Job Description: We are looking for a Database Administrator to join our team. Your primary focus will be to manage the group’s MSSQL database systems, which consist of a mix of physical and virtual database platforms. Your duties will involve participating in these platforms' performance tuning, backups, documentation and maintenance. The ideal candidate is a responsible, organized person, with excellent English oral and written communication skills.
+You will need to possess a high degree of technical skills and embrace cutting-edge technology stacks.
+You will also need to be responsible for delivering operational excellence, meeting project commitments, and having a collaborative approach to problem-solving and automation. Having experience with the PostgreSQL/MySQL database systems is considered an asset.
+If this describes you and you are passionate about what you do and thrive in a challenging, high-growth, and dynamic environment, please read on.
+'
+
+Responsibilities
+● Ensure the uptime of the company’s database systems.
+● Perform standard DB maintenance and generic DB administration tasks.
+● Monitor and maintain the company’s database backups, high availability, and disaster recovery
+frameworks.
+● Stay abreast of current and emerging database technologies and best practices, making
+recommendations as necessary.
+● Act as technical escalation person for operational staff to assist in resolving problems and
+incidents.
+● Keep up-to-date documentation.
+● Participate in an on-call 24/7 support rotation.
+
+Requirements
+● 2 years of experience in a similar role
+● Experience with MSSQL RDBMS
+● Optional experience with PostgreSQL/MySQL RDBMSs
+● Strong grasp and well experienced in RDBMS technology.
+● Be motivated to learn and understand the business so as to provide value.
+● Excellent analytical and problem-solving skills.
+● Ability to work with tight deadlines in a dynamic environment.
+● Be flexible and cool to work with
+
+#################################################
+
+Job Title: RBI Database Engineer
+Job Description: Company V6 is a leading international service provider to the energy industry, with a diverse client portfolio including many of the world’s leading energy companies.
+
+We design, build, manage and maintain infrastructure for our clients. We recruit, reward, and develop our people based on merit regardless of race, nationality, religion, gender, age, sexual orientation, marital status or disability. We value our people and treat everyone who works for or with Company V6 fairly and without discrimination.
+
+The world is re-thinking its energy supply and energy security needs; planning for a phased transition to alternative energy sources. We are here to help our clients meet these evolving energy needs.
+
+This is an exciting time to join us on this journey.  
+
+We support flexible working requests and have adopted a hybrid approach for most of our office-based roles. We ask employees to be present in the office at least three days per week.
+
+ 
+
+Are you ready to bring the right energy to Company V6 and help us deliver a better future for everyone?
+
+ 
+
+JOB TITLE: RBI DATABASE ENGINEER
+
+ 
+
+KCompany F1 RESPONSIBILITIES:
+
+Support in delivering the pressure systems and structural integrity management database from workpack creation to scope close-out and for answering any queries in relation to this. Activities include, but are not limited to:
+Creating inspection workpacks using tablets
+Assist with improvements to Integrity Management Database
+Assisting to resolve any urgent issues with Integrity Management Database
+Inputting inspection reports into database
+Inputting CMLs from marked up drawings into database
+Assist with collation of design and operating data for the database
+Identify, monitor and deliver solutions for the support of Integrity Team and external clients to provide seamless database management from onshore to offshore.
+Assist and monitor the Quality Control of the integrity life cycle data via various databases.
+Actively drive Continuous Improvement of the Integrity Life Cycle within Data Management
+Responsible for ensuring inspection reports are input into the integrity management database.
+Additional duties may include those of Assistant Integrity Engineer role
+ 
+
+ESSENTIAL QUALIFICATIONS AND SKILLS:
+
+Knowledge of inspection report and FM/repair review process
+Knowledge of integrity management process
+HNC level education
+Administration and data entry experience
+Good communications skills 
+Ability to prioritise workload and work to deadlines
+Ability to learn business needs and pre-empt requirements
+Ability to professionally manage confidential information
+Good organisation skills to support work in a fast-paced role
+Excellent attention to detail
+Knowledge of MS Access tools
+Knowledge of BuildME
+Knowledge of Workflow+
+Company B1 office
+
+#################################################
+
+Job Title: Database Administrator (DBA)
+Job Description: Company Description
+We are Company W6-Intrasoft, a member of Company W6 Group A/S, and a leading European IT Solutions and Services company with strong international presence and expertise, dedicated to responsible digitalisation. We offer innovative and added-value solutions of the highest quality to a wide range of public and private organizations, while being a key-player in the EU Institutions for the past 30 years. We hold an outstanding record of 500+ organizations in 70+ countries, that have chosen our solutions and services, to fulfil their business needs. Our team of 3500+ professionals is our driving force and our most valuable asset.
+
+Job Description
+Ever wondered what it feels like to be a Database Administrator in Company W6-Intrasoft?
+
+Joining us as a Database Administrator, you will have the opportunity to be a part of our highly skilled agile consultants teams working within large-scale transformation projects, that impact the life of millions of EU citizens. You will be involved in the design, customization, integration, and maintenance of enterprise-scale CRM/CX implementations that are intended mainly in private sector organizations. 
+
+As a Database Administrator you will:
+
+Install, configure, maintain, and troubleshoot Databases (Company A1 RDBMS, MS SQL Server and optional DB2, MongoDB, MySQL)
+Helping with database design and development
+Managing database access
+Designing maintenance procedures and putting them into operation
+Ensuring that databases meet user requirements
+Liaising with programmers, applications/operational staff, IT project managers and other technical staff
+Managing database security/integrity and backup procedures
+Implementing security measures
+Defining objectives through consultation with staff at all levels
+Testing and modifying databases to ensure that they operate reliably
+Providing user training, support and feedback
+Archiving data
+Understands networking standards and best practices.
+Develop and maintain technical documentation.
+Ensure all service level agreements and objectives are met.
+Require working on shifts including weekends.
+Ability to work well under pressure and to meet deadlines as needed
+Qualifications
+What would make you a fit for the role:
+
+Knowledge of Company A1 RDBMS
+Familiarity with MS SQL Server
+Experience working with DB2
+It would also be a plus if you match some of the following:
+
+MongoDB
+MySQL
+PostgreSQL
+Unix O/S (AIX - Linux RHEL/Centos/OEL
+Windows 
+Additional Information
+Being a part of the Company W6-Ιntrasoft team, you will be provided with: 
+
+The opportunity to work in a modern environment & in a hybrid working model
+A seamless onboarding experience and a buddy to support you on your first steps
+A competitive compensation & benefits package
+Health and life insurance program
+Meal and commuting allowance
+Well-being activities (on premises)
+Continuous learning opportunities using the most modern methods (unlimited access to Udemy for Business, ad-hoc trainings)
+A personalized development plan for targeted career growth
+
+#################################################
+
+Job Title: Senior Database Administrator
+Job Description: As a Senior DBA at the Company X6 Foundation, you will be part of a small, focused team of skilled and experienced engineers. In this role, you will be responsible for ensuring the health of our database systems - including their availability and performance.
+
+Your responsibilities will include troubleshooting issues, database maintenance, performance tuning, high availability, replication, backups, and general optimization as well as benchmarking and testing new MariaDB and MySQL builds.
+
+WMF is a proponent of privacy and using free and open-source software. We run a large database cluster with MariaDB on bare metal Linux hosts.
+
+The work we do is crucial and is used by hundreds of millions of people. This is a unique opportunity to make a huge impact for a good cause.
+
+The candidate should be open to travel 1-2 times a year.
+
+Responsibilities
+
+Implementation, maintenance and troubleshooting of relational database systems in production and staging environments
+Handling database version upgrades, testing and working with upstream on bug identification and resolution
+Configuring replication, designing schema optimizations and running schema changes
+Monitoring, debugging and improving query performance
+Improving observability (alerting, metrics, monitoring) of database infrastructure
+Multi-datacenter replication topology design, capacity and infrastructure planning
+Taking part in incident response, diagnosis and follow-up on system outages or alerts across Company X6's production infrastructure and participating in an on call rotation
+Sharing our values and work in accordance with them
+
+Qualifications
+
+Advanced level of experience with MariaDB or MySQL database administration as the primary production database as well as replication topologies at scale
+Knowledge of Linux and IO/data storage concepts, internals and troubleshooting (we run Linux in production exclusively)
+Proficiency in SQL
+Experience with debugging query performance and schema design
+Experience with MySQL high availability and replication management tooling
+Experience with remotely managing bare-metal servers
+5+ years experience in a hands-on DBA role as part of a team
+Experience with high traffic and highly available website architectures and operations
+Strong English language skills
+Ability to work independently in a fast paced environment, as an effective part of a globally distributed team, including ticket tracking systems and asynchronous communication tools
+B.Sc. or M.Sc. in Computer Science or equivalent work experience
+
+Optional qualifications
+
+Proficient at automation/programming/scripting skills
+Experience with LAMP stack technologies (PHP/HHVM, memcached/Redis) - MediaWiki experience is a definite plus
+Experience with advanced distributed storage and database systems (Swift, Ceph, Cassandra, etc.) is a big plus
+Experience in architecture, design, and implementation of persistent data storage & query infrastructure
+Strong track record of open source contributions is a major plus
+
+#################################################
+
+Job Title: Postgres Database Administrator III
+Job Description: The Scoop:
+
+The Postgres Database Administrator supports database administrative activities including but not limited to database patching, capacity, and performance management. This position also is responsible for backup and recovery configuration and execution, modeling and development support.
+
+What You Get To Do:
+
+Demonstrated experience writing complex stored procedures and queries
+Proven experience troubleshooting and solving complex databases schemas/warehouses
+Understanding and experience of Software Development Life Cycle
+Experience in database development, administration, and management for PostgreSQL and Company A1
+Proven experience with integration from Company A1 to Postgres and/or vice-versa
+Understanding of existing data models and ability to design new data models
+Administration and tuning of database, and data models for performance
+Ability to assess database for best practices and performance
+Ability to build security and backup strategies for database
+Ensuring database is performing at optimal levels
+Collaborating with engineering teams and clients on ensuring smooth operations of database
+Performs deployments in production and non-production environments
+Responsible for evaluating patching requests, communicating constraints, risks, impact, issues and timelines for deployment
+Collaborates with engineering teams and clients on ensuring optimal operations of database
+Streamlines cloning or similar activities to build/refresh non-production environments
+Supports and enforces change management SOP, including maintenance across multiple environments
+Supports IT security Audit Reporting
+Provides technical leadership and advice for the company’s use of DB and related technologies
+Provide leadership and guidance on large, complex, and cross functional projects and tasks
+Provides database back-up, archiving, monitoring, data analysis and troubleshoots data issues
+Assists with related task planning, training and technical direction of other Applications Administrators, DBAs or IT software engineers and developers
+Develops documentation for the assessment and automation of repeatable processes
+Assists in maintaining plans for disaster recovery and failover capabilities and testing
+Maintains security according to company guidelines and works closely with the IT Security team to develop additional robust solutions
+Provides peer reviews for work produced by other Application DBA’s and/or software engineers
+Trains other IT Application DBAs within the Information Technology department and acts as a mentor to less experienced staff
+Provides On-Call support after hours and on weekends (on a rotational basis) per the department’s On-Call agreement to meet SLA’s and metrics
+
+Supervisory Responsibilities
+
+This job has no supervisory responsibilities.
+
+Education And/or Experience
+
+For consideration candidates will need:
+
+Bachelor’s degree (or equivalent combination of education and experience)
+Five (5) to eight (8+) years’ related experience
+PBM or healthcare related industry experience a plus
+
+Computer Skills
+
+PostgreSQL Database administration
+Experience in administering cloud-based multiuser environment with expertise in planning, designing, building, and implementing complex database systems (Azure cloud-based Postgres database administration experience or similar database administration experience)
+Experienced with optimizing database performance through testing and ongoing real-time monitoring
+Experience working with version control systems like GIT and used Source code management tools GitHub and Bitbucket
+Company A1 Data Migration experience including validation/testing and reconciliation
+Create, tune, administer, and maintain Postgres DB instances for high volume, mission critical systems throughout the development, test, and production lifecycle
+Design and develop logical and physical database designs from customer application requirements
+Support daily administration, monitoring, tuning, and troubleshooting in PostgreSQL clusters on Linux
+Use Flyway to apply schema updates and track the deployment process through environments
+Participate in ETL and data conversion activities from Company A1 to Postgres
+Hands on Data modeling/modeler
+Hands-on experience with Linux based databases preferred
+Hands-on experience with NOSQL databases like Cosmos DB, Redis preferred
+
+Certificates, Licenses, Registrations
+
+None required, but any DB certifications is a plus.
+
+Other Skills And Abilities
+
+Ability to work independently, work as a member of and provide technical direction to a cohesive team with excellent interpersonal skills
+Strong analytical and communication skills
+Leading meetings and acting as a facilitator along with the ability to logically present and communicate ideas to work groups
+Ability to develop and execute focused infrastructure projects such as upgrades and migrations
+A solid understanding of enterprise technology stacks
+Ability to architect technology solutions and influence enterprise adoption through stakeholder management
+Incident and change management skills
+Good verbal, written communication and presentation skills
+Excellent organizational, attention to detail, and follow-up skills
+Must be available for on-call work after-hours and weekend work as needed
+
+#################################################
+
+Job Title: Senior Database Administrator - PostgreSQL/MySQL/MSSQL
+Job Description: As a Sr. Database Administrator, you’ll ensure the databases that support our technology systems perform efficiently and are designed to be highly available.
+
+About The Role
+
+Work with our developers and business analysts to create and modify our database structure
+Monitor the performance of the database servers
+On-call support on a rotation basis
+Strong understanding and ability to configure and troubleshoot physical and logical replication in MySQL and/or PostgreSQL
+Strong understanding and ability to configure and troubleshoot log shipping and Always-on HA solutions in SQL Server
+Identify and resolve performance bottlenecks both in on-premises and cloud
+Familiarity with deploying and managing MySQL and/or PostgreSQL, SQL Server in cloud environments (e.g., Company K3, Azure, GCP), preferably Company K3
+Perform database maintenance tasks, including backups/restores, updating statistics, rebuilding indexes, etc.
+Work with our data engineers to help map data in our production databases to our data warehouse
+Maintain system security and data integrity
+Work with our systems engineers to ensure optimal hardware and storage subsystems
+Develop, manage, and maintain a strong disaster recovery and high availability plan
+Install, upgrade, and patch the database servers
+Participate in code and design reviews
+Participate in production code pushes
+
+About You
+
+Minimum Qualifications:
+
+Bachelor’s degree in computer science or business information systems, a related degree or equivalent experience
+5 years of relevant work experience
+2 years of experience with prod workload in Company K3 ecosystem
+Experience with PostgreSQL 13 and/or MySQL 5.7 and above
+Experience with SQL Server 2016 and above
+Experience with maintaining Company K3 RDS and Aurora instances
+In-depth understanding of the database engine and strong performance tuning skills
+Troubleshooting experience with MySQL and/or PostgreSQL, SQL Server high availability solutions
+Strong experience working with Unix/Linux and Shell Scripting
+Strong communication skills
+Ability to work independently and with others in a team environment
+Ability to prioritize tasks
+Strong analytical and problem-solving skills
+Troubleshoot service outages as they occur, including after hours and weekends
+Strong sense of personal accountability for results
+Experience with Infrastructure as a code (IAC) such as terraform, or Cloud-formation is an added advantage
+Familiarity with database CICD process, concept, and tools
+Understanding of NoSQL databases is an added advantage 
+
+Preferred Qualifications
+
+1 year of experience with SQL Server T-SQL coding
+1 year of experience with SQL Server database administration
+1 year of experience with SQL Server Integration Services
+1 year of programming experience
+Proficiency in the Company B1 Office suite
+Proficiency in the Azure management platform
+Proficiency in Company B1 SQL Server 
+
+#################################################
+
+Job Title: Company A1 Database Administrator
+Job Description: We are seeking a highly skilled and motivated Company A1 Database Administrator with expertise in PostgreSQL and MS SQL. This is an exciting opportunity to make an impact on transformative projects in a dynamic and innovative environment.
+
+
+
+The Role
+
+Responsibilities:
+
+Administer and maintain Company A1 and MS SQL databases, ensuring high performance, availability, and security.
+Optimize database performance by tuning queries, indexes, and configurations for efficiency.
+Implement backup, disaster recovery, and replication strategies to ensure data integrity and system reliability.
+Collaborate with development and operations teams to design and optimize database structures and queries.
+Monitor database health, troubleshoot issues, and ensure compliance with security and regulatory standards.
+
+
+Requirements: 
+
+You are: 
+
+5-8 years of hands-on experience as a Database Administrator, with a strong focus on Company A1 databases.
+In-depth knowledge of PostgreSQL and SQL Server database management and troubleshooting.
+Solid experience with Linux-based operating systems and tools for managing databases (e.g., shell scripting, performance tuning).
+Experience with database performance tuning, query optimization, and index management.
+Expertise in database backup, recovery, and disaster recovery strategies.
+Familiarity with high availability and replication techniques in database systems.
+Strong problem-solving and analytical skills.
+
+
+We can offer you:
+
+A highly competitive compensation and benefits package
+A multinational organization with 58 offices in 21 countries and the possibility to work abroad
+Laptop and a mobile phone
+10 days of paid annual leave (plus sick leave and national holidays)
+Maternity & Paternity leave plans
+A comprehensive insurance plan including: medical, dental, vision, life insurance, and long-/short-term disability (plans vary by region)
+Retirement savings plans
+A higher education certification policy
+Commuter benefits (varies by region)
+Extensive training opportunities, focused on skills, substantive knowledge, and personal development.
+On-demand Udemy for Business for all Company A7 employees with free access to more than 5000 curated courses
+Coaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groups
+Cutting edge projects at the world’s leading tier-one banks, financial institutions and insurance firms
+A flat and approachable organization
+A truly diverse, fun-loving and global work culture
+
+#################################################
+
+Job Title: Azure DBA
+Job Description: An Azure Database Administrator (DBA) is responsible for managing, monitoring, and optimizing databases hosted on the Company B1 Azure cloud platform, ensuring data integrity, security, and availability by implementing backup strategies, troubleshooting issues, optimizing performance, and managing permissions, while collaborating with development teams to design and implement database solutions tailored to the organization’s needs; essentially acting as a database expert with a deep understanding of Azure services like Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines. Experienced and certified Database Administrator with 7-10 years of experience.
+
+Responsibilities
+
+Azure SQL Database Administration: Administer, maintain, and optimize databases hosted on the Company B1 Azure cloud platform, ensuring high performance, availability, and security.
+Database Design and Development: Collaborate with development teams to design, develop, and implement database solutions that meet business requirements.
+Azure Integration: Leverage your expertise in Company B1 Azure to manage and optimize cloud-based SQL databases and related services.
+Performance Tuning: Monitor and proactively address performance issues, query optimization, and capacity planning to ensure optimal database performance.
+Backup and Recovery: Implement and manage database backup and recovery strategies to safeguard data and ensure business continuity.
+Security: Enforce security best practices and policies to protect sensitive data and comply with regulatory requirements.
+Troubleshooting: Diagnose and resolve database-related issues promptly, providing 24/7 support as needed.
+Automation: Develop and implement automation scripts and processes to streamline database administration tasks.
+Documentation: Maintain comprehensive documentation for all database systems, configurations, and processes.
+Upgrades and Patching: Plan and execute database upgrades, migrations, and apply patches and updates as necessary.
+Collaboration: Collaborate with cross-functional teams, including application developers and network administrators, to ensure seamless integration of database systems.
+Disaster Recovery & Business Continuity
+
+Requirements
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field (preferred).
+Company B1 Azure certification. Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines.
+7-10 years of hands-on experience as a SQL Database Administrator, including experience with database design and administration.
+Strong expertise in Company B1 Azure, including Azure SQL Database, Azure SQL Managed Instance, and related Azure services.
+Proficiency in T-SQL scripting and query optimization.
+Experience with performance tuning and capacity planning for SQL databases.
+Knowledge of database security best practices and experience with implementing security measures.
+Strong problem-solving and troubleshooting skills.
+Excellent communication and teamwork skills.
+Scripting and automation skills using PowerShell or other relevant languages.
+Experience with high availability and disaster recovery solutions for SQL Server.
+Ability to adapt to changing technologies and work effectively in a fast-paced environment.
+
+#################################################
+
+

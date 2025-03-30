@@ -1,0 +1,364 @@
+Cluster 30:
+
+Job Title: Sr. Applied Scientist, Decision Science and Technology (DST)
+Job Description: 
+Description
+
+Our mission is to improve the reliability of equipment (conveyance, motors, robotics), and optimize the maintenance and inventory management policies to support sites across our entire distribution network. We build products and systems to detect and prevent equipment downtime using a diverse set of algorithms, survival analysis, and large vision models. We screen over 150 million events every day, and process this data to create real time alerting systems. We are still day 1 and have an exciting roadmap to build computer vision models to automate defect detection and action material handling equipment, deploy scalable causal inference solutions to measure the impact of events, and optimize the reliability of miles of conveyance per site to help scale Company S2 for years to come.
+
+As a Sr. Applied Scientist, you will design, develop, and maintain scalable, Deep Learning models with automated training, validation, monitoring and reporting. You will work closely with other scientists and engineers to architect and develop new learning algorithms and prediction techniques. You will collaborate with product managers and engineering teams to design and implement scientific solutions for Company S2 problems. Provide technical and scientific guidance to your team members. Contribute to the research community, by working with other scientists across Company S2 and publish papers at peer reviewed journals and conferences.
+
+We can hire scientist in a) Bellevue, b) Austin, c) Nashville, d) Denver, e) DC, and f) NYC
+
+Key job responsibilities
+
+ Drive software engineering best practice while designing the world's foremost distributed and scalable systems.
+ Develop and deploy edge-to-cloud software framework for computer vision processing
+ Design and develop innovative REST APIs and SDKs to deliver computer vision and machine learning capabilities
+ Be responsible for the architecture of software solutions, determining current limitations and compatibility between subsystems, the selection of new concepts and methodology, and the development of major routines and utilities.
+ Instill best practices for software development and documentation, making sure designs meet requirements, and delivering high quality software on tight schedules.
+
+A day in the life
+
+Sr. Applied Scientists within DST own the design, architecture, maintenance of Machine Learning models supporting initiatives related to computer vision applications at a network level. You will interact with other scientists on the team but to scale solutions you will travel to sites, interact with Field RME, Ops leadership, as well as other technical teams such as Company S2 Fulfillment Technologies.
+
+About The Team
+
+The Central Reliability and Maintenance Engineering, Decision Science and Technology (DST) team owns the design, deployment, and maintenance of an Artificial Intelligence/Computer Vision solution capable of automatically detecting defects in packages and taking action to ensure packages make it to customers in time. We are seeking a highly motivated and experienced Sr. Applied Scientist to join our team.
+
+Basic Qualifications
+
+ 3+ years of building machine learning models for business application experience
+ PhD, or Master's degree and 6+ years of applied research experience
+ Experience programming in Java, C++, Python or related language
+ Experience with neural deep learning methods and machine learning
+
+Preferred Qualifications
+
+ Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+ Experience with large scale distributed systems such as Hadoop, Spark etc.
+
+#################################################
+
+Job Title: AI Algorithm Software Engineer
+Job Description: 
+Company Q1 is searching for Deep Learning algorithms architect to develop artificial intelligence (AI), computer vision algorithms and applications for our Metropolis for Factories and Manufacturing platforms. Artificial Intelligence is transforming how we collect, inspect, and analyze different kinds of sensor data that impacts everything from manufacturing automation, warehouse management, product inspections to safety workflows. Company Q1 Metropolis is leading this AI revolution, providing the tools, technologies, and expertise to meet every challenge with smarter, faster applications.
+
+This challenging role will require someone who deeply understands and can architect algorithms with Large Language and Multi-modal (LLM/LMM) Foundation models to advance the application of artificial intelligence and machine learning to the Manufacturing AI market. Practical experience in the use and the building of Computer Vision algorithms, models and tools will be critical.
+
+What You’ll Be Doing
+
+Architect, analyze, develop, and prototype key deep learning algorithms and solutions as a core member of our growing software team. 
+Collaborate with diverse software, research, and hardware teams across geographies to analyze the interplay of hardware and software architectures solve critical problems and future applications 
+Support engagements with customers and their third-party software providers. Collaborate with Product Management, Marketing, and Developer Technology teams. 
+Develop algorithms (such as zero/few-shot learning, unsupervised learning) to address data scarcity and collection challenges. 
+Utilize generative models (Diffusion, GANs, VAEs) for data generation to overcome data scarcity issues. 
+
+What We Need To See
+
+MS or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field with a focus on Deep Learning, Machine Learning, and Computer Vision with 2+ years of work experience.
+Proven experience in algorithm development for data analytics, especially with LLMs and Multi-Modal Foundation models. Experience working and curation with multi-modal datasets. 
+Experience with algorithms including zero/few-shot learning, self-supervised and unsupervised learning techniques, generative AI models for synthetic dataset 
+Proficiency in working with deep learning frameworks such as TensorFlow and PyTorch, Strong programming skills in Python and/or C++ 
+Strong communication skills and ability to work in a collaborative environment. 
+
+Ways To Stand Out From The Crowd
+
+Track record of contributions to academic publications in the field of AI/ML or open-source projects. 
+
+#################################################
+
+Job Title: Machine Learning Engineer
+Job Description: In this position, you will have the opportunity to be part of our extraordinary team of Computer Graphics, Computer Vision and Deep Learning researchers and engineers to discover and build solutions to previously-unsolved challenges in human representation and motion impacting millions of users.
+Description
+Our Computer Vision Face and Body technologies team is looking for a skilled Machine Learning Engineer with experience developing ML models for computer vision and graphics applications. You will be actively involved in the whole ML cycle from data collection design and data processing to model design and experiments to validation and QA in the wild. You will perform applied research development to adapt state-of-the-art methods or implement new methods to ship features on iOS and VisionOS platforms. In this role, you will work closely with other ML engineers as well as data and software engineers both internally and cross-functionally.
+Minimum Qualifications
+3+ years of experience working on ML projects for computer vision / graphics applications.
+Software engineering skills and proficiency in Python.
+Experience with PyTorch.
+BA/BS degree in computer vision, computer graphics, machine learning or related field.
+Preferred Qualifications
+MS or PhD in computer vision, computer graphics, machine learning, computer science, computer engineering or related fields.
+Self-motivated with proven ability to effectively prioritize and deliver tasks on schedule.
+Excellent communication and experience working with cross-functional teams.
+
+#################################################
+
+Job Title: Large Machine Learning Model Optimization Engineer
+Job Description: Our team is an applied research and engineering team responsible for developing real-time on-device Language, Computer Vision, and Machine Perception technologies across Company O1 products. We focus on technology research and development to deliver Company O1 quality, state-of-the-art experiences. Our team prides itself on innovating through the full stack, and partnering with HW, SW and ML teams to influence the sensor and silicon roadmap that brings our vision to life.
+
+We are directly responsible for the on-device optimization and deployment of the Company O1 Intelligence LLM and diffusion models. As a Machine Learning Engineer, you will have the opportunity to be at the forefront of technological advancements and contribute to the successful shipping and delivery of Company O1 intelligence. You will be responsible for implementing and delivering various optimization techniques that improve the performance of large language and diffusion models on devices. Additionally, you will collaborate with a diverse range of organizations within Company O1. Your innovations will significantly impact the entire ML model lifecycle of Company O1 intelligence.
+Description
+We’re looking for strong ML software engineers/leaders to drive the development of the on-device Company O1 Intelligence LLM and diffusion model developments. This includes defining and leading the execution of model compression, distillation, and integrating to the full Company O1 Intelligence user experiences. We expect you to have strong, efficient ML model development experiences and a passion for shipping machine learning models on device. We also encourage publishing novel research at top ML conferences.
+Minimum Qualifications
+Software engineering skills in Python
+Experience in developing large computer vision and machine learning models, particularly on the hardware-aware model optimizations
+BS and a minimum of 3 years relevant industry experience
+Preferred Qualifications
+Familiar with model compression algorithms including quantization, pruning, distillations, and experience on optimizing large diffusion models or language models
+MS or PhD degree in Computer Science, or equivalent industry research experience
+Experience with hardware architecture, software & hardware co-design
+Leadership experience in driving large-scale projects in the industry
+Strong communication skills; phenomenal work ethic and collaboration
+
+#################################################
+
+Job Title: Senior Applied Scientist
+Job Description: Company S2 is investing heavily in building a world class advertising business and developing a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses for driving long-term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
+
+We are seeking a technical leader for our Supply Science team. This team is within the Sponsored Product team, and works on complex engineering, optimization, econometric, and user-experience problems in order to deliver relevant product ads on Company S2 search and detail pages world-wide. The team operates with the dual objective of enhancing the experience of Company S2 shoppers and enabling the monetization of our online and mobile page properties. Our work spans ML and Data science across predictive modeling, reinforcement learning (Bandits), adaptive experimentation, causal inference, data engineering.
+
+Key job responsibilities
+
+Search Supply and Experiences, within Sponsored Products, is seeking a Senior Applied Scientist to join a fast growing team with the mandate of creating new ads experience that elevates the shopping experience for our hundreds of millions customers worldwide. We are looking for a top analytical mind capable of understanding our complex ecosystem of advertisers participating in a pay-per-click model- and leveraging this knowledge to help turn the flywheel of the business.
+
+As a Senior Applied Scientist on this team you will:
+
+Act as the technical leader in Machine Learning and drive full life-cycle Machine Learning projects.
+Lead technical efforts within this team and across other teams.
+Build machine learning models, perform proof-of-concept, experiment, optimize, and deploy your models into production.
+Run A/B experiments, gather data, and perform statistical analysis.
+Establish scalable, efficient, automated processes for large-scale data analysis, machine-learning model development, model validation and serving.
+Work closely with software engineers to assist in productionizing your ML models.
+Research new machine learning approaches.
+Recruit Applied Scientists to the team and act as a mentor to other scientists on the team.
+
+A day in the life
+
+The successful candidate will be a self-starter comfortable with ambiguity, with strong attention to detail, and with an ability to work in a fast-paced, high-energy and ever-changing environment. The drive and capability to shape the direction is a must.
+
+About The Team
+
+We are a customer-obsessed team of engineers, technologists, product leaders, and scientists. We are focused on continuous exploration of contexts and creatives where advertising delivers value to customers and advertisers. We specifically work on new ads experiences globally with the goal of helping shoppers make the most informed purchase decision. We obsess about our customers and we are continuously innovating on their behalf to enrich their shopping experience on Company S2
+
+Basic Qualifications
+
+ 3+ years of building machine learning models for business application experience
+ PhD, or Master's degree and 6+ years of applied research experience
+ Experience programming in Java, C++, Python or related language
+ Experience with neural deep learning methods and machine learning
+
+Preferred Qualifications
+
+ Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+ Experience with large scale distributed systems such as Hadoop, Spark etc.
+
+#################################################
+
+Job Title: Tech Lead/Manager, Knowledge Graph
+Job Description: We're partnered with a Foundational AI start-up who are seeking a Tech Lead / Manager with deep expertise in Machine Learning, Knowledge Graphs, and Entity Resolution to lead a cross-functional team of ML engineers, data scientists, and software engineers. This role will focus on driving innovation and delivering solutions that leverage knowledge graphs, ontology management, and entity linking to enhance data understanding and decision-making.
+
+You will oversee the end-to-end development lifecycle, from model design and training to production deployment, while also contributing to architectural decisions and strategic initiatives. The ideal candidate should have a passion for knowledge representation, experience in entity work, and a proven track record of delivering ML-driven solutions at scale.
+
+
+
+Key Responsibilities:
+
+Team Leadership & Management: Lead and mentor a team of engineers and data scientists, fostering a collaborative and innovative environment.
+Architecture & System Design: Oversee the design of scalable ML models and systems that incorporate knowledge graphs and entity resolution.
+Machine Learning Development: Work with the team to develop, train, and optimize machine learning models, including those for entity recognition, linking, and graph-based recommendations.
+Knowledge Graph Engineering: Drive the development and enhancement of knowledge graph infrastructures, ensuring efficient storage, querying, and use of semantic data.
+Entity Resolution: Lead efforts to disambiguate and link entities across large-scale datasets, creating unified and enriched knowledge representations.
+Collaboration & Communication: Work closely with product managers, data engineers, and other stakeholders to align technical efforts with business goals.
+Research & Innovation: Stay up to date with the latest advancements in ML, NLP, and graph technologies, incorporating new ideas into the team’s work where appropriate.
+
+
+Required Qualifications:
+
+Education: BS/MS/PhD in Computer Science, Engineering, Mathematics, or a related field.
+Experience:
+6+ years of experience in machine learning, data science, or AI, with a focus on knowledge graphs, ontologies, and entity work.
+2+ years in a leadership or management role, with a proven ability to mentor and guide technical teams.
+Experience working with large-scale data systems, especially those involving graph databases (e.g., Neo4j, GraphQL, RDF).
+Strong background in NLP, entity recognition, and entity resolution techniques.
+Experience with ML frameworks such as TensorFlow, PyTorch, or scikit-learn.
+
+
+Skills:
+
+Proficiency in Python or other relevant programming languages.
+Deep understanding of semantic technologies, including RDF, OWL, SPARQL, and ontological frameworks.
+Hands-on experience with knowledge graph construction, manipulation, and querying.
+Expertise in linking and resolving entities from unstructured or semi-structured data sources.
+Strong problem-solving skills with a focus on building scalable, high-performance solutions.
+Excellent communication and leadership skills.
+
+#################################################
+
+Job Title: Data Scientist
+Job Description: 
+Company S2’s physical owned and operated assets like the fleet, packages, and lockers drive billions of impressions each year that reach hundreds of millions of people. Project Chariot's mission is to transform these assets into the biggest, most loved out of home media channel in the world, helping Company S2 win hearts and minds (perceptions) and change customer behaviors (high value actions) for our most important programs and offerings. This Data Scientist will help measure the upper funnel perception impact of this new marketing campaigns using causal inference techniques, so that Company S2 can continue to delight customers by serving the right creative at the right time. You will sit in a blended Data and Engineering team serving Global Fixed Marketing teams.
+
+We are a team with broad reach tackling issues that have never been solved before, which brings the opportunity to invent and make an outsized impact with your work. We have deep partnerships with other science organizations at Company S2, and leverage partnerships to drive adoption of our tools across a very broad audience.
+
+Key job responsibilities
+
+ Use statistical and machine learning techniques to measure the causal impact of marketing campaigns on customer's perception;
+ Design, build, test, and deploy measurement models using ML techniques on big data end-to-end, using the latest Company K3 technologies.
+ Advocate for the right channel experimental design to influence long term product roadmaps.
+ Advise senior leadership, both tech and non-tech, on channel strategy and implications of model design decisions.
+
+Basic Qualifications
+
+ 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+ 2+ years of data scientist experience
+ 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+ Bachelor's degree
+ Experience applying theoretical models in an applied environment
+
+Preferred Qualifications
+
+ Experience in Python, Perl, or another scripting language
+ Experience in a ML or data scientist role with a large technology company
+
+#################################################
+
+Job Title: Staff Research Scientist
+Job Description: About Company O6
+
+Company O6 is a leading AI lending marketplace partnering with banks and credit unions to expand access to affordable credit. By leveraging Company O6's AI marketplace, Company O6-powered banks and credit unions can have higher approval rates and lower loss rates across races, ages, and genders, while simultaneously delivering the exceptional digital-first lending experience their customers demand. More than two-thirds of Company O6 loans are approved instantly and are fully automated.
+
+Company O6 is a digital-first company, which means that most Company O6ers live and work anywhere in the United States. However, we also have offices in San Mateo, California; Columbus, Ohio; and Austin, Texas.
+
+Most Company O6ers join us because they connect with our mission of enabling access to effortless credit based on true risk. If you are energized by the impact you can make at Company O6, we’d love to hear from you!
+
+The Team: 
+
+Company O6 aims to expand access to credit based on true risk. As part of this mission, Company O6 actively engages in marketing and borrower acquisition efforts to attract new customers. One key strategy involves direct mail (DM), an outbound marketing channel aimed at educating consumers about Company O6 via physical mail and encouraging them to take out a loan.
+
+Company O6’s Machine Learning, Growth Direct Mail team develops advanced DM models that predict conversion probabilities and effectively prioritize prospects. This team significantly contributes to Company O6's revenue and is integral to its overall success.
+
+As a Staff Research Scientist on this team, you will play a crucial role in advancing direct mail campaign effectiveness through cutting-edge machine learning techniques. Your responsibilities will include participating in research and development initiatives to innovate and fine-tune predictive models that accurately forecast conversion probabilities and prioritize prospects. Coordinate and run prospects selection for direct mail campaigns. Collaborating closely with cross-functional teams, you will design and implement experiments to optimize campaign outcomes and enhance ROI. Your role will encompass exploring novel algorithms and methodologies, assessing their impact on revenue metrics, and propose innovative strategies for leveraging machine learning to enhance Company O6’s marketing strategies.
+
+How you’ll make an impact:
+
+Participate in research and development efforts to innovate and refine predictive models for direct mail campaigns, implementing state-of-the-art machine learning algorithms to enhance conversion probability accuracy.
+ Coordinate and run prospects selection as part of direct mail campaigns.
+Collaborate closely with cross-functional teams including engineers and marketing specialists to design and execute experiments aimed at optimizing campaign outcomes.
+Evaluate the impact of model enhancements on revenue metrics and provide actionable insights to stakeholders.
+Present findings and recommendations to stakeholders and contribute to strategic discussions on enhancing campaign effectiveness and ROI.
+Continuously propose and explore creative ways to leverage machine learning to improve marketing strategies and drive business growth.
+
+Minimum Qualifications
+
+Advanced degree in Computer Science, Statistics, Mathematics, or a related quantitative field.
+Proficiency in Python and in machine learning frameworks (e.g., XGBoost, PyTorch, sk-learn).
+Strong understanding of statistical modeling, experimental design and model development principles.
+
+Preferred Qualifications:
+
+4+ years of hands-on experience in applying machine learning techniques to real-world problems, preferably in marketing analytics or related fields.
+Proven track record of developing and deploying predictive models using machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-Learn).
+Proficiency in Scala and Spark.
+Strong critical thinking skills and a structured approach to problem-solving.
+Excellent verbal and written communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+
+What we’re looking for:
+
+Strong academic credentials with a master's degree in statistics, mathematics, economics, computer science, or other quantitative areas of study; Ph.D. preferred
+Programming skills in Python 
+Full-stack expertise with all steps of the modeling process from ideation to productionalizing code; OR deep expertise in either statistical modeling or machine learning
+Proficiency in a broad array of mathematical, statistical learning and machine learning concepts and applications
+Knowledge of machine learning, pipelines and engineering architecture 
+Detailed understanding of building good technical solutions; ability to convert ideas into testable hypotheses and/or next steps
+Ability to meet team standards with respect to quality and velocity with minimal help or direction from peers
+For more complex tasks, ability to break down problems into smaller tasks, and use them to estimate the timeline of executing a larger initiative. Willingness to make the right tradeoffs when needed to deliver projects on time.
+Proactively communicate to stakeholders and teammates with ability to contextualize technical results 
+Ability to mentor junior teammates with interest in technical and/or people leadership is a plus
+Strong sense of intellectual curiosity balanced with humility, drive and teamwork
+Numerically-savvy and smart with ability to operate at a speedy pace
+Enthusiasm for and alignment with Company O6’s mission and values
+
+#################################################
+
+Job Title: ML - Data Scientist
+Job Description: Do you have a passion for computer vision and deep learning? The Video Engineering Data Analytics and Quality (DAQ) group is looking for an experienced Data Scientist with a strong background in computer vision and machine learning to join our dynamic team. The ideal candidate will be responsible for evaluating machine learning models, developing performance metrics, and conducting thorough failure analysis. This role requires a deep understanding of machine learning algorithms, data processing, and model optimization techniques.
+Description
+Our organization manages a diverse array of programs, each presenting a unique set of challenges, however, all programs fundamentally focus on evaluating machine learning algorithms and assessing their quality. In this role, you will work closely with cross-functional teams, leveraging the expertise of domain specialists and project owners while adapting our methodologies as we gain new insights. We aim to support teams in identifying gaps, assessing risks and driving towards impactful outcomes. 
+
+
+IN THIS ROLE YOU WILL:
+-  Evaluate Machine Learning Models: Analyze and validate machine learning and computer vision models to ensure they meet performance standards.
+
+-  Develop Metrics: Design and implement metrics to measure the effectiveness and accuracy of models.
+
+-  Failure Analysis: Perform detailed failure analysis to understand model weaknesses and identify areas for improvement.
+
+-  Data Processing: Preprocess and clean large datasets to prepare them for modeling.
+
+-  Model Optimization: Optimize models for performance and scalability, applying state-of-the-art techniques.
+
+-  Collaborate: Work closely with cross-functional teams, including software engineers, product managers, and other data scientists, to integrate models into production.
+Minimum Qualifications
+BS and a minimum of 3 years relevant industry experience
+Solid background in data science, machine learning, Computer vision and statistical data analysis
+Advanced programming skills in data manipulation & processing (SQL & Python preferred)
+Demonstrated experience in in-depth analysis of machine learning model failures
+Experience crafting, conducting, analyzing, and interpreting experiments and investigations
+Expertise in data wrangling and developing data visualizations & reporting with toolings such asTableau, Superset, Company K3 etc.
+Preferred Qualifications
+Experience managing complex programs
+Familiar with machine learning interpretability method
+Familiar with various foundation models such as CGPT4V, LLAMA, CLIP
+Detail-oriented to keep track of and understand the workings of complex algorithms
+Self-motivated, curious, creative and critical thinking capabilities to improve data quality evaluation methods for diverse and complex data annotation programs
+Outstanding verbal and written communication skills, along with strong collaborative abilities
+
+#################################################
+
+Job Title: Principal Applied Scientist
+Job Description: 
+Description
+
+At Company S2, we believe that scientific innovation is essential to being the most customer-centric company in the world. Our scientists' ability to have an impact at scale allows us to attract some of the brightest minds in machine learning, artificial intelligence and related fields.
+
+Company S2 scientists employ the company's working backwards method to identify problems to solve on behalf of customers in research areas ranging from machine learning to operations, GenAI, robotics, quantum computing, computer vision, economics, search, sustainability and more.
+
+Learn more about Company S2 Science here: https://www.amazon.science/
+
+We are hiring across multiple businesses and in many locations across the US. Apply here to learn more about open roles that could be a compelling fit for your background.
+
+Key job responsibilities
+
+You will be responsible for defining key research directions, adopting or inventing new machine learning techniques, conducting rigorous experiments, publishing results, and ensuring that research is translated into practice. You will develop long-term strategies, persuade teams to adopt those strategies, propose goals and deliver on them. You will also participate in organizational planning, hiring, mentorship and leadership development. You will be technically fearless and with a passion for building scalable science and engineering solutions. You will serve as a key scientific resource in full-cycle development (conception, design, implementation, testing to documentation, delivery, and maintenance).
+
+Basic Qualifications
+
+ 10+ years minimum of hands-on science application experience
+ PhD in a relevant technical field (or equivalent experience in some cases)
+
+Preferred Qualifications
+
+Experience programming in Java, C++, Python or related language
+Experience in building machine learning models for business application
+
+#################################################
+
+Job Title: Applied Scientist 
+Job Description: 
+Description
+
+The CATALST NLP Services team within the Selling Partner Services (SPS) Core Services organization is responsible for simplifying multi-lingual experiences for our customers. We build and leverage various AI services to eliminate language barriers at scale through Machine Translation for Company S2 Customers and Sellers WW across 30+ programs within SPS and customers outside of SPS. We leverage state-of-the-art NLP solutions including Large Language Models, Machine Translation, Language Detection, and OCR to provide a full suite of content analysis capabilities. Our customers include Selling Partners, Buyers, Company S2 Associates, Company S2 Investigators, and various Science teams.
+
+In this role, you will be a key owner within our cross-disciplinary team that includes Product Managers, Software Engineers, and Applied Scientists and execute on our 3 Year Plan. You will pioneer new technologies in NLP, machine translation, and machine learning. You will have ownership of the end-to-end development of solutions to complex problems from design to implementation and you will play an integral role in strategic decision-making. You will also work closely with other stakeholders such as engineers, operations teams and product owners to build ML pipelines, platforms and solutions that solve business problems.
+
+Key job responsibilities
+
+ Participate in the design, development, evaluation, deployment and updating of automated and scalable machine learning models, with a focus on machine translation
+ Develop and/or apply statistics, NLP and machine learning experiments and methodologies to different applications
+ Work closely with Scientists and Software Engineers on experimentations, evaluation and implementation
+ Work closely with business partners to understand the goals and develop solutions to achieve such goals
+
+Basic Qualifications
+
+ Experience programming in Java, C++, Python or related language
+ Experience with SQL and an RDBMS (e.g., Company A1) or Data Warehouse
+
+Preferred Qualifications
+
+ Experience implementing algorithms using both toolkits and self-developed code
+ Have publications at top-tier peer-reviewed conferences or journals
+
+#################################################
+
+

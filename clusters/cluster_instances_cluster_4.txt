@@ -1,0 +1,794 @@
+Cluster 4:
+
+Job Title: Senior Strategy Analyst
+Job Description: As a Senior Product Leader, you will play a key role in driving the product strategy and integrating business solutions within the company’s data science and AI/ML teams. Your focus will be on operationalizing data insights and leading product development initiatives. While the role will occasionally involve coding, your main responsibility will be shaping the strategic direction, managing business integration, and leading impactful projects across the company.
+
+Key Responsibilities:
+
+Lead the development and execution of product strategies, aligning them with the company’s overall business goals.
+Collaborate with cross-functional teams to identify business opportunities, structure them into actionable solutions, and model predictive systems.
+Guide the product development lifecycle from ideation to implementation, focusing on scalability and long-term business impact.
+Take charge of the Lead Scoring Initiative, leading this key project for 60-80% of your role during the first 6-12 months.
+Engage with senior leadership, including the CEO and CSO, to communicate insights and influence business decisions.
+Contribute to the company’s thought leadership in the application of Gen AI and AI in the education sector.
+Support the rollout of new initiatives and pilot programs across the company, collaborating closely with the data science team.
+Skills Needed to Be Successful:
+
+Product Leadership: Proven experience leading product strategy, particularly in a business-facing role that requires strategic problem-solving and execution.
+Business Acumen: Strong ability to translate business objectives into actionable product solutions that align with company goals.
+Consulting or Product Background: Experience in consulting or product roles, especially within startup or mid-sized companies, with an emphasis on impact.
+Technical Understanding: Familiarity with SQL, Python, and tools like Company K4 or Company X5, allowing effective collaboration with technical teams.
+Conceptual Problem-Solving: A creative, strategic mindset to tackle complex, conceptual challenges in business and product development.
+Key Selling Points:
+
+Impactful Role: Play a critical role in shaping product strategy and influencing key business decisions within a fast-growing company.
+Collaborative Culture: Work closely with talented data scientists, technologists, and senior leadership in a dynamic, cross-functional environment.
+Career Growth: This is an opportunity to make a significant impact within the education technology sector while growing your leadership expertise.
+Cutting-Edge Projects: Be part of innovative projects, such as the Lead Scoring Initiative and the company’s focus on integrating AI into education programs.
+Visionary Leadership: Influence and drive thought leadership around the role of Gen AI in business and education.
+
+
+#################################################
+
+Job Title: Responsible AI Project Manager
+Job Description: Company Q3 is looking for a highly talented and self- motivated Responsible AI and Governance Project Manager to join it in advancing the technological world through innovation and creativity.
+
+Role/Responsibilities 
+
+Manage the execution of responsible AI and governance certification and assessment enablement initiatives.
+Track project milestones and metrics and create status reports that effectively communicate the status of projects.
+Provide project team direction and work closely with business units and cross-functional teams to carry out certification and assessment work efforts.
+Enable the verification of responsible AI and governance practices through evidence collection and documentation.
+Communicate effectively with stakeholders to promote awareness and understanding of responsible AI and governance concepts.
+
+
+Skills/Qualifications
+
+Experience in responsible AI, governance, risk and compliance, or a related field.
+Proven track record in leading achievement of certifications such as ISO 42001 or similar.
+Excellent communication and interpersonal skills.
+Ability to work collaboratively across diverse teams.
+Strategic thinking and problem-solving capabilities. 
+Degree in a technical, business, or legal field.
+Relevant certifications in AI, project management, and auditing (e.g., ISO 42001) are preferred.
+
+#################################################
+
+Job Title: Project Manager AI Initiatives
+Job Description: The Project Manager Health AI Initiatives position is a 12-Month contract role and is responsible for leading the coordination and execution of Yale New Haven Health System's (Company Q4) Innovative Health AI competition and the overall management, planning and organization of the annual AI summit. This role will play a pivotal part in advancing the Center for Health Care Innovation mission by fostering innovation, collaboration, and awareness within Company Q4 and the broader academic and public communities
+
+About The Center For Health Care Innovation
+
+The Center for Health Care Innovation is a leading Innovation Works at Yale New Haven Health System within the department of Business Development & Strategic Projects. Founded in 2019 as a joint initiative between the health system and Yale University, the Center is focused on building a culture of innovation at our health system while also making a dynamic contribution to the broader New Haven ecosystem. On a day-to-day basis we build infrastructure and awareness of innovation resources throughout the health system. We also identify, invest in and pilot health innovations that solve real problems and pain points for patients, providers and the health system. In 2024 our Center will implement an innovation awards program that will provide much needed early-stage funding to accelerate and scale the most promising ideas in our ecosystem.
+
+Why Join Our Team?
+
+We are a small but mighty team that is passionate about radically changing healthcare and ensuring our health system is well positioned as the healthcare landscape evolves. Close-knit and collaborative, we pride ourselves on bringing diverse yet complementary skillsets to the table to transform the current standard of care, knowing that affecting change in healthcare can be hard. We are the trusted advisors to leadership and clinicians on anything that touches early-stage innovation, from strategic
+
+partnerships to pilots.
+
+
+Responsibilities
+
+1. Responsible oversight of the Health AI Competition:
+1.1. Design, plan, and oversee a multi-hospital AI competition open to employees, entrepreneurs, and faculty.
+1.2. Develop competition guidelines, criteria, and evaluation metrics in collaboration with stakeholders.
+1.3. Coordinate the judging panel and ensure transparency and fairness in the evaluation process
+1.4. Organize and execute an awards ceremony to recognize the medal winners (1 gold, 2 silver, 3 bronze).
+2. Responsible for the coordination and execution of Center for Healthcare Innovation events including the year-end AI Summit:
+2.1. Plan and execute a high-impact AI summit aimed at engaging the public, academic community, and healthcare professionals.
+2.2. Coordinate keynote speakers, panel discussions, and breakout sessions, ensuring diverse and high-quality content.
+2.3. Collaborate with marketing and communications teams to promote the event and maximize attendance.
+2.4. Manage event logistics, including venue booking, technology setup, and participant registration.
+3. Stakeholder Management:
+3.1. Serve as the primary point of contact for senior leaders within the organization and partner hospitals.
+3.2. Facilitate collaboration and achieve results among diverse stakeholder groups, ensuring alignment with strategic goals.
+3.3. Cultivate strong relationships with internal and external stakeholders to enhance the success and visibility of the initiatives.
+4. Project Management:
+4.1. Develop detailed project plans, timelines, and budgets for both initiatives.
+4.2. Monitor progress and adjust plans as necessary to meet objectives and deadlines.
+4.3. Ensure effective stakeholder communication and collaboration across multiple departments and institutions.
+4.4. Prepare and deliver regular updates and reports to leadership and key stakeholders.
+Qualifications
+
+EDUCATION
+
+Bachelors degree in Business, Project Management, Healthcare, or a related field. Masters degree preferred.
+
+Experience
+
+Minimum of five (5) years of experience in high level project management, preferably in healthcare or technology sectors.
+
+#################################################
+
+Job Title: GEN AI Project Manager
+Job Description: Company R4 is the leading career destination for tech experts at every stage of their careers. Our client, CA-One Tech Cloud Inc., is seeking the following. Apply via Company R4 today!
+
+Key Responsibilities:
+
+Manage end-to-end AI project lifecycles, including planning, execution, and delivery.
+Collaborate with data scientists, engineers, and business teams to align AI solutions with company goals.
+Define project scope, milestones, and timelines, ensuring timely and quality delivery.
+Oversee risk assessment, budgeting, and resource allocation.
+Stay updated on the latest in Generative AI and Machine Learning to drive innovation.
+Ensure compliance with AI ethics, governance, and security standards.
+
+Requirements:
+
+Bachelor's/Master s in Computer Science, AI, or a related field.
+Experience in AI/ML project management, preferably in Generative AI.
+Strong knowledge of Agile, Scrum, or other PM methodologies.
+Familiarity with AI/ML frameworks and cloud platforms.
+Excellent problem-solving, communication, and leadership skills.
+
+#################################################
+
+Job Title: Project Manager-Gen AI
+Job Description: Position’s Contributions to Work Group:
+
+Collect Requirements: Engage with business partners to gather detailed requirements for the Generative AI projects.
+Analyze Business Value: Evaluate the potential business value of different initiatives to help prioritize projects.
+Identify Key Capabilities: Determine the key Capabilities of projects that align with our GenAi strategy and goals.
+Facilitate Communication: Act as a liaison between the product management team and business partners to ensure clear and effective communication.
+Prepare Reports: Regularly prepare and present reports on project status, plans, and challenges.
+Support Strategic Planning: Assist the Generative AI Product Manager in strategic planning and setting product roadmap.
+Coordinate with Technical Teams: Work closely with technical teams to ensure that business requirements are clearly understood and effectively implemented.
+Monitor Project Progress: Keep track of project progress and ensure that projects are delivered on time and within budget.
+Conduct Market Research: Stay updated with the latest trends and advancements in Generative AI and how they can be leveraged for our business.
+Promote AI Understanding: Help promote a better understanding of AI capabilities and limitations within the organization to foster realistic expectations.
+Typical task breakdown:
+
+Collect Requirements: Engage with business partners to gather detailed requirements for the Generative AI projects.
+Analyze Business Value: Evaluate the potential business value of different initiatives to help prioritize projects.
+Identify Key Capabilities: Determine the key Capabilities of projects that align with our GenAi strategy and goals.
+Facilitate Communication: Act as a liaison between the product management team and business partners to ensure clear and effective communication.
+Prepare Reports: Regularly prepare and present reports on project status, plans, and challenges.
+Support Strategic Planning: Assist the Generative AI Product Manager in strategic planning and setting product roadmap.
+Coordinate with Technical Teams: Work closely with technical teams to ensure that business requirements are clearly understood and effectively implemented.
+Monitor Project Progress: Keep track of project progress and ensure that projects are delivered on time and within budget.
+Conduct Market Research: Stay updated with the latest trends and advancements in Generative AI and how they can be leveraged for our business.
+Promote AI Understanding: Help promote a better understanding of AI capabilities and limitations within the organization to foster realistic expectations.
+Interaction with team:
+
+Resource will be working very closely with the business, but in the WD team, as of right now, there is 1 team member.
+spans across multiple functional areas within business unit and across other business units within Client
+Work environment:
+
+2-3x in office weekly
+Education & Experience Required:
+
+Master’s degree in information mgmt is a minimum requirement
+5-8 years experience
+Technical Skills
+
+(Required)
+Proficient in Azure DevOps
+Experience in a product management or business analyst role is a plus.
+Strong understanding of AI, specifically Generative AI.
+Excellent communication and interpersonal skills.
+Ability to analyze and interpret complex data.
+Understanding of Business Needs: Ability to understand and interpret the business needs and translate them into application and operational requirements.
+Problem-Solving Skills: Ability to use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.
+Technical Skills: Proficiency in business intelligence tools, data analysis, and statistical methods.
+
+(Desired)
+· Experience Generative AI development ***
+10 years or more of professional experience
+Experience around software engineering, analytics, artificial Intelligence
+Extensive experience as a Product Manager with ability to manage multiple projects
+
+#################################################
+
+Job Title: Prompt Engineer
+Job Description: 
+Company O5 Group LLC is a Global Staffing & IT Technology Solutions company, with our prime focus of providing world class solutions to our customers with the right talent. We combine the expertise of our team and the culture of your company to help you with the solution that is affordable and innovative using high quality standards and technologies.
+
+We’ve served some of the largest healthcare, financial services, and government entities in the U.S.
+
+
+Company Overview
+
+Company O5 Group is a premier global provider of staffing and IT technology solutions, renowned for delivering exceptional services tailored to each client's unique needs. With a steadfast commitment to excellence, we merge expertise with innovation, ensuring cost-effective solutions of the highest quality. Our diverse client base spans healthcare, finance, government, and beyond, reflecting our adaptability and proficiency across industries. Operating in the United States, Canada, and Mexico, we pride ourselves on aligning with clients' cultures, deploying top-tier talent, and utilizing cutting-edge technologies. Company O5 Group stands as a beacon of reliability, efficiency, and innovation in the realm of staffing solutions.
+
+Job Overview
+
+We are looking for a Prompt Engineer to join our team and ensure the creation of effective and engaging prompts for our AI-generated content solutions. This role involves working closely with content creators, product teams, and data scientists to develop and refine prompts, optimize prompt performance, and stay up-to-date on the latest advancements in AI, natural language processing, and machine learning. You will be instrumental in creating and improving prompts to meet the needs of our clients and users.
+
+Responsibilities
+
+Design, develop, and refine AI-generated text prompts for various applications.
+
+Collaborate with content creators, product teams, and data scientists to ensure prompt alignment with company goals and user needs.
+
+Monitor and analyze prompt performance to identify areas for improvement.
+
+Optimize the AI prompt generation process to enhance overall system performance.
+
+Stay up-to-date on the latest advancements in AI, natural language processing, and machine learning.
+
+Provide support to content and product teams in understanding prompt engineering best practices.
+
+Draft and distribute reports on prompt performance and development progress.
+
+Primary Skills
+
+Proven work experience as a Prompt Engineer or similar role.
+
+Strong verbal and written communication skills.
+
+Proficiency in programming languages, AI-related tools such as ChatGPT, and data analysis techniques.
+
+Comprehensive understanding of natural language processing, machine learning, and AI-generated content development.
+
+Excellent problem-solving and analytical skills.
+
+Secondary Skills
+
+Ability to collaborate effectively with cross-functional teams.
+
+Relevant training and/or certifications in computer science, AI, or a related field.
+
+Qualifications
+
+Proven experience and expertise in AI and prompt engineering.
+
+Strong analytical and problem-solving skills.
+
+Effective communication and collaboration abilities.
+
+#################################################
+
+Job Title: Deep Learning Architect
+Job Description: Description
+
+Are you looking to work at the forefront of Machine Learning and AI? Would you be excited to apply cutting edge Generative AI algorithms to solve real world problems with significant impact? The Generative AI Innovation Center at Company K3 is a new strategic team that helps Company K3 customers implement Generative AI solutions and realize transformational business opportunities. This is a team of strategists, data scientists, engineers, and solution architects working step-by-step with customers to build bespoke solutions that harness the power of generative AI.
+
+The team helps customers imagine and scope the use cases that will create the greatest value for their businesses, select and train and fine tune the right models, define paths to navigate technical or business challenges, develop proof-of-concepts, and make plans for launching solutions at scale. The GenAI Innovation Center team provides guidance on best practices for applying generative AI responsibly and cost efficiently.
+
+You will work directly with customers and innovate in a fast-paced organization that contributes to game-changing projects and technologies. You will design and run experiments, research new algorithms, and find new ways of optimizing risk, profitability, and customer experience.
+
+We’re looking for top architects, system and software engineers capable of using ML, Generative AI and other techniques to design, evangelize, implement and fine tune state-of-the-art solutions for never-before-solved problems.
+
+Here at Company K3, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Company S2’s culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Mentorship & Career Growth
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional and enable them to take on more complex tasks in the future.
+
+About The Team
+
+Why Company K3?
+
+Company K3 is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+
+Sales, Marketing and Global Services (SMGS)
+
+Company K3 Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. The Company K3 Global Support team interacts with leading companies and believes that world-class support is critical to customer success. Company K3 Support also partners with a global list of customers that are building mission-critical applications on top of Company K3 services.
+
+Basic Qualifications
+
+ Bachelor of Science degree in Computer Science, or related technical, math, or scientific field (or equivalent experience)
+ At least 5 years of experience in designing, building, and/or operating large scale enterprise IT systems in a production environment;
+ At least 3 years of public cloud computing experience in Company K3 or other large scale cloud providers;
+ Relevant experience hosting and deploying ML solutions (e.g., for training, fine tuning, and inference);
+ Experience coding in Python, R, Matlab, Java or other modern programming languages;
+ Experience communicating across technical and non-technical audiences, including executive level stakeholders or clients;
+ Ability to communicate in a business setting in English and Spanish.
+
+Preferred Qualifications
+
+ Masters or PhD degree in computer science, or related technical, math, or scientific field
+ Strong working knowledge of deep learning, machine learning, generative AI, and statistics
+ Hands on experience building models with deep learning frameworks like MXNet, Tensorflow, Caffe, Torch, Theano or similar and deep learning (e.g., CNN, RNN, LSTM)
+ The motivation to achieve results in a fast-paced environment
+
+#################################################
+
+Job Title: Senior Responsible AI Engineer 
+Job Description: Company Q1 has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by a great technology—and amazing people.
+
+Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an Company Q1n, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We're looking for a Senior Responsible AI Engineer to join our Infrastructure, Planning and Processes organization. In this role, you will evaluate, refine, develop, test and automate groundbreaking AI research, practices and tools that augment and enhance our Machine Learning (ML) Development Life Cycle (MLDLC) process for ensuring ethically responsible AI models, datasets and SW, and then release and support the toolchain to all ML and DL (Deep Learning) Company Q1 projects, across thousands of engineers!
+
+What You Will Be Doing
+
+As the Responsible AI Toolchain Engineer, you will be a key contributor in shaping Company Q1's contribution to ethical development of AI models and SW!
+
+Identify open source, 3rd party, academic or internal software tools that aim to determine, evaluate, analyze, and report on performance of an AI model or dataset along the Responsible AI vectors of non-discrimination, privacy, security, safety, transparency, explainability, and more.
+Develop clear decision criteria for evaluating Responsible AI research, methods and tools.
+Evaluate the value and capabilities of the software practices and tools against clearly defined decision criteria.
+Test identified software tools and approaches on Company Q1's AI models, datasets and AI SW, report on relative value of each tool or method, and make recommendations whether to incorporate into Company Q1's MLDLC.
+Contribute to open source software tool projects involved in Responsible AI.
+Make an automation proposal for an end-to-end Responsible AI toolchain, and execute to success, as measured by productivity improvement of Company Q1’s AI model development process.
+Influence engineering teams to embrace and partner in continuous improvement of MLDLC toolchain and process for Responsible AI.
+Develop and deliver training on MLDLC Responsible AI toolchain, and partner with engineering teams to continuously improve the Responsible AI tool chain.
+Regularly communicate the program status and key issues to management.
+
+What We Need To See
+
+Bachelor's, Master's, or PhD in Computer Science, Computer Architecture, Electrical Engineering, Intelligent Systems, Machine Learning, Data Science, or a relevant field.
+5+ years of experience in development of software, tools or automation frameworks.
+Prior experience in programming skills or knowledge in Python, C, C++,
+Experience in one or more of: PyTorch, PERL, GitHub, SHAP, MLOps systems, or projects in the space of ethical AI tools or open source projects.
+Familiarity in one or more of: Sklearn, Pandas, Numpy, Jupyter, Slurm
+
+Ways To Stand Out From The Crowd
+
+Experience on AI dataset projects, including data collection, labeling, and verification.
+Experience on AI model training or inference projects.
+Any prior internship experience on tools for ensuring Responsible AI.
+Experience in Computer Vision, Hugging Face transformers, Fine Tuning LLMs and Multi-GPU Training
+
+#################################################
+
+Job Title: Model Behavior Architect, Alignment Finetuning
+Job Description: Company T5’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+About The Role
+
+As a Model Behavior Architect at Company T5, you'll be at the forefront of shaping AI system behavior to ensure it aligns with human values. Working within the Alignment Finetuning team, you'll combine your expertise in model evaluation, prompt engineering, and ethical judgment and knowledge to help create AI systems that respond with good judgment across diverse scenarios.
+
+Responsibilities
+
+Interact with models to carefully identify where model behavior and judgment can be improved
+Gather internal and external feedback on model behavior to document areas for improvement
+Design and implement subtle prompting strategies and data generation pipelines that improve model responses
+Identify and fix edge case behaviors through rigorous testing of your data generation pipelines
+Develop evaluations of language model behaviors across judgment-based domains like honesty, character, and ethics
+Work collaboratively with researchers on related teams like Trust and Safety, Alignment Science, and Applied Finetuning
+
+You May Be a Good Fit If You:
+
+Have extensive experience with prompt engineering and chaining for language models
+Demonstrate strong skills in evaluating AI system outputs on subtle or fuzzy tasks
+Have a background in philosophy, psychology, data science, or related fields
+Care about AI safety and the ethical implications of both current and future AI behaviors
+Are comfortable using basic Python and running basic scripts
+Have a keen eye for identifying subtle issues in AI outputs
+Understand how LLMs are trained and are familiar with concepts in reinforcement learning
+Have experience finetuning large language models
+Are happy to engage in test-driven development and to carefully analyze data and data pipelines
+
+Strong Candidates May Also Have:
+
+Formal training in ethics or moral philosophy or moral psychology
+Experience in data science with emphasis on data verification
+Conceptual understanding of language model training and finetuning techniques
+Previous experience developing evaluation frameworks for large language models
+Background in AI safety research or similar fields
+Experience with RLHF, constitutional AI, or other alignment techniques
+Published work related to AI ethics or safety
+Knowledge of model behavior benchmarking
+
+Join us in our mission to ensure advanced AI systems behave reliably and ethically while staying aligned with human values.
+
+#################################################
+
+Job Title: GenAI Lead Prompt Engineer
+Job Description: Choosing where to start and grow your career has a major impact on your professional and personal life, so it’s equally important you know that the company that you choose to work at, and its leaders, will support and guide you. With a diversity of people, global locations, technologies and products, Company U5 is a place where you can collaborate with other curious, creative Company U5ers.
+
+This position provides an opportunity to transition from other private, public, government or military experience to a Company U5 career.
+
+The Impact You’ll Make in this Role
+
+Company U5 is seeking a dynamic and experienced GenAI to join our team. you will be responsible for designing and developing prompt engineering strategies and techniques to optimize the performance and output of our GenAI models. The ideal candidate will have a strong background in Natural Language Processing (NLP), expertise in prompt engineering, and a passion for pushing the boundaries of AI technology. As a leader, you will possess leadership qualities to drive innovation and excellence in prompt generation processes.
+
+As a GenAI Lead Prompt Engineer, You Will Have The Opportunity To Tap Into Your Curiosity And Collaborate With Some Of The Most Innovative And Diverse People Around The World. Here, You Will Make An Impact By
+
+
+Leading the design and development of prompt engineering strategies and techniques to optimize the performance and output of our GenAI models.
+Implementing cutting-edge NLP techniques and prompt engineering methodologies to enhance the capabilities and efficiency of our GenAI models.
+Determining the most effective prompt generation processes and approaches to drive innovation and excellence in the field of AI technology.
+Supporting the team by providing guidance, mentorship, and technical expertise in prompt engineering, NLP, and AI technology.
+
+
+By taking on this role, you will play a crucial part in driving the success of our organization's GenAI initiatives and contribute to pushing the boundaries of AI technology in the field of Natural Language Processing.
+
+Key Responsibilities
+
+
+Lead the design and implementation of advanced prompt generation algorithms for the GenAI platform.
+Collaborate with AI researchers and developers to enhance prompt engineering techniques.
+Optimize prompt strategies to improve model performance and efficiency.
+Mentor and guide junior prompt engineers in best practices and methodologies.
+Stay updated on the latest advancements in AI prompt engineering to drive continuous improvement.
+Lead the development of Prompt Engineering Literacy program.
+
+
+Your Skills And Expertise
+
+To set you up for success in this role from day one, Company U5 requires (at a minimum) the following qualifications:
+
+
+Bachelor's degree or higher (completed and verified prior to start) in Computer Science or Engineering
+Eight (8) years of experience in software development in Python or Java in a private, public, government or military environment 
+
+
+Additional qualifications that could help you succeed even further in this role include:
+
+
+Master’s degree in Computer Science, Engineering, or related field from an accredited institution
+Previous experience in AI prompt engineering at a large manufacturing company.
+Proven experience in AI prompt engineering, preferably within the GenAI domain.
+Proficiency in programming languages commonly used in AI development.
+5+ years of Data Analysis experience
+Strong verbal and written communication skills
+Degree or prior experience in linguistics.
+Deep understanding of NLP, LLM, and ML.
+Strong background in AI technologies and machine learning algorithms.
+Leadership skills to guide a team of prompt engineers effectively.
+Excellent problem-solving abilities and a passion for innovation in AI prompt generation.
+
+
+Work location: 
+
+
+Hybrid Eligible (Job Duties allow for some remote work but require travel to Maplewood, MN at least 2 days per week)
+
+
+Travel: May include up to 10% International
+
+Relocation Assistance: May be authorized
+
+Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status).
+
+#################################################
+
+Job Title: Senior Solutions Architect - Generative AI
+Job Description: Job Description
+
+Company A1 Cloud Infrastructure (OCI) is the premier platform for AI and Generative AI workloads, including LLM development, model training, fine-tuning, and inferencing at scale. Leading companies like Mosaic ML, Adept AI, and Cohere, along with over 30 other AI development firms, have committed more than $14 billion in capacity on our Gen2 Cloud. Company Q1 also relies on OCI’s RDMA cluster networking technology to support their AI infrastructure. To propel the market success of our offerings, we are building a team of highly motivated and talented individuals across the Asia Pacific region.
+
+About the Job:
+
+We are seeking a Senior Solutions Architect to serve as a Subject Matter Expert (SME) and thought leader. You will work closely with customers to design solutions that leverage our Generative AI services and infrastructure. By directly engaging with clients, you will help them understand their business challenges, guide them through the implementation of generative AI solutions, and conduct both briefing and deep dive sessions to advise on effective adoption strategies.
+
+As a member of the Customer Strategy and Specialist AI JAPAC Team, you will collaborate with OCI Cloud sales and engineering teams to incubate, pilot, and deploy OCI Generative AI services within enterprises, AI Labs, and startups. You will create reference architectures, implement use cases, and produce white papers, blogs, and presentations to empower customers and partners to maximize their use of Generative AI on OCI.
+
+Key Responsibilities:
+
+Demonstrate the unique advantages of OCI Cloud by engaging with customers, showcasing features, tuning models, optimizing performance, and conducting profiling and benchmarking.
+Develop repeatable technical assets such as workshops, scripts, and reference architectures to facilitate the adoption of OCI's AI and Generative AI portfolio.
+Architect end-to-end Generative AI solutions with a focus on LLMs and retrieval-augmented generation (RAG) workflows.
+Promote OCI Generative AI services and share best practices through events, public forums, blogs, white papers, and reference architectures.
+Mentor OCI field Cloud Engineers on Generative AI solutions to enhance awareness and adoption through proof of concepts, workshops, and customer/partner enablement.
+Travel as needed.
+
+
+Qualifications:
+
+Minimum of 10 years of experience in software engineering, cloud engineering, modern data platforms, systems architecture, design, and implementation.
+Knowledge and experience with AI and Generative AI platforms, specialized infrastructure, LLM design, and use cases.
+Proven track record in designing and implementing solutions, along with expertise in relevant tools and technologies. Strong analytical and problem-solving skills to resolve complex technical issues related to AI, ML, and Generative AI applications.
+Proficiency in programming languages (e.g., Java, Python) and databases (e.g., Company A1, MySQL), with experience developing and executing AI solutions across various cloud data platforms, data stores, Graph Stores, and Vector Stores.
+Understanding of GPU cluster architecture and experience leveraging parallel processing for accelerated model training and inference.
+Exceptional communication and collaboration skills, with the ability to articulate complex technical concepts to both technical and non-technical stakeholders.
+Experience delivering and leading workshops, training sessions, and presenting technical solutions to diverse audiences.
+High fluency in Japanese is essential for this role.
+
+
+If you are passionate about shaping the future of AI and want to be part of a groundbreaking team, we invite you to apply!
+
+About Us
+
+As a world leader in cloud solutions, Company A1 uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+#################################################
+
+Job Title: AI/ML Architect
+Job Description: Job Overview:
+
+We are seeking an experienced AI Architect to join our dynamic team. This key leadership role requires a visionary with deep expertise in AI/ML, natural language processing (NLP), and systems architecture. As an AI Architect, you will be
+
+responsible for designing and implementing the AI architecture that drives our fact-checking platform. You will lead the technical direction, oversee the development of AI/ML models, and ensure the seamless integration of these models into our systems.
+
+
+
+Key Responsibilities:
+
+Architectural Design & Strategy:
+
+• Design and develop the overarching AI architecture for the Factfinders Pro platform, ensuring scalability, reliability, and performance.
+
+• Define the AI/ML strategy in alignment with the company’s mission and long-term goals.
+
+• Collaborate with engineering, data science, and product teams to integrate AI-driven solutions into the platform effectively.
+
+Leadership & Team Development:
+
+Lead, mentor, and guide a multidisciplinary team of data scientists, machine learning engineers, and data analysts.
+
+• Drive innovation within the team by fostering a culture of research and experimentation with new AI/ML technologies.
+
+Technology Implementation:
+
+• Oversee the end-to-end lifecycle of AI projects, from concept and design through to implementation and deployment.
+
+• Ensure the AI models and systems are robust, scalable, and meet the performance requirements for real-time fact-checking.
+
+• Integrate state-of-the-art NLP techniques and tools to enhance the platform’s fact-checking capabilities.
+
+System Integration & Optimization:
+
+• Work closely with data engineers to design data pipelines that support the AI architecture, ensuring data quality and availability.
+
+• Implement MLOps best practices to manage model deployment, versioning, and monitoring.
+
+• Optimize AI models and systems for performance, cost-efficiency, and reliability.
+
+Research & Innovation:
+
+• Stay at the forefront of AI/ML advancements, particularly in NLP, deep learning, and reinforcement learning.
+
+• Identify and implement new AI/ML technologies and methodologies that can improve the platform’s capabilities.
+
+• Publish research findings and contribute to the AI/ML community, representing Factfinders Pro at conferences and industry events.
+
+Required Skills and Qualifications:
+
+Education:
+
+•Master’s or Ph.D. in Computer Science, AI, Machine Learning, or a related field.
+
+Experience:
+
+•7+ years of experience in AI/ML roles, with at least 5 years in an architect or senior technical leadership position.
+
+•Proven experience in designing and deploying large-scale AI systems, particularly those involving NLP and text analysis.
+
+•Strong background in software architecture, system design, and cloud infrastructure.
+
+Technical Skills:
+
+•Expertise in AI/ML algorithms, deep learning frameworks (e.g. TensorFlow, PyTorch), and NLP tools (e.g., Transformers, BERT).
+
+•Proficiency in programming languages such as Python, Java, or C++.
+
+•Experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., Company K3, GCP, Azure).
+
+•Strong understanding of MLOps, including CI/CD for machine learning, model monitoring, and data governance.
+
+Architectural & Leadership Skills:
+
+•Ability to design and implement complex AI architectures that meet business requirements.
+
+•Strong leadership and mentorship skills, with a track record of building and leading high-performing technical teams.
+
+•Excellent communication and collaboration skills, with the ability to work effectively across different functions.
+
+Preferred Qualifications:
+
+•Experience with reinforcement learning and active learning techniques.
+
+•Knowledge of ethical AI practices and the ability to design systems that mitigate bias.
+
+•Prior experience in the media, journalism, or fact-checking industry.
+
+#################################################
+
+Job Title: AI Architect
+Job Description: We are seeking a highly skilled AI Architect / Senior AI Engineer to lead and design advanced AI/ML systems within our cloud-based infrastructure. The ideal candidate will have extensive experience in AI/ML technologies and expertise in utilizing AI models for real-world applications. They will also be adept at keeping pace with the rapidly evolving AI landscape, assessing the economic viability of new features, and understanding the vendor ecosystem.
+
+What you'll do:
+
+Architect and implement AI/ML solutions using cloud infrastructure and relevant tools.
+Stay updated with the latest AI trends, tools, and technologies, especially in areas like NLP, LLMs, and computer vision.
+Understand and assess the economic viability and scalability of AI features and solutions.
+Collaborate with cross-functional teams to present and communicate system architectures for AI/ML projects, including system designs, model performance, and ethics considerations.
+ Ensure models are prepared for scale, including data preparation, training, observability, and performance optimization.
+Address AI model issues like hallucination and incorporate solutions for AI ethics.
+Leverage deep knowledge of the vendor ecosystem to integrate third-party tools and solutions.
+
+What you'll bring:
+
+Education:
+
+Bachelor's or Master's degree in Computer Science
+
+Infrastructure Expertise:
+
+Strong experience with cloud-based infrastructure.
+
+AI/ML Expertise:
+
+Expertise in NLP, Large Language Models (LLMs), and computer vision.
+Deep knowledge of model performance and scaling models in production environments.
+Experience with AI/ML data preparation and model training.
+Familiarity with AI observability, performance tracking, and troubleshooting hallucinations in models.
+Experience with Company K3 Bedrock.
+
+Soft Skills:
+
+Strong communication and presentation skills with experience presenting project architectures and outcomes.
+Keen awareness of AI ethics and the challenges associated with AI development.
+Proactive in researching new AI tools, vendors, and technologies to maintain competitive advantages.
+
+Preferred Qualifications:
+
+Experience with AI project management and deploying AI features at scale.
+In-depth knowledge of economic factors affecting the viability of AI projects and their integration into business processes.
+
+#################################################
+
+Job Title: GenAI & ML Architect
+Job Description: At RapidScale, we believe that exceptional technology is driven by exceptional humans. As a rapidly growing leader in providing innovative and secure managed cloud solutions, we’re part of the Cox family of businesses, known for best-in-class benefits, work-life balance, and an award-winning workplace culture. Join us as we build the future of cloud-native software development and application modernization.
+
+We are seeking a visionary GenAI & ML Architect to lead our AI/ML initiatives and drive transformational outcomes for our clients. This high-impact role requires deep expertise in AI, machine learning (ML), and Generative AI (GenAI), along with a proven ability to lead teams and deliver innovative solutions. As an architect, you will shape strategy, guide architecture, and work hands-on during critical build phases. You’ll also mentor team members and engage directly with clients, using your technical and business acumen to influence outcomes and foster trust.
+
+What You’ll Do
+
+Architecture & Delivery
+
+Serve as a subject matter expert on generative AI, guiding cross-functional teams, including digital, platform, and governance stakeholders.
+Serve as a hands-on architect, designing scalable AI/ML solutions and providing technical leadership across projects.
+Lead the design, implementation, and governance of AI/ML architectures, ensuring alignment with industry best practices, scalability, security, and compliance standards; establish and enforce architectural guidelines, standards, and processes to drive consistent and efficient development across teams.
+Oversee the full lifecycle of AI/ML solutions, including discovery, proof of concept (PoC), deployment, and optimization.
+Collaborate with cloud architecture and engineering teams to deliver integrated AI/ML solutions within larger transformation initiatives.
+
+Client Engagement
+
+Partner with sales teams as a technical expert during pre-sales activities, including presentations and proposal development.
+Conduct in-depth discovery sessions to understand client requirements, define technical solutions, and articulate business value.
+Act as a trusted advisor and subject matter expert (SME) for client stakeholders, providing thought leadership and best practices.
+
+Thought Leadership
+
+Stay at the forefront of AI/ML trends, evaluating new technologies and contributing to the organization’s technical knowledge base.
+Represent RapidScale at industry events and conferences, establishing a market presence for the AI/ML practice.
+
+What You Bring
+
+Minimum Qualifications
+
+Bachelor’s degree and 6 years’ experience in Software Architect/Engineer roles OR a Master’s degree and 4 years’ experience Software Architect/Engineer roles OR a Ph.D. and 1 years’ experience in Software Architect/Engineer roles OR 10 years’ experience in Software Architect/Engineer roles.
+Proven track record in designing and deploying cloud-based AI/ML architectures at scale, with strong capabilities in risk assessment and alignment with business requirements.
+Extensive expertise in Generative AI and Machine Learning frameworks, including hands-on experience working with GANs, VAEs, transformer-based architectures, and LLMs.
+Strong programming skills in Python and SQL, with experience in additional languages (e.g., Java, C++, R).
+Proficiency with cloud platforms (Company K3, Azure, or Company T2 Cloud) and AI/ML tools such as SageMaker, TensorFlow, PyTorch, or equivalent.
+Demonstrated capacity to work across teams, lead cross-functional projects, and communicate complex technical concepts to non-technical stakeholders.
+
+Preferred Qualifications
+
+Experience working in a consulting or professional services capacity, with a track record of delivering client-facing solutions.
+Hands-on experience with containerization (e.g., Kubernetes, Docker) and CI/CD pipelines.
+Familiarity with migrating monolithic architectures to microservices or designing cloud-native solutions.
+Expertise in DevOps and automation frameworks, including Terraform and CloudFormation.
+Knowledge of advanced AI/ML techniques, such as NLP, recommendation systems, and real-time decision engines.
+
+#################################################
+
+Job Title: Principal Architect, Generative AI Solutions
+Job Description: The Principal Architect for Generative AI Solutions at Company C6 is responsible for designing and overseeing the integration of generative AI technologies into our platforms and applications. This role involves crafting technical blueprints and collaborating closely with both technical and business teams to develop AI-driven solutions tailored to enhance operational efficiency and innovation. The architect will work alongside data scientists and machine learning operations teams to ensure the successful implementation and scalability of AI functionalities. Through strategic design and leadership, the Principal Architect will significantly contribute to Company C6's technological advancement and competitive edge in the market. Their expertise and guidance are crucial in harnessing the potential of generative AI to deliver tangible business benefits and drive growth.
+
+Job Responsibilities:
+
+Designs and oversees the integration of generative AI technologies into platforms and applications
+Crafts technical blueprints and collaborates closely with technical and business teams to develop AI-driven solutions
+Works alongside data scientists and machine learning operations teams to ensure successful implementation and scalability of AI functionalities
+Leads strategic design initiatives and provides leadership in technological advancement projects
+Guides the application of generative AI to deliver tangible business benefits and drive growth
+Ensures compliance with architectural and technological standards across all AI projects
+Participates in other duties or projects as assigned by business management as needed
+
+
+Education:
+
+Bachelor's Degree Computer Science, Artificial Intelligence, or Related Field Required)
+Master's/Advanced Degree Computer Science, Artificial Intelligence, or Related Field (Preferred)
+
+
+Work Experience:
+
+7-10 years experience in solutions design and enterprise architecture delivering IT solutions (Required)
+4-7 years Progressive experience in software engineering/enterprise architecture/technology leadership across multiple products, systems, and/or platforms
+4-7 years experience with Enterprise applications, PLM, middle-tier services, database, storage, distributed computing, virtualization, and/or application technology
+
+
+Knowledge, Skills and Abilities:
+
+Technical Leadership
+
+Ability to guide and influence technical teams in the development and integration of AI technologies.
+
+
+Enterprise Architecture
+
+Expertise in designing and implementing scalable and efficient enterprise-wide architectures.
+
+
+Solution Architecture
+
+Proficiency in creating technical blueprints and solutions that integrate generative AI technologies.
+
+
+Strategic Thinking 
+
+Capability to develop long-term tech strategies that align with business goals and enhance competitive advantage.
+
+
+Agile Methodologies
+
+Experience in Agile project management and its application in fast-paced technology development environments. (Preferred)
+
+
+Collaboration
+
+Strong ability to work effectively across different teams including technical and non-technical stakeholders.
+
+
+Problem Solving
+
+Exceptional problem-solving skills with the ability to foresee and manage potential challenges in AI integration.
+
+
+Innovation
+
+Ability to drive innovation within the organization through the adoption and implementation of cutting-edge AI technologies.
+
+
+Data Analysis
+
+Skills in analyzing complex data to inform architecture decisions and improve system performance.
+
+
+Technical Writing
+
+Proficiency in documenting technical designs and proposals clearly and effectively.(Preferred)
+
+
+Licenses and Certifications:
+
+Certified Data Scientist (CDS)- Certification that validates expertise in data science and its application in AI technologies. (Preferred)
+Company K3 Certified Machine Learning - Specialty- Certification that demonstrates the ability to design, implement, and maintain machine learning solutions for scalable AI applications on Company K3. (Preferred)
+Certified Solutions Architect- Certification that indicates proficiency in designing and implementing robust and scalable software architectures, including those involving AI technologies. (Preferred)
+ 
+
+#################################################
+
+Job Title: Generative AI Architect
+Job Description: As a Generative AI Architect, you will lead the architecture design and development of Generative AI solutions for multiple business domains and use cases across the enterprise. You will collaborate with cross-functional teams to comprehend business needs and turn them into scalable and effective Generative AI architectures and platforms. You will also lead the execution and delivery of Generative AI projects.
+
+This position will be based onsite at Company D6's Westerville, OH - HQ location.
+
+Responsibilities
+
+Work in conjunction with business teams, data scientists, software engineers, and other relevant parties to comprehend business objectives and define technical requirements.
+Architect Generative AI solutions using the latest techniques such as retrieval augmented generation, transformer architectures, etc. to accommodate large-scale and intricate Generative AI solutions.
+Develop and implement applications using advanced Generative AI models such as Company O3 GPT 3.5 or 4.0, Company T5 Claude, Company T2 Plam2, Company O8 Llama2 or Llama3.
+Apply frameworks such as LangChain and Llama Index for efficient indexing, retrieval, and chaining of language models, enhancing the contextual understanding and response generation of applications.
+Assess and choose suitable Generative AI technologies, tools, and frameworks to attain the required performance, precision, and scalability.
+Oversee the fine-tuning and deployment of Large Language Models, ensuring compliance with top-tier practices in Generative AI and machine learning.
+Construct and sustain Generative AI workflows, incorporating stages such as data cleansing, pre-processing, model training or fine-tuning, and feedback loop.
+Evaluate Large Language Models and systems for optimal performance, scalability, and efficiency.
+Conduct frequent code assessments and provide technical mentorship to less experienced team members.
+Stay up to date on the latest trends and progress in Generative AI technologies, frameworks, and algorithms, and pinpoint opportunities for their use within the organization.
+Cooperate with infrastructure teams to guarantee seamless deployment and monitoring of Large Language Models in operational environments.
+Document Generative AI design choices and technical specifications for reference and knowledge dissemination.
+
+Requirements
+
+Bachelor’s Degree in Computer Science, Engineering, Mathematics, or related field.
+At least 7 years of experience in artificial intelligence, machine learning, or data science.
+Experience in Generative AI architectures and frameworks such as retrieval augmented generation, vectorization and embeddings, and multi-agent Generative AI architecture solutions.
+Experience working with multiple Large Language Models (e.g., Azure Open AI GPT 3.5/4.0, Company O8 Llama2 or Llama3, Company T2 Palm2).
+Experience in designing and developing artificial intelligence solutions for various domains, such as natural language processing (NLP), computer vision, speech recognition, deep learning, etc.
+Experience in deploying and monitoring artificial intelligence solutions on cloud environments (Company K3 and/or Azure) 
+Excellent problem-solving and analytical skills, with the ability to break down complex problems into actionable components.
+Strong communication and collaboration skills, with the ability to work effectively within cross-functional teams.
+Strong knowledge of the latest advancements in Generative AI technologies, frameworks, and platforms.
+Knowledge of ethical considerations and responsible Generative AI practices.
+Experience in leading or managing artificial intelligence projects or teams.
+Strong communication and presentation skills, with the ability to explain complex artificial intelligence concepts and insights to technical and non-technical audiences.
+Preferred Requirements:
+Master's degree or PhD in Artificial Intelligence, Machine Learning, Data Science, or related field
+Proficiency in programming languages such as Python, Java, or C++, and familiarity with popular AI libraries and frameworks (e.g., TensorFlow, PyTorch, Keras)
+Certification or training in artificial intelligence, machine learning, or data science.
+Experience in working with big data technologies, such as Hadoop, Spark, Kafka, etc.
+Experience in working with web or mobile development technologies, such as HTML, CSS, JavaScript, React, Angular, etc.
+Familiarity with agile or scrum methodologies and project management tools, such as Jira, Trello, etc.
+
+#################################################
+
+

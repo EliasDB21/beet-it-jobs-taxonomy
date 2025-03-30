@@ -1,0 +1,483 @@
+Cluster 17:
+
+Job Title: Firmware Engineer II
+Job Description: JOB DUTIES:
+
+Company X1 is making a large investment in our engineering group. With global reach and impact, we are dedicated to building our team with professionals dedicated to developing new products and with an eagerness to introduce them to consumers around the world (NPI). Whether your expertise is centered in mechanical, hardware, electrical, firmware, software, embedded, connected, test, or other functional areas of embedded connected products; we have a place on our team ready for you to grow your career. As a leader in connected products, we will give you a platform to engage with innovators as you produce and introduce products certain to align with our mission. 
+
+At Company X1, we imagine a world where homes and buildings are good for the planet, and where technology works to simplify everyday life. In that world, people are healthy, happy, and secure. To help create this future, we will work every day to simplify the connected world so people have peace of mind and can focus on what matters most. 
+
+As part of the Product Development team, responsible for design, new products development, transition, implementation, and ongoing support. Applies engineering principles to new product development and analysis for solution of technical issues related to the design and manufacture of electronic products. 
+
+Responsible for product enhancement, cost reduction and ongoing production support of new products and for product improvements through value engineering and product customization efforts on electronic control products as embedded software developer. This engineer applies state of the art knowledge of microprocessors and embedded SW design to assure high-quality, low-cost solutions.
+
+Responsibilities include collaborating with hardware product design engineers and other software developers, work with marketing on definition of product and system requirements and collaborate with operations teams to assure the voice of the customer is represented in new and improved designs, work with source on selection and development of suppliers.
+
+ 
+
+YOU MUST HAVE:
+
+Bachelor's degree in Computer Engineering or Electronic Engineering.
+Minimum of 3 years of experience in embedded software development using C/C++ languages and product development.
+Proficiency with 8, 16, and 32-bit microcontrollers.
+Experience in developing embedded software with RTOS or multitask environments.
+Familiarity with software development processes and associated tools (e.g., Subversion, BitBucket, Jira, Enterprise Architect, Jama Contour, Crucible, Bamboo).
+Strong background in electronic circuit analysis, ability to read schematics, and perform electrical measurements using lab equipment.
+Experience working with custom hardware and using tools like logic analyzers, oscilloscopes, multimeters, debuggers, and protocol analyzers.
+Experience implementing or updating communication protocols such as RS-232, SPI, and I2C.
+Bilingual in English and Spanish with excellent written and verbal communication skills.
+Proficient in MS Office suite, MS Project, Visio, and Company O2 Acrobat.
+ 
+
+WE VALUE:
+
+Master’s degree in computer engineering, Electronics Engineering or Embedded Systems related fields.
+Experience with NXP, STM, Texas Instruments, ESP, Renesas microprocessors and IAR Systems compilers.  As well as ARM architecture.
+Embedded Linux exposure
+Strong multitasking capability 
+Assembly knowledge
+Adaptability to multi-cultural and multi-lingual environments, willingness to travel occasionally for extended periods.
+Organized with the ability to manage diverse workloads, capable of releasing required documentation, and coaching less experienced engineers.
+
+#################################################
+
+Job Title: Senior Embedded Systems Engineer
+Job Description: Job description
+About Company A2
+
+Company A2 was created to help operators forge thriving senior living communities.
+
+We use a simple, streamlined platform that protects resident privacy, to optimize community operations at every step. Our technology puts residents first, capturing insights on everything from revenue leakage to staff utilization, while providing an extra layer of oversight, as an extension of your care team.
+
+We know that balancing operations takes time and effort, not to mention careful coordination of many parts - that's why we offer seamless solutions to guide stronger care decisions. Because while you can't control any specific event, we believe that data can power communities to live and work better.
+
+Keeping your residents healthy and your staff productive is easy with Company A2.
+
+Smarter care, on every wall. One room at a time.
+
+What You'll Do:
+Lead Embedded Systems Projects: Oversee the end-to-end development of embedded software and firmware for new devices, from conceptualization to production.
+Collaborate Cross-Functionally: Work closely with hardware engineers, software developers, product managers, our outsourced design and development partners, and other stakeholders to define embedded system requirements and specifications per product needs.
+Innovate and Optimize: Stay current with industry trends and emerging technologies. Introduce new methodologies and technologies to enhance performance and meet design specifications. Provide technical expertise and support in embedded systems development, testing, and validation across the product lifecycle.
+Embed Rigorous Design for Excellence (DfX) Mindset: Conduct design reviews and both design and process failure mode effect analysis (FMEA), partnering with outsourced design and development partners to drive rigorous DfX (design for cost, supply chain, reliability, quality, manufacturing, etc.) methodologies across all phases of product development.
+Mentor Team Members: Provide technical guidance and mentorship, fostering a culture of excellence and continuous learning.
+Ensure Quality, Reliability, and Compliance: Oversee the prototyping process, conduct testing, and validate embedded system performance and reliability against requirements, including environmental and accelerated testing. Ensure all embedded software meets regulatory standards and industry best practices. Set quality and reliability specifications.
+Problem-Solve: Troubleshoot complex embedded system issues and implement effective solutions in a timely manner. Act as Tier-2 engineering support for products in the field.
+Strategic Planning: Contribute to the long-term embedded systems roadmap, aligning development with the company's product and platform roadmap.
+
+About You:
+Educational Background: Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related engineering field.
+Experience: 5+ years of hands-on embedded systems engineering experience, having launched multiple hardware projects with outsourced design and manufacturing partners.
+Technical Expertise:
+Programming Proficiency: Expertise in embedded C/C++ programming and debugging.
+Operating Systems: Experience with real-time operating systems (RTOS) and embedded Linux.
+Microcontrollers and SoCs: Knowledge of microcontrollers, microprocessors, and System-on-Chip (SoC) architectures.
+IoT and Connectivity: Experience with IoT devices, edge computing, and wireless communication protocols (e.g., Wi-Fi, Bluetooth, LoRaWAN, LTE, NB-IoT).
+Low-Power Design: Proven ability to design low-power embedded solutions optimized for extended battery life.
+Hardware-Software Integration: Familiarity with hardware debugging tools (e.g., oscilloscopes, logic analyzers) and experience in hardware-software co-design.
+Security Principles: Understanding of embedded security practices and encryption methodologies.
+Development Processes: Well-versed in the classic phase-gate hardware product development process.
+Communication: Excellent verbal and written communication skills, with the ability to convey complex ideas clearly.
+Adaptability: Comfortable working in a fast-paced, dynamic environment and adapting to changing priorities.
+Start-up experience is a plus.
+
+Additional Qualifications:
+Knowledge of regulatory compliance standards (e.g., FCC, CE, UL).
+Willingness and ability to travel to Asia to collaborate with our partners. Travel will be roughly once a quarter for a week long trip.
+
+#################################################
+
+Job Title: Wireless SOC FW Engineer
+Job Description: Would you like to join Company O1’s growing wireless silicon development team? Our wireless SOC organization is responsible for all aspects of wireless silicon development with a particular emphasis on highly energy efficient design and new technologies that transform the user experience at the product level, all of which is driven by a world-class vertically integrated engineering team spanning RF/Analog architecture and design, Systems/PHY/MAC architecture and design, VLSI/RTL design and integration, Emulation, Design Verification, Test and Validation, and FW/SW engineering. 
+
+In this highly visible role, you will be at the center of a silicon design group with a critical impact on getting functional wireless products to hundreds of millions of customers quickly.
+
+Responsible for crafting and implementing embedded software for System on a Chip (SoC) bring up and test. You will work closely with the Software Engineering team ensuring the quality of their firmware for manufacturability.
+Description
+As an SoC Firmware Engineer, the individual will be a core member of a Wireless SoC firmware team, with emphasis on hardware and system bring-up, drivers, network stack and support of other teams interacting within a Wireless SoC group.
+
+-  Work closely with product SW team to provide system-level API and firmware functionality to meet product requirements.
+
+-  Work closely with product test and protocol stack teams to resolve any issues arising as part of the product and interoperability testing
+
+-  Implement new product features as part of the development of wireless protocol stacks, device drivers, and diagnostics.
+
+-  Provide support to the SoC design team and assist internal SW/HW integration and initial chip and product bring-up efforts.
+Minimum Qualifications
+Minimum requirement of a bachelors degree
+Preferred Qualifications
+Strong background in embedded software development using C and assembly languages, familiarity with ARM CPUs and RTOS.
+Experience in performing low-level drivers and HW bring-up and validation on FPGA and SoC Silicon hardware platform, using test tools, and interacting with HW and SoC design teams.
+Experience writing scripts in languages such as Python, Perl, or Tcl.
+Experience implementing diagnostics, manufacturing tests, and protocol compliance test software.
+Experience with power optimization implementation and related debugging in firmware is a plus.
+Experience with industry standards for wireless communications such as Bluetooth, WLAN, or UWB at MAC/PHY level and FW implementation is also highly desirable.
+
+#################################################
+
+Job Title: Linux/Device Drivers Developer
+Job Description: Project Description
+ This is a great opportunity to work as a part of a highly regarded team to deliver leading-edge solutions. We are looking for an experienced engineer for an exciting role to augment our Client's core Linux-embedded team to work on the latest platforms and software. The person will interact closely with key technical experts to ensure the best possible performance and results on the SoC platforms.
+ 
+ Responsibilities
+ - Develop and maintain ALSA drivers and optimize audio DSP subsystems.
+ - Utilize vdpau, vaapi, and gstreamer for multimedia processing.
+ - Design and enhance video drivers for efficient video rendering.
+ - Contribute to GFX and display driver development.
+ - Collaborate with cross-functional teams and document processes.
+ - Test, debug, and optimize software and drivers.
+ 
+ Skills
+ Must have
+ 
+ - 8-9 years of Linux Kernel driver development experience.
+ - Proficient in C/C++ language and Programming.
+ - Strong knowledge and working experience in Linux kernel Device driver Development.
+ - Strong knowledge in OS/Kernel concepts.
+ - ALSA driver and Audio DSP Subsystem Driver development expertise.
+ - Multimedia framework like vdpau/vaapi/gstreamer, Video driver expertise.
+ - GFX and Display driver expertise.
+ 
+ Nice to have
+ 
+ Expertise with CAR Framework.
+ Automotive experience
+ 
+ Languages
+ English: C1 Advanced
+ 
+ Seniority
+ Senior
+ 
+
+ 
+ Vacancy Specialization
+ 
+ C/C++
+ 
+
+#################################################
+
+Job Title: Robotics Engineer, Embedded Software
+Job Description: What we're looking for:
+We’re seeking innovators, boundary-pushers, and people who will move heaven and earth to achieve the impossible. If you are someone who:
+
+Is driven by a relentless need to make the world better
+
+Thrives in fast-paced, high-pressure environments
+
+Hates being a cog in a machine and wants extreme ownership and opportunities to learn
+
+Has developed versatile technical skills by building amazing projects
+
+Can wear many hats, and loves learning new skills quickly
+
+Then you're in the right place!
+
+The Role:
+
+In this role, you won’t just be an employee- you’ll be a trailblazer. You should expect to take hands-on ownership over a variety of projects related to the embedded hardware and software for our robots. You should expect to own both high-level design decisions for custom embedded hardware and direct implementation for low-level code. Day-to-day responsibilities will involve software development for Linux-based systems with real-time constraints and microcontrollers for sensing and feedback control. Engineers in this role should expect to own platform bringup for new boards, perform driver development for new chips and sensors, and play an active role in shaping the testing framework and standards for TerraFirma's software development processes. This role is best suited for fast learners who are comfortable working with a high degree of autonomy and a large scope of responsibility.
+
+Responsibilities:
+
+Design and architect firmware and low-level code for embedded systems and microcontrollers
+
+Perform platform bringup for new hardware, including driver implementation, sensor integration, boot chain development, and basic networking
+
+Own the integration, calibration, and testing of sensors both for proof-of-concept prototypes and production systems
+
+Lead interdisciplinary teams, mentor new employees, and actively participate in the hiring process
+
+
+Basic Qualifications:
+
+Bachelor of Science in computer engineering, computer science, electrical engineering, or a closely related field
+
+3+ years of professional or project experience with software and firmware development for embedded systems and microcontrollers
+
+Demonstrated experience owning large scale deliverables, leading teams, and driving product roadmaps
+
+
+Preferred Skills & Experience:
+
+Experience working with safety-critical or real-time systems
+
+Experience working with embedded applications for robotics, autonomous vehicles, aerospace, automotive, or construction
+
+Familiarity with platform and toolchain development for embedded systems
+
+Experience building testing frameworks or designing CI/CD pipelines
+
+Ability to work autonomously in a fast-paced environment
+
+#################################################
+
+Job Title: Senior Embedded Engineer
+Job Description: We have the best and brightest minds in AI, IoT, Cloud and Mobile who have built leading companies in those spaces (Company B1, Company S2 Alexa, Company O8/Facebook, SmartThings, Company V2).
+
+
+
+Responsibilities
+
+Design, develop, and maintain embedded linux software applications primarily in Rust and Go
+Lead and participate in cross functional technical discussions with product managers and cloud and mobile engineers
+Implement and optimize networking protocols such as TCP/IP, UDP, CANbus, and RESTful APIs within embedded systems, ensuring seamless communication between devices
+Work with embedded communication protocols like I2C, SPI, and UART to facilitate data exchange between different components within embedded devices
+Support hardware engineering team in hardware bringup and required BSP, linux device driver, and OS maintenance
+Leverage CI/CD to automate repeatable tasks and quality checks
+
+
+Skills And Expertise
+
+BS / MS degree in Computer Science, Electrical Engineering, Computer Engineering, or related field
+Minimum of 4+ years of experience in embedded software development
+Strong background in embedded linux development
+Ability to read driver/C code and understand the kernel source when necessary
+Knowledge of networking protocols in the context of Linux (TCP/IP, UDP, CANbus, RESTful APIs)
+Experience with embedded protocols (I2C, SPI, UART)
+Systems programming experience (Rust, Go, or C)
+Experience with source control (Git)
+
+
+Bonus Criteria
+
+Skilled in building applications that utilize embedded sensors, considering performance and resource constraints on the target hardware
+Proficient in designing efficient solutions using languages like Rust, Python, or Go to ensure optimal functionality on constrained embedded systems
+Background in math-based programming and the ability to understand and use linear algebra for things like kinematics, leverage numpy
+A deep knowledge of Trig for utilizing LIDAR
+Experience working with AI/ML and the ability to use popular frameworks (opencv, pytorch)
+Experience with systems architectures, event-driven design & modular design, and abstracting layers (HAL, sensor, fusion, application)
+Knowledge of containerization technologies (Docker, cgroups, etc.)
+Development experience with Android platform (AOSP, etc.)
+Experience developing and maintaining CI /CD processes, especially Github Actions
+
+#################################################
+
+Job Title: System Software Engineer, GPU Server Diag
+Job Description: 
+We are seeking software engineers to work on next-generation graphics and computing products. Our charter is to build the most stressful set of applications a GPU or high performance computing server would see in its life cycle. The best candidates will have strong C++ and python programming skills, thorough knowledge of graphics concepts and algorithms, a solid foundation of systems software with emphasis on OS fundamentals, and a deep understanding of current generation PC/hardware architecture. Excellent communication skills and a dedication to meticulous engineering practices are a requirement. As a system software engineer, you will extensively use your knowledge of operating systems, algorithms, and computer architecture to provide robust and efficient solutions to validate and test next generation processors.
+
+What You'll Be Doing
+
+ Working closely with architecture, hardware and driver teams through the product development lifecycle of computing and graphics processors, as well as compute products. 
+ Responsible for crafting software tools and infrastructure required for new chip development, validation, and productization. 
+ You will assess new hardware features and architect manufacturing diagnostic tests using pre-beta CUDA and OpenGL extensions. 
+
+What We Need To See
+
+ BS or MS degree in one of the areas of Electrical Engineering, Computer Engineering, Computer Science or equivalent experience 
+ Strong C/C++ and python programming skills 
+ Familiarity with PC architecture, and ability to work close to the hardware 
+ Background with PCIE, Nvlink or server product technologies like Infiniband, Ethernet is a plus 
+ Previous experience of working on a large system software code base is preferable 
+ Very strong problem solving and debugging skills 
+ Ability to self-manage, show leadership, and have good interpersonal skills 
+
+#################################################
+
+Job Title: Software Architect (AI Tools)
+Job Description: At Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high-performance silicon chips and software content. Join us to transform the future through continuous technological innovation.
+
+We are expanding our system architecture team and seeking a Software Architect to contribute to the software architecture of the Compiler and SDK for the NPX6 NPU. As a key member of our team, you will work closely with senior experts to drive technical problem-solving, architecture design, and innovation.
+
+What You'll Be Doing:
+
+Collaborate with hardware and software teams to resolve technical issues and optimize system performance
+Contribute to the development of the Compiler and NNSDK, including creating prototypes and algorithms for critical components
+Help prioritize the product roadmap based on customer projects and industry trends
+Engage with strategic customers and partners
+Participate in ecosystem interactions and collaborations
+Close-loop feedback with hardware and software teams to ensure optimal system utilization
+
+What You'll Need: 
+
+Experience with building tools or compilers
+Knowledge of machine learning frameworks and algorithms
+Understanding of highly parallel processors, GP-GPUs, and programming tools for embedded systems (e.g., compilers, debuggers, ISS)
+Ability to work effectively in cross-functional teams
+Familiarity with Linux and Windows operating systems, C++, Python, and version control systems
+
+Qualifications
+
+We are seeking a candidate with:
+
+A Master's or Ph.D. degree in Computer Science, Electrical Engineering, or related field
+At least 5 years of experience in tool development, software architecture
+Strong understanding of AI principles, compilers for embedded multicore architectures, and parallel processing concepts
+
+#################################################
+
+Job Title: iOS Application Developer - Health Software
+Job Description: At Company O1 we want to make great products that empower people to improve their health. We are seeking a senior level, energetic and self-driven software engineer to join Company O1’s Health team to lead health features by expanding the capabilities of iOS and watchOS. As a member of our team, you will have the unique and rewarding opportunity to shape upcoming features that will delight and inspire millions of Company O1's customers every day .
+Description
+As a member of the team you’ll have the opportunity to work with specialists in their field to expand the functionality of the Health app and other health features on iOS and Company O1 Watch and support the broader health related efforts at Company O1. This position requires a self-motivated engineer with strong technical and interpersonal skills to handle responsibilities including:
+
+-  Implementing new features in the Health space
+-  Prototyping new ideas to help with initial feature definition
+-  Communicating ideas to the Company O1 design team and other cross functional teams
+-  Participating in architecture and code reviews
+-  Building internal tools as needed to help ship high quality software
+Minimum Qualifications
+iOS development experience
+Experience with both Objective C & Swift
+Experience with iOS frameworks such as UIKit
+Proven software architecture experience
+3+ years industry experience
+Preferred Qualifications
+Ability to understand and break down large features into complete solutions
+Excellent interpersonal skills and ability to work well with all levels of engineers and other teams
+BS Computer Science
+Familiarity with Wellness or Medical concepts
+
+#################################################
+
+Job Title: Software Engineer, Applied AI Integration, Infotainment Software Platforms
+Job Description: 
+What To Expect
+As a Software Integration Engineer within our Infotainment Software Platforms team, you will work directly with open and closed source AI models to power new customer facing features, such as speech recognition, language interactions, and features based on vision models.
+
+You'll be at the forefront of developing and implementing features that leverage the power of AI, ensuring seamless functionality across various platforms and backend systems. You will leverage open-source technologies to ship compelling features directly impacting our customers. Your responsibilities will encompass software development, integration, optimization, and collaboration across multiple functions to achieve our goals.
+
+What You'll Do
+
+Write, debug, and maintain robust C/C++ software for our Infotainment and backend systems 
+Integrate AI models on embedded hardware and backend systems to power new features 
+Develop and iterate on new features through simulation, validation, and fleet data analysis 
+Evaluate and train new models for use in production 
+Provide performance data and constructive feedback to Hardware Design and Manufacturing teams to continuously improve processes and system capabilities 
+
+
+What You'll Bring
+
+Practical experience programming in C/C++ software, including modern C/C++ (C++14/17/20), multithreading, and Python 
+Experience with embedded systems software design concepts 
+Familiarity with Machine Learning, Speech Models, Language Models and related software concepts 
+Excellent problem-solving, critical thinking, and communication skills 
+Proficiency in developing software on a Linux host, with experience in embedded Linux targets (cross-compilation, etc.), preferred 
+Experience with Cuda/OpenCL, preferred 
+
+#################################################
+
+Job Title: Sr Embedded Audio Software Engineer
+Job Description: We are seeking a dynamic and experienced Senior Embedded Audio Software Engineer to join our team in the consumer products industry. This role will be responsible for developing, testing, and maintaining audio software applications and systems. The successful candidate will be involved in all phases of the software development life cycle, from initial concept generation to final delivery and support. This position provides an outstanding opportunity to work on cutting-edge technologies and to make a significant impact on our products.
+
+Responsibilities
+
+ Design, develop, and integrate cutting-edge audio software systems using Gstreamer, Pipewire, React or equivalent.
+ Develop and maintain software for embedded audio systems.
+ Work closely with the hardware team to ensure seamless integration of embedded software with hardware designs.
+ Debug and resolve software defects and issues.
+ Participate in all phases of the software development life cycle including design, development, testing, code reviews, and maintenance.
+ Collaborate with cross-functional teams to define, design, and ship new features.
+ Ensure the performance, quality, and responsiveness of applications and systems.
+ Contribute to the development of project schedules, task and project completion time estimates, and resource plans.
+ Stay up-to-date with the latest industry trends and technologies to ensure our systems remain current and competitive.
+
+Qualifications
+
+ Bachelor's degree in Computer Science, Electrical Engineering or a related field.
+ A minimum of 5 years of experience in embedded audio software development.
+ Proven experience with Gstreamer, Pipewire, React or equivalent.
+ Demonstrated understanding of audio signal processing algorithms and techniques.
+ Strong knowledge of software development methodologies and best practices.
+ Solid understanding of the full software development life cycle.
+ Excellent problem-solving skills with a strong attention to detail.
+ Ability to work effectively in a fast-paced, collaborative, and deadline-driven environment.
+ Strong communication skills with the ability to explain technical concepts to non-technical colleagues.
+ Self-motivated and able to work independently, with a commitment to excellence and continuous improvement.
+
+If you are a seasoned Embedded Audio Software Engineer with a passion for innovation and a drive to create world-class audio systems, we would love to hear from you. This is a fantastic opportunity to join a dynamic team and make a significant impact on our products and the industry.
+
+#################################################
+
+Job Title: Senior Embedded Systems Engineer
+Job Description: We are seeking a highly motivated Device Systems Engineer to join our team and play a crucial role in developing and integrating hardware, firmware, and embedded software for our next-generation devices. You will collaborate across disciplines to ensure seamless functionality and performance.
+
+Responsibilities
+
+Design, develop, and maintain embedded software components for the target device platform. 
+Collaborate with hardware engineers to optimize software for specific hardware capabilities. 
+Develop and integrate device drivers for various sensors and peripherals. 
+Work with firmware engineers to define and implement firmware functionalities. 
+Contribute to bring-up and low-level hardware initialization. 
+Interface with field applications to understand real-world device usage and performance requirements. 
+Provide technical support for field deployments and troubleshooting. 
+Analyze field data to identify areas for improvement and contribute to future device iterations. 
+Ensure seamless communication and data flow between hardware, firmware, and embedded software. 
+Participate in system-level design reviews and contribute to overall system architecture. 
+Assist with system testing and validation to guarantee device functionality and performance. 
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a closely related field. 
+Strong programming proficiency in C and C++. 
+Experience with embedded systems development and system-level programming. 
+Understanding of device hardware platforms and their interaction with software. 
+Familiarity with real-time operating systems (RTOS) concepts. 
+Excellent communication and collaboration skills to work effectively across engineering disciplines. 
+A passion for innovation and a desire to bring complex devices to life. 
+Experience with specific communication protocols relevant to the device (e.g., CAN, CAN-FD, etc.). 
+Knowledge of over-the-air (OTA) update mechanisms for embedded systems. 
+Experience with field-testing and debugging methodologies. 
+
+#################################################
+
+Job Title: Senior Firmware Engineer, IOT and Connectivity
+Job Description: In this role, you will be a member of the Future Programs team, giving you the unique opportunity for early stage, green field development building select next generation products. You will work in a fast paced, dynamic environment on every stage of program development from concept to launch and be heavily influential in developing the practices, culture, and engineering principals of our growing team. This role is focused on the design and bring-up of mission critical wireless communications systems and features and is highly cross functional, working across hardware, cloud, mobile, and other firmware teams. Ideal candidates will have experience across all stages of product development from concept to success launch and beyond.
+
+Our team is passionate about electrifying transit, bringing delightful user experiences to life, and keeping the world adventurous!
+
+Responsibilities
+
+Firmware development of critical hardware validation, wireless bring-up, and IOT-related features, such as over-the-air updates and telemetry upload, interfacing with existing cloud infrastructure where appropriate
+Partner with HW, UX, cloud, mobile, and other firmware teams to architect end-to-end IOT systems
+Design and implement features, as well as related tests, to deliver mission critical, robust code
+Optimize firmware for low-power operation, extending the battery life of IoT devices and supporting energy-efficient designs. Profile power consumption and identify opportunities for optimization on the submodule as well as system level.
+Implement robust security measures within firmware to safeguard devices against potential threats, ensuring data integrity, authentication, and encryption protocols are in place. 
+Develop a robust CI/CD pipeline and advocate for best practices to help grow a high performance team with highly automated tools and testing
+Collaborate with QA teams and leverage metrics to monitor for and debug issues
+Engage effectively with third party firms by delivering clear specifications and requirements and managing execution
+
+Qualifications
+
+B.S. or M.S. in Computer Science, Electrical Engineering, Computer Engineering, or related field
+4+ years of experience in firmware development, focused on wireless communications
+Expert in C programming, ideally familiar with C++, Python, and bash scripting
+Past experience working with wireless technologies (BLE, LTE, GPS, NFC, UWB)
+Proficiency with real time operating system concepts. Direct experience with Zephyr RTOS and/or FreeRTOS a plus.
+Hands on experience debugging in real world environments with wireless diagnostics tooling such as wireshark
+Knowledge of basic communication protocol principles - messaging, network, security, compression
+Specific experience working with IOT data protocols (e.g. MQTT, HTTP), OTA, wireless regulatory compliance, and cloud APIs a big plus
+Highly collaborative mindset and strong communication skills
+
+#################################################
+
+Job Title: Embedded System Software Engineer, Power Conversion & Charging
+Job Description: What to Expect
+Come join a team of dynamic and deeply knowledgeable engineers that strive to build the most robust and reliable embedded systems that run EV charging systems and the renewable microgrids that power them. You will contribute to solving some of the most exciting problems in the embedded software space and change the way the world produces electric vehicles and delivers energy.
+In this role, you will be working with the hardware and control teams to design, implement, and test software running on embedded platforms that control switching power converters. You will be responsible for delivering high quality embedded code, power electronic controllers, and DSP peripherals running on the processors at the heart of Company L4 vehicles and production lines.
+The work is exciting and fun, pushing the technology envelope in an open, collaborative, and supportive environment. Help us put clean energy in our amazing vehicles, and work with a diverse team around the world deploying reliable power to all corners of the globe.
+What You’ll Do
+Develop, enhance and debug new and existing real-time firmware in C for power conversion systems
+Deliver high-quality C code in a safety critical real-time embedded environment
+Work closely with the hardware and control teams to specify hardware actuation and sensing requirements. Develop and optimize firmware, along with peripheral drivers and control systems for switching power electronics
+Specify, design, and implement functionality and behaviors of embedded subsystems
+Drive firmware development for performance, scalability, robustness, and tight integration with the hardware
+Hands-on with hardware bring up, build and enforce component validation for delivering robust, functional code
+Implement continuous improvements and best practices within the team, and larger organization
+Collaboration with other engineering groups inside Company L4
+What You’ll Bring
+2+ years of relevant experience in real-time embedded software development
+Degree in Electrical Engineering, Computer Engineering, or the equivalent in experience
+Proficiency in C
+Strong software fundamentals including firmware architecture, algorithm development, data structures, code modularity, and maintainability
+Experience with reading electrical schematics and understanding circuit behavior
+Knowledge of microcontroller peripherals such as timers, ADC, GPIO, PWM and SPI
+Familiarity with control loops and PID controllers
+Ability to collaborate and communicate complex technical concepts
+Understanding of physics, basic EE principles, and basic control with previous experience in power conversion field or validating highly complex and mission critical embedded systems preferred
+Understanding of MISRA C/unit test or other code quality standard preferred
+
+#################################################
+
+

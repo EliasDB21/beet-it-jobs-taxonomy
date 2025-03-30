@@ -1,0 +1,373 @@
+Cluster 14:
+
+Job Title: QA Tester (W2/EOR- US/CAN)
+Job Description: Responsibilities
+
+Plan feature testing, manual verification of new features during development for iOS, Android, and web apps
+Manual regression testing of weekly native Android and iOS RC builds
+Update and maintain manual test case database
+Track and maintain tickets in Jira, bug triaging
+Manual verification of bug fixes
+
+Requirements:
+
+4+ years of manual testing experience across web and/or mobile platforms.
+Proven ability to take ownership and excellent communications skills. You must be able to collaborate with a team of engineers across web, iOS, and Android applications.
+Excellent task management skills. You will often receive multiple testing requests from engineers across platforms and you need to be able to manage these tasks effectively and complete them efficiently.
+Experience creating and maintaining test cases and related documentation.
+Experience testing native Android and iOS apps, good knowledge of adb commands, Android Studio, XCode.
+Knowledge of API testing and Postman.
+
+Nice to Have:
+
+Holistic understanding of software systems
+Familiar with Company O1 and Company T2 Play sandbox purchase testing
+Familiar with Test Rails, Zebrunner or other test case management tools
+Experience testing eCommerce applications and payments
+Knowledge of accessibility testing
+Familiar with user analytics (telemetry) testing
+
+#################################################
+
+Job Title: Software Tester
+Job Description: We are currently seeking candidates who meet the following qualification
+
+Mandatory Qualifications
+
+experience in testing complex web applications.
+experience in testing all phases of the Software Development Life Cycle (SDLC).
+experience with Database/SQL language.
+experience with API testing (SOAP and REST), 
+experience working with API and JSON.
+Strong experience with manual testing and data validation.
+
+Preferred Qualifications
+
+Experience with test automation using open-source technologies and/or in-house frameworks.
+Familiarity with test frameworks like JUnit, TestNG.
+Experience with WAPT Pro, JMeter, or other performance testing tools.
+Previous experience with Zephyr Scale for test management.
+Familiarity with JIRA for issue tracking and project management.
+
+Key Responsibilities:
+
+Analyze user requirements, design documents, and other documentation to develop detailed and effective test cases.
+Create and execute automated functional and regression test cases, report and document all issues, test cases ran, test results, and testing summaries in detail.
+Perform manual testing and data validation to ensure all system functionalities work as expected.
+Execute SQL queries to analyze and manipulate data during the testing phase.
+Work with development teams and customers to clearly understand the functionality under test and collaborate on defining and implementing test case automation.
+Conduct performance and accessibility testing to ensure high-quality user experiences.
+
+Skills
+
+Ability to analyze complex technical documentation and convert it into detailed test cases.
+Strong understanding of database queries and data validation techniques.
+Ability to work collaboratively with development teams to understand project requirements and define automation processes.
+Ability to execute performance and accessibility testing to ensure system reliability.
+Strong problem-solving skills to identify and resolve issues promptly.
+
+#################################################
+
+Job Title: Senior Software Tester 
+Job Description: We are looking for engineers to join our USN advance technology development team. We are in search of a person with computer software testing experience of 8 or more years relating code testing to optimize and build software speed and efficiency in an R&D setting. We need you to join us on the ground floor of some of the latest programs at Dahlgren Naval Support Facility. Primary work location will be either Fredericksburg, VA or Dahlgren, VA with some telecommute or travel opportunities.
+
+Senior Software Tester Responsibilities Include:
+
+Testing adjustments of software graphical user interfaces for local tools with the team of developers. 
+Testing software and ensure the goal of the fix was successfully met. 
+Supporting software development/updates using C++, Rational Team Concert, GitLab and other DevOps tools
+Supporting test events through travel opportunities. 
+Ability to travel up to two 3-5 day trips every other month 
+
+Minimum Qualifications: 
+
+Bachelor’s degree in one of the following disciplines: Engineering, Math, Computers Science, and/or Physics with 10 years’ experience or Masters degree with 8 years’ experience. 
+Knowledge of the big picture in software requirements, design, code, benchmark testing, debugging, software development lifecycle, architecture, and documentation. 
+Any background in simulation or programming at University
+Any experience in an Agile software development environment and familiarity with Agile methodologies is helpful. 
+
+
+#################################################
+
+Job Title: Software Application Tester 
+Job Description: Position Responsibilities:
+
+
+Participates in evaluation of test performance data.
+Collects the data and provides recommendation to break/alter configuration.
+Performs special test procedures as required to support failure investigation.
+Prepares for next test activities or events based on results.
+Conducts reallocation, disposition or refurbishment of test assets.
+Develops test procedures, and configuration definition, needed to perform the test and minimize risk within the constraints of the test plan.
+Performs test and collects data, identifies anomalies and provides solutions.
+Generates test plans and interfaces with internal contacts, decomposes information from requirements and Statements of Work to formulate basic test approaches.
+Reviews standards and regulations to assess the impact on the test plan.
+Gathers information from applicable sources to define test requirements, facilities and test environments for simple tests.
+Identifies test requirements for complex tests and demonstrates the effectiveness of test methods.
+Reviews test data for accuracy, quality and/or fidelity prior to delivery to customer. Prepares test and configuration documentation.
+Coordinates the staging of test hardware.
+Participates in test readiness reviews, safety reviews, test plan reviews and test case reviews.
+Configures software for data acquisition and analysis. Prepares daily execution plans for effective use of all test resources.
+Prepares test reports and provides input to lessons learned and performance metrics to improve future testing
+Archives data and reports as required.
+
+
+Basic Qualifications (Required Skills/Experience):
+
+
+Current Active U.S. Secret Clearance
+1+ years of experience in software application testing or quality assurance.
+Proficient skills in preparing test and configuration documentation, including test reports.
+
+
+Preferred Qualifications (Desired Skills/Experience):
+
+
+Experience in software testing within the aerospace or defense industry.
+Proven ability to identify and define test requirements for complex tests.
+Experience providing input to lessons learned and performance metrics to improve future testing.
+Familiarity with archiving data and reports as required.
+Experience working in Agile development environments.
+Knowledge of test automation tools and frameworks.
+Excellent verbal and written communication skills for effective reporting and collaboration.
+Experience in software testing within the aerospace or defense industry.
+Proven ability to identify and define test requirements for complex tests.
+Experience participating in test readiness reviews, safety reviews, and test plan reviews.
+Knowledge of reallocation, disposition, or refurbishment of test assets.
+Experience providing input to lessons learned and performance metrics to improve future testing.
+Familiarity with archiving data and reports as required.
+Experience working in Agile development environments.
+Knowledge of test automation tools and frameworks.
+Excellent verbal and written communication skills for effective reporting and collaboration.
+
+#################################################
+
+Job Title: Test Engineer I
+Job Description: We are looking for a Test Engineer I who will:
+
+Review the overall architecture of basic hardware, software, and networking systems by composing a simple test plan script, executing the tests, documenting the results and analyzing the output.
+Participate with Test & Defect Management tools, Test automation tools and scripting languages to complete basic tasks.
+Performs automated and manual test execution for functional, application, regression, and integration tests.
+Assists in maintenance of the automation & manual test suites as per project needs.
+Works with various applications, systems, and networking groups to ensure timely resolution of issues.
+Proactive team player that is comfortable collaborating to solve complex issues or problems.
+
+Is this opportunity right for you? We are looking for candidates who has:
+
+Bachelor’s degree in computer science or related field, or equivalent experience.
+1+ years of experience in manual and automated software testing.
+Experience with test & Defect Management tools, Test automation tools and scripting languages.
+Proficiency in English in a business environment
+
+#################################################
+
+Job Title: Software QA Engineer
+Job Description: In this role, you will be responsible for shipping world-class user experiences and act as the voice of our end-users. As a Quality Assurance Engineer, you will support testing of multiple features and drive the quality via extensive hands-on functional testing of user-facing features and systems. You will be responsible for setting the bar high, going beyond ensuring a great experience and helping ship robust and amazing products. You'll need to take an active role in shaping the quality of our software. This will require deep integration with our development engineers, developing test plans and user studies, bug triaging, and supporting design reviews. You will also work closely with the Automation team to prioritize and expedite automation initiatives.
+Minimum Qualifications
+Knowledge of software development lifecycle, testing methodologies, and testing tools
+Proactive self-starter with a keen eye for details with focus on end-user experiences and ability to go above and beyond to ensure a high quality release
+Experience developing detailed test plans, assessing risks, filing detailed bug reports, and providing relevant data for test reporting
+Troubleshoot, triage and provide detailed debug information for expediting issue resolution
+Experience testing large technology stacks with many software and hardware components
+Ability to drive cross-functional communications, understanding dependencies while also ensuring a tight timeline can be maintained
+Experience learning new tools/technologies and testing consumer electronics, mobile applications & experiences
+Experience using UNIX shell / command-line tools / executing scripts
+BA/BS in Computer Science/Engineering or minimum of 2 years of professional experience
+Preferred Qualifications
+Experience testing and working with 3D graphics, applications, workflow tools
+Experience in presenting training content around technology
+
+#################################################
+
+Job Title: QA AI Engineer
+Job Description: a leading player in the mortgage industry, dedicated to providing innovative solutions and exceptional service to our clients. We are seeking a highly skilled Quality Assurance Engineer with experience in Python, SQL, and AI projects to join our dynamic team.
+
+
+
+Job Description:
+
+Responsibilities:
+
+Develop and execute comprehensive test plans and test cases for mortgage-related applications and systems.
+Collaborate with cross-functional teams to understand project requirements and ensure high-quality deliverables.
+Utilize Python and SQL to automate test scripts and validate data integrity.
+Conduct thorough testing of AI-driven features and functionalities to ensure accuracy and performance.
+Identify, document, and track defects, and work closely with developers to resolve issues.
+Perform regression testing to ensure existing functionalities are not impacted by new changes.
+Participate in code reviews and provide feedback on testability and quality.
+Continuously improve testing processes and methodologies to enhance overall product quality.
+Requirements:
+
+Proven experience as a Quality Assurance Engineer in the mortgage industry.
+Strong proficiency in Python and SQL for test automation and data validation.
+Experience with AI projects and understanding of AI/ML concepts.
+
+#################################################
+
+Job Title: IT Support Engineer - QA Analyst
+Job Description: We hire the best talent, but experience in our stack can’t hurt: Company H4 is built on Java, Kotlin, C++, and Postgres, supporting millions of user endpoints and running as a scalable cloud service in Company K3. Knowing large-scale datastore bottlenecks, asynchronous application design and client-server architecture will help you.
+
+What You’ll Be Doing
+
+IT Operations Expertise: dive into our suite of software products and become an in-house expert on our IT software solutions. Help shape the future of MSPs and IT teams by understanding user requirements, scrutinizing product usability, and providing invaluable feedback.
+Quality Testing & Troubleshooting: responsible for comprehensive software testing, to guarantee impeccable feature releases. Develop and maintain accurate test plans and ensure compliance across all platforms.
+Documentation: create detailed reports on the quality and functionality of software applications after thorough testing. Ensure any defects or issues are documented clearly for the development teams to address.
+Continuous Improvement: recommend enhancements to current testing methodologies, tools, and processes to refine and iterate our QA practices.
+Collaboration: work alongside our developers, product managers, and leaders throughout the software development life cycle, ensuring that quality standards are always achieved.
+Other duties as needed. Outstanding communication skills.
+
+About You
+
+5+ years of experience in Manual Quality Assurance Testing.
+3+ years of experience in Automation Testing.
+2+ years of experience scripting in at least one or preferably multiple scripting languages such as PowerShell, Bash, Batch, Python, etc.
+5+ years of recent experience in roles like Technical IT Support, Product Support, or Systems Engineering is essential.
+Bachelor's degree in technology is a distinct advantage, though not mandatory
+Previous experience with at least 2 of the 3 operating systems: Windows, Mac or Linux is required. Including an understanding of system settings, the Windows Registry, and other OS foundational aspects.
+Experience with computer networks and network equipment setup and management. Understanding of network hardware would make you stand out.
+Experience working with databases including PostgreSQL, SQL, and MySQL.
+Experience setting up and configuring Virtual Machines (VM). A focus on ESXi and Hyper-V will be advantageous.
+Experience with Mobile App Testing would make you a standout candidate for our MDM product team.
+Experience with TCP/IP protocols; especially SNMP, TCP, UDP, ICMP, and DNS will make you a good fit for our network monitoring team.
+Experience with Jira and Jira X-Ray extension will make you standout as well. 
+Engage and collaborate with diverse teams, ensuring feedback is articulated clearly and transformed into actionable insights.
+Attention to detail, ensuring that all bugs and inconsistencies are unnoticed.
+Ability to think on your feet, coupled with analytical prowess, for identifying, documenting, resolving or escalating issues as they arise.
+Outstanding communication skills, English required. 
+
+#################################################
+
+Job Title: Quality Assurance Automation Engineer
+Job Description: As a QA Automation Engineer, you’ll ensure the delivery of high-quality, scalable, and reliable software products. You’ll collaborate closely with Engineers, Product Managers, and UX Designers to design, develop, and maintain automated test solutions. By applying your expertise, you’ll optimize testing processes, identify critical bugs, and help deliver exceptional user experiences.
+
+
+
+Participate in all phases of the SDLC: test planning, automation development, execution, monitoring, and maintenance.
+Collaborate with cross-functional teams to translate requirements into robust test cases and automation strategies.
+Build and maintain test automation frameworks for backend APIs, frontend interfaces, and infrastructure components.
+Write, execute, and manage test cases to ensure coverage, performance, and reliability of the system.
+Drive continuous improvement by identifying testing bottlenecks and implementing innovative solutions to optimize quality assurance processes.
+Analyze performance metrics, logs, and defects to identify and troubleshoot potential system issues.
+Contribute to CI/CD pipelines by integrating automated testing to ensure seamless deployments.
+Document test plans, processes, and results to enhance team knowledge and enable consistent quality standards.
+Advocate for best practices in quality engineering, ensuring reusable, maintainable, and efficient testing approaches.
+
+
+Our Tech Stack:
+
+
+
+Programming Languages: Mainly Typescript / Javascript, although sub systems use a variety of languages
+Tools: Mainly Playwright, although sub systems use a variety of tools
+Cloud & Infrastructure: Company K3, Docker, Terraform
+Production Monitoring: Datadog
+CI/CD: Jenkins
+
+
+Technical Skills: 
+
+
+
+3+ years of experience in Quality Assurance or Automation Engineering, preferably in SaaS or agile environments.
+Expertise in building and maintaining automated test frameworks for APIs, web interfaces, and infrastructure systems.
+Proficiency Javascript, with a strong ability to write clean, reusable, and efficient test scripts, specially but not limited to Playwright tests
+Advanced understanding of software testing methodologies, including functional, regression, and performance testing.
+Experience with CI/CD pipelines and integrating automated tests into deployment processes.
+Commitment to writing high-quality, maintainable test code aligned with industry best practices.
+
+
+Communication and Collaboration:
+
+
+
+Strong documentation skills, ensuring clarity and consistency in test plans and processes.
+Ability to clearly articulate quality concerns and propose solutions in both verbal and written communication.
+Experience estimating test complexity and contributing to overall project planning.
+Comfortable representing the QA perspective in cross-functional project discussions.
+Demonstrated ability to coach other team members and promote a culture of quality and collaboration.
+
+#################################################
+
+Job Title: User Experience Assurance Engineer
+Job Description: User Experience Assurance is a new team at Company J4 focused on evaluating and improving user experiences across all of Company J4’s products. This team evaluates, measures, and tracks the experience quality of Company J4’s user journeys. You will work closely with product teams to ensure that Company J4 products meet or exceed our high quality bar. In addition, the UXA team works in partnership with product teams to define, maintain, and evolve essential journeys so that we capture the full set of users, roles, and tasks most important to a successful Company J4 experience. 
+
+What you’ll do
+As a member of the User Experience Assurance team, you will test and evaluate Company J4’s product and user journeys, identify opportunities for improvement, and partner with teams across Company J4 to implement improvements. You will develop a deep understanding of Company J4’s products, users, and business in order to make high impact recommendations for improving product quality. 
+
+Responsibilities
+Identify gaps and improvement areas within specific user journeys and across Company J4’s product suite. Act as a force multiplier to assist product teams in optimizing and planning for product experience and quality improvements 
+Implement comprehensive user experience evaluation strategies, ensuring thorough coverage of use cases and driving user journey evaluation and walk the store practices
+Work closely with product teams to investigate, debug and triage difficult problems and independently work towards results
+Contribute significantly to improving product quality. Ultimately enable exceptional product experiences and reinforce Company J4's commitment to meticulous craft
+Collaborate to define and establish user experience assurance standards, methodologies, and processes to be integrated seamlessly into the product development process
+Who you are
+We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum requirements
+At least 4+ years of experience as a customer success engineer, integration engineer, solution architect, technical consultant,  or product engineering role. A strong technical generalist with a coding background
+Can read, write, and understand code in multiple programming languages
+Has experience integrating Company J4 or other RESTful APIs 
+Experience partnering closely with engineers, designers, and business areas to build surprisingly great products
+Obsession with users, details, and building best in class solutions
+Understanding of how product quality is essential in a B2B product company with a focus in developer-led experiences 
+Strong written and verbal communication skills with a talent for precise articulations of user and customer problems. You are adept at communicating technically complicated topics simply and elegantly
+Strong craft and visual design skills. You can identify how user experiences can and should be better and when they do meet a defined quality bar. You have a keen eye for subtle details whether in code or user interfaces
+Preferred qualifications
+Self-starter with the ability to assess, troubleshoot and work autonomously to decompose and solve complex problems
+Ability to investigate, debug and triage difficult problems and independently work towards results
+Solid understanding of development lifecycles, testing methodologies, and QA processes
+Experience testing APIs
+
+#################################################
+
+Job Title: Senior Robotics Engineer, Simulation & Validation
+Job Description: At Company I9, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles while doing commercial deliveries.
+
+
+
+The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity.
+
+
+
+Who We Are
+
+We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully.
+
+
+
+Company I9 aims to develop dependable and proficient sidewalk autonomy software. Our Autonomy team is looking for an enthusiastic individual capable of addressing challenging issue of building automated testing software that can speed up our insights generation as we iterate on technology development. Ideal candidate has a good sense to automate tools that helps developer productivity (Like running Autonomy Stack from Docker using log replay from recorded clips), builds simulation pipeline to test hard cases that’s not easy to test in real world, Manage CI/CD runs for model regressions, helps QA with building tools that expedites the testing cycles.
+
+
+
+Responsibilities
+
+Build open loop simulation system, tailored towards the environment of our sidewalk robot. Develop scenarios depicting real world situations for testing autonomy algorithms.
+Build and integrate on-robot software modules with simulation engine.
+Responsible for the software release testing process.
+Ensure the quality and performance of the autonomy software through continuous improvement of testing processes and methodologies.
+Implement automatic metrics generation pipeline from benchmark regression datasets that runs Autonomy stack to compare different software version runs.
+Develop test and processes to validate the performance of hardware and software.
+Support software feature testing.
+
+
+Qualifications
+
+Bachelors in Computer Science or related field or equivalent work experience.
+5+ years of experience in developing automation and simulation scenarios for robots or similar technologies.
+Proficient in creating simulation scenarios using simulation rendering engines like Gazebo, with a specific focus on robotics.
+Experience deploying automated testing for hardware systems at scale.
+Collaborate with development and product teams to understand requirements and create effective testing strategies
+Experience with core QA methodologies, including problem isolation techniques, regression testing, or systems integration testing.
+Strong C++ and Python or equivalent scripting language experience. Has written automation pipelines with them that improves ease of testing capability of complex robotic systems.
+Highly motivated teammate with excellent oral and written communication skills.
+
+
+What Makes You Standout
+
+Experience with Nvidia IsaacSim, Blender, USD, digital asset creation
+Experience with Docker, CI/CD systems, gcp, big query, and build systems like bazel
+Experience contributing to open source robotic software such as ROS2 DevOps experience
+
+#################################################
+
+

@@ -1,0 +1,951 @@
+Cluster 8:
+
+Job Title: Division IT Manager
+Job Description: The Biotechnology and Human Systems Division seeks to improve human conditions on many fronts. The technology and systems developed enhance disaster response capabilities, address impacts of climate change, advance defenses against biological and chemical threats, and improve the health and performance of the nation's service members and civilians. The division’s groups work collaboratively in cross-divisional teams supporting a wide range of projects. Special emphasis is placed on the integration of design and analysis capabilities to support the rapid prototyping of hardware systems.
+
+Job Description
+
+Division 2 is seeking professional and experienced candidates for the Division Information Technology (IT) Manager position. The Division IT Manager plans, organizes, leads, directs and manages the Division’s IT resources, making appropriate resource assignments to effectively and efficiently execute the day-to-day research and business activities across their respective research groups. This position will report to both the Division Head for ongoing IT operations and the Laboratory Chief Information Officer (CIO) for compliance with Laboratory IT Policy and for participation in shaping enterprise IT strategy. Candidate is single point of accountability for the Division’s IT management and is responsible for IT personnel career development. The candidate will work with minimal supervision.
+
+The Division IT Manager will work closely with the Information Services Department (ISD) and Security Services Department (SSD) departments. They will work collaboratively to support all information services projects that will advance the Department, Technical Division and Lincoln Laboratory strategic missions.
+
+The Division IT Manager will be a member of a Laboratory-wide IT governance body led by the CIO. This governance body will assist in shaping Laboratory-wide IT Policy and IT strategy. The successful candidate is expected to relay important Laboratory-wide IT Policy and IT strategy and solicit input from Division 2 leadership to ensure the Biotechnology and Human Systems Division’s broad interest and IT requirements are being accurately represented.
+
+The successful candidate will have demonstrated strong and effective analytical and decision-making abilities and will involve their direct manager as appropriate when faced with a major decision. They will also continually evaluate and recommend changes to current and future Divisional IT needs.
+
+The successful candidate will have demonstrated an effective set of IT technical, management, leadership, and relationship building skills, including strong and effective analytical and decision-making abilities.
+
+Job Responsibilities
+
+ Strategic Planning
+ Leads the development and implementation of the infrastructure strategy, architecture, service delivery standards and procedures across the Division’s IT enterprise, at all classifications and in all operating environments. 
+ Participates in overall Laboratory IT and IT Security strategy planning activities, bringing a current knowledge and future vision of infrastructure technology and systems best practices as related to the needs of the business. 
+ Establishes measurable IT goals that are aligned with Division and Laboratory goals to enable mission success. 
+
+
+Job Responsibilities
+
+ Operational Management
+ Responsible and accountable to the Division Head for the overall compliance posture of the Division, across all classifications and operating environments. 
+ Leads Division execution of best practices for Division and Group IT functions and adoption of enterprise efforts to promote effective and efficient IT Operations. 
+ Engages with ISD and SSD department peers to establish, implement and maintain appropriate IT controls for infrastructure administration. 
+ Proactively researches and recommends courses of action to prevent problems and to maintain high infrastructure service levels in congruence with ISD best practices. 
+ Maintains alignment with the Lab’s IT security infrastructure as it relates to the server and desktop environments. 
+ Maintains robust operations and availability of the Division’s classified IT infrastructure. May serve as Information System Owner (ISO) to ensure proper oversight and separation of duties between program management and IT operations. 
+ Contributes to the implementation of an operational framework including establishing metrics, key performance indicators and service level agreements for driving the performance of IT service delivery. 
+
+
+Job Responsibilities
+
+ Human Resource Management
+ Responsible for IT personnel career development within the Division. 
+ Provides motivational leadership for direct reports at all levels, including performance planning and development support; coaching and mentoring; rewards and recognition; and staff retention to develop a continuous improvement culture. 
+ Identifies and maintains appropriate staffing levels and provides continuity through succession planning. 
+ Financial Management
+ Executes or consults on all Division IT purchases to ensure effective and efficient operations and investments. 
+ Technology Management
+ Maintain knowledge of current industry standards and trends regarding server and desktop technology, IT security, and the Division’s business direction, to anticipate future infrastructure needs and identify proactive solutions to satisfy those needs. 
+ Participate in defining appropriate hardware and software standards to support the Division’s business requirements. 
+ Implement policies, procedures, and modifications as required to ensure the integrity of the overall IT infrastructure. 
+
+
+Requirements
+
+ Bachelor's Degree in computer science or business in combination with a minimum of 8 years significant, relevant work experience. 
+ Extensive hands-on experience executing large scale infrastructures, strong technical knowledge of operating systems, and knowledge of best practices in managing and optimizing networks. 
+ Excellent business understanding related to organization goals and objectives. 
+ Excellent communication skills (both verbal and writing). Ability to present ideas in business-friendly and user-friendly language to senior leadership, peers, direct reports, and all Division personnel. 
+ Leader with a track record of career accomplishments, continued growth and career success. 
+ Ability to work in a dynamic, fast-paced environment with minimal supervision and execute project and administrative tasks with a high degree of quality, while following existing processes and also establishing new operational procedures and best practices where necessary. 
+ Experience in DoD- and federal government-related infrastructure, networks, and security requirements, including Cybersecurity Model Maturity Certification (CMMC) and Risk Management Framework (RMF). 
+ Strong working knowledge of project management . 
+ Strong abilities in talent management, including team leadership, mentoring, and recruiting. 
+
+
+Preferred
+
+ Master’s Degree or other advance degree in computer science or business 
+ Experience with DoD-related infrastructure, networks, and security 
+ 10+ years of information services experience, successful track record in an organization of similar size (3,000+ employees) and complexity. 
+ 6+ years of experience in leading and managing cross-functional teams and influencing senior level management and key stakeholders. 
+ Experience in conducting and directing research into IT issues and products. 
+ Extensive experience working in team-oriented, collaborative environment and exceptional customer service orientation. 
+ Extensive application support experience; proven experience in IT infrastructure planning and development. 
+
+#################################################
+
+Job Title: IT Service Manager 
+Job Description: Your mission will be… 
+
+We are looking for an IT Service Manager to become part of our Company I1 Financial Services Information Technology (SFS IT) team. This role aims to oversee the IT operations function, as well as being responsible for the day-to-day management and maintenance of IT systems, while also driving initiatives to enhance and evolve the applications under your responsibility. 
+You will ensure that regulatory, security, and compliance requirements, as well as agreed service levels, are met, while working with internal and external teams from IT service operations. 
+You'll need to be able to communicate effectively with various teams and vendors and quickly solve problems to keep the IT systems secure and stable. 
+
+As an IT Service Manager, you will: 
+
+Lead and take full responsibility for the operational and evolutive aspects of a set of applications associated to a service. 
+Coordinate change and incident management processes, through a strong drive and interaction with our business, as well as different internal and external teams 
+Organize, host, and lead Change Advisory Board sessions, in which you will manage demand, prioritizing delivery, together with the relevant business stakeholders. 
+Take responsibility for efficiently responding to issues and outages. Together with the team, you'll need to be able to diagnose problems and find effective solutions 
+Ensure IT documentation and service provisioning are compliant with EBA (European Banking Authority) guidelines, Company I1’ Cybersecurity rules, and other applicable internal and external standards 
+Be responsible for communication, collaboration, and relationship management of key internal and external stakeholders, regarding service status, planning, and information sharing 
+Strive to integrate new technologies and improve processes through automation and best practices (e.g. DevOps) 
+Drive digitalization and system automation initiatives with new technologies and trends and strive for continuous service improvement 
+Support cost controlling and resource planning in your area of responsibility 
+Ensure customer satisfaction 
+
+We are looking for someone with…
+
+BS or MS in Computer Science, Business Information Systems or a comparable technical field of study 
+5+ years’ experience in IT Service Management 
+Company A4 in the Financial Service business and process 
+Experience in IT Project Management 
+Experience with ITIL & Agile frameworks 
+Experience in vendor and service provider coordination 
+Analysis and troubleshooting capabilities 
+Self-driven, creative, problem solver attitude 
+Excellent communication and teamwork skills 
+Fluent business English language skills 
+
+An additional plus would be: 
+
+Experience in audit management and IT systems compliance 
+Experience with regulatory requirements for financial services 
+Experience with low-code platforms as well as general software development 
+
+#################################################
+
+Job Title: AMS IT Service Manager
+Job Description: Key Responsibilities
+
+Leading the IT service operation in the Amsterdam office.
+Supporting the BCG user community by adhering to best practices while on-site in BCG offices, at client locations and at special events e.g. executive speeches, press conferences, offsite meetings etc.
+Lead in preparing and deploying laptops for staff, including all required user profile configuration and data migration as well as maintain configurations of computer systems according to established BCG requirements
+Coordination of local office asset maintenance
+Manage and coach all direct reports with regular check-ins to ensure performance is of a high standard, opportunities for professional growth is discussed, as well as providing timely and honest feedback when required
+Lead on projects in an operational capacity for both global and local initiatives
+Coordinate the completion and resolution of all tickets through the IT service management ticketing system as well as regular checks to ensure agreed SLA’s and KPI’s are being met
+Assist with managing the analysis on operational KPI’s to facilitate communication and improve quality and performance
+Delivering regular updates to the LAB IT Service Director highlighting the team’s activity, pressure points and upcoming activities
+Providing mentorship, guidance and feedback to your team members and provide input on performance of team members to the LAB IT Service Director.
+
+Key strengths and attributes needed to succeed in the role:
+
+Taking ownership of issues and delivering timely results of the highest standard
+Strong analytical thinking and problem solving, you pay attention to the details and can identify and perform root cause analysis
+Articulating technical information to non-technical stakeholders Lateral thinking, potentially using bespoke solutions where needed
+Leveraging your experience and providing expertise to users, managers, Agile Squads and IT staff
+Stakeholder management – interfacing and communicating with internal staff at all levels, working with the Product and Engineering teams to engage and act
+Independently monitoring and driving escalations from initiation to resolution, by not only using your technical skills but also coordinating efforts and resources across the entire functional IT team(s)
+Managing expectations be communicating effectively with customers
+Report and escalate efforts to resolve complex customer experience problems
+Act as the focal point of communication for the customer, key stakeholder and senior leadership.
+Advise Senior Leadership on any developments and plans of action
+Company C3ible approach to working outside of business hours to meet deadlines
+
+WORKING ENVIRONMENT
+
+Shared office space
+Some lifting/moving equipment is required
+
+What You'll Bring
+
+Essential
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+B.Sc. or equivalent preferred, preferably in computer science, IT or another technical subject area.
+At least 3 years of IT operations and related experience. Preferably in a high-touch environment
+Excellent knowledge and demonstratable experience of using the Company B1 OS (Windows 11) and M365 Suite etc
+macOS support experience considered beneficial
+Experience with performance and stability optimization tools and methods
+Ability to effectively communicate complex ideas verbally and in writing with both customers and IT internally
+Very strong customer service orientation
+Ability to effectively prioritize and execute tasks in a high-pressure environment
+Ability to build relationships and influence stakeholders
+Ability to have difficult conversations with multiple levels within the organization.
+Ability to collaborate with peers and work cross-function as needed with Product and/ or Engineering teams
+Proven knowledge of Escalations Management frameworks (e.g. ITIL) and Problem Management
+Negotiation, mediation and conflict management skills
+Experience with office fitouts/buildouts
+
+Desirable
+
+Knowledge of Imaging software experience, ideally Intune and JAMF.
+Knowledge of tools such as Tableau, Alteryx and MS Project
+Knowledge of collaboration tools such as Miro, Slack and Trello
+Knowledge of Agile operating models
+Knowledge of Agile methodologies a bonus, but not required
+
+#################################################
+
+Job Title: IT Service Manager
+Job Description: We are looking for a dynamic and highly motivated IT Service Manager to join our team based in Milan!
+
+As part of the Data & Digital Solutions - Enterprise Platforms Team, you will be responsible for overseeing all IT service delivery within Company K1 and will act as the owner of the ITSM platform. This role aligns with the ITIL framework and incorporates best practices to ensure efficient and effective IT service management.
+
+
+
+Your scope will include oversight of outsourced service desk operations, workplace management, and application management services, working closely with our strategic partners to ensure optimal performance.
+
+
+
+Key Responsibilities:
+
+Oversee and manage IT service delivery to ensure high-quality support and service levels that meet business needs.
+Redesign service-related processes and procedures in alignment with the ITIL framework.
+Lead the selection, design, and implementation of a new corporate ITSM platform to manage all IT services, ensuring adoption by internal teams and service providers.
+Own and manage the ITSM platform, ensuring it evolves with the organization’s needs.
+Drive service optimization and innovation by leveraging data, AI, and other digital solutions.
+Ensure compliance with ITIL best practices, Company K1’s policies, and industry standards for IT service management.
+Act as the Critical Incident Manager when necessary, coordinating all involved parties until the issue is resolved.
+Manage vendor relationships, service level agreements, and coordinate issue resolution to maintain high service performance.
+Oversee vendor and contract management for all outsourced services.
+Develop and maintain a comprehensive knowledge base to enhance operational efficiency and reduce reliance on individual expertise.
+Foster continuous improvement within IT service management processes.
+Ensure IT services adhere to the highest standards of security and compliance, including conducting regular audits.
+Build and maintain strong relationships with all internal and external stakeholders.
+
+
+The Ideal Candidate:
+
+3 to 5 years of experience in IT service management and delivery within a global enterprise environment.
+Proven track record in IT service management, preferably in a multinational organization, ideally in industries such as consumer products or retail.
+Bachelor's or Master's degree in Information Technology, Computer Science, or a related field.
+ITIL certification is required.
+Demonstrated experience in implementing best practices with ITSM platforms.
+Experience working in both service provider organizations and internal teams is a plus.
+Fluency in English, with excellent communication skills.
+Strong organizational and project management abilities.
+Ability to drive innovation and facilitate the adoption of new technologies and practices.
+Familiarity with AI technologies and their application in business contexts
+
+#################################################
+
+Job Title: Infrastructure, Helpdesk and Service Level Manager
+Job Description: Key Responsibilities:
+
+Manage and coordinate the infrastructure and helpdesk team, fostering a high-performance and collaborative environment;
+Ensure efficient handling of incidents, support requests, and service levels, meeting defined SLAs;
+Develop and implement strategies and action plans for modernization and robustness of IT infrastructures (e.g. obsolescence, patching);
+Continuously monitor and optimize IT processes, ensuring the stability, resilience and security of the technological environment (e.g. automatic alert mechanisms for early detection of incidents);
+Collaborate closely with other IT teams, internal areas and external providers to align objectives and solutions;
+Dashboard and Report elaboration;
+Inform internal departments about existing or potential production issues;
+Set controls and rules for Releases to ensure service quality. 
+
+Profile:
+
+Degree in Computer Engineering, Technology Management, or similar fields;
+At least 5 years of experience in similar roles, with a focus on team management and IT infrastructure coordination;
+Strong knowledge of ITIL and service level management best practices;
+Leadership, effective communication and problem-solving skills;
+Fluent in English;
+Proactive attitude in managing the risks inherent to day-to-day activities.
+
+#################################################
+
+Job Title: IT Service Manager 
+Job Description: What's the Role?
+
+As an ITSM Specialist in our Workplace Operations team, you will play a pivotal role in enhancing the efficiency and effectiveness of our workplace processes, improving the employee experience, and delivering operational excellence. Supporting multiple service delivery and employee operations product owners globally, you will be responsible for promoting and delivering ITIL best practices, continual improvement, data insights and reporting, automation, and service design to create a more efficient, proactive, and frictionless support experience for our employees.
+
+Leveraging your expertise in optimizing and streamlining end-user services operations, coupled with a deep understanding of end-to-end enterprise service delivery, you will be accountable for the delivery, project management, service design, and ongoing support of enterprise service delivery initiatives. You will support the global product owners implementing continual improvement and proactive support initiatives while aligning service operations and processes globally to deliver a best-in-class employee “one support” experience.
+
+We’ll Trust You To
+
+Identify and implement improvements to Service Level Agreements (SLAs) and Key Performance Indicators (KPIs), ensuring service quality and employee satisfaction. 
+Act as a liaison between technical teams and stakeholders, gathering key requirements and relevant information necessary to effectively deliver ongoing initiatives. 
+Implement ITIL best practices to drive continual improvement and simplification of the delivery of services, while identifying and resolving process inefficiencies. 
+Generate data insights using AI, scripting, and reporting tools to identify opportunities and improve operational efficiency and transparency, execute problem management, and drive proactive support initiatives. 
+Develop and execute initiatives to reduce incidents, automate workflows, improve system reliability, and improve the employee experience. 
+Create executive-level presentations on service performance, data insights, OKR’s, and continuous improvement initiatives. Communicate project updates clearly and concisely. 
+Lead project management and delivery across areas such as hardware refresh, enterprise printing, software, and mobility, leveraging Agile methodologies to drive timely and successful outcomes. 
+Support product owners on implementation, deployment, and lifecycle management of new and existing hardware technologies. 
+Collaborate cross-functionally with global teams to align support strategies, ensure seamless integration of new services and tools, consistency, and service excellence across all regions. 
+Support QA testing initiatives of hardware and software rollouts prior to deployment to ensure compatibility and performance, prevent impact to end users, and implement a release management framework. 
+Define, optimize, and mature employee support policies and processes to ensure global consistency and efficiency. 
+Generate and analyze reports on service metrics and operational performance to identify and drive continual improvement opportunities. 
+Present data-driven insights to stakeholders, highlighting trends and actionable recommendations for enhancing service delivery. 
+Drive problem management to identify and execute proactive support opportunities, problem trends, and continual improvement. Lead the execution of these efforts to deliver the best employee outcomes. 
+
+You’ll Need To Have
+
+Bachelor’s degree in IT or a related field (or equivalent experience). 
+Minimum 5 years’ experience. 
+Certifications in ITIL, PMP, or Agile methodologies. 
+Strong ITSM knowledge and application of ITIL principles and frameworks. 
+Proficiency in Agile project management methodologies. 
+Familiarity with the OKR framework, and a record of delivering value-based outcomes. 
+Proven track record of delivery in creating, improving, and exceeding SLAs and KPIs, and implementing continuous improvement initiatives. 
+Deep understanding of enterprise-level end-user service delivery. 
+Experience delivering hardware & software support (mobile/MDM/Desktop/Laptop/Printing) across a global enterprise environment. 
+Demonstrated expertise using scripting, AI insights, and data analytics to drive operational improvements which enhance the employee support experience. 
+Exceptional communication skills in delivering executive-level presentations and stakeholder communication. 
+Experience with reporting and analytics tools such as Power BI, Tableau, or similar platforms. 
+Working knowledge of Digital Employee Experience (DEX) tools such as SysTrack or Nexthink. 
+
+We'd love to see: 
+
+Strategic thinker and customer advocate focused on driving measurable outcomes. 
+Strong interpersonal and communication skills, with the ability to engage effectively across all organizational levels. 
+Familiarity with automation tools and technologies to optimize operational workflows. 
+Ability to prioritize, iterate, and adapt in a fast-paced environment. 
+Analytical mindset with attention to detail and a passion for solving
+
+
+#################################################
+
+Job Title: Data Center Technician
+Job Description: Job Description
+
+Supports day to day hardware maintenance and readily implements repairs for known failure modes in servers and network equipment.
+
+Learns proper techniques in supporting the infrastructure deployed in the cages.
+
+Understands when to escalate support issues. Works with external groups as needed to support and resolve issues affecting DC Operations.
+
+Career Level - IC3
+
+Responsibilities
+
+Basic hardware repair- may troubleshoot or triage issues that require additional deep dives. e.g. HDD replacements, clearing iLOM errors
+perform initial triage and discuss with senior techs to troubleshoot issues
+Basic network troubleshooting- optic reseats, running cable
+Cabling
+Rack install
+Server/Network Device installation
+Follows SOPs – Contributes to improvement processes 
+Understanding of Support Tools to maintain Data Center activities
+Create/escalate Jira tickets
+Assists with maintaining an accurate parts inventory
+May be first tier on call but will escalate if the issue is outside skillset
+
+
+About Us
+
+As a world leader in cloud solutions, Company A1 uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+#################################################
+
+Job Title: Partner Network Support Specialist
+Job Description: We are seeking a detail-oriented and solution-focused Partner Network Support Specialist to provide a broad range of support across all operational facets of our Partner Network, in order to deliver and maintain operational excellence in serving our Property Management partners. Areas of focus may be, but are not limited to, technical support and troubleshooting for property management system (PMS) networks, financial reconciliation, property change management, and generalized Company C3 product operations. The ideal candidate will work through partner-submitted tickets, collaborating with property management teams to resolve network-related issues effectively and efficiently. This role requires strong communication skills, technical expertise, and a commitment to delivering exceptional support experiences.
+
+Key Responsibilities:
+
+Technical Support & Issue Resolution:
+Respond to and resolve partner-submitted support tickets related to network connectivity, system access, and performance issues.
+Work closely with property management employees to troubleshoot and resolve issues affecting their operations, ensuring minimal downtime.
+Diagnose problems related to network configurations, PMS integrations, and partner connections.
+Escalate complex issues to higher-level support teams or vendors as needed, ensuring timely resolution.
+Communication & Collaboration:
+Serve as a key point of contact for property management staff and external partners, providing clear and timely updates on ticket progress.
+Partner with our Success and Operations teams to ensure quality of content and communication style conducive to our partner’s expectations and Company C3 standard of care.
+Collaborate with IT teams, vendors, and third-party partners to identify and resolve recurring network issues.
+Document support interactions, solutions, and best practices to improve service quality and response times.
+Monitoring & Incident Management:
+Monitor network performance and system health using monitoring tools, proactively addressing potential issues.
+Follow incident management procedures, ensuring that issues are logged, tracked, and resolved according to service level agreements (SLAs).
+Assist in implementing preventive measures to reduce the occurrence of common network issues.
+Training & Documentation:
+Provide training and guidance to property staff on basic network troubleshooting and best practices.
+Maintain detailed documentation of network setups, troubleshooting procedures, and common support scenarios.
+Contribute to the creation of FAQs and knowledge base articles to enhance self-service capabilities.
+Required Qualifications:
+
+3+ years of experience in a network support or technical support role, preferably in the property management or hospitality industry.
+Experience with PMS platforms such as Yardi, Realpage, Entrata, ResMan, or equivalent is a plus.
+Proficiency with ticketing systems (Zendesk, ServiceNow, or similar) and remote troubleshooting tools.
+Excellent verbal and written communication skills with the ability to explain technical concepts to non-technical users.
+Strong analytical and problem-solving skills with a proactive approach to issue resolution.
+
+Preferred Qualifications:
+
+Associate or Bachelor's degree or equivalent experience.
+Experience in supporting API integrations between PMS and third-party partners.
+Property Management or Property Management Vendor experience is a plus.
+
+Key Competencies:
+
+Strong customer service orientation with a focus on relationship-building.
+Ability to prioritize tasks and manage multiple support requests simultaneously.
+Detail-oriented with strong organizational skills.
+Willingness to work in a dynamic environment and adapt to changing priorities.
+
+#################################################
+
+Job Title: Network Deployment Specialist
+Job Description: Job Description:
+
+The IT Delivery Services team is responsible for deploying technology and solutions globally.
+
+This includes installation and configuration of wired and wireless LAN-connected devices, network communications equipment, and software and peripherals for all brands and all locations.
+Client interface with the business, IT, and external service providers to ensure client delivers seamless technology deployment services.
+As a Senior IT Deployment Specialist, candidate will be responsible for planning, coordinating, deploying, and monitoring the progress of initiatives related to a rental branch, administrative, and corporate locations.
+In this position, candidate will participate in gathering and/or defining business technical requirements.
+Candidate will serve as the point of contact for end-users for procedural and technical escalations.
+Basic to intermediate knowledge of Cisco network equipment is necessary for this role, and it is imperative for this candidate to be self-motivated, proactive, and possess excellent written and oral communication skills.
+Required Qualifications:
+
+Must be presently authorized to work in the U.S. without a requirement for work authorization sponsorship by client’s company for this position now or in the future
+
+Must be committed to incorporating security into all decisions and daily job responsibilities
+3 plus years of related experience
+2 plus years’ experience installing and configuring wired and wireless LAN-connected hardware, network communications equipment, software, and peripherals at remote and corporate campus facilities
+Provides installation assistance remotely via the telephone as well as on-site customer contact
+Broad technical knowledge of client/server computing including DNS, DHCP, Active Directory, SCCM, file and print servers
+Experience in project management functions: defining and executing project plans, identifying resources required, establishing timelines, and monitoring assigned tasks
+Knowledge of Company B1 Office products including Company B1 Outlook, e-mail accounts, and their relationship to Exchange Services
+Excellent communication skills, both verbal and written; experience interfacing with all levels within an organization
+Experience with creating and updating technical documentation
+Proficient in overseeing on-site technicians and coordinating installations remotely via phone communication.
+A flexible and adaptable orientation is required within client’s dynamic work environment
+Ability to manage multiple high-priority projects at once, while meeting deadlines and remaining calm and cool under pressure
+Must be committed to incorporating security into all decisions and daily job responsibilities
+Documents tickets according to departmental standards with an appropriate level of detail
+Preferred Qualifications:
+
+Bachelor's degree in Computer Science, Computer Information Systems, Management Information Systems, or related field preferred
+
+Experience leading a team preferred
+Experience leading large projects preferred
+Experience with Windows 10, Windows 11; Windows Server Operating Systems a plus
+
+#################################################
+
+Job Title: SME Computer Network Support Specialist
+Job Description: The SME Computer Network Support Specialist is an integral component supporting our HUD client’s IT Modernization effort to provide a single Operations & Maintenance (O&M) consolidated support services of (1) data storage facilities, (2) hardware/software, and (3) cloud services providers. This position is in a team environment and involves collaboration with and supporting other team members, contractors, and HUD internal and external users. This position provides technical/management leadership on major tasks or technology assignments. Establishes goals and plans that meet project objectives. Has domain and expert technical knowledge. Directs and controls activities for a client, having overall responsibility for financial management, methods, and staffing to ensure that technical requirements are met. Interactions involve client negotiations and interfacing with senior management. Decision-making and domain knowledge may have a critical impact on overall project implementation. May supervise others. The ideal candidate is a team player with proven experience as a SME Computer Network Support Specialist.
+
+Below Are The Qualifications For This Role.
+
+Essential Functions, Responsibilities & Duties may include, and are not limited to:
+
+Analyze, test, troubleshoot, and evaluate existing network systems, such as local area network (LAN), wide area network (WAN), and Internet systems or a segment of a network system.
+Perform network maintenance to ensure networks operate correctly with minimal interruption. 
+Region 9 Field Staff Tech Manager: Tech managers provide technical support to the HUD Regional Office as well as the field offices within the region and provide hands support for other organizations on the EUS program.
+Onsite support is provided at the Santa Anna Field Office, which is also a Home Ownership Center (HOC) office and remote support for users located at other field offices within the region.
+Technical support consists of prepping and setting up computer hardware/peripherals for new users, working assigned Service Desk ticket queues for hardware/software issues.
+Techs responsible for ensuring systems have the latest image and systems are receiving currently deployed software patches/updates.
+Tech managers work directly with HUD Information Technology Directors and local HUD IT offices.
+Provides support for projects such as Tech Refresh, Domain Consolidation, and Server migration with activities ranging from performing installs/upgrades (software and/or hardware) to providing additional end-user training. There is day-to-day communication with the HUD Region 9 IT Director.
+
+
+Perform other IOO O&M functions as assigned, as applicable:
+
+Active Directory Services support
+Cabling Requirements support
+Hardware Support Services support
+Release Deployment Services and DevSecOps Pipeline support
+Webcasting O&M Services support
+Network and LAN Services support
+Shared Service and Help Desk Services support
+
+
+Support other O&M duties as assigned, including overlapping subject areas as applicable:
+
+DCIO IOO IT Policies and Processes Support
+DCIO IOO Configuration Management
+Enterprise Architecture Services
+IOO Risk Management
+Enterprise Application Services
+System Administration and Virtualization Services
+Cloud Hosting Services
+Database Services
+Storage Services
+Active Directory Services 
+Cabling Requirements 
+Hardware Support Services
+Mainframe Services 
+Software Factory 
+Release Deployment Services and DevSecOps Pipeline 
+Virtual Desktop Infrastructure (VDI)/Desktop as a Service (DaaS)
+Cloud Email, Collaboration Sites/Shared Workspace, Office Suites, and Cloud Services
+Cloud and On-Premises Gold Disk O&M Services
+Webcasting O&M Services
+eDiscovery and Records Management Services
+Shipping Support
+Media Sanitization Support
+Migration Services
+Mobile Device Management Services (MDM)
+Domain Name Services (DNS) and Internet Protocol (IP) Management Services
+VPN Client Services
+Network and LAN Services
+Shared Service and Help Desk Services
+Cyber and Operational Security (OPSEC) Services
+Disaster Recovery/ Business Continuity (DR/BC) Services
+Software License Management (SLM) Support
+
+
+Work Experience, Knowledge, Skills & Abilities:
+
+10+ years of demonstrated “Essential functions” listed above.
+10+ years of demonstrated experience of the “Perform other IOO O&M functions” functions listed above.
+5+ years of experience of working in a Agile Scrum methodology framework.
+10+ years of experience and knowledge in software development lifecycles.
+Excellent written and verbal communication skills.
+Experience with Federal consulting.
+
+
+Education:
+
+Bachelor's degree in related fields, such as information technology or computer science.
+Master’s degree is a bonus.
+Active Certifications in IT arenas: Cloud, O&M, IOO support.
+Knowledge and experience with HUD OCIO IOO is a bonus.
+
+
+#################################################
+
+Job Title: Data Centre Coordinator
+Job Description: I am working with a global quantitative trading firm known for its innovative approach and collaborative culture, headquartered in Chicago with a global presence. They offer centrally located workplaces and a range of benefits, including free meals, gym access, and team events.
+
+
+
+As part of their continued growth, they are seeking a Data Centre Coordinator in London. This role is ideal for someone with strong technical skills and a hands-on approach to managing and maintaining server infrastructure across global data centers.
+
+
+
+Role Summary
+
+In this role, you will take ownership of managing a vast fleet of servers in data centers worldwide. You’ll handle installations, repairs, and troubleshooting of server and network hardware, working closely with external vendors to coordinate projects and ensure seamless operations. The role requires strong organizational skills and a proactive, detail-oriented mindset to manage multiple concurrent projects.
+
+
+
+Key Responsibilities
+
+Coordinate installations, repairs, and upgrades in data centers across the globe, working directly with external vendors.
+Handle server and network hardware troubleshooting, ensuring all systems are functioning optimally.
+Rack and maintain equipment, applying your hands-on expertise in server hardware.
+Manage multiple projects (15–20 at a time), keeping detailed records and ensuring all tasks are completed on schedule.
+Work shift hours:
+Tuesday–Thursday: Mostly standard hours (9 a.m.–5 p.m., approx.).
+Friday–Saturday: Focused work primarily Friday night through early Saturday morning.
+Travel occasionally to remote sites for hands-on support.
+Communicate effectively with vendors and team members to ensure project success.
+
+
+Required Skills and Experience
+
+Technical Expertise: Familiarity with computers, server hardware, and networking troubleshooting.
+Data Center Experience: Prior experience working in data centers is essential.
+Project Management: Highly organized, with the ability to manage multiple projects simultaneously.
+Self-Motivation: Able to work independently, meeting deadlines without micromanagement.
+Communication Skills: Strong ability to work closely with external vendors and internal teams.
+Company C3ibility: Comfortable working shift hours and occasional travel.
+
+#################################################
+
+Job Title: Director of IT
+Job Description: The Director of IT is responsible for the strategic direction, leadership, and management of Company Y2’s IT infrastructure, including the Cloud, data centers, network, storage, and end-user support. The director ensures technology systems' stability, security, and efficiency and oversees the cloud engineering, IT Operations, Helpdesk, and support teams. Reporting to the Chief Operating Officer, this hands-on position plays a pivotal role in shaping the technological strategy, managing a team of IT professionals, and ensuring the reliable and efficient operation of all IT systems.
+
+Qualifications
+
+A degree in information technology or related fields (computer science; information science; software engineering), a degree in Engineering with additional IT qualifications or equivalent work experience 
+A strategic thinker with the ability to lead by example, demonstrating an ability to deliver set tasks, objectives, and strategic priorities. 
+Proven experience in managing complex IT infrastructures, including hybrid-cloud environments and on-premises services. 
+Possess a strong working knowledge of computer hardware, software, and their applications in a business environment. Stays abreast of emerging technologies and trends to drive innovation within the organization. 
+Excellent problem-solving and analytical skills. 
+Strong communication and teamwork skills. Capacity to work with people at all levels. 
+Proven record of professional growth, high ethical standards, and ambition for success. 
+Ability to work under pressure and meet deadlines. 
+United States Company N7zenship is required. 
+
+Desired Skills
+
+Strong User engagement and communication skills 
+Ability to contribute to and implement organizational strategy. 
+Experience with Company K3 and/or Azure. 
+Monitoring computer systems to improve network performance for all systems. 
+Ability to incorporate AI/ML techniques within networks and Digital systems to improve quality and support productivity gains. 
+Experience with CMMC compliance. 
+
+Key Responsibilities
+
+Experience in the following areas is strongly desired.
+
+Define, set, execute, & maintain modernization vision and plans for corporate IT needs. 
+Ensure critical systems are available twenty-four (24) hours per day. 
+Establish and maintain user procedures and hardware familiarization for all systems. 
+Establish and maintain system security procedures consistent with control requirements and corporate policy. 
+Maintain accurate records of system files, software and hardware issues, and service requirements. 
+Coach, mentor, and manage staff to implement, maintain, and support all related software and hardware infrastructure. 
+Owner of relevant system configurations, integrations, workflows, data management, reporting, and analytics. 
+Prepare IT operating budgets, IT capital budgets, and able to discuss and present a business case for all IT expenses. 
+
+Exceptional work ethic, willingness to learn, tenacity not to quit, aptitude to surpass, and strong desire to work in a fast-paced environment are necessary for success. Collaboration and cross-pollination with other teams will be frequent; thus, communication, openness, and willingness to share both success and failure is a must. We are a team-centric organization, there are no individuals, we win and lose together.
+
+#################################################
+
+Job Title: IT Senior Infrastructure Specialist
+Job Description: I. General Summary: The Infrastructure Strategy team member will maintain and enforce TBA’s IT standards for network, server, and storage technologies. This team member will also be responsible to monitor external vendor performance for implementations and support of TBA above stated infrastructure items.
+
+II. Essential Job Functions:
+A. Provide technical input to projects and monitors conformance to technical standards.
+B. Serve as technical infrastructure expert to project teams from concept through deployment.
+C. Align infrastructure architecture to pragmatic and strategic solutions; promotes re-use.
+D. Participate in proof of concepts to assist in defining technology direction and enabling business strategy.
+E. Communicate and validate infrastructure architecture with the wider architecture team, program / project manager, and executive level stakeholders.
+F. Manage infrastructure support (vendor interaction).
+G. Participate in the development or validation of project plans, project reports, and project procedures.
+H. Participate in activities including project progress reviews, quality assurance and quality control, verification of the products or services, and performance review of external providers.
+I. Responsible for network, server, and Storage Area Network (SAN) components.
+J. Work with IT Management to ensure all activities are consistent with established TBA IT standards and expectations.
+K. Work with Engineering, Business, and IT communities throughout the TBA Group Companies to identify opportunities for improvements to existing processes.
+L. Maintain a positive working relationship with customer users, IT technical staff, and business/functional staff at all TBA affiliated companies.
+
+#################################################
+
+Job Title: OT Network Architect 
+Job Description: A Snapshot of Your Day 
+
+As an OT Network Architect, you will be part of an international project team and assist in developing customer-specific solutions for control systems in combined-cycle power stations, wind farms, power-to-X projects, and many others.
+
+Our department is focusing mainly on the Instrumentation and Control (I&C) systems for the energy production. Together with our controls experts, you will contribute in our projects with your OT network expertise.
+
+You will analyze the system to be delivered and build conceptual and detailed designs to deliver a secure system to our customers.
+
+During the implementation of such systems your on-site contribution will be required.
+
+After the project is technically finished you will make sure that all the documentation is updated in your area of responsibility. You will also support our bid team offering solutions that meets state-of-art solutions and the high expectations of our customers.
+
+How You’ll Make An Impact
+
+Adapting and developing customer specific solutions for industrial networks in the projects
+Design, deploy, configure and maintain network and security solutions (switches, routers, firewalls, endpoint configuration) on network infrastructures in accordance with customer specifications and guidelines
+Security testing, fixing and documenting solutions
+Supporting the sales & bid management, commissioning team and after-sales
+Training for our internal staff and external customers
+Continuously developing your own knowledge and skills and helping others to grow and develop
+
+
+What You Bring
+
+University degree (Master/Bachelor or Associate Engineer) in the field of communications engineering, network communications, OT security
+Several years of professional experience of network design and related OT security, ideally in the field of large automation and control systems (preferably Omnivise T3000)
+Very good knowledge of LAN/WAN, TCP/IP, switching, routing, VPN and as well as OT-Security concepts, standards (e.g. IEC 62443, ISO/IEC 27001), certificates like CCNA/CCNP
+Deep knowledge in configuration of the hardware components related to switching/routing/firewall (Cisco, Ruggedcom, Scalance switches and firewalls, etc)
+Proficient language skills in German and English
+Willingness for business trips (in total <30% per year)
+
+About The Team
+
+Our Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.
+
+#################################################
+
+Job Title: Release Manager II
+Job Description: We are seeking a highly organized and detail-oriented Release Manager II to oversee the end-to-end release lifecycle for our software applications and services. The Release Manager will coordinate with cross-functional teams, ensure timely and quality deployments, and improve processes to minimize risks and maximize efficiency. A strong technical background, problem-solving abilities, and excellent communication skills are essential to deliver reliable, customer-focused releases that align with business goals and minimize disruptions across environments.
+
+You Will
+
+Release Planning and Coordination: Develop and manage detailed release plans, schedules, and timelines. Coordinate with cross-functional teams (Customer Care, Engineering, and QA) for seamless execution. Identify risks, dependencies, and challenges early, and implement mitigation strategies.
+Process Management: Define and maintain best practices for release management, including automation and process improvements. Ensure compliance with organizational standards throughout the release lifecycle.
+Stakeholder Communication: Serve as the focal point for all release-related communications. Provide regular updates on release status, risks, and post-release performance to stakeholders.
+Testing and Quality Assurance: Collaborate with QA to ensure thorough testing, manage escaping bugs resolution and oversee final validations.
+Deployment and Post-Release Activities: Manage deployment processes to ensure minimal downtime and customer impact. Facilitate post-release validation, gather stakeholder feedback, and conduct retrospectives for continuous improvement.
+
+You Have
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+4+ years experience in project management, release management or related roles.
+Strong understanding of software development lifecycle (SDLC), CI/CD pipelines, and Agile methodologies.
+Excellent communication and interpersonal skills, with the ability to work with technical and non-technical stakeholders.
+Proficiency in management tools such as ServiceNow, Jira, Smartsheet, Monday.
+Excellent analytical, problem-solving, coordination, and teamwork skills.
+
+#################################################
+
+Job Title: Release Manager (OHGS)
+Job Description: Responsibilities
+
+Operates independently to provide quality work products to an engagement. Performs varied and complex duties and tasks that need independent judgment, in order to implement Company A1 products and technology to meet customer needs. Applies Company A1 methodology, company procedures, and leading practices. Demonstrates expertise to deliver functional and technical solutions on moderately complex customer engagements. May lead the solution design and implementation aspects of engagement(s) ensuring high quality, integrated software solutions within constraints of time and budget. May act as the team lead on projects, providing coaching, guidance and feedback to develop skills of team members. Effectively consults with management of customer organizations. Participates in business development activities. Develops and leads detailed solutions for moderately complex projects.
+
+Specific responsibilities include:
+
+Plan and organize the work of the the Capability Block Releases and the teams that have scope therein
+Accountable for the maintenance and development of Capability Block project plans to guide program on releases.
+Coordinate with the integrated master schedule (IMS). 
+Develop and maintain standard operating procedures to support release planning, define and maintain scope, and ensure client satisfaction for assigned tasks and obligations. 
+Review and approve release proposals to ensure adherence to scope, quality and productivity expectations. 
+Implement additional processes as needed to address program issues as they pertain to the Capability Block Release. 
+Assess and report on tasks and lead scrum sessions to complete obligations made by release management team 
+Lead internal and external meetings, providing updates on progress against contractual deliverables and milestones 
+Track and report progress on Capability Block Releases for stakeholder awareness 
+Create and maintain release process collateral 
+Collaborate with Change Control teams to report on daily, weekly, and monthly changes to federal enclave 
+Roadmap maintenance in collaboration with the client excellence team 
+
+
+QUALIFICATIONS:
+
+Experience working with Cerner Millennium or other Electronic Health Records
+Experience in the Federal Electronic Health Record Modernization program (DOD or VA)
+
+#################################################
+
+Job Title: Performance & Capacity Engineer
+Job Description: Performance & Capacity Engineer - Planning Optimization Responsibilities:
+
+Capacity planning for all of Company O8: all software products/services and plans for how to scale server and data center resources most efficiently.
+Develop and analyze business and technical data and scenarios to drive the highest levels of executive decision making around infrastructure/product, up to the CxO level.
+Contribute to End To End capacity planning processes, methodologies, and data to deliver an executable and optimized Capacity Plan
+Manage and resolve critical escalations and exceptions at all layers of the stack: product, platform, physical infrastructure
+Partner across the engineering technical landscape to optimize at the intersection of hardware, infrastructure, and software. Work closely with software service owners, Production Engineering, Server Hardware Engineering, Server Supply Chain, Network Engineering, Data Center Design, Operations, and Planning teams to find the most optimal ways to scale our infrastructure and place our services.
+Partner with Finance to balance cost efficiency with technical and product considerations.
+Work cross-functionally to define problem statements, collect data, build analytical models and make recommendations to drive change and optimization at the most strategic levels.
+Design improvements to software systems to improve planning efficiency and quality, partner with software engineers to implement and contribute code yourself
+A lot of other cool work: Identify capacity-related issues proactively and work across technical and business teams to define and implement solutions.
+
+Minimum Qualifications:
+
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Company O8.
+2+ years of experience in performance or software engineering
+Experience working with distributed systems at scale
+Experience managing ambiguity, proven intellectual curiosity
+
+Preferred Qualifications:
+
+MS or PhD degree in Computer Science, Mathematics, Data Science, Operations Research, or other technical field
+Experience in infrastructure operations and technical infrastructure knowledge
+Experience with mathematical optimization and solvers
+Experience in capacity planning / management for a major private or public cloud
+2+ years of experience in coding & scripting languages such as Python (preferred), Java, C, C++, PHP
+
+#################################################
+
+Job Title: Incident & Problem Manager
+Job Description: As Incident & Problem Manager at Company P8, you'll play a pivotal role in bolstering technical operations to advance our core mission of empowering individuals, corporations, universities, public sectors, and health insurance companies. You'll operate at the nexus of technical operations, product engineering, cloud computing, and intricate data environments, necessitating profound expertise in at least three domains, fervor for all four, and adeptness in engaging stakeholders across the board.
+
+Join us in expanding our extensive, globally distributed technology platform, built on Company K3 infrastructure, and serving multiple markets worldwide. Our platform is designed to prioritize user-friendliness while ensuring the integrity and security of the valuable data our customers entrust to us.
+
+Responsibilities Include, But Are Not Limited To, The Following
+
+
+Serve as the primary point of contact for all communication related to incident response efforts.
+Lead the incident management process to ensure timely resolution, coordinating response teams, and communicating with stakeholders.
+Develop comprehensive incident response plans, outlining roles, responsibilities, and procedures for various stakeholders.
+Monitor and track incidents, ensuring they are logged, categorized, prioritized, and resolved within agreed service levels.
+Conduct post-incident reviews to analyze root causes, document lessons learned, and communicate these to relevant parties.
+Escalate significant incidents or issues to senior management, providing timely updates and recommendations for action.
+Serve as the on-call escalation point for the incident response team, ensuring that critical incidents are managed effectively and resolved promptly.
+Prepare detailed incident reports for internal stakeholders, management, and regulatory authorities, ensuring accuracy and completeness.
+Identify recurring incidents and analyze patterns to prevent future issues.
+Manage the lifecycle of problems, including root cause analysis, workaround development, and permanent resolution.
+Maintain a known error database and ensure thorough documentation of problems and their solutions.
+Analyze incident and problem data to identify trends, patterns, and areas for improvement in response processes and procedures.
+Create project schedules, set timelines, and allocate resources effectively to ensure permanent incident resolution.
+Monitor project progress, track key performance indicators (KPIs) and Service Level Agreements (SLAs), and adjust plans as needed to meet objectives.
+Collaborate with internal teams, external vendors, customers, and regulatory authorities to ensure smooth and effective problem resolution.
+Provide regular updates to stakeholders on the status of incidents, including impacts, mitigation strategies, and resolution timelines.
+Lead and manage the Technical Operations (Tech Ops) team, providing direction, guidance, and support to ensure high performance and professional development.
+Set clear goals and expectations for the Tech Ops team, aligning with overall business and IT objectives.
+Conduct regular performance evaluations, providing feedback, coaching, and mentoring to team members.
+Oversee the recruitment, training, and development of Tech Ops staff to build a skilled and motivated team.
+Foster a positive and collaborative team environment, encouraging innovation, continuous learning, and proactive problem-solving.
+Ensure that the Tech Ops team is adequately resourced and that workloads are effectively managed to meet operational demands.
+Address and resolve any personnel issues within the Tech Ops team, ensuring alignment with company policies and practices.
+Implement best practices and continuous improvement initiatives to enhance incident and problem management processes.
+Provide training and guidance to team members and other stakeholders on incident response best practices, procedures, and tools.
+Propose and implement improvements in the documentation of incident response activities, including timelines, actions taken, and outcomes.
+
+
+What You’ll Need
+
+
+Bachelor's degree in a relevant field such as Computer Science, Information Technology, Engineering, or a related discipline, or equivalent experience.
+ITIL certification (v3 or v4) is highly desirable.
+Certifications in project management (e.g., PMP, PRINCE2) are preferred.
+Proven experience in incident and problem management or a related IT service management role.
+Experience in developing and implementing incident response plans and procedures.
+Strong project management experience, preferably in a technical or IT-related field.
+Proficiency in using project management tools and software for scheduling, tracking, and reporting on project progress.
+Knowledge of IT infrastructure, networking, and security principles.
+Familiarity with best practices for IT service management, including frameworks like ITIL or ISO/IEC 20000.
+Experience with IT service management tools (e.g., ServiceNow, BMC Remedy).
+Strong communication skills, both verbal and written, with the ability to convey technical information to non-technical stakeholders clearly and concisely.
+Exceptional interpersonal skills, with the ability to collaborate effectively with diverse teams and stakeholders.
+Ability to motivate and inspire team members to achieve common goals.
+Strong organizational skills, with the ability to multitask and manage competing priorities effectively.
+Adaptability and resilience to navigate through challenging and high-pressure situations.
+Professionalism and integrity in dealing with sensitive and confidential information.
+Continuous learning mindset to stay updated on emerging technologies, best practices, and industry trends related to incident management and IT security.
+Strong attention to detail and commitment to maintaining high standards of quality and accuracy.
+
+#################################################
+
+Job Title: Industrial Cybersecurity Expert (ICSE)
+Job Description: 
+A Snapshot of Your Day 
+
+You work in a global team that is the product owner of gas- and steam-turbine control for our largest engines. We cover the life cycle from R&D to project engineering until handover to our happy customers. As ICSE you ensure that our designs and ways of working comply with the cybersecurity requirements of our major markets.
+
+We are embedded in an organization designing and delivering the complete turbine package. As ICSE you will also support and advise other teams of our organization regarding cybersecurity topics.
+
+How You’ll Make An Impact
+
+Drive cybersecurity and ensure cybersecurity resilience holistically for our turbine package portfolio from R&D to proposals all the way up to project implementation and customer handover
+Ensure that our suppliers comply with our industrial cybersecurity requirements
+Safeguard the secure integration of Company I1 Energy or third-party components 
+Provide guidance to the relevant teams and foster cybersecurity awareness 
+Produce and review documentation related to product & solution development, proposal and project engineering
+Monitor the global development of market and regulatory requirements and continuously drive improvement measures to ensure compliance 
+Be connected to the Company I1 Energy cybersecurity community to ensure aligned implementation of measures and to benefit from experience and expertise available
+
+
+What You Bring
+
+Completed studies (Bachelor or Master) or similar background and experience in the field of computer science or electrical engineering specializing in cybersecurity or automation
+More than five years of experience in controls engineering for complex technological processes, preferably turbine controls or power plants (general)
+Knowledge and experience in relevant methods, such as: risk-based approaches (e.g. threat and risk analysis), incident and vulnerability handling
+Competent knowledge of international or national standards and regulations for cybersecurity 
+Intercultural awareness and ability to work in cross-functional, multi-national teams
+German and English (business fluent)
+
+
+About The Team
+
+Our Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.
+
+#################################################
+
+Job Title: Electrical Power and Energy Conservation Program Engineer
+Job Description: 
+Posting Summary
+Responsible for the integrity and reliability of power to university buildings and the distribution within buildings. Ensure the efficient functionality and stability of the electrical power grid from the local utilities and the distribution system on campus. Utilize data to develop and ensure that effective preventive and predictive maintenance programs are in place to minimize downtime related to electrical issues.
+Engage with campus partners and local utilities to develop strategies to help reduce energy consumption on campus. Track and utilize efficiency funding, create projects that reduce power consumption. Promote, recommend, and implement renewable energy projects to reduce the university’s reliance on non-renewable resources.
+Recommend solutions resulting from changing regulatory dynamics and rate changes. Perform energy and project engineer responsibilities for miscellaneous energy conservation, deferred maintenance and special Facilities Management projects. Complete engineering calculations, drawings, multiyear plans, and project proposals.
+Actively engage in learning and practice principles of social justice and inclusion, environmental sustainability and delivering great customer experience. This position reports to the University Engineer.
+
+Minimum Qualifications (or equivalent combination of education and experience)
+Bachelor’s degree in electrical engineering discipline with two to five years’ experience in power engineering, energy management, and computer modelling skills for both are required. Power distribution experience in commercial or industrial applications. Certified Energy Manager (CEM). E.I.T.,E.I. or F.E certificate. Computer skills for typical office software and the ability to learn new software are required. Effective communication skills are required. Must wear appropriate Personal Protective Equipment (PPE) when performing specific job functions. Must be comfortable on construction sites. A valid driver’s license or ability to obtain and driver’s check is required. Initial employment is contingent upon successful completion of background check.
+
+Desirable Qualifications
+Professional Engineer (PE)
+Experience working with utilities related to rate structures, efficiency programs and regulatory compliance. Familiarity with Johnson Controls, Honeywell or OSI-Pi platforms, and proficiency with Arc Flash Software.
+Project Management; Technical Writing; Electrical/HVAC Systems Design and Function; Contract Management; Codes/Regulations/Construction Standards & Practices; Knowledge/experience with Building Control Systems. OSHA 10 and OSHA 30.
+
+#################################################
+
+Job Title: Sr. Program Manager - Utility Services,  Energy Team
+Job Description: 
+Company S2 is looking for a Program Manager to join the Company S2 Logistics (AMZL) Utility Services team. This role is instrumental to delivering against sustainability goals tied to fleet electrification. The Utility Services team leads engagement with electric utilities and energy companies across North America and manages projects to ensure successful site-energization.
+
+Key job responsibilities
+
+Build and improve upon energization processes
+Work cross-functionally with internal and external planning, design, engineering, supply chain, and project execution teams
+Lead the execution of site energization for a region, delivering bar-raising results against applicable KPI
+Manage and influence across internal and external teams to ensure on-time deliverables
+Negotiate agreements and evaluate opportunities to reduce capital and operating expense
+Critically assess development plans to identify blockers, analyze trade-off decisions, and escalate effectively
+Develop scalable mechanisms to communicate efficiently and effectively with internal and external stakeholders
+
+Basic Qualifications
+
+ 2+ years of program or project management experience
+ Experience owning program strategy, end to end delivery, and communicating results to senior leadership
+ Experience using data and metrics to determine and drive improvements
+ Strong ability to manage competing priorities, identify and quantify risk, and escalate effectively
+
+Preferred Qualifications
+
+ 2+ years of driving process improvements experience
+ Experience working with utilities or in construction or related field
+
+#################################################
+
+Job Title: Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Sustainability and Energy
+Job Description: 
+Description
+
+At Company S2, we believe that Every Day is still Day One! We’re working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright and driven people. Company S2’s Reliability, Maintenance, and Engineering organization (RME) is hiring a Technical Infrastructure Program Manager focused on Design, Operational Integrity, Optimization, and Reliability of HVAC systems.
+
+This individual will initiate and manage multiple programs and projects using effective time management skills and personal impact to drive complex activities across the organization. The Technical Infrastructure Program Manager supports all Company S2 fulfillment business units and site types. This role will drive continuous improvement of HVAC systems and actively participate in the design and implementation of Improvement Strategies. The goal is to increase efficiency, uptime, and provide support to operational areas with an emphasis on short- and long-term reliability improvements.
+
+This role requires a dynamic individual who can independently manage complex technical programs, lead cross-functional teams, and drive our commitment to sustainability and operational excellence. Teamwork is an absolute must to accomplish our goals. You must be able to work within a team while both depending on, and driving others to accomplish goals for our customers. The candidate will lead with influence and work with internal teams as well as external suppliers, vendors, and consultants including utilities, manufacturers and contractors to align priorities and ensure the delivery of key milestones.
+
+The successful candidate will be a subject matter expert in their field, and possess a HVAC design, construction, or reliability maintenance background, coupled with an understanding of project/construction management. This individual will be relied upon to provide technical expertise to remote customers who need technical, operational, and commercial support. This position will require proficiency in the principles of airflow distribution, a deep knowledge of HVAC sequence of operations strategies and an understanding of building codes and standards across multiple geographies. This person will be able to undertake the challenges of sophisticated equipment platforms and demonstrate their ability to think broadly and strategically in aligning building equipment with the larger objectives of the business.
+
+Key job responsibilities
+
+ Develop, execute, and manage programs focused on the implementation of sustainable HVAC and mechanical system solutions across different business units.
+ Work independently to successfully deliver program goals, seeking guidance as needed and making connections to the right people or technologies as required.
+ Oversee the delivery of capital projects related to the HVAC, from scoping and design to construction and commissioning.
+ Collaborate closely with internal and external stakeholders, including technology providers, internal customers, business stakeholders, and vendors, to deliver complex/cross-functional projects.
+ Identify and drive improvements in HVAC and mechanical systems to increase energy efficiency, reduce environmental impact, and enhance performance.
+ Provide technical leadership on HVAC and mechanical system design, installation, operation, and maintenance.
+ Lead cross-functional teams, manage resources, and maintain project schedules and budgets.
+ Monitor, evaluate, and report on the performance and efficiency of HVAC systems.
+ Stay up to date with the latest sustainable technologies and industry trends and ensure compliance with relevant regulations and standards.
+ Review engineering designs & drawings, inspection and maintenance documentation and perform vendor audit for reliability, safety and regulatory compliance.
+ Develop, implement, and support preventative and predictive maintenance strategies for new and existing equipment.
+ Participate in/lead Root Cause Failure Analysis (RCFA) to identify root causes of complex and/or repetitive problems and put in place executable corrective actions.
+ Provide support for hazard evaluations and risk assessments to comply with applicable OSHA, EPA, and International Building Code requirements or methodologies.
+ Develop, monitor and refine asset maintenance strategies promoting value-added preventive maintenance tasks.
+ Analyze operational data, KPIs, OEE, etc. to identify gaps and areas of potential improvement.
+ Actively participate in design and implementation of Asset Improvement Strategies for systems to improve production and uptime.
+ Lead discussions to handle concerns and Requests for Information (RFIs). This will require technical knowledge, resourcefulness to navigate through internal and external resources, and a focus on customer satisfaction.
+ Travel up to 75%
+
+#################################################
+
+Job Title: Wind Energy Analyst/Consultant
+Job Description: Looking for an opportunity to make an impact?
+
+At Company L9, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers’ success. We empower our teams, contribute to our communities, and operate sustainably. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.
+
+If this sounds like the kind of environment where you can thrive, keep reading!
+
+Company L9 Engineering has an opportunity for a Wind Energy Consultant working in a team setting within a rapidly growing renewable consulting practice. Our vision is to make our future world a better place by enabling the green energy transition, and our mission is to provide finance-grade independent engineering services in support of our vision. If you also believe in our vision and have experience executing our mission, then this may be the role you’ve been looking for.
+
+Location: Ideal candidate may be remote. Main offices are in Framingham/Boston MA and Denver CO for those seeking an office environment. Remote work in the USA and Canada is available for the ideal candidate.
+
+Primary Responsibilities
+
+Performing independent engineering activities, such as the review of third-party documentation and analysis, conducting independent analysis, and providing results, insights and opinions in both written and verbal format.
+Performing pre-construction wind resource and energy production assessments, utilizing wind flow models to simulate wind flow characteristics.
+Performing operational and repower wind energy assessments.
+Developing wind resource and energy production assessment best practices and continuously improving processes and procedures.
+Analyzing and interpreting large datasets from meteorological measurement masts, remote sensing devices, and long-term reference sources.
+Confirming site suitability studies with respect to site conditions for wind turbine technologies and assessing the impacts of site suitability studies on wind turbine design life and energy production.
+Reviewing performance test provisions and results.
+Reviewing and analyzing SCADA data to assess the performance of operating wind turbine power generating facilities.
+Performing site visits at proposed wind energy generation site locations, facilities under construction, and/or operating facilities.
+Communicating with and aiding other teams across a variety of energy generation technologies, including solar, battery storage, thermal and more.
+Working with project managers in developing scopes and budgets for new consulting opportunities.
+Contributing to internal research and development and business development activities.
+
+What Sets You Apart (Basic Qualifications)
+
+Mid-Level: Bachelor’s degree in atmospheric science, meteorology, physics, or related field with four plus (4+) years of experience in wind resource and energy yield assessments using industry best practices, wind flow modeling tools, and software.
+Senior-Level: Bachelor’s degree in atmospheric science, meteorology, physics, or related field with eight plus (8+) years of experience in wind resource and energy yield assessments using industry best practices, wind flow modeling tools, and software.
+Experience working with an independent engineer, developer, wind turbine manufacturer, engineering firm, EPC firm, and/or a wind consultancy.
+Experience working with commercially available wind flow modeling tools and software such as Windographer and Openwind.
+Demonstrated ability to summarize complex analyses and topics both in written reports and verbally.
+Understanding of industry trends in wind turbine technology, analysis methods, and project optimization.
+Demonstrated ability to perform under pressure both verbally and in writing with a diverse set of clients to include private equity, infrastructure, hedge funds, investment, commercial banks, private developers, legal and financial advisors, original equipment manufacturers, and energy service companies.
+Demonstrated ability to perform independently and as a team, and to collaborate on complex, multi-disciplinary tasks.
+Effectively and independently prioritize multiple tasks and schedules.
+Demonstrated ability to “think outside the box” to develop analysis methods and opinions which meet the unique needs of the client (internal and external).
+
+Preferred Qualifications
+
+Master of Science or other advanced degree in a relevant discipline is highly desirable.
+Eight plus years of relevant wind energy experience demonstrating increasing responsibilities and capabilities.
+Extensive experience performing independent engineering/consulting services with technical leadership in topics related to wind resource and energy production assessments.
+Understanding of atmospheric dynamics at all relevant scales (mesoscale, wind farm, and wind turbine) as well as measurement and numerical prediction/modeling methods.
+Experience performing operational energy assessments, particularly using SCADA data.
+Understanding wind turbine suitability, including design/certification and site-specific considerations.
+Programming experience, particularly using Python and Jupyter Notebook.
+Application of the IEC 61400-x and MEASNET standards in the wind industry.
+Experience performing pre-construction, under construction, and operational wind project site visits.
+Experience climbing wind turbines and holding relevant certification(s).
+Experience performing independent reviews of wind resource and energy production assessments and associated written reports produced by third parties.
+Experience developing scopes of work and budgets with internal and external stakeholders.
+Experience managing projects and clients.
+
+Are you ready to make an impact? Begin your journey of a flourishing and meaningful career; share your resume with us today!
+
+#################################################
+
+

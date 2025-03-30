@@ -1,0 +1,25 @@
+# Ignorar arquivos de compilação
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignorar arquivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar logs
+#*.log
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações de IDEs/editores de texto
+.vscode/
+.idea/
+
+# Ignorar token acesso a API
+token.json
+
+# Ignorar arquivos bin - pickle
+*.pickle
+data/~$*.xlsx

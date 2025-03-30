@@ -1,0 +1,468 @@
+Cluster 7:
+
+Job Title: Senior Linux Engineer
+Job Description: Company U4's client is a FinTech providing technology and business processing services to Hedge Funds and Asset Managers. With a unique value proposition including a best-of-breed in-house trading and risk management platform, coupled with business processing services, the client has a highly skilled core team in London, Connecticut and Hong Kong which Company U4 will supplement and enhance.
+
+
+
+An excellent opportunity for personal development in a dynamic environment. The client is in a growth phase and requires high performing and motivated individuals to join the services teams provided by Company U4.
+
+
+
+As a Systems Administrator at Company U4 you will be responsible for the implementation and management of our clients IT infrastructure, covering Windows, Linux and networks. You will play a pivotal role in ensuring the reliability, performance, and security of systems and servers.
+
+
+
+Responsibilities:
+
+1. Server Management:
+
+
+
+- Deploy, configure, and maintain Linux operating systems.
+
+- Install, update, and patch server software and applications.
+
+- Monitor server performance, troubleshoot issues, and optimize system resources.
+
+
+
+
+
+2. Security and Compliance:
+
+
+
+- Implement security best practices to safeguard servers and network infrastructure.
+
+- Perform regular security audits, vulnerability assessments, and system hardening.
+
+
+
+3. User Account Management:
+
+
+
+- Create, modify, and deactivate user accounts and access permissions.
+
+- Provide technical support to users for account-related issues.
+
+
+
+4. Backup and Recovery:
+
+
+
+- Develop and maintain backup and recovery procedures for critical data and systems.
+
+- Test backup and recovery processes to ensure data integrity and system availability.
+
+
+
+5. Hardware and Software Procurement:
+
+
+
+- Assess hardware and software requirements, research vendors, and make recommendations for procurement.
+
+- Install and configure hardware components, including servers, storage, and peripherals.
+
+
+
+6. Documentation and Reporting:
+
+
+
+- Maintain comprehensive documentation of system configurations, procedures, and policies.
+
+- Generate regular reports on system performance, capacity, and security.
+
+
+
+7. Technical Support:
+
+
+
+- Provide second-level technical support to resolve complex issues escalated from the helpdesk.
+
+- Collaborate with service desk personnel to ensure timely issue resolution.
+
+
+
+8. Monitoring and Alerts:
+
+
+
+- Implement system monitoring tools and configure alerts for proactive issue identification.
+
+- Respond to and resolve critical system alerts in a timely manner.
+
+
+
+Mandatory Skills Description:
+
+Linux Administration:
+
+5+ years as a Linux System Administrator, SRE, or similar role in finance industry
+
+Strong knowledge of Linux server OS (Company A1 or RedHat) – system builds, maintenance (on-prem and Company K3 Cloud)
+
+System upgrades and improvements
+
+Good troubleshooting skills with Linux and related software
+
+
+
+Cloud & Company K3:
+
+Strong foundation in Company K3 (console, CLI, main services and cloud administration)
+
+
+
+Automation & Tools:
+
+Proficiency in Git workflow
+
+Good knowledge of Bash, Terraform
+
+Proficiency in automatic Linux provisioning, Puppet
+
+Docker administration (on/off prem)
+
+Monitoring tools: Nagios, LogicMonitor, Opsgenie or Pagerduty
+
+Nginx, Graylog, LDAP, RedHat IDM or FreeIPA, HashiCorp Vault/Consul
+
+
+
+Network & Security:
+
+Proficiency in network protocols, security, and firewalls
+
+Strong cybersecurity awareness
+
+
+
+Nice-to-Have Skills Description:
+
+Nexus Repo and Company E5 platform administration & support
+
+Foreman, Spacewalk
+
+Company X7 MQ administration
+
+VMWare and Windows Server
+
+
+
+Languages:
+
+English: C2 Proficient
+
+#################################################
+
+Job Title: IT Systems Admin
+Job Description: Company W4 is looking for an open-minded, service-orientated, hardworking professional, passionate & experienced System Administrator to join our Global IT team, Supporting 2400+ internal users, Business applications, internal systems, and ever-changing business needs in a challenging tech environment. You will significantly impact the day-to-day productivity of our business by ensuring the integrity of and access to our most important company resources.
+
+About The Role
+
+Responsible for IT system services and infrastructure, such as Company K3, OKTA, Palo Alto security solutions, Jamf, Intune, etc.
+Managed the organization's network systems and have the skills to troubleshoot any problem.
+Owned IT systems project deployment from start to end
+Identifies the business needs, searches for optional solutions, and deploys accordingly.
+Manage all our infrastructure's monitoring and backup platforms to ensure the high availability of our critical apps.
+Provide Tier 3 support for escalated complex cases.
+Work tightly with the security team to ensure the security and efficiency of IT infrastructure.
+Assume ownership of critical IT systems and infrastructure, ensuring their smooth operation, resilience, and security.
+Contribute to the formulation and execution of IT strategies aligned with organizational objectives, leveraging a holistic understanding of current and future technology trends.
+Oversee the design, implementation, and optimization of robust network architectures, encompassing LAN, WAN, VPN, and cloud-based solutions.
+Identify opportunities to enhance system performance, scalability, and reliability through proactive monitoring, capacity planning, and optimization initiatives.
+Collaborate closely with cross-functional teams to assess IT requirements, provide technical guidance, and drive collaborative efforts toward achieving common goals.
+Ensure IT systems adhere to regulatory compliance standards and implement robust security measures to safeguard sensitive data and mitigate cybersecurity risks.
+Maintain comprehensive documentation of IT systems, procedures, and best practices.
+Respond promptly to IT incidents, perform root cause analysis, and implement preventive measures to minimize the likelihood of recurrence.
+
+Requirements
+
+Experience managing Network devices like Switches\AP's and routers.- must have
+Experience managing infrastructure in the Cloud like: AWs, GCP or AZURE - plus.
+Experience managing Security devices like Firewalls - Must have
+Experience managing Backup\DR systems - Plus
+Experience with SasS applications such as – Okta, Company T2 Workspace, Slack, etc. - Must have
+Experience managing, securing, and maintaining Windows\Linux servers. - Must have
+Knowledge and experience with monitoring SaaS applications. - Plus
+Experience with Device management systems such as Jamf and Intune. - Must Have
+Proven Experience with scripting and automation workflows - Plus
+Multi-tasking skills and ability to work under pressure - must have
+Experience in end-to-end project management on a large scale / cross-company - Plus
+
+#################################################
+
+Job Title: Windows Systems Administrator
+Job Description: Company X4 Source is looking for a skilled Windows Systems Administrator to support the U.S. Air Force Contractor Asset Visibility – Air Force (CAV-AF) program. The ideal candidate will have strong systems engineering, communication, and leadership skills to manage the planning, design, testing, implementation, and maintenance of CAV-AF systems.
+
+Job Duties And Responsibilities
+
+Manage security for the Commercial Asset Visibility (CAVAF) program using Cisco Firepower ASA, AMP, and ASDM.
+Conduct security scans and manage tools like ACAS, SCAP, CKLs, POAMS, and STIG implementation across multiple systems (OSs, ESXi/VMware, switches, routers, ASA firewalls).
+Support the process to obtain and maintain Authorization to Operate (ATO).
+Assist with Financial Improvement and Audit Readiness (FIAR) audits following the RMF process.
+Maintain all physical and virtual assets across environments.
+Ensure Group Policy Objects (GPO) align with security requirements.
+Ensure enterprise backups follow BCP/DRP plans.
+Oversee asset management, including lifecycle processes.
+Collect, review, and document audit logs and reports per the System Security Plan (SSP), reporting any issues to the ISSM.
+
+Job Requirements (Education/Skills/Experience)
+
+Bachelor's degree in Computer Science, Information Technology, or related field (preferred).
+Relevant certifications like Company B1 Certified: Windows Server, Azure Administrator, or similar.
+3-5 years of experience in systems administration or related roles.
+U.S. citizen with ability to obtain Public Trust clearance.
+Strong communication and teamwork skills.
+Extensive experience with Company B1 Windows Servers and Desktops.
+Deep knowledge of Active Directory, including replication, schema, and domain management.
+Familiarity with Company B1 security best practices and information security.
+Experience with patching and configuration management tools.
+Proficiency in PowerShell and/or Windows scripting for automation.
+Knowledge of DNS and Group Policy management.
+Understanding of Kerberos authentication and Certificate Authority management.
+Experience conducting risk assessments and providing security recommendations.
+Strong troubleshooting and problem-solving abilities.
+Ability to manage hardware/software configurations and support IT equipment.
+Excellent organizational skills and attention to detail.
+
+#################################################
+
+Job Title: Systems Administrator III
+Job Description: Company Y4 is seeking a Systems Administrator to join the Enterprise Technology Special Programs Office in support of Company Y4’s National Partnerships Office. As part of the IT Special Programs team, the candidate will provide daily operational and expert support for highly available Windows and Linux servers, systems, and platforms to solve a wide array of customer needs and requests and enable projects to perform and deliver on milestones and deadlines to non-NASA sponsors. The Systems Administrator is responsible for effective provisioning, installation/configuration, operation, and maintenance of systems hardware and software and related infrastructure. This individual also participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that system hardware, operating systems, software systems, and related procedures adhere to organizational values and sponsor and cybersecurity requirements. Candidates must be self-starters and be able to solve complex problems with minimal supervision.
+
+The System Administrator will
+
+Provide support for implementation, troubleshooting and maintenance of Information Technology (IT) systems to include but not limited to:
+Network configuration and deployment with Cisco and Juniper technologies
+Server administration of Linux and Windows environments
+Administration of virtualized environments on VMware, VirtualBox, and VergeIO
+Vulnerability and compliance scanning, analysis, testing, and remediation using Tenable SC
+Operation and configuration of Ansible and Salt IT automation tools
+Ability to automate recurring tasks in scripting languages like Bash, PowerShell, YAML, and Python
+Familiarity with administering NAS (storage) technologies
+Development and deployment of infrastructure solutions and configuration changes
+Risk assessment and management of vulnerabilities
+Detailed documentation of work processes in applications like Confluence and Jira
+Relentlessly seeking proactive solutions to inefficient processes
+Manage the IT system infrastructure and any processes related to these systems
+Provide support to IT systems including day-to-day operations, monitoring and problem resolution for all client/server/storage/network devices, etc.
+Provide Tier 2/3 (Escalation) problem identification, diagnosis and resolution of problems. Assist as needed with Tier 1 (Help Desk) and provide mentoring and leadership for Tier 1 staff
+Configure and manage Windows and Linux operating systems and install/load operating system software, troubleshoot, maintain integrity and configure network components along with implementing operating systems enhancements to improve reliability and performance
+Participate on teams in the analysis and design of new large-scale deployments of new and/or modifications to existing systems
+Perform high level analysis of software systems and requirements, processes, and characteristics for the purpose of assuring efficient and effective software design and operation
+Evaluate system requirements regarding impact to existing environment and suggest improvements or alternatives
+Have extensive experience with IT security and related technologies to ensure compliance with regulations and government sponsor security requirements
+Must be accomplished in all areas of analysis, design, installation, implementation, configuration, tuning, administration, operation, and security of software systems
+Be available to work on-site in a team environment of internal and external co-workers
+
+Experience/Education
+
+Typically requires a bachelor’s with 6 years of related experience; master’s with 4 years of related experience; or PhD with 2 years of related experience.
+
+Candidate may be required to:
+
+Respond to after-hours requests as required in a 24 x 7 environment
+Be available to work non-standard hours; early hours, after hours, weeknights, or weekends as needed
+
+Required Certifications: Must have a current IAT Level II/III, or IAM Level I/II/III 8140 Cyber Workforce Management Certification (examples: Security+, CASP, Cloud+, CISSP, etc.)
+
+Required Clearance: Candidate must have an active TS/SCI clearance
+
+Current Counter-Intelligence (CI) Poly is highly desired. Must be willing to submit to a CI Poly
+
+Preferred Skills: 
+
+Have extensive experience supporting users Windows or Linux VM’s, Workstations and Servers.
+Have extensive experience working in heterogeneous computing environments. (i.e. Linux, Windows, Macintosh)
+Demonstrate experience installing and configuring Windows and Linux servers and workstations for both development and operational environments. (Windows Server 2019+, Linux RHEL8+)
+Have experience in managing storage environments, large data storage pools and related hardware
+Demonstrate experience providing systems administration support to scientists and/or engineers
+Demonstrate ability to juggle multiple responsibilities effectively
+Have excellent communication skills, both written and verbal
+Have used or worked in environments employing configuration management and/or configuration control measures
+Able to write detailed instructions and documentation regarding systems administration activities
+Experience supporting computing or networking systems in challenging environments with high stakes outcomes
+Experience supporting senior officers in US military services or Federal agencies
+
+#################################################
+
+Job Title: DevOps - Sr. SRE, AR - GRD 
+Job Description: This position offers the opportunity to work at the intersection of modern DevOps practices and industrial automation, helping to build the future of automated material handling systems at Company S2's scale.
+
+Key job responsibilities
+
+Design and implement automation solutions for deployment and configuration
+
+Develop monitoring and diagnostic tools for MHE systems including conveyors, sorters, and robotics
+
+Create and maintain CI/CD pipelines for industrial control systems software
+
+Implement predictive maintenance solutions using sensors and real-time data analytics
+
+Automate IPC/PLC program deployment and version control across multiple facilities
+
+Basic Qualifications
+
+ Experience leading the design, automation, deployment, and support of large-scale infrastructure
+ Bachelor's degree
+ Experience with CI/CD pipelines build processes
+ Experience programming with at least one modern language such as Python, Ruby, Golang, Java, C++, C#, Rust
+ Experience with Linux/Unix
+ 5+ years of systems design, software development, operations, automation, and process improvement experience
+ Experience with Industrial Control Systems and PLC programming.
+
+Preferred Qualifications
+
+ Experience with distributed systems at scale
+ Experience leading the design, build and deployment of complex and performant (reliable and scalable) software solutions in production
+ Experience writing technical documents, project plans and progress reports to leadership and to stakeholders
+ Experience with robotic workcell integration and programming
+
+#################################################
+
+Job Title: Software Engineer (SRE Tools & Automation), IS&T Enterprise Systems
+Job Description: The people here at Company O1 don’t just build products — we craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Company O1, and help us leave the world better than we found it! 
+
+We at Company O1 build stuff to amaze our users with ultra fast thoughtfully designed and carefully crafted solutions. We are not just any team but a highly motivated fast paced and ever evolving closely knit team of individuals looking to get more to scale to new heights.We have a thing for individuals like yourself who don’t stop at mediocrity or don’t settle for anything less than perfect.
+
+Company O1's Service Management & GCRM team builds the applications and systems that powers customer support experiences for Company O1’s global stores and service providers. Our team drives the experiences in MobileGenius, Repair Central client apps and Global Service Exchange web app, as well as GCRM services that are integrated with global repairs.
+
+At Company O1, customer experience is at the forefront of everything we do. To help us build functional systems that improve the customer experience, we're looking for a SRE/DevOps lead engineer who can be responsible for managing production support for multiple global applications,  deploying product components, enable best developer productivity and implementing CICD integrations that meet our product needs. The ideal candidate will possess a strong background in production monitoring, readiness, measurement of system health, incident management, a deep understanding of operations excellence and a proven track record in managing large-scale production systems. If you have the passion for building scalable cloud infrastructure that is highly reliable, secure, highly available and responsive, then this job is for you.
+Description
+Proven experience as SRE, with a focus on operations management and demonstrate expertise in managing large-scale production outages and leading incident response.
+
+Engage with teams across Company O1 to Architect and build infrastructure thats reliable, available, secure and performing.
+
+Experience in strategizing and achieving operational excellence in global distributed systems.
+
+Deep understanding of production monitoring systems, log analysis, and troubleshooting, support dashboards and proficiency in scripting languages and automation tools.
+
+Strong knowledge of Production support practices for managing web and iOS applications and passion for eliminating repetitive manual processes using automation.
+
+Build and maintain CI-CD infrastructure to enable rapid build to release cycles for software engineering teams.
+
+Envision and build automation tools to deliver infrastructure services reliably and in a repeatable fashion. Utilize AI & ML models to gain Operations Excellence in application support.
+
+Lead a team of 10 highly skilled engineers and guide their work towards operations excellence, gaining efficiency by automating their daily routine tasks.
+
+Be a problem-solver who is self-directed and capable of exhibiting deftness to handle multiple simultaneous competing priorities and deliver solutions in a timely manner.
+
+Create and maintain accurate, up-to-date documentation reflecting configuration, and responsible for writing justifications, training users in complex topics, writing status reports, documenting procedures, and interacting with other Company O1 staff and management.
+
+Provide guidance to improve the stability, efficiency and scalability of systems. Strong troubleshooting ability will be used daily.
+
+Determine future needs for capacity by closely reviewing upcoming application features and load.
+
+Continuously work with the engineering teams to improve reliability, implementing actionable monitoring framework and be part of production on-call.
+Minimum Qualifications
+Proven experience in designing and building Infrastructure including Compute and Storage in Cloud and on premise.
+Proven experience with containerization and orchestration technologies such as Docker, Kubernetes or equivalent.
+Deep Understanding of programs using a high-level programming language like: C, Java, Ruby, Python, or Perl.
+Proven experience with Helm and Kustomize for managing Kubernetes applications and configurations through GitOps practices.
+Proven experience in MongoDB, Company K3 S3 and similar storage technologies.
+BS Degree in or equivalent work experience
+Preferred Qualifications
+2+ years proven experience in designing and building Infrastructure including Compute and Storage in Cloud and on premise.
+2+ years proven experience with containerization and orchestration technologies such as Docker, Kubernetes or equivalent.
+2+ years proven experience with Helm and Kustomize for managing Kubernetes applications and configurations through GitOps practices.
+2+ years proven experience in MongoDB, Company K3 S3 and similar storage technologies.
+2+ years proven experience in designing and building Infrastructure including Compute and Storage in Cloud and on premise
+2+ years proven experience with Linux or other POSIX operating systems, shell scripting, and networking technologies.
+2+ years proven experience with CI/CD using Jenkins, GitHub Actions or similar systems.
+Experience with configuration management tools (e.g. Ansible, Terraform).
+Proficiency with logging and observability technologies such as Prometheus, Grafana, Splunk or similar.
+Passionate about operational excellence through proper automation and engineering processes using programming languages such as Go, Python, Java, or other JVM languages.
+Experience integrating security practices into all stages of the software development lifecycle.
+Experience with preparing and executing PCI, SOC2, SOX, or other compliance audits.
+Analytical & problem solving skills, ability to communicate ideas clearly.
+Strong sense of ownership, customer service, and integrity demonstrated through clear communication with with a strong focus on teamwork.
+BS Degree in Computer Science or equivalent work experience is preferred
+
+#################################################
+
+Job Title: Site Reliability Engineer (SRE) 
+Job Description: As a Site Reliability Engineer, you will build the technology to enable our platform to deploy, run, and monitor Company S8’s software at scale across tens of independent deployments and thousands of devices. The SRE works closely with all other engineering teams and owns internal tools to enable faster development and deployment, like secure ephemeral debug environments, streamlined access controls, CI/CD systems, and a custom in-house device management platform for device configuration and software releases.
+
+Responsibilities:
+
+Design, build, and maintain scalable and resilient infrastructure on the edge. 
+Develop automation and infrastructure-as-code solutions using Terraform, Ansible, and scripting languages (Python, Bash). 
+Deploy and manage containerized applications using Docker and related technologies. 
+Ensure system observability by building and optimizing monitoring systems, particularly using Prometheus. 
+Troubleshoot and optimize Linux-based systems (e.g., Company G6, CentOS, Ubuntu). 
+Collaborate with security teams to implement robust security practices and ensure compliance with best practices. 
+Work closely with software engineers to improve system performance, reliability, and deployment pipelines. 
+Support and maintain networking infrastructure, including troubleshooting protocols and configurations. 
+Manage cloud and on-premise infrastructure, with a focus on automation and scalability. 
+Contribute to incident response, postmortems, and process improvements. 
+
+Requirements:
+
+5+ years of experience building and managing infrastructure at scale, particularly on the edge. 
+Proficiency in Python, Docker, Linux systems, and scripting (Bash, Python).Strong expertise with infrastructure automation tools (Terraform, Ansible).Experience managing observability and monitoring systems, particularly Prometheus. 
+Deep understanding of networking concepts and protocols. 
+Familiarity with cloud platforms (Company K3, Azure, Company T2 Cloud) is a plus. 
+Experience with Windows Services/VMs is a plus. 
+Excellent problem-solving skills, with attention to detail. 
+Strong communication and collaboration skills to work across teams. 
+Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent experience
+
+#################################################
+
+Job Title: Senior Site Reliability Engineer
+Job Description: We're looking for an experienced site reliability engineer who will prioritize Frame.io product engineering goals along with standard security and infrastructure methodologies to continually improve our application reliability and developer experience.
+
+We obsess over performance, scalability, privacy, and security. Our engineers are using React (including Server Components), Next.js, Apollo Client, Typescript, GraphQL, Elixir, Python, Go, Company K3 services, K8s, Terraform, Postgres, Argo, Github, and more.
+
+Success in this role will result in a best-in-class application that enables our customers and our fellow engineers to do their best work.
+
+What You’ll Do
+
+Identifying, triaging, prioritizing, and facilitating mitigation of application availability concerns, carefully balancing security, business, and customer needs while contributing to tools and processes that enrich our overall developer experience.
+
+Propose and implement projects for time-saving automation and vital reliability measures, ensuring Frame.io leads in availability and security
+Partner with multi-functional experts (Engineering, Product, Compliance, Legal, Security, etc.) to define customer-centric solutions to infrastructure, security, and tooling needs
+Define and refine operational practices, tooling, and runbooks and effectively communicate them across Frame.io and Company O2
+Evolve our CI/CD pipeline and application infrastructure to support our scaling and DORA metrics goals
+Promote engineering excellence with a focus on performance, scalability, and security
+Model Company O2 values within the team, partner organizations, and customers
+
+What You’ll Need To Succeed
+
+Outstanding analytical skills with the ability to solve complex systems challenges and performance bottlenecks
+Proficient knowledge of public cloud infrastructure, networking, architecture, and Linux as well as orchestration, monitoring, automation, and configuration management solutions
+Practical knowledge of distributed service design and performance, including messaging protocols, caching, data residency, and observability
+Passion for designing and evolving complex systems while also being able to support day-to-day infrastructure operations. We want someone who does not prefer one tool, but rather looks for the right tool for the job
+A dedication to learning new techniques and technologies, then sharing ideas with your fellow engineers with mastery of breaking down, discussing, and communicating technical concepts
+
+#################################################
+
+Job Title: Site Reliability Engineer III/Network
+Job Description: Position Summary Software engineering is a core discipline at Company T8 for many roles. As a software engineer specializing in site reliability, you will bring a software engineering and automated solution mindset to your work.
+
+The Site Reliability Engineer III will be responsible for ensuring the reliability, availability, and scalability of critical systems, networks and SaaS platforms. Systems under the care of an SRE III must operate effectively and reliably through scalable builds and deployments, frequent releases, and complex architectures that encompass modern technologies. You will work closely with technical and non-technical teams throughout the organization to facilitate the design and implementation of scalable solutions, drive automation initiatives, and monitor and maintain the performance of critical systems.
+
+What You'll Do:
+
+Apply modern engineering principles and practices to operational functions with a strong emphasis on automating network and security tasks to ensure system reliability, availability, and scalability.
+Scale systems sustainably through mechanisms such as automation and evolve systems by fostering changes that improve velocity, automating network configurations, security policies and compliance checks.
+Troubleshoot and resolve complex issues, automating response to common problems (system failures, connectivity issues and bottlenecks) to prevent future occurrences.
+Partner with cross-functional teams to design and implement scalable and robust system architecture to improve services on an ongoing basis
+Investigate various open source and proprietary technologies, components, libraries, tools etc. and help build a highly available, highly scalable and easily manageable system.
+Apply observability and data skills to proactively measure system performance, an diagnosing services/needs and quickly identify solutions.
+Participate in service operation and RCA activities with defining SLOs and SLIs for business stakeholders.
+Implement and enforce security best practices through automated systems that continuously scan for vulnerabilities, apply patches, and adjust configurations to maintain a strong security posture.
+Create and maintain comprehensive knowledge bases for system documentation, including standard operating procedures, configurations, and troubleshooting guides, to support end-users' ability to use the systems effectively.
+Participate in on-call rotation.
+
+
+#################################################
+
+
