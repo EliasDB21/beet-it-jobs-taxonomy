@@ -40,7 +40,10 @@ Jorge Valverde-Rebaza, Fabiana Góes, Julieta Noguez, and Nathalia C. Da Silva. 
 @article{valverde:frontiers:25,
   title={{Skill-based Employment Taxonomy in the global IT Industry 5.0}},
   author={Valverde-Rebaza, J. and Góes, F. and Noguez, J. and Da Silva, N.},
-  journal={Front. Educ.},
+  journal={Frontiers in Education},
+  volume = {10},
+  DOI={10.3389/feduc.2025.1418184},
+  ISSN={2504-284X},
   year={2025},
 }
 ```
