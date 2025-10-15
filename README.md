@@ -4,7 +4,10 @@ BEET (Bee-inspired Employment and Expertise Taxonomy) is a hierarchical framewor
 
 ## Why BEET?
 
-The IT sector is rapidly evolving, and existing classification systems, such as ISCO-08, lack the necessary granularity for IT job roles. BEET addresses this gap by introducing:
+A decade of digitalization has pushed **Technology-driven roles to the center of the global job market**, yet employers and educators still lack a common, **skills-first** language to describe what different IT jobs actually require. That inconsistency makes it harder to (i) classify jobs accurately, (ii) align training, and (iii) forecast demand. Existing standards such as **ISCO-08** are invaluable but not sufficiently granular for today’s hybrid roles and fast-moving stacks. This paper presents **BEET**: a hierarchical framework built from **real job postings** collected worldwide between **2023 and 2025**.  
+> Source: World Economic Forum; Frontiers in Education (2025)
+
+**BEET** addresses this gap by introducing:
 
 - A hierarchical structure with 5 major groups, 15 sub-major groups, and 35 unit groups as shown in Figure 1.
 
@@ -14,7 +17,39 @@ The IT sector is rapidly evolving, and existing classification systems, such as 
 
 
 ![BEET Taxonomy](figs/BEET.png)
+
 *Figure 1: Hierarchical structure of BEET Taxonomy.*
+
+## Where the data comes from (and what it looks like)
+
+The team gathered **public, English-language job postings** directly from company sites and verified sources, spanning **October 2023 to February 2025**. Collection mixed **web crawlers** and **targeted manual searches** to balance categories and avoid over-representing only the most advertised roles. Postings were filtered to ensure **explicit technical requisites** relevant to Industry 5.0 skills.  
+> Source: Frontiers in Education (2025)
+
+To build, validate, and illustrate BEET, the **labeled dataset** comprises **389 IT postings** from **221 unique companies** of varied sizes and regions. Company names were anonymized and mapped to **LinkedIn size codes (A–I)**. The distribution is dominated by the largest organizations: sizes **I** and **G** contribute most postings; **B** has only two, and **A** has none.
+
+![Company size distribution (A–I)](figs/fig3_company_size.png)  
+
+*Figure 3 — Frequency of job postings by company size.*
+
+A handful of companies account for a disproportionate share of postings, while most contribute **six or fewer**.
+
+![Top companies by postings](figs/fig4_top_companies.png) 
+
+*Figure 4 — Top companies by number of postings.*
+
+Geographically, the **United States** publishes the highest count (**263**), followed by **Brazil** and **Mexico** (**24** each), **Spain** (**13**), and the **UAE** (**11**). These patterns reflect both market size and recruiting practices in innovation hubs.
+
+![Top countries by postings](figs/fig5_top_countries.png)  
+*Figure 5 — Top countries by number of postings.*
+
+Crossing **country × size** shows that postings from **large firms (I, G)** concentrate in leading tech geographies (e.g., USA, UK, UAE). When roles cluster in specific regions and company sizes, **language clusters too**, shaping which skills appear salient.
+
+![Company size by country](figs/fig6_size_by_country.png)  
+*Figure 6 — Company size by country of publication.*
+
+> Source for figures and counts: Frontiers in Education (2025)
+
+---
 
 
 
@@ -48,117 +83,101 @@ Jorge Valverde-Rebaza, Fabiana Góes, Julieta Noguez, and Nathalia C. Da Silva. 
 }
 ```
 
-# Advanced Large Language Models & Visualization Tools for Data Analytics Learning
 
-Welcome to our project on **Advanced Large Language Models & Visualization Tools for Data Analytics Learning**! Our mission is to revolutionize the way non-computational professionals and students learn data analytics. We do this by harnessing the power of cutting-edge AI technologies like [GPT-4](https://openai.com/index/gpt-4-research/) and the advanced visualization capabilities of tools like [LIDA](https://github.com/microsoft/lida). Our research, supported by extensive case studies and published in specialized conferences and journals, shows how these tools can drastically improve both the speed and quality of data-related disciplines education. Join us on this exciting journey to make data analytics and data science more accessible, efficient, and engaging for everyone!
-
-
-## Project Overview
-
-This project, based on two comprehensive studies, explores the use of advanced Large Language Models (LLMs) and visualization tools to enhance data analytics learning for students and professionals from non-computational backgrounds. The methodologies and outcomes described herein underscore the significant benefits of integrating cutting-edge AI technologies such as based on Generative AI (GenAI) into educational practices to foster a deeper understanding and more efficient execution of data-related projects.
-
-### Project Objectives
-
-- Promote a comprehensive understanding of data-based project pipelines.
-- Enhance programming and other computational thinking-related skills through interactive AI assistance.
-- Enable wider adoption of GenAI tools in educational contexts.
-- Improve the efficiency and effectiveness of data-related project development.
+# Skill-based Employment Taxonomy in the Global IT Industry 5.0 (BEET)
 
 
-### Methodology
-All participants completed the same analytics project within a timed session that emphasized three CRISP-DM phases explicitly taught beforehand: **Business Understanding**, **Data Understanding**, and **Evaluation**. Each person experienced **three approaches** to the same task under guided pacing. Instrumentation captured **time-to-completion** and **perceptions** of each approach along four dimensions: *ease of use*, *speed of result*, *appropriateness* (fit to the analytical objective), and *correctness* of outputs.
-
-The three approaches studied were:
-- Traditional Approach: Participants first completed a data analytics project using standard Python packages (e.g., scikit-learn, pandas, seaborn) in Google Colab.
-- ChatGPT Approach: Participants then repeated the project with conventional ChatGPT assistance, using the tool mainly for generating code snippets.
-- LIDA + GPT Approach: Finally, participants completed the project using LIDA integrated with the GPT-4 API, enabling automated data summarization, exploration, and advanced visualizations in response to any prompt originating from the project’s source code itself.
-
-### Participants and sample composition
-The study involved **59 participants** (students and professionals) at Tecnológico de Monterrey from a broad set of non-computing disciplinary backgrounds. 
-
-![Sample composition — role × gender](images/IMAGEN1.jpg)
-
-*Figure 1 — Current role by gender.*
-
-From the cohort, 32 participants identified as female, 27 as male, and 1 preferred not to disclose. Most participants were students, with balanced gender representation inside that group. 
-
-![Sample composition — affiliation](images/IMAGEN2.jpg)
-
-*Figure 2 — Affiliation (major field or sector).*
-
-Specifically, 88% of participants came from fields such as finance, business, social sciences, and others, while the remaining 12% were from engineering disciplines including sustainable engineering, chemical engineering, biomedical engineering, and industrial engineering.
-
-![Sample composition — age range](images/IMAGEN3.jpg)
-
-*Figure 3 — Age distribution.*
-
-The age distribution is skewed toward younger learners, consistent with an academic setting, yet it includes professionals as well. This spread enables contrasts in how prior work experience interacts with each approach.
-
-### Background: Prior Skills and Exposure
-In addition to demographics, we documented prior exposure to programming, analytics, and AI tools to contextualize later perceptions:
-
-![Background — programming experience by age × role × gender](images/IMAGEN5.jpg)
-
-*Figure 5 — Distribution displaying participants' programming experience by role, ranging age, and gender.*
-
-The figure shows no significant disparity in programming experience across all roles, genders, and age groups, except for professionals over 50 years, where we found participants identified as female with no prior programming experience. The same task therefore does not imply the same cognitive load, assistance through ChatGPT or a structured path (LIDA + GPT) does not benefit all subgroups equally.
 
 
-![Background — tools experience (Python/Colab, etc.)](images/IMAGEN7.jpg)
-
-*Figure 7 — Distribution of participants' experience in data analytics-related skills by role, age range, and gender.*
-
-The technical base is moderate but uneven. The gender group that presents the greatest disparity in data analytics-related skills is female across roles and age groups. This is most clearly seen in the younger groups, where half or more of the males have at least some experience in data analytics, while among females, half or fewer possess these skills.
-
-![Background — time required to finish activities (by role and approach)](images/IMAGEN9.jpg)
-
-*Figure 9 — Distribution of participants' experience related to the use of generative AI tools like ChatGPT. (Top left corner) Distribution of participants who had previously used ChatGPT for general purposes. (Top right corner) Distribution of participants who had previously used ChatGPT for programming tasks. (Bottom left corner) Distribution of participants who had previously used ChatGPT for data analytics project development. (Bottom right corner) Distribution of participants who had previously used APIs from any LLM provider, such as OpenAI.
-
-Despite being just over 2 years since the launch of ChatGPT, given the popularity of the platform, one could assume that all participants would have had some prior experience with it. However, our data reveals that 15% of participants have had no prior interaction with this generative AI tool.
-
-### Results
-We summarize the main findings of the investigation here.
-
-**1) Time to finish.**  
-Approaches supported by GenAI enabled faster completion for many participants. In particular, **ChatGPT** frequently concentrated times in the lower intervals, while **Traditional** clustered toward longer spans. Professionals tended to finish faster, but students benefited markedly from AI support.
-
-![Outcome — time required to finish activities (by role and approach)](images/IMAGEN10.jpg)
-
-*Figure 10 — Time required by approach and role (stacked categories).*
 
 
-**2) Perceived ease and speed.**  
-Across roles and genders, participants most often identified **ChatGPT** as the **easiest** and **fastest** way to progress once the task was understood.
-
-**3) Perceived appropriateness and correctness.**  
-When the criterion shifted to **fit to the analytical objective** and **correctness** of outputs, **LIDA + GPT** was most frequently favored. Its structured flow (summary → goals → visualization spec) helped keep attention on the target once configured.
-
-![Outcome — perceived metrics by role](images/IMAGEN11.jpg)
-
-*Figure 11 — Ease, Speed, Appropriateness, Correctness by role (Students vs. Professionals).*
-
-The same pattern holds across roles: ChatGPT aligns with ease and speed, while LIDA + GPT aligns with appropriateness and correctness, suggesting that perceptions reflect the **nature of the assistance** rather than background alone.
-
-![Outcome — perceived metrics by gender](images/IMAGEN12.jpg)
-
-*Figure 12 — Ease, Speed, Appropriateness, Correctness by gender.*
 
 
-### Discussion
-The higher levels of participant preference indicate the superiority of integrating advanced generative AI tools like GPT with specialized frameworks such as LIDA over traditional development methods. The three approaches display **distinct learning curves**. The **Traditional** path asks novices to integrate many components, which costs time and attention. **ChatGPT** reduces the startup load and accelerates iteration, but it still requires careful human judgment to verify and assemble a coherent solution. **LIDA + GPT** introduces initial overhead (API setup and configuration) followed by a smoother, goal-oriented path that participants perceived as more appropriate and correct.
+## How BEET was constructed (in brief)
 
-### Conclusions
-This work highlights the potential of employing generative AI-based tools to revolutionize the development of data analytics competencies among students and professionals, regardless of their computational background. Our findings suggest that such integration can significantly enhance the learning of advanced skills, especially those related to data analytics. We aim to establish this study as a foundation for the methodical adoption of generative AI tools in educational settings, paving the way for more effective and comprehensive training in these critical areas
+From the cleaned corpus of postings, the authors extracted features with **TF-IDF** and applied **Average Linkage Hierarchical Clustering (ALHC)** with **Ward’s criterion**. The process initially yielded **32 clusters**, which were then grouped into **nine** broader thematic groups and, through expert synthesis, consolidated as the backbone of the taxonomy. Cluster validity scores (e.g., **Silhouette ≈ 0.047**) highlight the **expected overlap** among IT roles: modern descriptions often blend stacks and responsibilities, so low separability is **informative**, not a flaw.  
+> Source: Frontiers in Education (2025)
+
+![Clustering dendrogram](figs/fig1_dendrogram.png)  
+*Figure 1 — Hierarchical clustering dendrogram from vacancy text.*
+
+Taking clustering as **evidence rather than endpoint**, the team defined **BEET** as a **three-level hierarchy**: **5 Major Groups (MG)**, **15 Sub-Major (SM)**, and **35 Unit Groups (UG)**, each aligned with **ISCO-08**. *MG names follow the article verbatim (e.g., MG4 is “Data”).*
+
+![BEET hierarchical map](figs/fig2_beet_taxonomy.png)  
+*Figure 2 — BEET: MG → SM → UG, aligned to ISCO-08.*
+
+> Source for figures: Frontiers in Education (2025)
 
 ---
 
-## Materials
-- Journal article published at Frontiers in Education [open access here](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/full)
-- Data from Case Study used to obtain results for our journal article [available here](https://www.frontiersin.org/api/v3/articles/1418006/file/Data_Sheet_1.csv/1418006_supplementary-materials_datasheets_1_csv/1?isPublishedV2=false)
-- Conference extended abstract published at proceedings of IACEE 2024 [free access here](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
-- Conference presentation [access here](https://github.com/jvalverr/data-analytics-education/blob/main/materials/session7-JorgeValverde-IACEE-24.pdf)
+## Conclusion
+
+### What BEET reveals about the market
+
+Once BEET labels are applied, the market becomes **legible at skill resolution**. **Word clouds** per Major Group surface the **anchors**—terms that reliably signal scope—without collapsing distinct roles into vague umbrellas. This is where BEET adds value beyond a keyword index: the **same word** can mean different things across MGs; the **hierarchy disambiguates**.
+
+![Word clouds by Major Group](figs/fig7_wordclouds_mg.png)  
+*Figure 7 — Word clouds for the five Major Groups.*
+
+Finally, **Unit Group** distribution by **company size** and **country** nuances demand. Some UGs (e.g., those tied to large-scale platforms or data infrastructure) skew toward **size I** firms, while niche UGs appear in specific geographies. This is actionable for **workforce planning** and **curriculum design**: it points to **where**, and in **which company profiles**, certain skills translate into roles.
+
+![UG distribution by size and country](figs/fig8_distribution_ugs_by_size_country.png)  
+*Figure 8 — Unit Group distribution by company size and country.*
+
+### What this means (for analysts, HR, and education)
+
+**Analysts** gain a comparable lens to track demand across countries and employer sizes. **HR teams** get a **skills-first index** to normalize titles and write clearer requisitions. **Educators** obtain a syllabus-level checklist to ensure programs cover the clusters of practice that the market actually signals. Because BEET is **derived from postings** and **aligned to ISCO-08**, it bridges **research rigor** and **operational reality**—a prerequisite for labor statistics, HR systems, and academic programs to **converge** rather than talk past each other.  
+> Source for figures and interpretation: Frontiers in Education (2025)
 
 ---
+
+## Scope and limitations
+
+The present dataset is **English-only** and drawn from **public** postings, which may under-represent internal pipelines or markets where English is not dominant. Company size and region are **uneven by market**, not by design, and should be considered when generalizing results. Next steps include **multilingual expansion** and **automated classifiers** (including GenAI models) that ingest BEET and label postings at scale.  
+> Source: Frontiers in Education (2025)
+
+---
+
+## How to reproduce the figures and clustering (`BEET-EDA.ipynb`)
+
+You can regenerate the descriptive figures and clustering visuals using the notebook in this repository.
+
+**Environment**  
+Use **Python 3.10+** in a fresh virtual environment (or Google Colab).
+
+**Dependencies**  
+Install the libraries referenced in the **first cell** of `BEET-EDA.ipynb` (for local runs, common requirements include `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, and `wordcloud`). If a `requirements.txt` is added later, prefer it.
+
+**Data placement**  
+Place the input files in the repo’s `data/` directory as expected by the notebook.
+
+**Run**  
+Open `BEET-EDA.ipynb` and select **Run All**. The notebook writes images to `figs/`. In this README, image links assume filenames like:
+- `figs/fig1_dendrogram.png`  
+- `figs/fig2_beet_taxonomy.png`  
+- `figs/fig3_company_size.png`  
+- `figs/fig4_top_companies.png`  
+- `figs/fig5_top_countries.png`  
+- `figs/fig6_size_by_country.png`  
+- `figs/fig7_wordclouds_mg.png`  
+- `figs/fig8_distribution_ugs_by_size_country.png`
+
+If the notebook outputs different names, **adjust the links accordingly**.  
+> Source: GitHub repository structure
+
+---
+
+## Data & code availability
+
+All materials for this article are available in `jvalverr/beet-it-jobs-taxonomy` (folders: `data/`, `clusters/`, `figs/`, and `BEET-EDA.ipynb`). Please check the repository for updates as the taxonomy evolves.  
+> Source: GitHub
+
+---
+
+## Citation
+
+Valverde-Rebaza, J., Rodrigues de Góes, F., Noguez, J., & Da Silva, N. C. (2025). **Skill-based employment taxonomy in the global IT industry 5.0.** *Frontiers in Education*, 10:1418184. https://doi.org/10.3389/feduc.2025.1418184 (Open access, **CC BY 4.0**).
+
 
 ## Generate the Images 
 
