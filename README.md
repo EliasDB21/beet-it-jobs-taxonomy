@@ -5,7 +5,7 @@ BEET (Bee-inspired Employment and Expertise Taxonomy) is a hierarchical framewor
 ## Why BEET?
 
 A decade of digitalization has pushed **Technology-driven roles to the center of the global job market**, yet employers and educators still lack a common, **skills-first** language to describe what different IT jobs actually require. That inconsistency makes it harder to (i) classify jobs accurately, (ii) align training, and (iii) forecast demand. Existing standards such as **ISCO-08** are invaluable but not sufficiently granular for today’s hybrid roles and fast-moving stacks. This paper presents **BEET**: a hierarchical framework built from **real job postings** collected worldwide between **2023 and 2025**.  
-> Source: World Economic Forum; Frontiers in Education (2025)
+> Source: World Economic Forum (2023)
 
 **BEET** addresses this gap by introducing:
 
@@ -28,39 +28,39 @@ To build, validate, and illustrate BEET, the **labeled dataset** comprises **389
 
 ![Company size distribution (A–I)](figs/BEET-company_size_plot.png)  
 
-*Figure 3 — Frequency of job postings published by companies according to their size.*
+*Figure 2 — Frequency of job postings published by companies according to their size.*
 
 As previously mentioned, the goal was to maintain a balanced distribution of job categories within the dataset, as well as a proportional representation of companies publishing job postings. Only six companies have between 10 and 19 job postings, while most contribute **six or fewer**.
 
 ![Top companies by postings](figs/BEET-top10-companies_plot.png) 
 
-*Figure 4 — Top 10 companies with the most job postings.*
+*Figure 3 — Top 10 companies with the most job postings.*
 
 Geographically, the **United States** publishes the highest count (**263**), followed by **Brazil** and **Mexico** (**24** each), **Spain** (**13**), and the **UAE** (**11**). These patterns reflect both market size and recruiting practices in innovation hubs.
 
 ![Top countries by postings](figs/BEET-top10-countries_plot.png) 
 
-*Figure 5 — Top 10 countries with the highest number of job postings.*
+*Figure 4 — Top 10 countries with the highest number of job postings.*
 
-Crossing **country × size** shows that postings from **large firms (I, G)** concentrate in leading tech geographies (e.g., USA, UK, UAE). When roles cluster in specific regions and company sizes, **language clusters too**, shaping which skills appear salient.
+Crossing **country × size of companies** shows that postings from **large firms (I, G)** concentrate in leading tech geographies (e.g., USA, UK, UAE). When roles cluster in specific regions and company sizes, **language clusters too**, shaping which skills appear salient.
 
 ![Company size by country](figs/BEET-company-sizes-countries_plot.png)  
 
-*Figure 6 — Distribution of job postings by company size and country of publication.*
+*Figure 5 — Distribution of job postings by company size and country of publication.*
 
 
 ## How BEET was constructed?
 
 From the cleaned corpus of job postings, the authors applied natural language processing (NLP) techniques to create representations of job vacancies, focusing on skills, technology knowledge, and technical requirements requested. Subsequently, they employed an agglomerative hierarchical clustering algorithm: **Average Linkage Hierarchical Clustering (ALHC)** with **Ward’s criterion**. The process initially yielded **32 clusters**, which were then grouped into **nine** broader thematic groups and, through expert synthesis, consolidated as the backbone of the taxonomy. Cluster validity scores (e.g., **Silhouette ≈ 0.047**) align with the nature of job postings, where distinctions between roles are often nuanced rather than sharply defined. More importantly, the clustering serves as a strong foundation for human experts to refine the classification, helping to uncover meaningful groupings and better distinguish job categories based on domain knowledge.
 
-![Clustering dendrogram](figs/Dendograma_BEET.jpg)  
-*Figure 1 — Hierarchical clustering dendrogram obtained from job vacancy descriptions.*
+![Clustering dendrogram](figs/Dendrograma_BEET.jpg)  
+*Figure 6 — Hierarchical clustering dendrogram obtained from job vacancy descriptions.*
 
 Following meticulous data labeling and clustering, the development of the Bee-inspired Employment and Expertise Taxonomy (BEET) was a collaborative effort between the HR team and the authors of this article.  **BEET** was constructed as a **three-level hierarchy** as shown in Figure 1: **5 Major Groups (MG)**, **15 Sub-Major (SM)**, and **35 Unit Groups (UG)**, each aligned with **ISCO-08**.
 
 ## BEET Structure
 
-| MG                       | SM (ID & Name)                        | Unit Groups (UG#: Name)                                                                                                                        |
+| Major Groups (MG)                       | Sub-Major Groups (SM)                      | Unit Groups  (UG)                                                                                                                      |
 | ------------------------ | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **MG1 — System**         | **SM1 Micro & Small Systems**         | UG1 Circuits and Devices; UG2 Hardware Integration                                                                                             |
 |                          | **SM2 Macro Systems**                 | UG3 Computational Systems; UG4 Cybersecurity and Criptography; UG5 Quantum; UG6 Robotics and Automation Engineering; UG7 Tech Environmentalism |
@@ -78,9 +78,31 @@ Following meticulous data labeling and clustering, the development of the Bee-in
 |                          | **SM14 Systems Management**           | UG33 Systems Administration                                                                                                                    |
 |                          | **SM15 Data & AI Management**         | UG34 Data Management; UG35 AI Project Management                                                                                               |
 
+By applying BEET to the labeled data, a deeper understanding of the breadth and scope of the five Major Groups (MGs) can be achieved by identifying interrelated topics, which serve as the foundation for defining the Sub-Major Groups (SMs) and Unit Groups (UGs), allowing for a more robust analysis of employment trends in the IT sector. This observation is supported by Figures 7-11, which presents word clouds for each of the five MGs.
 
+![Word clouds by Major Group](figs/BEET-wordcloud-MG1.png) 
 
-### Applications
+*Figure 7 — Word cloud for MG1 — System*
+
+![Word clouds by Major Group](figs/BEET-wordcloud-MG2.png) 
+
+*Figure 8 — Word cloud for MG2 — Infrastructure*
+
+![Word clouds by Major Group](figs/BEET-wordcloud-MG3.png) 
+
+*Figure 9 — Word cloud for MG3 — Development*
+
+![Word clouds by Major Group](figs/BEET-wordcloud-MG4.png) 
+
+*Figure 10 — Word cloud for MG4 — Data*
+
+![Word clouds by Major Group](figs/BEET-wordcloud-MG5.png) 
+
+*Figure 11 — Word cloud for MG5 — Management*
+
+---
+
+## Applications of BEEP
 
 BEET is designed to support various stakeholders in the IT job market, including:
 
@@ -100,15 +122,11 @@ The introduction of BEET marks a significant advancement as a framework to suppo
 
 The descriptive analysis of the BEET dataset reveals significant insights into the landscape of IT job postings across various company sizes and geographical regions. The predominance of larger organizations in the dataset highlights the concentration of opportunities within established companies, particularly in technology and innovation hubs. Furthermore, the variations in job categories and postings underscore the technical specificity of roles within the industry. By leveraging the BEET framework, we can better understand the dynamics of the IT labor market, paving the way for more targeted research and analysis.
 
-![Word clouds by Major Group](figs/fig7_wordclouds_mg.png)  
-*Figure 7 — Word clouds for the five Major Groups.*
-
 ---
 
 ## Scope and limitations
 
 The present dataset is **English-only** and drawn from **public** postings, which may under-represent internal pipelines or markets where English is not dominant. Company size and region are **uneven by market**, not by design, and should be considered when generalizing results. Next steps include **multilingual expansion** and **automated classifiers** (including GenAI models) that ingest BEET and label postings at scale.  
-> Source: Frontiers in Education (2025)
 
 ---
 
@@ -116,16 +134,22 @@ The present dataset is **English-only** and drawn from **public** postings, whic
 
 You can regenerate the descriptive figures and clustering visuals using the notebook in this repository.
 
-**Environment**  
-Use **Python 3.10+** in a fresh virtual environment (or Google Colab).
+### 1) Environment (Python 3.10+)
+```bash
+pip install -U pandas numpy scikit-learn matplotlib seaborn wordcloud
+```
+If a `requirements.txt` is added later, prefer it.
 
-**Dependencies**  
-Install the libraries referenced in the **first cell** of `BEET-EDA.ipynb` (for local runs, common requirements include `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, and `wordcloud`). If a `requirements.txt` is added later, prefer it.
+### 2) Data
+Download the XLSX from Link: https://github.com/jvalverr/beet-it-jobs-taxonomy/blob/main/data/BEET-v2025-rev2.xlsx
 
-**Data placement**  
+
 Place the input files in the repo’s `data/` directory as expected by the notebook.
 
-**Run**  
+### 3) Run 
+```bash
+jupyter notebook BEET-EDA.ipynb
+```
 Open `BEET-EDA.ipynb` and select **Run All**. The notebook writes images to `figs/`. 
 
 ---
