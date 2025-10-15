@@ -53,7 +53,7 @@ Crossing **country × size** shows that postings from **large firms (I, G)** con
 
 From the cleaned corpus of job postings, the authors applied natural language processing (NLP) techniques to create representations of job vacancies, focusing on skills, technology knowledge, and technical requirements requested. Subsequently, they employed an agglomerative hierarchical clustering algorithm: **Average Linkage Hierarchical Clustering (ALHC)** with **Ward’s criterion**. The process initially yielded **32 clusters**, which were then grouped into **nine** broader thematic groups and, through expert synthesis, consolidated as the backbone of the taxonomy. Cluster validity scores (e.g., **Silhouette ≈ 0.047**) align with the nature of job postings, where distinctions between roles are often nuanced rather than sharply defined. More importantly, the clustering serves as a strong foundation for human experts to refine the classification, helping to uncover meaningful groupings and better distinguish job categories based on domain knowledge.
 
-![Clustering dendrogram](figs/Dendograma_BEET.png)  
+![Clustering dendrogram](figs/Dendograma_BEET.jpg)  
 *Figure 1 — Hierarchical clustering dendrogram obtained from job vacancy descriptions.*
 
 Following meticulous data labeling and clustering, the development of the Bee-inspired Employment and Expertise Taxonomy (BEET) was a collaborative effort between the HR team and the authors of this article.  **BEET** was constructed as a **three-level hierarchy** as shown in Figure 1: **5 Major Groups (MG)**, **15 Sub-Major (SM)**, and **35 Unit Groups (UG)**, each aligned with **ISCO-08**.
